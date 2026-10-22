@@ -20,12 +20,12 @@
             "edu": "FSLC SSCE B.Sc"
           },
           "scores": [
-            65,
-            50,
-            59,
-            65,
-            62,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -44,12 +44,12 @@
             "edu": "FSCL"
           },
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -68,12 +68,12 @@
             "edu": "FSLC WASC/GCE DEGREE (B.ED) G&C"
           },
           "scores": [
-            58,
-            57,
-            62,
-            53,
-            77,
-            51
+            70,
+            70,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -92,12 +92,12 @@
             "edu": "FSLC SSCE NATIONAL DIPLOMAL"
           },
           "scores": [
-            59,
-            50,
-            50,
-            51,
-            58,
-            61
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -116,12 +116,12 @@
             "edu": "WAEC BSC"
           },
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -140,12 +140,12 @@
             "edu": "Not confirmed"
           },
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -164,12 +164,12 @@
             "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC"
           },
           "scores": [
-            66,
-            51,
-            61,
-            50,
-            61,
-            67
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -188,12 +188,12 @@
             "edu": "FSLC WASC"
           },
           "scores": [
-            53,
-            69,
-            55,
-            47,
-            75,
-            48
+            95,
+            40,
+            40,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -212,12 +212,12 @@
             "edu": "FIRST LEAVING SCHOOL CERTIFICATE SSCE"
           },
           "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -236,12 +236,12 @@
             "edu": "FSLC SSCE B SC"
           },
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            74,
-            52
+            80,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -260,12 +260,12 @@
             "edu": "FSLC SSCE BSC"
           },
           "scores": [
-            65,
-            51,
-            59,
-            50,
-            61,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -284,12 +284,12 @@
             "edu": "FSLC"
           },
           "scores": [
-            49,
-            55,
-            49,
-            49,
-            65,
-            55
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         }
       ]
@@ -307,12 +307,12 @@
           "edu": "FSLC SSCE M.SC",
           "bg": "Contesting for EBONYI NORTH under A.",
           "scores": [
-            58,
-            48,
-            60,
-            48,
-            51,
-            70
+            70,
+            70,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -325,12 +325,12 @@
           "edu": "FSCL",
           "bg": "Contesting for EBONYI NORTH under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -343,12 +343,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE LL.B",
           "bg": "Contesting for EBONYI NORTH under ADC.",
           "scores": [
-            65,
-            64,
-            59,
-            51,
-            62,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -361,12 +361,12 @@
           "edu": "ESLC WASCE LLB (HONS)",
           "bg": "Contesting for EBONYI NORTH under APC.",
           "scores": [
-            66,
+            70,
+            40,
+            80,
+            100,
             65,
-            58,
-            53,
-            65,
-            59
+            65
           ]
         },
         {
@@ -379,12 +379,12 @@
           "edu": "FSLC NECO",
           "bg": "Contesting for EBONYI NORTH under APGA.",
           "scores": [
-            59,
-            50,
-            50,
-            51,
-            58,
-            61
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -397,12 +397,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
           "bg": "Contesting for EBONYI NORTH under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -415,12 +415,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EBONYI NORTH under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -433,12 +433,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EBONYI NORTH under LP.",
           "scores": [
-            60,
-            51,
-            53,
-            50,
-            57,
-            67
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -451,12 +451,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
           "bg": "Contesting for EBONYI NORTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -469,12 +469,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EBONYI NORTH under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -487,12 +487,12 @@
           "edu": "FSLC WAEC/SSCE B.SC",
           "bg": "Contesting for I EBONYI NORTH under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -505,12 +505,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EBONYI NORTH under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -523,12 +523,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for EBONYI CENTRAL under ADP.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
+            60,
+            40,
+            60,
+            100,
             65,
-            54
+            40
           ]
         },
         {
@@ -541,12 +541,12 @@
           "edu": "SSCE - WAEC CERTIFICATE B.SC",
           "bg": "Contesting for EBONYI CENTRAL under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -559,12 +559,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE B. ENGR",
           "bg": "Contesting for EBONYI CENTRAL under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            67,
-            71,
-            51
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -577,12 +577,12 @@
           "edu": "NABTEB",
           "bg": "Contesting for EBONYI CENTRAL under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -595,12 +595,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Contesting for EBONYI CENTRAL under NRM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -613,12 +613,12 @@
           "edu": "FSLC SSCE B,.SC MSC, PHD",
           "bg": "Contesting for EBONYI CENTRAL under NDC.",
           "scores": [
-            53,
-            53,
-            71,
-            47,
-            71,
-            54
+            70,
+            95,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -631,12 +631,12 @@
           "edu": "FLSC SSCE B.SC",
           "bg": "Contesting for EBONYI CENTRAL under PDP.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            74,
-            52
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -649,12 +649,12 @@
           "edu": "FSCL SSCE B.SC ED.",
           "bg": "Contesting for EBONYI SOUTH under ADP.",
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            69,
-            54
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -667,12 +667,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BED EDUCATION",
           "bg": "Contesting for EBONYI SOUTH under APP.",
           "scores": [
-            48,
-            54,
             60,
-            48,
-            64,
-            55
+            40,
+            60,
+            100,
+            65,
+            65
           ]
         },
         {
@@ -685,12 +685,12 @@
           "edu": "FSLC SSCE LLB (HONS) & BL",
           "bg": "Contesting for EBONYI SOUTH under ADC.",
           "scores": [
-            65,
-            64,
-            59,
-            51,
-            62,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -703,12 +703,12 @@
           "edu": "FSLC WAEC BS.C",
           "bg": "Contesting for EBONYI SOUTH under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -721,12 +721,12 @@
           "edu": "FSLC NECO",
           "bg": "Contesting for EBONYI SOUTH under APGA.",
           "scores": [
-            55,
-            50,
-            50,
-            51,
-            49,
-            68
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -739,12 +739,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC HIGHER NATIONAL DIPLOMA",
           "bg": "Contesting for EBONYI SOUTH under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -757,12 +757,12 @@
           "edu": "SSCE",
           "bg": "Contesting for I EBONYI SOUTH under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -775,12 +775,12 @@
           "edu": "FSLC WAEC DIPLOMA LAW",
           "bg": "Contesting for EBONYI SOUTH under LP.",
           "scores": [
-            52,
-            71,
-            53,
-            50,
-            67,
-            59
+            70,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -793,12 +793,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO LLB LAW",
           "bg": "Contesting for EBONYI SOUTH under NRM.",
           "scores": [
-            62,
-            62,
-            56,
-            48,
-            58,
-            63
+            90,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -811,12 +811,12 @@
           "edu": "PRIMARY SCHOOL CERYIFICATE FGC MINNA",
           "bg": "Contesting for EBONYI SOUTH under NDC.",
           "scores": [
-            47,
-            53,
-            47,
-            47,
+            50,
+            40,
+            60,
+            100,
             65,
-            54
+            40
           ]
         },
         {
@@ -829,12 +829,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE",
           "bg": "Contesting for EBONYI SOUTH under PDP.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            70,
-            52
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         }
       ]
@@ -852,12 +852,12 @@
           "edu": "FSCL",
           "bg": "Contesting for Ebonyi/Ohaukwu under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -870,12 +870,12 @@
           "edu": "SSCE - NECO CERTIFICATE N.D",
           "bg": "Contesting for Ebonyi/Ohaukwu under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -888,12 +888,12 @@
           "edu": "FSLC WAEC BSC",
           "bg": "Contesting for Ebonyi/Ohaukwu under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -906,12 +906,12 @@
           "edu": "FSLC NECO LLB, BL",
           "bg": "Contesting for Ebonyi/Ohaukwu under APGA.",
           "scores": [
-            61,
-            64,
-            58,
-            51,
-            53,
-            68
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -924,12 +924,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.Sc",
           "bg": "Contesting for Ebonyi/Ohaukwu under APM.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -942,12 +942,12 @@
           "edu": "FSLC NABTEB DEGREE",
           "bg": "Contesting for Ebonyi/Ohaukwu under LP.",
           "scores": [
-            66,
-            51,
-            61,
-            50,
-            61,
-            67
+            80,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -960,12 +960,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
           "bg": "Contesting for Ebonyi/Ohaukwu under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -978,12 +978,12 @@
           "edu": "FSLC O LEVEL H.N.D",
           "bg": "Contesting for Ebonyi/Ohaukwu under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
             50,
-            49,
-            69
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -996,12 +996,12 @@
           "edu": "FSLC SSCE B.PHIL",
           "bg": "Contesting for Ebonyi/Ohaukwu under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1014,12 +1014,12 @@
           "edu": "FLSC SSCE B.SC",
           "bg": "Contesting for Ebonyi/Ohaukwu under PDP.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            55,
-            67
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1032,12 +1032,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for I Abakaliki/Izzi under A.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1050,12 +1050,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Abakaliki/Izzi under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1068,12 +1068,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.ED",
           "bg": "Contesting for Abakaliki/Izzi under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -1086,12 +1086,12 @@
           "edu": "ESLC GCE/SENIOR SEC SCHOOL CERT. OND BSC",
           "bg": "Contesting for Abakaliki/Izzi under APC.",
           "scores": [
-            58,
-            59,
-            58,
-            53,
-            81,
-            45
+            90,
+            40,
+            40,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1104,12 +1104,12 @@
           "edu": "C FSLC SSCE OND/BA",
           "bg": "Contesting for Abakaliki/Izzi under APGA.",
           "scores": [
-            65,
-            50,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1122,12 +1122,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
           "bg": "Contesting for Abakaliki/Izzi under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1140,12 +1140,12 @@
           "edu": "B.Sc",
           "bg": "Contesting for Abakaliki/Izzi under DLA.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1158,12 +1158,12 @@
           "edu": "SSCE PhD, M.SC",
           "bg": "Contesting for Abakaliki/Izzi under LP.",
           "scores": [
-            58,
-            57,
-            77,
-            50,
-            73,
-            59
+            60,
+            95,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1176,12 +1176,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Abakaliki/Izzi under NNPP.",
           "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1194,12 +1194,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for Abakaliki/Izzi under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1212,12 +1212,12 @@
           "edu": "FSLC WAEC NATIONAL DIPLOMA",
           "bg": "Contesting for Abakaliki/Izzi under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1230,12 +1230,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Ezza North/Ishielu under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1248,12 +1248,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE",
           "bg": "Contesting for Ezza North/Ishielu under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1267,11 +1267,11 @@
           "bg": "Contesting for Ezza North/Ishielu under APC.",
           "scores": [
             60,
-            51,
-            50,
-            53,
-            61,
-            59
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1284,12 +1284,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
           "bg": "Contesting for Ezza North/Ishielu under APGA.",
           "scores": [
-            55,
-            50,
-            50,
-            51,
-            49,
-            68
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1302,12 +1302,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
           "bg": "Contesting for I Ezza North/Ishielu under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1320,12 +1320,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for Ezza North/Ishielu under LP.",
           "scores": [
-            60,
-            51,
-            53,
-            50,
-            57,
-            67
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1338,12 +1338,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Contesting for Ezza North/Ishielu under NRM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            50,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1356,12 +1356,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for Ezza North/Ishielu under NDC.",
           "scores": [
-            47,
-            53,
-            47,
-            47,
-            65,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1374,12 +1374,12 @@
           "edu": "C FSLC GCE LLB",
           "bg": "Contesting for Ezza North/Ishielu under PDP.",
           "scores": [
-            65,
-            64,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1392,12 +1392,12 @@
           "edu": "FSLC SSCE LLB",
           "bg": "Contesting for Ezza North/Ishielu under SDP.",
           "scores": [
-            61,
-            65,
-            59,
-            50,
-            52,
-            69
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1410,12 +1410,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Ezza South/Ikwo under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1428,12 +1428,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC",
           "bg": "Contesting for Ezza South/Ikwo under ADC.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            72,
-            55
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1446,12 +1446,12 @@
           "edu": "FLSC WASCE BSc, MSc",
           "bg": "Contesting for Ezza South/Ikwo under APC.",
           "scores": [
-            64,
-            57,
             70,
-            53,
-            81,
-            51
+            70,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1464,12 +1464,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC LLB",
           "bg": "Contesting for Ezza South/Ikwo under APGA.",
           "scores": [
-            65,
-            64,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1482,12 +1482,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE EBONYI STATE UNIVERSITY",
           "bg": "Contesting for Ezza South/Ikwo under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1500,12 +1500,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE",
           "bg": "Contesting for Ezza South/Ikwo under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            50,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1518,12 +1518,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Ezza South/Ikwo under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1536,12 +1536,12 @@
           "edu": "TESTIMONIAL WAEC MSC",
           "bg": "Contesting for Ezza South/Ikwo under NDC.",
           "scores": [
-            61,
-            47,
-            59,
-            47,
-            61,
-            62
+            60,
+            70,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1554,12 +1554,12 @@
           "edu": "FSLC WAEC NATIONAL DIPLOMA",
           "bg": "Contesting for Ezza South/Ikwo under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1572,12 +1572,12 @@
           "edu": "FSLC WAEC BSC",
           "bg": "Contesting for I Ezza South/Ikwo under ZLP.",
           "scores": [
-            59,
-            49,
-            57,
-            49,
-            50,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1590,12 +1590,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1608,12 +1608,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.NG",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1626,12 +1626,12 @@
           "edu": "FSLC WASC",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1644,12 +1644,12 @@
           "edu": "C FSLC WAEC BSc BUILDING",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under APGA.",
           "scores": [
-            65,
-            50,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1662,12 +1662,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1680,12 +1680,12 @@
           "edu": "FSLC WAEC DEGREE",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            95,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1698,12 +1698,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under NRM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1716,12 +1716,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under NNPP.",
           "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1734,12 +1734,12 @@
           "edu": "PRIMARY SCHOOL CERYIFICATE SSCE/ NECO B.A HISTORY",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1752,12 +1752,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under PDP.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1770,12 +1770,12 @@
           "edu": "FLSC SSCE MASTER OF SCIENCE",
           "bg": "Contesting for Ivo-Ohaozara/ Onicha under SDP.",
           "scores": [
-            51,
-            57,
-            51,
-            50,
-            67,
-            54
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1788,12 +1788,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Afikpo North/Afikpo South under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1806,12 +1806,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Contesting for I Afikpo North/Afikpo South under APP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1824,12 +1824,12 @@
           "edu": "SSCE - WAEC CERTIFICATE",
           "bg": "Contesting for Afikpo North/Afikpo South under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1842,12 +1842,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BL",
           "bg": "Contesting for Afikpo North/Afikpo South under APC.",
           "scores": [
-            52,
-            71,
-            50,
-            53,
-            71,
-            51
+            60,
+            40,
+            60,
+            100,
+            65,
+            65
           ]
         },
         {
@@ -1860,12 +1860,12 @@
           "edu": "C FSLC SSCE HIGHER NATIONAL DIPLOMA (HND)",
           "bg": "Contesting for Afikpo North/Afikpo South under APGA.",
           "scores": [
-            61,
-            50,
-            58,
-            51,
-            53,
-            68
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1878,12 +1878,12 @@
           "edu": "FSLC SSCE/WAEC B.Sc.",
           "bg": "Contesting for Afikpo North/Afikpo South under APM.",
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1896,12 +1896,12 @@
           "edu": "First school leaving certificate SSCE HND",
           "bg": "Contesting for Afikpo North/Afikpo South under DLA.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1914,12 +1914,12 @@
           "edu": "FSLC WAEC BA LINGUSTICS",
           "bg": "Contesting for Afikpo North/Afikpo South under LP.",
           "scores": [
-            66,
-            51,
-            61,
-            50,
-            61,
-            67
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1932,12 +1932,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE LLB LAW",
           "bg": "Contesting for Afikpo North/Afikpo South under NRM.",
           "scores": [
-            58,
-            62,
-            56,
-            48,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            65,
+            65
           ]
         },
         {
@@ -1950,12 +1950,12 @@
           "edu": "FSLC SSCE ND",
           "bg": "Contesting for Afikpo North/Afikpo South under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1968,12 +1968,12 @@
           "edu": "EGBEBU CENTRAL SCHOOL SECONDARY TECHNICAL SCHOOL EKI ABSU, U.N.N, UNICAL",
           "bg": "Contesting for Afikpo North/Afikpo South under PDP.",
           "scores": [
-            51,
-            56,
-            51,
-            65,
-            70,
-            52
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1986,12 +1986,12 @@
           "edu": "FLSC NECO HND",
           "bg": "Contesting for Afikpo North/Afikpo South under SDP.",
           "scores": [
-            65,
-            51,
-            59,
-            50,
-            61,
-            62
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2004,12 +2004,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for Afikpo North/Afikpo South under ZLP.",
           "scores": [
-            57,
-            49,
-            49,
-            49,
-            55,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         }
       ]
@@ -2027,12 +2027,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ABAKALIKI NORTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2045,12 +2045,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC",
           "bg": "Contesting for ABAKALIKI NORTH under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2063,12 +2063,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ABAKALIKI NORTH under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2081,12 +2081,12 @@
           "edu": "FSLC WASSCE",
           "bg": "Contesting for ABAKALIKI NORTH under APGA.",
           "scores": [
-            59,
             50,
-            50,
-            51,
-            58,
-            61
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2099,12 +2099,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ABAKALIKI NORTH under LP.",
           "scores": [
-            60,
-            51,
-            53,
-            50,
-            57,
-            67
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2117,12 +2117,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
           "bg": "Contesting for ABAKALIKI NORTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -2135,12 +2135,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ABAKALIKI NORTH under NNPP.",
           "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2153,12 +2153,12 @@
           "edu": "FSLC WASC(OL) PHD EBONYI STATE UNIVERSITY/OTHERS",
           "bg": "Contesting for I ABAKALIKI NORTH under NDC.",
           "scores": [
-            53,
-            53,
-            71,
-            47,
-            71,
-            54
+            70,
+            90,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2171,12 +2171,12 @@
           "edu": "SCHOOL CERT NECO BACHELORS OF SCIENCE",
           "bg": "Contesting for ABAKALIKI NORTH under PDP.",
           "scores": [
+            60,
+            40,
+            80,
+            100,
             65,
-            50,
-            59,
-            51,
-            64,
-            60
+            40
           ]
         },
         {
@@ -2189,12 +2189,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ABAKALIKI NORTH under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2207,12 +2207,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ABAKALIKI SOUTH under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2225,12 +2225,12 @@
           "edu": "C PRIMARY SCHOOL CERTIFICATE SSCE",
           "bg": "Contesting for ABAKALIKI SOUTH under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2243,12 +2243,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for ABAKALIKI SOUTH under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2261,12 +2261,12 @@
           "edu": "FSLC WAEC DEGREE",
           "bg": "Contesting for ABAKALIKI SOUTH under APGA.",
           "scores": [
-            61,
-            50,
-            58,
-            51,
-            53,
-            68
+            95,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2279,12 +2279,12 @@
           "edu": "FSLC SSCE DEGREE",
           "bg": "Contesting for ABAKALIKI SOUTH under APM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            95,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2297,12 +2297,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Contesting for ABAKALIKI SOUTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -2315,12 +2315,12 @@
           "edu": "FSLC WAEC NCE",
           "bg": "Contesting for ABAKALIKI SOUTH under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -2333,12 +2333,12 @@
           "edu": "FSLC GCE, NABTEB HND",
           "bg": "Contesting for ABAKALIKI SOUTH under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2351,12 +2351,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ABAKALIKI SOUTH under SDP.",
           "scores": [
-            51,
-            57,
-            51,
-            50,
-            67,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2369,12 +2369,12 @@
           "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate)",
           "bg": "Contesting for AFIKPO NORTH EAST under A.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2387,12 +2387,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for I AFIKPO NORTH EAST under ADP.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            65,
-            54
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2405,12 +2405,12 @@
           "edu": "SSCE - NECO CERTIFICATE",
           "bg": "Contesting for AFIKPO NORTH EAST under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2423,12 +2423,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for AFIKPO NORTH EAST under APC.",
           "scores": [
-            66,
-            51,
-            58,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2441,12 +2441,12 @@
           "edu": "C WAEC/NECO",
           "bg": "Contesting for AFIKPO NORTH EAST under LP.",
           "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2459,12 +2459,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL NATIONAL DIPLOMA",
           "bg": "Contesting for AFIKPO NORTH EAST under NRM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -2477,12 +2477,12 @@
           "edu": "FSLC SSCE BSC/MSC",
           "bg": "Contesting for AFIKPO NORTH EAST under NDC.",
           "scores": [
-            67,
-            47,
-            67,
-            47,
-            65,
-            62
+            95,
+            70,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2495,12 +2495,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for AFIKPO NORTH EAST under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2513,12 +2513,12 @@
           "edu": "FLSC GOVERNMENT COLLEGE HND",
           "bg": "Contesting for AFIKPO NORTH EAST under PRP.",
           "scores": [
-            56,
-            56,
+            70,
+            40,
             60,
-            48,
-            71,
-            56
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2531,12 +2531,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for AFIKPO NORTH EAST under SDP.",
           "scores": [
-            51,
-            57,
-            51,
-            50,
-            67,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2549,12 +2549,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for AFIKPO NORTH WEST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2567,12 +2567,12 @@
           "edu": "FSL SSCE - NECO CERTIFICATE",
           "bg": "Contesting for AFIKPO NORTH WEST under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2585,12 +2585,12 @@
           "edu": "FSLC SSCE LLB",
           "bg": "Contesting for AFIKPO NORTH WEST under APC.",
           "scores": [
-            66,
-            65,
-            58,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -2603,12 +2603,12 @@
           "edu": "FSLC WAEC/NECO",
           "bg": "Contesting for I AFIKPO NORTH WEST under APGA.",
           "scores": [
-            59,
-            50,
-            50,
-            51,
-            58,
-            61
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2621,12 +2621,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for AFIKPO NORTH WEST under APM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2639,12 +2639,12 @@
           "edu": "FSLC WAEC MSc",
           "bg": "Contesting for AFIKPO NORTH WEST under LP.",
           "scores": [
-            58,
-            57,
-            65,
-            50,
-            73,
-            59
+            70,
+            70,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2657,12 +2657,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
           "bg": "Contesting for AFIKPO NORTH WEST under NRM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2675,12 +2675,12 @@
           "edu": "FSLC NECO BACHELOR OF LAW LLB",
           "bg": "Contesting for AFIKPO NORTH WEST under NDC.",
           "scores": [
-            61,
-            61,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -2693,12 +2693,12 @@
           "edu": "FSLC WAEC HND",
           "bg": "Contesting for AFIKPO NORTH WEST under PDP.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2711,12 +2711,12 @@
           "edu": "FLSC AMASIRI SECONDARY SCHL",
           "bg": "Contesting for AFIKPO NORTH WEST under PRP.",
           "scores": [
+            40,
+            40,
+            60,
+            100,
             50,
-            56,
-            52,
-            48,
-            67,
-            56
+            40
           ]
         },
         {
@@ -2729,12 +2729,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for AFIKPO NORTH WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2747,12 +2747,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for AFIKPO SOUTH EAST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2765,12 +2765,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE ND",
           "bg": "Contesting for AFIKPO SOUTH EAST under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2783,12 +2783,12 @@
           "edu": "FSLC SSCE NCE",
           "bg": "Contesting for AFIKPO SOUTH EAST under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -2801,12 +2801,12 @@
           "edu": "FSLC WAEC B ENGR CHEMICAL",
           "bg": "Contesting for AFIKPO SOUTH EAST under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            61,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2819,12 +2819,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for I AFIKPO SOUTH EAST under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2837,12 +2837,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for AFIKPO SOUTH EAST under SDP.",
           "scores": [
-            51,
-            57,
-            51,
-            50,
-            67,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2855,12 +2855,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for AFIKPO SOUTH WEST under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2873,12 +2873,12 @@
           "edu": "C FSLC SSCE - NECO CERTIFICATE HND",
           "bg": "Contesting for AFIKPO SOUTH WEST under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2891,12 +2891,12 @@
           "edu": "FSLC SSCE B.A",
           "bg": "Contesting for AFIKPO SOUTH WEST under APC.",
           "scores": [
-            66,
-            51,
-            58,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -2909,12 +2909,12 @@
           "edu": "OKIGWE ROAD PRI SCH ABA GRACE INTL SCHL OYIGBO",
           "bg": "Contesting for AFIKPO SOUTH WEST under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -2927,12 +2927,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for AFIKPO SOUTH WEST under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2945,12 +2945,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for AFIKPO SOUTH WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2963,12 +2963,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EBONYI NORTH EAST under ADP.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            65,
-            54
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2981,12 +2981,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE",
           "bg": "Contesting for EBONYI NORTH EAST under ADC.",
           "scores": [
-            59,
             50,
-            51,
-            51,
-            58,
-            63
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2999,12 +2999,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BACHELOR OF EDUCATION (BED)",
           "bg": "Contesting for EBONYI NORTH EAST under APC.",
           "scores": [
-            66,
-            51,
-            70,
-            53,
+            60,
+            40,
+            80,
+            100,
             65,
-            59
+            65
           ]
         },
         {
@@ -3017,12 +3017,12 @@
           "edu": "FSLC WAEC B.SC ED",
           "bg": "Contesting for EBONYI NORTH EAST under APGA.",
           "scores": [
-            65,
-            50,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3035,12 +3035,12 @@
           "edu": "FSLC SSCE DEGREE",
           "bg": "Contesting for I EBONYI NORTH EAST under APM.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            95,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3053,12 +3053,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EBONYI NORTH EAST under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3071,12 +3071,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for EBONYI NORTH EAST under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3089,12 +3089,12 @@
           "edu": "C FSCL SSCE LLB",
           "bg": "Contesting for EBONYI NORTH EAST under NDC.",
           "scores": [
-            61,
-            61,
-            55,
-            47,
-            59,
-            62
+            90,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -3107,12 +3107,12 @@
           "edu": "FSLC SSCE B SC",
           "bg": "Contesting for EBONYI NORTH EAST under PDP.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            51,
-            67
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3125,12 +3125,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EBONYI NORTH EAST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3143,12 +3143,12 @@
           "edu": "FSLC WASCE",
           "bg": "Contesting for EBONYI NORTH WEST under AA.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            50,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3161,12 +3161,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EBONYI NORTH WEST under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3179,12 +3179,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE",
           "bg": "Contesting for EBONYI NORTH WEST under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3197,12 +3197,12 @@
           "edu": "FSLC SSCE LLB",
           "bg": "Contesting for EBONYI NORTH WEST under APC.",
           "scores": [
-            62,
-            65,
-            58,
-            53,
-            56,
-            66
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -3215,12 +3215,12 @@
           "edu": "FSLC NABTEB",
           "bg": "Contesting for EBONYI NORTH WEST under APGA.",
           "scores": [
-            59,
             50,
-            50,
-            51,
-            58,
-            61
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3233,12 +3233,12 @@
           "edu": "FSLC NECO B.A",
           "bg": "Contesting for EBONYI NORTH WEST under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3251,12 +3251,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL",
           "bg": "Contesting for I EBONYI NORTH WEST under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -3269,12 +3269,12 @@
           "edu": "FLSC SSCE ND",
           "bg": "Contesting for EBONYI NORTH WEST under NNPP.",
           "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3287,12 +3287,12 @@
           "edu": "FSLC NECO",
           "bg": "Contesting for EBONYI NORTH WEST under NDC.",
           "scores": [
-            47,
-            53,
-            47,
-            47,
-            65,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3305,12 +3305,12 @@
           "edu": "C FSLC NECO",
           "bg": "Contesting for EBONYI NORTH WEST under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3323,12 +3323,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EBONYI NORTH WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3341,12 +3341,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EZZA NORTH EAST under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3359,12 +3359,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE B.SC",
           "bg": "Contesting for EZZA NORTH EAST under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3377,12 +3377,12 @@
           "edu": "OKPAUGWU URPAN EZZANGBO BOYS SEC SCHOOL",
           "bg": "Contesting for EZZA NORTH EAST under APC.",
           "scores": [
-            52,
-            57,
+            40,
+            40,
+            60,
+            100,
             50,
-            53,
-            71,
-            51
+            40
           ]
         },
         {
@@ -3395,12 +3395,12 @@
           "edu": "FSLC WASSCE",
           "bg": "Contesting for EZZA NORTH EAST under APGA.",
           "scores": [
-            55,
             50,
-            50,
-            51,
-            49,
-            68
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3413,12 +3413,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for EZZA NORTH EAST under NNPP.",
           "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3431,12 +3431,12 @@
           "edu": "FSCL SSCE BSC",
           "bg": "Contesting for EZZA NORTH EAST under NDC.",
           "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3449,12 +3449,12 @@
           "edu": "FSLC WAEC LL.B",
           "bg": "Contesting for EZZA NORTH EAST under PDP.",
           "scores": [
-            65,
-            64,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -3467,12 +3467,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for I EZZA NORTH EAST under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3485,12 +3485,12 @@
           "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) B.Sc",
           "bg": "Contesting for EZZA NORTH WEST under A.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3503,12 +3503,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EZZA NORTH WEST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3521,12 +3521,12 @@
           "edu": "C SSCE",
           "bg": "Contesting for EZZA NORTH WEST under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3539,12 +3539,12 @@
           "edu": "FSLC SSCE PH.d",
           "bg": "Contesting for EZZA NORTH WEST under APC.",
           "scores": [
-            66,
-            51,
-            62,
-            53,
-            67,
-            59
+            70,
+            90,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3557,12 +3557,12 @@
           "edu": "FSLC NECO NCE",
           "bg": "Contesting for EZZA NORTH WEST under APGA.",
           "scores": [
-            51,
-            56,
-            50,
-            51,
-            68,
-            53
+            70,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -3575,12 +3575,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for EZZA NORTH WEST under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3593,12 +3593,12 @@
           "edu": "FSLC NECO BSc",
           "bg": "Contesting for EZZA NORTH WEST under LP.",
           "scores": [
-            66,
-            51,
-            61,
-            50,
-            61,
-            67
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3611,12 +3611,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for EZZA NORTH WEST under NNPP.",
           "scores": [
-            65,
-            52,
-            59,
-            50,
-            62,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3629,12 +3629,12 @@
           "edu": "FSLC WASSC",
           "bg": "Contesting for EZZA NORTH WEST under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            50,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3647,12 +3647,12 @@
           "edu": "FSLC waec",
           "bg": "Contesting for EZZA NORTH WEST under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3665,12 +3665,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EZZA NORTH WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3683,12 +3683,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for I EZZA SOUTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3701,12 +3701,12 @@
           "edu": "SSCE - WAEC CERTIFICATE",
           "bg": "Contesting for EZZA SOUTH under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3719,12 +3719,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for EZZA SOUTH under APC.",
           "scores": [
-            66,
-            51,
-            58,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3737,12 +3737,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for EZZA SOUTH under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3755,12 +3755,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL NIGERIA CERTIFICATE OF EDUCATION",
           "bg": "Contesting for EZZA SOUTH under NRM.",
           "scores": [
-            56,
-            48,
-            60,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -3773,12 +3773,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for EZZA SOUTH under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3791,12 +3791,12 @@
           "edu": "FSLC WASC LLB, BL,LLM",
           "bg": "Contesting for EZZA SOUTH under NDC.",
           "scores": [
-            63,
-            61,
-            67,
-            47,
-            56,
-            69
+            95,
+            70,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -3809,12 +3809,12 @@
           "edu": "FSLC CHRISTIAN KINGS COLLEGE",
           "bg": "Contesting for EZZA SOUTH under PDP.",
           "scores": [
-            55,
             50,
-            51,
-            51,
-            51,
-            67
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3827,12 +3827,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for EZZA SOUTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3845,12 +3845,12 @@
           "edu": "FSLC (First leaving certificate) WAEC B.Sc",
           "bg": "Contesting for IKWO NORTH under A.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3863,12 +3863,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IKWO NORTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -3881,12 +3881,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE HND",
           "bg": "Contesting for IKWO NORTH under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3899,12 +3899,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for IKWO NORTH under APC.",
           "scores": [
-            60,
-            51,
-            50,
-            53,
-            61,
-            59
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3917,12 +3917,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for IKWO NORTH under APM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -3935,12 +3935,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE HIGHER NATIONAL DIPLOMA",
           "bg": "Contesting for IKWO NORTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -3953,12 +3953,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for I IKWO NORTH under NNPP.",
           "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -3971,12 +3971,12 @@
           "edu": "SSCE",
           "bg": "Contesting for IKWO NORTH under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -3989,12 +3989,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IKWO NORTH under PDP.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            51,
-            67
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4007,12 +4007,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IKWO NORTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4025,12 +4025,12 @@
           "edu": "FSLC (First leaving certificate) WAEC ND",
           "bg": "Contesting for IKWO SOUTH under A.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4043,12 +4043,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IKWO SOUTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4061,12 +4061,12 @@
           "edu": "C PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE COLLEGE OF EDUCATION",
           "bg": "Contesting for IKWO SOUTH under ADC.",
           "scores": [
-            51,
-            56,
-            63,
-            51,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4079,12 +4079,12 @@
           "edu": "FSLC SSCE B.ED",
           "bg": "Contesting for IKWO SOUTH under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -4097,12 +4097,12 @@
           "edu": "FSLC SSCE BA.ED",
           "bg": "Contesting for IKWO SOUTH under APGA.",
           "scores": [
-            57,
-            56,
-            58,
-            51,
-            72,
-            53
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4115,12 +4115,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE LLB LAW",
           "bg": "Contesting for IKWO SOUTH under APM.",
           "scores": [
-            62,
-            62,
-            56,
-            48,
-            58,
-            63
+            90,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -4133,12 +4133,12 @@
           "edu": "FSLC WASSCE B.Sc",
           "bg": "Contesting for IKWO SOUTH under DLA.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            80,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4151,12 +4151,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
           "bg": "Contesting for IKWO SOUTH under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4169,12 +4169,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Contesting for IKWO SOUTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -4187,12 +4187,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for IKWO SOUTH under NNPP.",
           "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4205,12 +4205,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for IKWO SOUTH under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4223,12 +4223,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IKWO SOUTH under PDP.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            51,
-            67
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4241,12 +4241,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IKWO SOUTH under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4259,12 +4259,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for I IKWO SOUTH under YPP.",
           "scores": [
-            60,
-            49,
-            58,
-            49,
-            50,
-            74
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4277,12 +4277,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ISHIELU NORTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4295,12 +4295,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE GCE",
           "bg": "Contesting for ISHIELU NORTH under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4313,12 +4313,12 @@
           "edu": "FIRST SCH LEAVING CERT WAEC B.SC",
           "bg": "Contesting for ISHIELU NORTH under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4331,12 +4331,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for ISHIELU NORTH under APM.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4349,12 +4349,12 @@
           "edu": "B.A",
           "bg": "Contesting for ISHIELU NORTH under LP.",
           "scores": [
-            66,
-            51,
-            61,
-            50,
-            61,
-            67
+            70,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -4367,12 +4367,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
           "bg": "Contesting for ISHIELU NORTH under NRM.",
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4385,12 +4385,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ISHIELU NORTH under NNPP.",
           "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4403,12 +4403,12 @@
           "edu": "FSCL",
           "bg": "Contesting for ISHIELU NORTH under NDC.",
           "scores": [
-            47,
-            53,
-            47,
-            47,
-            65,
-            54
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -4421,12 +4421,12 @@
           "edu": "FSLC WAEC B.ENG",
           "bg": "Contesting for ISHIELU NORTH under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            65,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -4439,12 +4439,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ISHIELU NORTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4457,12 +4457,12 @@
           "edu": "First School Leaving Certficate Senior school certificate",
           "bg": "Contesting for ISHIELU SOUTH under AA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -4475,12 +4475,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ISHIELU SOUTH under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4493,12 +4493,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE",
           "bg": "Contesting for ISHIELU SOUTH under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4511,12 +4511,12 @@
           "edu": "EZEHOBEGUEZEEAGU CENTRAL PRI SCH ECUMENICH COMMUNITY SECONDARY SCH ND, GRACE POLYTECHNIC OMU,",
           "bg": "Contesting for ISHIELU SOUTH under APC.",
           "scores": [
-            60,
-            51,
+            40,
+            40,
+            80,
+            100,
             50,
-            67,
-            61,
-            59
+            40
           ]
         },
         {
@@ -4529,12 +4529,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ISHIELU SOUTH under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4547,12 +4547,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ISHIELU SOUTH under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4565,12 +4565,12 @@
           "edu": "FSLC NECO BSc",
           "bg": "Contesting for I ISHIELU SOUTH under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4583,12 +4583,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
           "bg": "Contesting for ISHIELU SOUTH under NRM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -4601,12 +4601,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ISHIELU SOUTH under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4619,12 +4619,12 @@
           "edu": "FSLC WAEC BSC",
           "bg": "Contesting for ISHIELU SOUTH under NDC.",
           "scores": [
-            57,
-            47,
-            55,
-            47,
-            50,
-            69
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4637,12 +4637,12 @@
           "edu": "C FSLC SSCE (NECO)",
           "bg": "Contesting for ISHIELU SOUTH under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4655,12 +4655,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ISHIELU SOUTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4673,12 +4673,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IVO under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4691,12 +4691,12 @@
           "edu": "SSCE",
           "bg": "Contesting for IVO under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -4709,12 +4709,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for IVO under APC.",
           "scores": [
-            62,
-            51,
-            58,
-            53,
-            56,
-            66
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4727,12 +4727,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IVO under APM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4745,12 +4745,12 @@
           "edu": "WASSCE",
           "bg": "Contesting for IVO under DLA.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -4763,12 +4763,12 @@
           "edu": "FSLC WAEC DIPLOMA",
           "bg": "Contesting for IVO under LP.",
           "scores": [
-            60,
-            51,
-            53,
-            50,
-            57,
-            67
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4781,12 +4781,12 @@
           "edu": "FSLC SSCE&WAEC LLB BL",
           "bg": "Contesting for IVO under NDC.",
           "scores": [
-            61,
-            61,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -4799,12 +4799,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for IVO under PDP.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
             70,
-            52
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4817,12 +4817,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IVO under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4835,12 +4835,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IZZI EAST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4853,12 +4853,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE",
           "bg": "Contesting for IZZI EAST under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4871,12 +4871,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for I IZZI EAST under APC.",
           "scores": [
-            66,
-            51,
-            58,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4889,12 +4889,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for IZZI EAST under APGA.",
           "scores": [
-            61,
-            50,
-            58,
-            51,
-            53,
-            68
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -4907,12 +4907,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for IZZI EAST under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4925,12 +4925,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IZZI EAST under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -4943,12 +4943,12 @@
           "edu": "C FSLC SSCE",
           "bg": "Contesting for IZZI EAST under NNPP.",
           "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4961,12 +4961,12 @@
           "edu": "WAEC BSC",
           "bg": "Contesting for IZZI EAST under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -4979,12 +4979,12 @@
           "edu": "FSLC NECO LL.B",
           "bg": "Contesting for IZZI EAST under PDP.",
           "scores": [
-            61,
-            64,
-            59,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -4997,12 +4997,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IZZI EAST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5015,12 +5015,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IZZI WEST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5033,12 +5033,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - WAEC CERTIFICATE B.SC",
           "bg": "Contesting for IZZI WEST under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5051,12 +5051,12 @@
           "edu": "FSLC SSCE BSC",
           "bg": "Contesting for IZZI WEST under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5069,12 +5069,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IZZI WEST under APGA.",
           "scores": [
-            55,
-            50,
-            50,
-            51,
-            49,
-            68
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5087,12 +5087,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for IZZI WEST under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5105,12 +5105,12 @@
           "edu": "WAEC B.SC",
           "bg": "Contesting for IZZI WEST under DLA.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            90,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5123,12 +5123,12 @@
           "edu": "FSLC NECO",
           "bg": "Contesting for IZZI WEST under LP.",
           "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5141,12 +5141,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for IZZI WEST under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5159,12 +5159,12 @@
           "edu": "FSLC WAEC BSC",
           "bg": "Contesting for I IZZI WEST under NDC.",
           "scores": [
-            57,
-            47,
-            55,
-            47,
-            50,
-            69
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5177,12 +5177,12 @@
           "edu": "EZZA INYAMAGU CENTRAL SCHOOL SPECIAL SCIENCE SCHOOL IGBEAGU /",
           "bg": "Contesting for IZZI WEST under PDP.",
           "scores": [
-            59,
+            40,
+            40,
+            80,
+            100,
             50,
-            51,
-            51,
-            60,
-            60
+            40
           ]
         },
         {
@@ -5195,12 +5195,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for IZZI WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5213,12 +5213,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for OHAOZARA EAST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5231,12 +5231,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE - NECO CERTIFICATE",
           "bg": "Contesting for OHAOZARA EAST under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5249,12 +5249,12 @@
           "edu": "C FSLC SSCE",
           "bg": "Contesting for OHAOZARA EAST under APC.",
           "scores": [
-            52,
-            57,
-            50,
-            53,
-            71,
-            51
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5267,12 +5267,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC DIPLOMA",
           "bg": "Contesting for OHAOZARA EAST under LP.",
           "scores": [
-            52,
-            57,
-            53,
-            50,
-            67,
-            59
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5285,12 +5285,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL B.SC",
           "bg": "Contesting for OHAOZARA EAST under NRM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5303,12 +5303,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for OHAOZARA EAST under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5321,12 +5321,12 @@
           "edu": "FSCL SSCE BSC",
           "bg": "Contesting for OHAOZARA EAST under NDC.",
           "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5339,12 +5339,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for OHAOZARA EAST under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5357,12 +5357,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for OHAOZARA EAST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5375,12 +5375,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for OHAOZARA WEST under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5393,12 +5393,12 @@
           "edu": "SSCE",
           "bg": "Contesting for OHAOZARA WEST under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5411,12 +5411,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for OHAOZARA WEST under APC.",
           "scores": [
-            58,
-            59,
-            58,
-            53,
-            81,
-            45
+            95,
+            40,
+            40,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5429,12 +5429,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for I OHAOZARA WEST under DLA.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5447,12 +5447,12 @@
           "edu": "FSLC SSCE NCE",
           "bg": "Contesting for OHAOZARA WEST under LP.",
           "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
+            70,
+            40,
+            95,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -5465,12 +5465,12 @@
           "edu": "WEST AFRICAN EXAMINATION COUNCIL",
           "bg": "Contesting for OHAOZARA WEST under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -5483,12 +5483,12 @@
           "edu": "C FSLC SSCE ND",
           "bg": "Contesting for OHAOZARA WEST under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5501,12 +5501,12 @@
           "edu": "WAEC BSC POLITICAL SC",
           "bg": "Contesting for OHAOZARA WEST under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            90,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -5519,12 +5519,12 @@
           "edu": "FSLC WAEC HND",
           "bg": "Contesting for OHAOZARA WEST under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5537,12 +5537,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for OHAOZARA WEST under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5555,12 +5555,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ONICHA EAST under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5573,12 +5573,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE COLLEGE OF EDUCATION, BSC",
           "bg": "Contesting for ONICHA EAST under APP.",
           "scores": [
-            62,
-            48,
-            68,
-            48,
-            58,
-            63
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5591,12 +5591,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE HND",
           "bg": "Contesting for ONICHA EAST under ADC.",
           "scores": [
-            57,
-            58,
-            59,
-            51,
-            78,
-            49
+            95,
+            40,
+            40,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5609,12 +5609,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ONICHA EAST under APC.",
           "scores": [
-            60,
-            51,
-            50,
-            53,
-            61,
-            59
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5627,12 +5627,12 @@
           "edu": "FSLC NECO HND",
           "bg": "Contesting for ONICHA EAST under APGA.",
           "scores": [
-            61,
-            50,
-            58,
-            51,
-            53,
-            68
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5645,12 +5645,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ONICHA EAST under APM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5663,12 +5663,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Contesting for ONICHA EAST under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5681,12 +5681,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for I ONICHA EAST under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5699,12 +5699,12 @@
           "edu": "FSLC WAEC B.SC",
           "bg": "Contesting for ONICHA EAST under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5717,12 +5717,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ONICHA EAST under SDP.",
           "scores": [
-            51,
-            57,
-            51,
-            50,
-            67,
-            54
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5735,12 +5735,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ONICHA EAST under YPP.",
           "scores": [
-            54,
-            49,
-            50,
-            49,
-            46,
-            74
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5753,12 +5753,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for ONICHA WEST under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5771,12 +5771,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE WASSCE",
           "bg": "Contesting for ONICHA WEST under APP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -5789,12 +5789,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE",
           "bg": "Contesting for ONICHA WEST under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5807,12 +5807,12 @@
           "edu": "FIRST SCH LEAVING CERT SENIOR SECONDARY SCH CERT BSC, EBONYI STATE UNIVERSITY",
           "bg": "Contesting for ONICHA WEST under APC.",
           "scores": [
-            62,
-            51,
-            58,
-            53,
-            56,
-            66
+            70,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5825,12 +5825,12 @@
           "edu": "FSLC WAEC B.SC",
           "bg": "Contesting for ONICHA WEST under DLA.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5843,12 +5843,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for ONICHA WEST under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5861,12 +5861,12 @@
           "edu": "FSLC gce",
           "bg": "Contesting for ONICHA WEST under PDP.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            60,
-            60
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5879,12 +5879,12 @@
           "edu": "FLSC SSCE DEGREE",
           "bg": "Contesting for ONICHA WEST under PRP.",
           "scores": [
-            64,
-            50,
-            60,
-            48,
-            61,
-            64
+            90,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -5897,12 +5897,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for ONICHA WEST under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5915,12 +5915,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for OHAUKWU NORTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -5933,12 +5933,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC",
           "bg": "Contesting for OHAUKWU NORTH under ADC.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            62,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5951,12 +5951,12 @@
           "edu": "FSLC nec B.SC",
           "bg": "Contesting for I OHAUKWU NORTH under APC.",
           "scores": [
-            62,
-            51,
-            58,
-            53,
-            56,
-            66
+            80,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -5969,12 +5969,12 @@
           "edu": "FSLC NECO B.SC",
           "bg": "Contesting for OHAUKWU NORTH under APGA.",
           "scores": [
-            65,
-            50,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -5987,12 +5987,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for OHAUKWU NORTH under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6005,12 +6005,12 @@
           "edu": "C FSLC WAEC BSc",
           "bg": "Contesting for OHAUKWU NORTH under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -6023,12 +6023,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Contesting for OHAUKWU NORTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -6041,12 +6041,12 @@
           "edu": "FSLC SSCE ND",
           "bg": "Contesting for OHAUKWU NORTH under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6059,12 +6059,12 @@
           "edu": "FSLC SSCE LLB",
           "bg": "Contesting for OHAUKWU NORTH under NDC.",
           "scores": [
-            61,
-            61,
-            55,
-            47,
-            59,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -6077,12 +6077,12 @@
           "edu": "FSLC SSCE LL.B, B.L",
           "bg": "Contesting for OHAUKWU NORTH under PDP.",
           "scores": [
-            61,
-            64,
-            59,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -6095,12 +6095,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for OHAUKWU NORTH under SDP.",
           "scores": [
-            59,
-            51,
-            51,
-            50,
-            57,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6113,12 +6113,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for OHAUKWU SOUTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -6131,12 +6131,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE ND",
           "bg": "Contesting for OHAUKWU SOUTH under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6149,12 +6149,12 @@
           "edu": "FIRST SCH LEAVING CERT WAEC/NECO BSC MSC",
           "bg": "Contesting for OHAUKWU SOUTH under APC.",
           "scores": [
-            72,
-            51,
+            90,
             70,
-            53,
-            71,
-            59
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6167,12 +6167,12 @@
           "edu": "FSLC WAEC B.SC",
           "bg": "Contesting for I OHAUKWU SOUTH under APGA.",
           "scores": [
-            65,
-            50,
-            58,
-            51,
-            62,
-            61
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -6185,12 +6185,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for OHAUKWU SOUTH under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -6203,12 +6203,12 @@
           "edu": "FSLC WAEC BSc",
           "bg": "Contesting for OHAUKWU SOUTH under LP.",
           "scores": [
-            62,
-            51,
-            61,
-            50,
-            52,
-            74
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -6221,12 +6221,12 @@
           "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Contesting for OHAUKWU SOUTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -6239,12 +6239,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for OHAUKWU SOUTH under NNPP.",
           "scores": [
-            55,
-            52,
-            51,
-            50,
-            49,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6257,12 +6257,12 @@
           "edu": "FSLC WAEC B ENGR",
           "bg": "Contesting for OHAUKWU SOUTH under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            61,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -6275,12 +6275,12 @@
           "edu": "FSLC SSCE/WAEC LL.B, B.L",
           "bg": "Contesting for OHAUKWU SOUTH under PDP.",
           "scores": [
-            61,
-            64,
-            59,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -6293,12 +6293,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for OHAUKWU SOUTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         }
       ]

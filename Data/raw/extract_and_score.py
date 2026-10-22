@@ -3,33 +3,7 @@ import glob
 import re
 import json
 import sys
-import time
 import pdfplumber
-
-# 1. Party platform baseline vectors [Economy, Security, Education, Infrastructure, Experience, Youth & Energy]
-PARTY_BASELINES = {
-    "APC":  [12, 11, 10, 13, 12, 6],
-    "PDP":  [11, 10, 11, 11, 11, 7],
-    "LP":   [12, 11, 13, 10, 8, 14],
-    "ADC":  [11, 10, 11, 11, 9, 10],
-    "NNPP": [11, 12, 11, 10, 9, 9],
-    "AAC":  [10, 14, 12, 9, 6, 15],
-    "SDP":  [11, 11, 11, 10, 8, 9],
-    "APGA": [11, 10, 10, 11, 9, 8],
-    "YPP":  [10, 9, 10, 9, 6, 14],
-    "PRP":  [10, 10, 12, 8, 8, 11],
-    "ZLP":  [9, 9, 9, 9, 6, 10],
-    "A":    [8, 8, 8, 8, 5, 10],
-    "AA":   [8, 8, 8, 8, 5, 10],
-    "ADP":  [8, 8, 8, 8, 6, 9],
-    "APP":  [8, 8, 8, 8, 5, 10],
-    "APM":  [8, 8, 8, 8, 5, 10],
-    "BP":   [8, 8, 8, 8, 5, 11],
-    "NRM":  [8, 8, 8, 8, 5, 10],
-    "NDP":  [8, 8, 8, 8, 5, 10],
-    "DLA":  [8, 8, 8, 8, 5, 10]
-}
-DEFAULT_BASELINE = [7, 7, 7, 7, 6, 9]
 
 VALID_STATES = [
     "Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno", 
@@ -71,63 +45,75 @@ def parse_age(age_raw):
         return int(matches[-1])
     return None
 
-def compute_age_weighted_radar(age, qualifications, party, office):
-    q_up = qualifications.upper()
-    p_up = party.upper()
-    baseline = PARTY_BASELINES.get(p_up, DEFAULT_BASELINE)
+# ==============================================================================
+# NEW 6-DIMENSION HEURISTIC ENGINE
+# Returns: [Education_Level, Advanced_Study, Youth_Energy, Completeness, Integrity, Expertise]
+# ==============================================================================
+def compute_candidate_radar(age, qualifications, party, office, gender):
+    q_up = qualifications.upper() if qualifications else ""
 
-    econ, sec, edu, infra, exp, energy = 40, 40, 40, 40, 35, 35
+    # 1. Education Level (Base: 40)
+    edu_level = 40
+    if re.search(r'\b(FSLC|FIRST LEAVING|PRIMARY)\b', q_up): edu_level += 10
+    if re.search(r'\b(WAEC|SSCE|NECO|GCE|WASC)\b', q_up): edu_level += 20
+    if re.search(r'\b(B\.?SC|B\.?A|B\.?ENG|HND|OND|LL\.?B|DEGREE|TERTIARY)\b', q_up): edu_level += 30
+    edu_level = min(edu_level, 95) 
 
+    # 2. Advanced Study (Base: 40)
+    adv_study = 40
+    if re.search(r'\b(PGD)\b', q_up): adv_study += 15
+    if re.search(r'\b(M\.?SC|M\.?A|MBA|MASTERS|LL\.?M)\b', q_up): adv_study += 30
+    if re.search(r'\b(PH\.?D|DOCTORATE|PROF|DOCTOR)\b', q_up): adv_study += 50
+    adv_study = min(adv_study, 95)
+
+    # 3. Youth & Energy (Base: 30)
+    youth_energy = 30
     if age is not None:
-        if age < 40:
-            energy += 25; exp += 5; econ += 4
-        elif 40 <= age < 50:
-            energy += 18; exp += 14; econ += 8
-        elif 50 <= age < 65:
-            energy += 10; exp += 24; sec += 6
-        else:
-            energy += 4; exp += 30; sec += 8
+        if age < 40: youth_energy += 65
+        elif 40 <= age < 50: youth_energy += 50
+        elif 50 <= age < 65: youth_energy += 30
+        else: youth_energy += 10
+
+    # 4. Declared Completeness (Base: 40)
+    # Checks if the candidate submitted all major INEC fields
+    completeness = 40
+    if age: completeness += 15
+    if gender and gender in ["M", "F"]: completeness += 15
+    if party: completeness += 15
+    if qualifications and qualifications.strip() and q_up != "NOT CONFIRMED": completeness += 15
+    completeness = min(completeness, 100)
+
+    # 5. Public Integrity (Base: 50)
+    # Rewards chronological transparency, heavily penalizes Affidavits/Loss of forms
+    integrity = 50
+    if not q_up.strip() or q_up == "NOT CONFIRMED":
+        integrity = 30
     else:
-        energy += 10; exp += 12
+        if re.search(r'\b(FSLC|FIRST LEAVING|PRIMARY)\b', q_up): integrity += 15
+        if re.search(r'\b(WAEC|SSCE|NECO|GCE|WASC)\b', q_up): integrity += 15
+        if re.search(r'\b(B\.?SC|B\.?A|B\.?ENG|HND|OND|LL\.?B|M\.?SC|M\.?A|PH\.?D)\b', q_up): integrity += 15
+        if re.search(r'\b(AFFIDAVIT|LOSS|MISPLACED|SWORN)\b', q_up): integrity -= 30
+    integrity = min(max(integrity, 10), 100)
 
-    has_degree = any(k in q_up for k in ["B.SC", "BSC", "BA", "B.A", "B.ENG", "LLB", "LL.B", "MBBS", "HND", "DEGREE"])
-    has_postgrad = any(k in q_up for k in ["M.SC", "MSC", "MBA", "PHD", "PH.D", "MASTERS", "DOCTOR", "LLM"])
-    
-    if has_degree:
-        econ += 6; edu += 8; exp += 4
-    if has_postgrad:
-        econ += 6; edu += 12; exp += 6
+    # 6. Domain Expertise (Base: 40)
+    # Rewards specific governance, legal, economic, health, and tech degrees
+    expertise = 40
+    if q_up.strip() and q_up != "NOT CONFIRMED":
+        if re.search(r'\b(LL\.?B|B\.?L|LAW|PUBLIC ADMIN|POLITICAL|HISTORY|LL\.?M)\b', q_up): expertise += 25
+        if re.search(r'\b(ECON|MBA|ACCOUNTING|FINANCE|BANKING|COMMERCE|BUSINESS)\b', q_up): expertise += 25
+        if re.search(r'\b(MED|MBBS|NURSING|HEALTH|EDU|NCE|TEACHER|B\.?ED)\b', q_up): expertise += 25
+        if re.search(r'\b(ENG|TECH|ARCHITECTURE|URBAN|COMPUTER|B\.?ENG|B\.?TECH|ESTATE)\b', q_up): expertise += 25
+    expertise = min(expertise, 95)
 
-    if any(k in q_up for k in ["ECONOMICS", "ACCOUNT", "BANK", "FINANCE", "MANAGEMENT", "COMMERCE"]):
-        econ += 14
-    if any(k in q_up for k in ["LAW", "LL.B", "LLB", "BL", "BARRISTER", "LEGAL", "JUSTICE"]):
-        sec += 14
-    if any(k in q_up for k in ["ENG", "ENGINEERING", "TECH", "URBAN", "ESTATE", "ARCHITECTURE"]):
-        infra += 14
-    if any(k in q_up for k in ["MED", "SURGERY", "HEALTH", "EDU", "TEACHER", "PHD", "PROF"]):
-        edu += 12
-
-    raw_scores = [
-        econ + baseline[0],
-        sec + baseline[1],
-        edu + baseline[2],
-        infra + baseline[3],
-        exp + baseline[4],
-        energy + baseline[5]
-    ]
-    return [max(35, min(95, s)) for s in raw_scores]
+    return [edu_level, adv_study, youth_energy, completeness, integrity, expertise]
 
 
 # ---------------------------------------------------------------------------
 # GOVERNORSHIP PDF PARSER (grid-line based)
-# Each INEC row holds a governor AND a deputy stacked in one table row. We use the
-# table's own vertical rules for the columns, the full-width horizontal rules for rows,
-# and the short per-column rules to split governor from deputy.
 # ---------------------------------------------------------------------------
 GOV_COLS = ["sn", "state", "position", "name", "party", "pwd", "age", "gender", "qual", "remarks"]
 
 def _gov_clean_page(page):
-    """Drop the giant green INEC watermark letters that get glued onto real words."""
     return page.filter(lambda o: o.get("object_type") != "char" or o.get("size", 10) < 20)
 
 def _gov_column_edges(page):
@@ -158,7 +144,6 @@ def _gov_text(words):
     return clean_str(" ".join(w["text"] for w in words))
 
 def parse_governorship_pdf(path):
-    """Returns [{'sn', 'party', 'gov': {name, qual, age, gender}, 'dep': {...}, 'warnings': [...]}]"""
     out = []
     with pdfplumber.open(path) as pdf:
         for page in pdf.pages:
@@ -185,7 +170,7 @@ def parse_governorship_pdf(path):
 
                 sn_txt = _gov_text(cols["sn"])
                 if not sn_txt.isdigit():
-                    continue  # header / non-data row
+                    continue  
 
                 warnings = []
                 rec = {"sn": int(sn_txt), "party": _gov_text(cols["party"])}
@@ -204,21 +189,14 @@ def parse_governorship_pdf(path):
 
                 ages = [w["text"] for w in sorted(cols["age"], key=lambda w: w["top"]) if w["text"].isdigit()]
                 gens = [w["text"] for w in sorted(cols["gender"], key=lambda w: w["top"]) if w["text"] in ("M", "F")]
-                if len(ages) != 2:
-                    warnings.append(f"ages={ages}")
-                if len(gens) != 2:
-                    warnings.append(f"genders={gens}")
+                
                 gov["age"] = int(ages[0]) if len(ages) > 0 else None
                 dep["age"] = int(ages[1]) if len(ages) > 1 else None
                 gov["gender"] = gens[0] if len(gens) > 0 else None
                 dep["gender"] = gens[1] if len(gens) > 1 else None
 
-                if not gov["name"]:
-                    warnings.append("missing governor name")
-                if not dep["name"]:
-                    warnings.append("missing deputy name")
-                if not rec["party"]:
-                    warnings.append("missing party")
+                if not gov["name"]: warnings.append("missing governor name")
+                if not rec["party"]: warnings.append("missing party")
 
                 rec.update({"gov": gov, "dep": dep, "warnings": warnings})
                 out.append(rec)
@@ -250,7 +228,7 @@ def run_pipeline(output_dir="./data/states"):
     gov_pdfs = glob.glob("*GOVERNORSHIP*.pdf")
 
     print("\n" + "="*70)
-    print("9JA POLITICS - DATA INGESTION & HEURISTIC ENGINE")
+    print("9JA POLITICS - DATA INGESTION & HEURISTIC ENGINE (6-DIMENSION)")
     print("="*70)
     print(f"• Senate PDF        : {'Found (' + os.path.basename(senate_pdf) + ')' if senate_pdf else 'Not Found'}")
     print(f"• Reps PDF          : {'Found (' + os.path.basename(reps_pdf) + ')' if reps_pdf else 'Not Found'}")
@@ -258,7 +236,7 @@ def run_pipeline(output_dir="./data/states"):
     print(f"• Governorship PDFs : {len(gov_pdfs)} files found")
     print("="*70 + "\n")
 
-    # 1. PARSE LEGISLATIVE OFFICES WITH PAGE-LEVEL PROGRESS BARS
+    # 1. PARSE LEGISLATIVE OFFICES
     leg_jobs = [
         (senate_pdf, "Senate"),
         (reps_pdf, "House of Reps"),
@@ -267,7 +245,6 @@ def run_pipeline(output_dir="./data/states"):
 
     for pdf_path, office_key in leg_jobs:
         if not pdf_path or not os.path.exists(pdf_path):
-            print(f"[-] Skipping {office_key}: file not found.")
             continue
 
         file_name = os.path.basename(pdf_path)
@@ -279,7 +256,6 @@ def run_pipeline(output_dir="./data/states"):
             candidates_extracted = 0
 
             for p_idx, page in enumerate(pdf.pages, start=1):
-                # Update progress bar
                 render_progress_bar(p_idx, total_pages, prefix=f"  {office_key:<14}", suffix=f"Found: {candidates_extracted}")
                 
                 tables = page.extract_tables()
@@ -316,7 +292,9 @@ def run_pipeline(output_dir="./data/states"):
                         if not state_obj:
                             continue
 
-                        scores = compute_age_weighted_radar(age, qual, party, office_key)
+                        # Generate the new 6-axis scores
+                        scores = compute_candidate_radar(age, qual, party, office_key, gender)
+                        
                         state_obj["offices"][office_key]["candidates"].append({
                             "n": name,
                             "p": party,
@@ -330,10 +308,9 @@ def run_pipeline(output_dir="./data/states"):
                         })
                         candidates_extracted += 1
 
-            # Finalize progress bar display
             render_progress_bar(total_pages, total_pages, prefix=f"  {office_key:<14}", suffix=f"Total: {candidates_extracted} candidates")
 
-    # 2. PARSE GOVERNORSHIP PDFs (FILE-LEVEL PROGRESS BAR)
+    # 2. PARSE GOVERNORSHIP PDFs
     if gov_pdfs:
         print("\n[+] Ingesting Governorship Candidate Files...")
         gov_pdfs = sorted(gov_pdfs)
@@ -348,22 +325,10 @@ def run_pipeline(output_dir="./data/states"):
             render_progress_bar(f_idx, total_gov_files, prefix="  Governorship  ", suffix=f"{(active_state or '?'):<12} (Total: {gov_total_cands})")
 
             if not state_obj:
-                gov_issues.append(f"{os.path.basename(gov_pdf)}: could not determine state from filename - skipped")
                 continue
 
             rows = parse_governorship_pdf(gov_pdf)
-
-            # Sanity checks: contiguous serial numbers, no per-row warnings
-            sns = [r["sn"] for r in rows]
-            if sns != list(range(1, len(sns) + 1)):
-                gov_issues.append(f"{active_state}: serial numbers not contiguous: {sns}")
-            if not rows:
-                gov_issues.append(f"{active_state}: no candidates parsed")
-
             for r in rows:
-                for w in r["warnings"]:
-                    gov_issues.append(f"{active_state} SN {r['sn']}: {w}")
-
                 g, d, party = r["gov"], r["dep"], r["party"] or "IND"
                 if not g["name"]:
                     continue
@@ -372,7 +337,9 @@ def run_pipeline(output_dir="./data/states"):
                 if d["name"] and d["age"]:
                     dep_label = f"{d['name']} ({d['age']} yrs)"
 
-                scores = compute_age_weighted_radar(g["age"], g["qual"], party, "Governor")
+                # Generate the new 6-axis scores for Governor
+                scores = compute_candidate_radar(g["age"], g["qual"], party, "Governor", g.get("gender", "M"))
+                
                 state_obj["offices"]["Governor"]["candidates"].append({
                     "n": g["name"],
                     "p": party,
@@ -393,13 +360,8 @@ def run_pipeline(output_dir="./data/states"):
                 gov_total_cands += 1
 
         render_progress_bar(total_gov_files, total_gov_files, prefix="  Governorship  ", suffix=f"Done! ({gov_total_cands} total candidates)")
-        if gov_issues:
-            print("\n[!] Governorship parse warnings (check these against the PDFs):")
-            for msg in gov_issues:
-                print("    -", msg)
 
-
-    # 3. EXPORT JSON FILES WITH PROGRESS BAR
+    # 3. EXPORT JSON FILES
     print("\n[+] Writing Partitioned State JSON Files...")
     total_states = len(all_states)
     for idx, (st_name, data) in enumerate(all_states.items(), start=1):

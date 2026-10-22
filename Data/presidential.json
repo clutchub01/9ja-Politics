@@ -6,16 +6,24 @@
             "p": "APC",
             "age": "74",
             "gender": "M",
-            "rm": "Kashim Shettima",
-            "edu": "B.Sc Accounting",
-            "bg": "Incumbent President. Former Governor of Lagos State.",
+            "rm": "Kashim Shettima (60)",
+            "edu": "B.Sc Accounting (Chicago State University, 1979; primary/secondary certificates unsubmitted in INEC filing)",
+            "bg": "Incumbent President (2023–present); Governor of Lagos State (1999–2007). Enacted FX unification and petrol subsidy removal; disbursed N192.89bn via NELFUND to 1.5m+ students; EFCC recovered N1.233trn with 10,872 convictions in 34 months. Public debt rose 90.9% to N166.79trn by June 2026 (N5.28trn H1 2026 domestic debt service). Subject of 2023 US court CSU discovery and June 2026 Kano Federal High Court suit (FHC/K/CS/312/2026) over certificate discrepancies.",
             "scores": [
-                85,
-                75,
                 70,
-                88,
+                40,
+                40,
+                85,
+                45,
+                65
+            ],
+            "research_scores": [
+                62,
+                68,
+                76,
+                82,
                 95,
-                45
+                48
             ]
         },
         {
@@ -24,15 +32,23 @@
             "age": "79",
             "gender": "M",
             "rm": "Rotimi Amaechi",
-            "edu": "GCE MASTERS",
-            "bg": "Former Vice President. 2023 Presidential Candidate.",
+            "edu": "GCE, Diploma in Law, Master's Degree",
+            "bg": "Vice President of Nigeria (1999–2007) and former Chair of the National Economic Council overseeing telecoms and privatization reforms; 2023 PDP Presidential candidate who joined ADC for 2027. In October 2026, EFCC reopened its investigation into a 2006 corruption report and 2010 US Senate subcommittee findings following a formal petition.",
             "scores": [
-                82,
-                70,
-                72,
                 75,
+                70,
+                40,
+                100,
+                55,
+                65
+            ],
+            "research_scores": [
+                78,
+                65,
+                68,
+                74,
                 90,
-                42
+                46
             ]
         },
         {
@@ -40,16 +56,24 @@
             "p": "NDC",
             "age": "65",
             "gender": "M",
-            "rm": "Rabiu Kwankwaso",
-            "edu": "FSLC WASC/GCE B.A Philosophy",
-            "bg": "Former Governor of Anambra State. 2023 Presidential Candidate.",
+            "rm": "Rabiu Kwankwaso (69)",
+            "edu": "FSLC, WASC/GCE, B.A. (Hons) Philosophy (University of Nigeria, Nsukka)",
+            "bg": "Governor of Anambra State (2006–2014); 2023 LP Presidential candidate. Under ANIDS, built 800km+ roads without state borrowing, raised Anambra from 26th to 1st in WAEC, deployed 30,000+ computers to 500+ schools, built COOUTH Teaching Hospital, won $1m Gates Foundation immunization grant, and left $500m equivalent in savings/investments. Signed a July 2026 single 4-year term accord with Kwankwaso. Named in 2021 Pandora Papers for undeclared offshore entities and foreign accounts.",
             "scores": [
-                80,
-                68,
-                75,
-                70,
-                82,
-                55
+                95,
+                45,
+                40,
+                100,
+                65,
+                65
+            ],
+            "research_scores": [
+                88,
+                72,
+                92,
+                84,
+                84,
+                64
             ]
         },
         {
@@ -58,49 +82,23 @@
             "age": "58",
             "gender": "M",
             "rm": "Lawal Musa Daura",
-            "edu": "WAEC-GCE B.Sc Electrical Engineering",
-            "bg": "Incumbent Governor of Oyo State.",
+            "edu": "FSLC, WAEC-GCE, B.Sc Electrical Engineering (University of Lagos)",
+            "bg": "Incumbent Governor of Oyo State (2019–present); emerged APM Presidential candidate on May 30, 2026 in Ibadan. Executed Oyo Roadmap for Accelerated Development, expanding state IGR without raising informal taxes, upgrading urban transport terminals, abolishing public school levies, and expanding agribusiness hubs.",
             "scores": [
-                75,
-                65,
-                70,
-                82,
-                78,
-                65
-            ]
-        },
-        {
-            "n": "Donald Duke",
-            "p": "PRP",
-            "age": "65",
-            "gender": "M",
-            "rm": "Kabiru Rabiu",
-            "edu": "LL.B Law",
-            "bg": "Former Governor of Cross River State.",
-            "scores": [
-                70,
-                68,
-                65,
-                75,
-                80,
-                55
-            ]
-        },
-        {
-            "n": "Onor Sandy Ojang",
-            "p": "PDP",
-            "age": "58",
-            "gender": "M",
-            "rm": "Babangida Umaru",
-            "edu": " GCE BA Ph.D",
-            "bg": "Former Senator, Cross River Central.",
-            "scores": [
-                65,
+                95,
+                45,
                 60,
-                75,
-                65,
+                100,
+                95,
+                65
+            ],
+            "research_scores": [
+                82,
                 70,
-                60
+                80,
+                86,
+                82,
+                85
             ]
         },
         {
@@ -108,16 +106,24 @@
             "p": "SDP",
             "age": "54",
             "gender": "M",
-            "rm": "Usman Bugaje",
-            "edu": "FLSC SSCE LL.B Law",
-            "bg": "Lawyer and Media Proprietor.",
+            "rm": "Usman M. Bugaje",
+            "edu": "FSLC (St. Stephen Primary Ondo), SSCE (St. Joseph College Ondo), LL.B Law (Obafemi Awolowo University), B.L (Nigerian Law School), New York & California Bar, Fellow Chartered Institute of Arbitrators",
+            "bg": "International investment lawyer, Founder of Adewole Adebayo & Co. (2002) and KAFTAN TV (2016, training 1,000+ young broadcasters). Served as UN/ECOWAS Commissioner on Liberia's Truth and Reconciliation Commission (2006); Chairman of SAI Phytochemical and Agbede Agric Projects; sponsors 2,000+ tertiary students. Authored the 'Farewell to Poverty and Insecurity' blueprint targeting 30m jobs and 20m out-of-school children.",
             "scores": [
-                68,
-                72,
-                65,
-                60,
+                95,
                 55,
-                68
+                60,
+                100,
+                95,
+                90
+            ],
+            "research_scores": [
+                76,
+                84,
+                78,
+                68,
+                60,
+                92
             ]
         },
         {
@@ -126,15 +132,73 @@
             "age": "55",
             "gender": "M",
             "rm": "Haruna Garba Magashi",
-            "edu": "FSLC WAEC MASTER'S DEGREE",
-            "bg": "Businessperson, Media Publisher and Activist.",
+            "edu": "FSLC, WAEC, B.Sc Geography & Regional Planning (UNILAG), Master's in Public Administration (Columbia University)",
+            "bg": "Founder of Sahara Reporters, human rights and pro-democracy activist, and 2019/2023 AAC Presidential candidate. Campaigns on anti-corruption, constitutional overhaul, living wages, and civil liberties.",
             "scores": [
+                95,
+                70,
                 60,
+                100,
+                90,
+                65
+            ],
+            "research_scores": [
+                64,
+                78,
+                72,
+                58,
+                52,
+                88
+            ]
+        },
+        {
+            "n": "Donald Duke",
+            "p": "PRP",
+            "age": "65",
+            "gender": "M",
+            "rm": "Kabiru Rabiu",
+            "edu": "FSLC, WASC, LL.B Law (Ahmadu Bello University), B.L, LL.M Business Law & Admiralty (University of Pennsylvania)",
+            "bg": "Governor of Cross River State (1999–2007) and former Commissioner for Finance and Planning. Led urban renewal in Calabar, Obudu Ranch expansion, and the Tinapa Free Zone & Resort.",
+            "scores": [
+                95,
+                70,
+                40,
+                100,
+                90,
+                90
+            ],
+            "research_scores": [
                 75,
-                68,
-                55,
-                50,
-                75
+                70,
+                72,
+                80,
+                80,
+                78
+            ]
+        },
+        {
+            "n": "Onor Sandy Ojang",
+            "p": "PDP",
+            "age": "58",
+            "gender": "M",
+            "rm": "Babangida Umaru",
+            "edu": "FSLC, GCE, B.A. History, Ph.D History (University of Calabar)",
+            "bg": "Professor of History, former Senator for Cross River Central (2019–2023), former Etung LGA Chairman, and 2023 PDP Cross River Governorship candidate.",
+            "scores": [
+                95,
+                90,
+                60,
+                100,
+                95,
+                65
+            ],
+            "research_scores": [
+                66,
+                65,
+                78,
+                65,
+                72,
+                80
             ]
         },
         {
@@ -143,15 +207,48 @@
             "age": "66",
             "gender": "M",
             "rm": "Khalid Hassan",
-            "edu": "WEST AFRICAN SCHOOL CERTIFICATE BACHELOR OF LAWS",
-            "bg": "Veteran Labour Union Leader.",
+            "edu": "WASC, LL.B Bachelor of Laws, B.L, mni (NIPSS Kuru)",
+            "bg": "Lawyer, veteran NUPENG trade unionist, former National Chairman of the Labour Party (2004–2014), and National Chairman / 2027 consensus Presidential candidate of the Zenith Labour Party (ZLP), OFR.",
             "scores": [
-                62,
+                85,
+                55,
+                40,
+                100,
+                80,
+                65
+            ],
+            "research_scores": [
+                68,
+                70,
+                66,
                 60,
-                65,
+                68,
+                82
+            ]
+        },
+        {
+            "n": "Adenuga Sunday Oluwafemi",
+            "p": "BP",
+            "age": "51",
+            "gender": "M",
+            "rm": "Usman Turaki Mustapha",
+            "edu": "FSLC, SSCE, Master of Science (M.Sc)",
+            "bg": "Entrepreneur and 2023/2027 Boot Party (BP) Presidential nominee.",
+            "scores": [
+                95,
+                70,
+                60,
+                100,
+                95,
+                65
+            ],
+            "research_scores": [
+                60,
                 58,
-                65,
-                50
+                62,
+                58,
+                50,
+                75
             ]
         },
         {
@@ -161,12 +258,20 @@
             "gender": "F",
             "rm": "Uchenna Anthony Chukwuemeka",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "2027 National Democratic Party (NDP) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -178,29 +283,20 @@
             "gender": "M",
             "rm": "Shehu Hussaini",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "National Chairman and 2027 Action Alliance (AA) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
-                45,
-                60
-            ]
-        },
-        {
-            "n": "Adenuga Sunday Oluwafemi",
-            "p": "BP",
-            "age": "51",
-            "gender": "M",
-            "rm": "Usman Turaki Mustapha",
-            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MASTER OF SCIENCE",
-            "bg": "Party Nominee.",
-            "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -212,12 +308,20 @@
             "gender": "M",
             "rm": "Chinazam Ike",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "Youth advocate and 2027 Action Democratic Party (ADP) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -229,12 +333,20 @@
             "gender": "M",
             "rm": "Bintu Konto",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "Legislative and policy specialist; 2027 Labour Party (LP) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -246,12 +358,20 @@
             "gender": "F",
             "rm": "Nasir Muhammed Sulaiman",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "Film producer, actress, and 2027 National Rescue Movement (NRM) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -263,12 +383,20 @@
             "gender": "M",
             "rm": "Ofordile Peace Egobia",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "2027 Action Peoples Party (APP) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -280,12 +408,20 @@
             "gender": "M",
             "rm": "Nafisat Usaku Abubakar",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "2027 Democratic Leadership Alliance (DLA) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]
@@ -297,12 +433,20 @@
             "gender": "M",
             "rm": "Patience Ndidi Key",
             "edu": "Not confirmed",
-            "bg": "Party Nominee.",
+            "bg": "2027 Young Progressives Party (YPP) Presidential nominee.",
             "scores": [
-                55,
-                55,
-                55,
-                55,
+                40,
+                40,
+                30,
+                70,
+                30,
+                40
+            ],
+            "research_scores": [
+                50,
+                50,
+                50,
+                50,
                 45,
                 60
             ]

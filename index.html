@@ -1291,8 +1291,17 @@
 
         <div class="compare-box radar-box">
           <div class="radar-header">
-            <h3>Compare beyond the campaign promises (Radar Graph)</h3>
-            <span class="eyebrow">Up to 3 candidates overlaid</span>
+            <div>
+              <h3>Compare beyond the campaign promises (Radar Graph)</h3>
+              <span class="eyebrow" id="presRadarModeCaption">Showing: Governance &amp; Track-Record Research</span>
+            </div>
+            <!-- New Toggle Switch -->
+            <div class="tabs" role="group" aria-label="Select Radar Scoring Model">
+              <button type="button" class="tab" id="modeResearchBtn" aria-selected="true">Governance &amp;
+                Record</button>
+              <button type="button" class="tab" id="modeQualificationBtn" aria-selected="false">INEC
+                Qualifications</button>
+            </div>
           </div>
           <div class="radar-wrap radar-canvas-wrap">
             <canvas id="radarChart" aria-label="Candidate Comparison Radar Graph"></canvas>
@@ -1740,14 +1749,58 @@
     var presScoreBreakdown = document.getElementById("presScoreBreakdown");
     var radarChart = null;
 
-    var RADAR_LABELS = [
-      ["Economy &", "Jobs"],
-      ["Security &", "Rule of Law"],
-      ["Education &", "Health"],
-      ["Infrastructure", "& Power"],
-      ["Executive", "Experience"],
-      ["Youth &", "Energy"]
+    // Define both sets of labels
+    var RADAR_LABELS_QUALIFICATION = [
+      ["Education", "Level"], ["Advanced", "Study"], ["Youth &", "Energy"],
+      ["Declared", "Completeness"], ["Public", "Integrity"], ["Domain", "Expertise"]
     ];
+
+    var RADAR_LABELS_RESEARCH = [
+      ["Economy &", "Jobs"], ["Security &", "Rule of Law"], ["Education &", "Health"],
+      ["Infrastructure", "& Power"], ["Executive", "Experience"], ["Youth &", "Energy"]
+    ];
+
+    // Set default mode
+    var presRadarMode = "research";
+    var RADAR_LABELS = RADAR_LABELS_QUALIFICATION; // Keep for down-ballot fallback
+
+    function getActivePresLabels() {
+      return presRadarMode === "research" ? RADAR_LABELS_RESEARCH : RADAR_LABELS_QUALIFICATION;
+    }
+
+    function getCandidateScoresForMode(cand, mode) {
+      if (!cand) return [50, 50, 50, 50, 50, 50];
+      if (mode === "research" && cand.research_scores) {
+        return cand.research_scores; // Reads the new research_scores array from JSON
+      }
+      return cand.scores || cand.radar || [50, 50, 50, 50, 50, 50]; // Reads INEC scores
+    }
+
+    // Wire up the buttons
+    var modeResearchBtn = document.getElementById("modeResearchBtn");
+    var modeQualificationBtn = document.getElementById("modeQualificationBtn");
+    var presRadarModeCaption = document.getElementById("presRadarModeCaption");
+
+    if (modeResearchBtn && modeQualificationBtn) {
+      modeResearchBtn.onclick = function () {
+        presRadarMode = "research";
+        modeResearchBtn.setAttribute("aria-selected", "true");
+        modeQualificationBtn.setAttribute("aria-selected", "false");
+        presRadarModeCaption.textContent = "Showing: Governance & Track-Record Research";
+        drawCompare();
+      };
+
+      modeQualificationBtn.onclick = function () {
+        presRadarMode = "qualification";
+        modeQualificationBtn.setAttribute("aria-selected", "true");
+        modeResearchBtn.setAttribute("aria-selected", "false");
+        presRadarModeCaption.textContent = "Showing: INEC Form EC9 Qualifications";
+        drawCompare();
+      };
+    }
+
+    // Update drawCompare to use the active mode
+
 
     var FIELDS = [
       ["Party", "p"],
@@ -1880,18 +1933,16 @@
     function drawCompare() {
       if (!CANDS || CANDS.length === 0) return;
 
-      sel = sel.filter(function (i) {
-        return typeof i === "number" && i >= 0 && i < CANDS.length;
-      });
+      sel = sel.filter(function (i) { return typeof i === "number" && i >= 0 && i < CANDS.length; });
+      if (sel.length === 0) { sel = [0, 1, 2].filter(function (i) { return i < CANDS.length; }); }
 
-      if (sel.length === 0) {
-        sel = [0, 1, 2].filter(function (i) { return i < CANDS.length; });
-      }
+      var activeLabels = getActivePresLabels();
 
       var datasets = sel.map(function (idx) {
         var c = CANDS[idx];
         var color = c.chartColor || ["#008751", "#1d4ed8", "#dc2626", "#d97706", "#9333ea", "#0891b2"][idx % 6];
-        var scores = c.scores || c.radar || [50, 50, 50, 50, 50, 50];
+        var scores = getCandidateScoresForMode(c, presRadarMode); // Fetch the correct array
+
         return {
           label: c.n + " (" + c.p + ")",
           data: scores,
@@ -1909,55 +1960,48 @@
 
       if (radarChart) {
         radarChart.options = getRadarChartOptions();
-        radarChart.data.labels = RADAR_LABELS;
+        radarChart.data.labels = activeLabels;
         radarChart.data.datasets = datasets;
         radarChart.update();
       } else {
         var ctx = document.getElementById("radarChart").getContext("2d");
-        radarChart = new Chart(ctx, {
-          type: "radar",
-          data: {
-            labels: RADAR_LABELS,
-            datasets: datasets
-          },
-          options: getRadarChartOptions()
-        });
+        radarChart = new Chart(ctx, { type: "radar", data: { labels: activeLabels, datasets: datasets }, options: getRadarChartOptions() });
       }
 
-      renderScoreBreakdownStrip(presScoreBreakdown, RADAR_LABELS, CANDS, sel);
-
-      candCards.textContent = "";
-      sel.forEach(function (i) {
-        var c = CANDS[i];
-        if (!c) return;
-        var card = el("article", "cand-card");
-
-        var top = el("div", "cand-card-top");
-        var img = document.createElement("img");
-        var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
-        img.src = makePortraitSvg(ini, c.p);
-        img.alt = c.n + " portrait";
-        top.appendChild(img);
-
-        var titleBox = el("div", "cand-card-title");
-        titleBox.appendChild(el("h3", "", c.n));
-        titleBox.appendChild(el("span", "party-pill", "Party: " + c.p));
-        top.appendChild(titleBox);
-        card.appendChild(top);
-
-        var fieldsBox = el("div", "cand-fields");
-        FIELDS.forEach(function (f) {
-          var row = el("div", "cand-field");
-          row.appendChild(el("b", "", f[0]));
-          var val = c[f[1]] || "Not confirmed";
-          row.appendChild(el("span", "", val));
-          fieldsBox.appendChild(row);
-        });
-        card.appendChild(fieldsBox);
-
-        candCards.appendChild(card);
-      });
+      renderScoreBreakdownStrip(presScoreBreakdown, activeLabels, CANDS, sel, presRadarMode);
     }
+    candCards.textContent = "";
+    sel.forEach(function (i) {
+      var c = CANDS[i];
+      if (!c) return;
+      var card = el("article", "cand-card");
+
+      var top = el("div", "cand-card-top");
+      var img = document.createElement("img");
+      var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
+      img.src = makePortraitSvg(ini, c.p);
+      img.alt = c.n + " portrait";
+      top.appendChild(img);
+
+      var titleBox = el("div", "cand-card-title");
+      titleBox.appendChild(el("h3", "", c.n));
+      titleBox.appendChild(el("span", "party-pill", "Party: " + c.p));
+      top.appendChild(titleBox);
+      card.appendChild(top);
+
+      var fieldsBox = el("div", "cand-fields");
+      FIELDS.forEach(function (f) {
+        var row = el("div", "cand-field");
+        row.appendChild(el("b", "", f[0]));
+        var val = c[f[1]] || "Not confirmed";
+        row.appendChild(el("span", "", val));
+        fieldsBox.appendChild(row);
+      });
+      card.appendChild(fieldsBox);
+
+      candCards.appendChild(card);
+    });
+
 
     // 4. DOWN-BALLOT SECTION
     document.getElementById("viewPresBallotGuideBtn").onclick = function () {
@@ -2120,20 +2164,20 @@
 
       var officeAxes = {
         "Governor": [
-          ["State IGR", "& Jobs"], ["Education &", "Schools"], ["Primary", "Healthcare"],
-          ["State Roads", "& Power"], ["Security &", "Rule of Law"], ["Youth &", "Energy"]
+          ["Education", "Level"], ["Advanced", "Study"], ["Youth &", "Energy"],
+          ["Declared", "Completeness"], ["Public", "Integrity"], ["Domain", "Expertise"]
         ],
         "Senate": [
-          ["Bill", "Sponsorship"], ["Committee", "Oversight"], ["Budget", "Scrutiny"],
-          ["Constituency", "Reach"], ["Confirmation", "Rigor"], ["Youth &", "Energy"]
+          ["Education", "Level"], ["Advanced", "Study"], ["Youth &", "Energy"],
+          ["Declared", "Completeness"], ["Public", "Integrity"], ["Domain", "Expertise"]
         ],
         "House of Reps": [
-          ["Constituency", "Projects"], ["Local", "Representation"], ["Agency", "Oversight"],
-          ["Budget", "Scrutiny"], ["Town Hall", "Access"], ["Youth &", "Energy"]
+          ["Education", "Level"], ["Advanced", "Study"], ["Youth &", "Energy"],
+          ["Declared", "Completeness"], ["Public", "Integrity"], ["Domain", "Expertise"]
         ],
         "State Assembly": [
-          ["State Budget", "Check"], ["Local Council", "Autonomy"], ["State", "Lawmaking"],
-          ["Commissioner", "Screening"], ["Grassroots", "Access"], ["Youth &", "Energy"]
+          ["Education", "Level"], ["Advanced", "Study"], ["Youth &", "Energy"],
+          ["Declared", "Completeness"], ["Public", "Integrity"], ["Domain", "Expertise"]
         ]
       };
 
@@ -2199,23 +2243,52 @@
       topBanner.appendChild(el("span", "party-pill", off === "President" || off === "Senate" || off === "House of Reps" ? "Election Date: 16 Jan 2027" : "Election Date: 6 Feb 2027"));
       guideBox.appendChild(topBanner);
 
+      var GUIDE_BY_OFFICE = {
+        "President": {
+          controls: "The President heads the federal executive: proposes the national budget, appoints ministers (the Senate confirms), sets foreign policy, commands the armed forces, and signs or vetoes bills. Your state's schools, hospitals and state roads are run by your Governor, not the President.",
+          ask: "Ask how they will fund their promises in the national budget, what they will do on security, fuel prices and the exchange rate, and how they will report progress. Check each promise against what the federal government can actually do.",
+          ballot: "You vote once, for a party ticket that includes the President and the Vice President together."
+        },
+        "Governor": {
+          controls: "The Governor manages the state budget, state roads, basic education, primary healthcare, and land administration.",
+          ask: "Ask for a costed plan for state schools, clinics and roads, where the state revenue will come from, and how they will publish budget implementation reports. Governors run with a deputy, so check the running mate too.",
+          ballot: "You vote once, for a party ticket that includes the Governor and the Deputy Governor together."
+        },
+        "Senate": {
+          controls: "A Senator represents a senatorial district in the National Assembly: makes federal laws, approves the national budget, confirms ministers and ambassadors, and oversees federal agencies. Senators do not award road contracts directly.",
+          ask: "Ask which bills they will sponsor, which committees they want to join, how they will scrutinise the federal budget and agencies, and how often they will report back to the district.",
+          ballot: "You vote for one candidate to represent your senatorial district."
+        },
+        "House of Reps": {
+          controls: "A House of Representatives member speaks for a federal constituency: makes federal laws and money bills, oversees federal ministries and agencies, and can push constituency projects through the budget. They do not award contracts directly.",
+          ask: "Ask which federal projects they will track in the constituency, how they will publish what they sponsor and spend, and when they will hold town halls.",
+          ballot: "You vote for one candidate to represent your federal constituency."
+        },
+        "State Assembly": {
+          controls: "A State House of Assembly member represents a state constituency: makes state laws, approves the state budget, checks the Governor, confirms commissioners, and passes laws that affect local governments.",
+          ask: "Ask how they will scrutinise the state budget and the Governor's spending, what bills they will sponsor, and how they will keep local councils funded and accountable.",
+          ballot: "You vote for one candidate to represent your state constituency."
+        }
+      };
+
+      var g = GUIDE_BY_OFFICE[off] || GUIDE_BY_OFFICE["Governor"];
+      var where = off === "President" ? "Nigeria" : st;
+      var area = (dist && dist !== "Nationwide") ? dist : "your area";
+
       var guideSteps = [
         {
-          title: "1. What this office controls in " + st,
-          body: off === "Governor"
-            ? "The Governor manages the state budget, state roads, universal basic education, primary healthcare, and land administration."
-            : "Legislators in " + off + " do not award road contracts directly—their job is passing laws, approving budgets, and auditing the executive."
+          title: "1. What this office controls " + (off === "President" ? "nationwide" : "in " + st),
+          body: g.controls
         },
         {
           title: "2. Questions to ask before voting",
-          body: "Ask for verifiable past records in " + (dist || "your area") + ", how they will publish budget implementation reports, and when they will hold town halls."
+          body: g.ask + " Look for verifiable past records in " + area + "."
         },
         {
           title: "3. Polling Unit Ballot Verification",
-          body: "On election day, you will receive a separate ballot paper for each office. Confirm your party symbol and thumbprint neatly inside the box."
+          body: g.ballot + " On election day you will receive a separate ballot paper for each office. Confirm your party symbol and thumbprint neatly inside the box."
         }
       ];
-
       var gGrid = el("div", "guide-grid");
       guideSteps.forEach(function (step) {
         var gCard = el("div", "guide-card");

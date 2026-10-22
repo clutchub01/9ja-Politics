@@ -20,12 +20,12 @@
             "edu": "First School Leaving Certficate Senior school certificate"
           },
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -44,12 +44,12 @@
             "edu": "FSLC WAEC ND"
           },
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            50,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -68,12 +68,12 @@
             "edu": "FSCL SSCE"
           },
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            65,
-            54
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -92,12 +92,12 @@
             "edu": "PRIMARY SCH. LEAVING CERTIFICATE SSCE BS.c"
           },
           "scores": [
-            58,
-            57,
-            58,
-            67,
-            75,
-            51
+            80,
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -116,12 +116,12 @@
             "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HIGHER NATIONAL DIPLOMA"
           },
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -140,12 +140,12 @@
             "edu": "Not confirmed"
           },
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -164,12 +164,12 @@
             "edu": "FSLC SSCE BA"
           },
           "scores": [
-            58,
-            57,
-            61,
-            50,
-            71,
-            59
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -188,12 +188,12 @@
             "edu": "Not confirmed"
           },
           "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -212,12 +212,12 @@
             "edu": "FLSC SSCE COLLEGE"
           },
           "scores": [
-            51,
-            58,
-            51,
-            64,
-            68,
-            54
+            60,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -236,12 +236,12 @@
             "edu": "F.S.L.C W.A.EC"
           },
           "scores": [
-            52,
-            48,
-            48,
-            62,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            65
           ]
         },
         {
@@ -260,12 +260,12 @@
             "edu": "FSLC SSCE POST GRADUATE PROGRAM"
           },
           "scores": [
-            51,
-            56,
-            51,
-            51,
             70,
-            52
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -284,12 +284,12 @@
             "edu": "FSLC SSCE"
           },
           "scores": [
-            65,
-            51,
-            59,
-            50,
-            61,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -308,12 +308,12 @@
             "edu": "FSLC"
           },
           "scores": [
-            53,
-            49,
-            49,
-            49,
-            46,
-            70
+            50,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         }
       ]
@@ -331,12 +331,12 @@
           "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) NCE",
           "bg": "Contesting for BORNO NORTH under A.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -349,12 +349,12 @@
           "edu": "First School Leaving Certficate Senior school certificate Certificate in Education",
           "bg": "Contesting for BORNO NORTH under AA.",
           "scores": [
-            52,
-            48,
-            60,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -367,12 +367,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for BORNO NORTH under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            85,
+            65,
+            40
           ]
         },
         {
@@ -385,12 +385,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
           "bg": "Contesting for BORNO NORTH under ADC.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            72,
-            55
+            95,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -403,12 +403,12 @@
           "edu": "FLSC SSCE BACHELOR OF LAW",
           "bg": "Contesting for BORNO NORTH under APC.",
           "scores": [
-            58,
-            71,
-            58,
-            53,
-            75,
-            51
+            60,
+            40,
+            60,
+            100,
+            65,
+            65
           ]
         },
         {
@@ -421,12 +421,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for BORNO NORTH under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -439,12 +439,12 @@
           "edu": "PSLC SSCE",
           "bg": "Contesting for BORNO NORTH under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -457,12 +457,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B. SC",
           "bg": "Contesting for BORNO NORTH under PDP.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            51,
-            67
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -475,12 +475,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for I BORNO NORTH under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -493,12 +493,12 @@
           "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) Diploma",
           "bg": "Contesting for BORNO CENTRAL under A.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -511,12 +511,12 @@
           "edu": "First School Leaving Certficate Senior school certificate Certificate in Education",
           "bg": "Contesting for BORNO CENTRAL under AA.",
           "scores": [
-            48,
-            56,
-            60,
-            48,
-            70,
-            49
+            40,
+            40,
+            40,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -529,12 +529,12 @@
           "edu": "FSCL SSCE DIPLOMA",
           "bg": "Contesting for BORNO CENTRAL under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -547,12 +547,12 @@
           "edu": "C",
           "bg": "Contesting for BORNO CENTRAL under APP.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -565,12 +565,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE TESTIMONIAL NATIONAL DIPLOMA",
           "bg": "Contesting for BORNO CENTRAL under ADC.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
-            68,
-            55
+            50,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -583,12 +583,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CIRTIFICATE SSCE LLB(HONS)",
           "bg": "Contesting for BORNO CENTRAL under APC.",
           "scores": [
-            58,
-            71,
-            58,
-            53,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -601,12 +601,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for BORNO CENTRAL under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            70,
+            30,
+            40
           ]
         },
         {
@@ -619,12 +619,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for BORNO CENTRAL under LP.",
           "scores": [
-            60,
-            51,
-            53,
-            50,
-            57,
-            67
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -637,12 +637,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for BORNO CENTRAL under NRM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -655,12 +655,12 @@
           "edu": "PSLC SSCE B.SC",
           "bg": "Contesting for BORNO CENTRAL under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            90,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -673,12 +673,12 @@
           "edu": "PRIMARY SCHOOL CERT SSCE B.SC. SOCIOLOGY & ANTHROPOLOGY",
           "bg": "Contesting for BORNO CENTRAL under PDP.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            74,
-            52
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -691,12 +691,12 @@
           "edu": "FSLC SSCE B.SC \\HND\\PGDE",
           "bg": "Contesting for BORNO CENTRAL under SDP.",
           "scores": [
-            65,
-            51,
-            59,
-            50,
-            61,
-            62
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -709,12 +709,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for I BORNO SOUTH under A.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -727,12 +727,12 @@
           "edu": "First School Leaving Certficate Senior school certificate Certificate in Education",
           "bg": "Contesting for BORNO SOUTH under AA.",
           "scores": [
-            52,
-            48,
-            60,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -745,12 +745,12 @@
           "edu": "FSCL AGENCY FOR MASS LITRACY",
           "bg": "Contesting for BORNO SOUTH under ADP.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            65,
-            54
+            40,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -763,12 +763,12 @@
           "edu": "BSC",
           "bg": "Contesting for BORNO SOUTH under APP.",
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
+            70,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -781,12 +781,12 @@
           "edu": "C PRIMARY SCHOOL CERTIFICATE TEACHERS COLLEGE DAMASAK NEC, BACHELOR DEGREE",
           "bg": "Contesting for BORNO SOUTH under ADC.",
           "scores": [
-            57,
-            58,
-            71,
-            51,
-            78,
-            49
+            80,
+            40,
+            40,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -799,12 +799,12 @@
           "edu": "FSLC WAEC BACHELOR OF SCIENCE DEGREE",
           "bg": "Contesting for BORNO SOUTH under APC.",
           "scores": [
-            58,
-            59,
-            58,
-            53,
-            81,
-            45
+            95,
+            40,
+            40,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -817,12 +817,12 @@
           "edu": "FIRST SCHOOL LEAVING SSCE",
           "bg": "Contesting for BORNO SOUTH under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -835,12 +835,12 @@
           "edu": "FIRST SCHOOL LEAAVING CERTIFICATE SSCE Certificate of Community Health Extension Workers",
           "bg": "Contesting for BORNO SOUTH under LP.",
           "scores": [
-            52,
-            57,
+            60,
+            40,
+            60,
+            85,
             65,
-            50,
-            67,
-            59
+            65
           ]
         },
         {
@@ -853,12 +853,12 @@
           "edu": "FSLC SSCE Bsc",
           "bg": "Contesting for BORNO SOUTH under NRM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -871,12 +871,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for BORNO SOUTH under NDC.",
           "scores": [
-            47,
-            53,
-            47,
-            47,
-            65,
-            54
+            40,
+            40,
+            60,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -889,12 +889,12 @@
           "edu": "PRIMARY LEAVING CERT WAEC NAT. DIP NURSING",
           "bg": "Contesting for BORNO SOUTH under PDP.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
             70,
-            52
+            40,
+            60,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -907,12 +907,12 @@
           "edu": "FSLC SSCE HND",
           "bg": "Contesting for BORNO SOUTH under SDP.",
           "scores": [
-            57,
-            57,
-            59,
-            50,
-            71,
-            54
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         }
       ]
@@ -930,12 +930,12 @@
           "edu": "FSLC SSCE DVM",
           "bg": "Contesting for Askira-Uba/Hawul under A.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -948,12 +948,12 @@
           "edu": "FSCL SSCE NATIONA DIPLOMA",
           "bg": "Contesting for Askira-Uba/Hawul under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -966,12 +966,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Askira-Uba/Hawul under APP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            70,
+            30,
+            40
           ]
         },
         {
@@ -984,12 +984,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SSCE, WAEC BACHELOR OF SCIENCE, BACHELOR OF LAW AND SHARIA, CALL TO BAR",
           "bg": "Contesting for Askira-Uba/Hawul under ADC.",
           "scores": [
-            65,
-            64,
-            59,
-            51,
-            62,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -1002,12 +1002,12 @@
           "edu": "FSLC GRADE TEACHERS' CERT DEGREE",
           "bg": "Contesting for Askira-Uba/Hawul under APC.",
           "scores": [
-            58,
-            57,
-            70,
-            53,
-            75,
-            51
+            80,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1020,12 +1020,12 @@
           "edu": "FSLC waec B. Agric",
           "bg": "Contesting for Askira-Uba/Hawul under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1038,12 +1038,12 @@
           "edu": "FSLC WAEC",
           "bg": "Contesting for Askira-Uba/Hawul under NRM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1056,12 +1056,12 @@
           "edu": "CERTIFACATE OF PRIMARY SCHOOL SECONDARY SCHOOL LEAVING CERTIFICATE (WAEC)",
           "bg": "Contesting for Askira-Uba/Hawul under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1074,12 +1074,12 @@
           "edu": "FSLC G.C.E O\u2019LEVEL BSC HONS",
           "bg": "Contesting for I Askira-Uba/Hawul under PDP.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            74,
-            52
+            80,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1092,12 +1092,12 @@
           "edu": "FSLC WEAC",
           "bg": "Contesting for Askira-Uba/Hawul under SDP.",
           "scores": [
-            51,
-            57,
-            51,
             50,
-            67,
-            54
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1110,12 +1110,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1128,12 +1128,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under APP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1146,12 +1146,12 @@
           "edu": "C PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under ADC.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            62,
-            63
+            95,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1164,12 +1164,12 @@
           "edu": "CERT OF PRIMARY EDUCATION SENIOR SECONDARY SCH CERT BSC",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under APC.",
           "scores": [
-            66,
-            51,
-            70,
-            53,
-            65,
-            59
+            80,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1182,12 +1182,12 @@
           "edu": "FSLC WAEC Bsc",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under NRM.",
           "scores": [
-            62,
-            48,
-            56,
-            48,
-            58,
-            63
+            95,
+            40,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1200,12 +1200,12 @@
           "edu": "PSLC SSCE PHD",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under NDC.",
           "scores": [
-            57,
-            47,
-            71,
-            47,
-            52,
-            69
+            60,
+            90,
+            95,
+            85,
+            80,
+            40
           ]
         },
         {
@@ -1218,12 +1218,12 @@
           "edu": "KASUGULA PRIMARY KUR MOHD DAY S.S BAMU UNIVERSITY",
           "bg": "Contesting for Bama/Ngala/Kala- Balge under PDP.",
           "scores": [
-            61,
             50,
-            59,
-            51,
-            55,
-            67
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1236,12 +1236,12 @@
           "edu": "FSCL 2011",
           "bg": "Contesting for Biu/Kwaya-Kusar, Shani/Bayo under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1254,12 +1254,12 @@
           "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Contesting for Biu/Kwaya-Kusar, Shani/Bayo under APP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1272,12 +1272,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
           "bg": "Contesting for Biu/Kwaya-Kusar, Shani/Bayo under ADC.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            62,
-            63
+            95,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1290,12 +1290,12 @@
           "edu": "OND/HND",
           "bg": "Contesting for I Biu/Kwaya-Kusar, Shani/Bayo under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            70,
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1308,12 +1308,12 @@
           "edu": "PSLC SSCE HND",
           "bg": "Contesting for Biu/Kwaya-Kusar, Shani/Bayo under NDC.",
           "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
+            90,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1326,12 +1326,12 @@
           "edu": "FSCL SSCE NATIONA DIPLOMA",
           "bg": "Contesting for Dikwa/Mafa/Konduga under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1344,12 +1344,12 @@
           "edu": "C BSC",
           "bg": "Contesting for Dikwa/Mafa/Konduga under APP.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1362,12 +1362,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC",
           "bg": "Contesting for Dikwa/Mafa/Konduga under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1380,12 +1380,12 @@
           "edu": "CERT OF PRIMARY EDUCATION SSCE PhD",
           "bg": "Contesting for Dikwa/Mafa/Konduga under APC.",
           "scores": [
-            66,
-            51,
-            74,
-            53,
-            67,
-            59
+            70,
+            90,
+            80,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1398,12 +1398,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for Dikwa/Mafa/Konduga under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1416,12 +1416,12 @@
           "edu": "PSLC SSCE B.SC",
           "bg": "Contesting for Dikwa/Mafa/Konduga under NDC.",
           "scores": [
-            61,
-            47,
-            55,
-            47,
-            59,
-            62
+            90,
+            40,
+            80,
+            85,
+            80,
+            40
           ]
         },
         {
@@ -1434,12 +1434,12 @@
           "edu": "FSLC WAEC B.SC ED. HEALTH EDUCATION",
           "bg": "Contesting for Dikwa/Mafa/Konduga under PDP.",
           "scores": [
-            61,
-            50,
-            71,
-            51,
-            55,
-            67
+            95,
+            40,
+            95,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1452,12 +1452,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1470,12 +1470,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE NECO",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under ADC.",
           "scores": [
-            59,
-            50,
-            51,
-            51,
-            58,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1488,12 +1488,12 @@
           "edu": "CERT OF PRIMARY EDUCATION SSCE BSc",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under APC.",
           "scores": [
-            58,
-            57,
-            70,
-            53,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1506,12 +1506,12 @@
           "edu": "FSLC NECO",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under APM.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1524,12 +1524,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for I Damboa/Gwoza/ Chibok under LP.",
           "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1542,12 +1542,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SECONDARY SCHOOL CERTIFICATE B.SC COMPUTER SCIENCE",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under PDP.",
           "scores": [
-            65,
-            50,
-            59,
-            51,
-            64,
-            60
+            80,
+            40,
+            80,
+            100,
+            80,
+            65
           ]
         },
         {
@@ -1560,12 +1560,12 @@
           "edu": "FSLC SSCE",
           "bg": "Contesting for Damboa/Gwoza/ Chibok under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1578,12 +1578,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Kaga/Gubio/Magumeri under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1596,12 +1596,12 @@
           "edu": "C",
           "bg": "Contesting for Kaga/Gubio/Magumeri under APP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1614,12 +1614,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC BSc DEGREE, MASTERS DEGREE,",
           "bg": "Contesting for Kaga/Gubio/Magumeri under ADC.",
           "scores": [
-            63,
-            58,
-            71,
-            51,
-            84,
-            49
+            95,
+            70,
+            40,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1632,12 +1632,12 @@
           "edu": "MAIGUMERI PRIMARY SCHOOL YERWA G.S BORNO COLLEGE OF AGRIC",
           "bg": "Contesting for Kaga/Gubio/Magumeri under APC.",
           "scores": [
-            52,
-            57,
             50,
-            53,
-            71,
-            51
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1650,12 +1650,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Kaga/Gubio/Magumeri under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            40,
+            40,
+            95,
+            70,
+            30,
+            40
           ]
         },
         {
@@ -1668,12 +1668,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for Kaga/Gubio/Magumeri under SDP.",
           "scores": [
-            61,
-            51,
-            59,
-            50,
-            52,
-            69
+            95,
+            40,
+            95,
+            100,
+            95,
+            40
           ]
         },
         {
@@ -1686,12 +1686,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Monguno/Nganzai/ Marte under ADP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            55,
-            62
+            60,
+            40,
+            80,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1704,12 +1704,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE SSCE, NECO NATIONAL DIPLOMA",
           "bg": "Contesting for Monguno/Nganzai/ Marte under ADC.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1722,12 +1722,12 @@
           "edu": "PRIMARY SCHOOL LEAVING CIRTIFICATE SSCE B.ENG CIVIL & WATER RES",
           "bg": "Contesting for Monguno/Nganzai/ Marte under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            67,
-            75,
-            51
+            95,
+            40,
+            60,
+            100,
+            95,
+            65
           ]
         },
         {
@@ -1740,12 +1740,12 @@
           "edu": "NECO",
           "bg": "Contesting for Monguno/Nganzai/ Marte under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1758,12 +1758,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for I Monguno/Nganzai/ Marte under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1776,12 +1776,12 @@
           "edu": "FSCL SSCE",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1794,12 +1794,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1812,12 +1812,12 @@
           "edu": "C FSLC S.S.C.E ND",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under APC.",
           "scores": [
-            52,
-            57,
             50,
-            53,
-            71,
-            51
+            40,
+            60,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1830,12 +1830,12 @@
           "edu": "FSLC WAEC ND",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under APM.",
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
+            70,
+            40,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1848,12 +1848,12 @@
           "edu": "PRIMARY SCHOOL KINGS COLLEGE UNIVERSITY OF MAIDUGURI",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            50,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1866,12 +1866,12 @@
           "edu": "PRIMARY CERT SSCE",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under PDP.",
           "scores": [
-            51,
-            56,
-            51,
-            51,
             70,
-            52
+            40,
+            60,
+            85,
+            80,
+            40
           ]
         },
         {
@@ -1884,12 +1884,12 @@
           "edu": "FSLC SSCE ND",
           "bg": "Contesting for Kukawa/Mobbar/ Abadam/ Guzamali under SDP.",
           "scores": [
-            55,
-            51,
-            51,
-            50,
-            48,
-            69
+            70,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1902,12 +1902,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Maiduguri (Metropolitan) under AA.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -1920,12 +1920,12 @@
           "edu": "FSCL",
           "bg": "Contesting for Maiduguri (Metropolitan) under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            40,
+            40,
+            95,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1938,12 +1938,12 @@
           "edu": "BSC",
           "bg": "Contesting for Maiduguri (Metropolitan) under APP.",
           "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
+            70,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -1956,12 +1956,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE GCE BACHELOR DEGREE, PGD",
           "bg": "Contesting for I Maiduguri (Metropolitan) under ADC.",
           "scores": [
-            57,
-            56,
-            59,
-            51,
-            72,
-            55
+            95,
+            55,
+            60,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -1974,12 +1974,12 @@
           "edu": "SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE BACHELOR OF SCIENCE DEGREE",
           "bg": "Contesting for Maiduguri (Metropolitan) under APC.",
           "scores": [
-            58,
-            57,
-            58,
-            53,
-            75,
-            51
+            70,
+            40,
+            60,
+            100,
+            50,
+            40
           ]
         },
         {
@@ -1992,12 +1992,12 @@
           "edu": "FIRST SCHOOL LEAVING SSCE",
           "bg": "Contesting for Maiduguri (Metropolitan) under APM.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            45,
-            70
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2010,12 +2010,12 @@
           "edu": "C",
           "bg": "Contesting for Maiduguri (Metropolitan) under LP.",
           "scores": [
-            60,
-            51,
-            53,
+            40,
+            40,
+            80,
+            100,
             50,
-            57,
-            67
+            40
           ]
         },
         {
@@ -2028,12 +2028,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Maiduguri (Metropolitan) under NDC.",
           "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2046,12 +2046,12 @@
           "edu": "HALL PRIVATE SCHOOL FEDERAL GOVT COLLEGE DAURA B.SC UNIVERSITY OF MAIDUGURI",
           "bg": "Contesting for Maiduguri (Metropolitan) under PDP.",
           "scores": [
+            70,
+            40,
+            80,
+            100,
             65,
-            50,
-            59,
-            51,
-            64,
-            60
+            40
           ]
         },
         {
@@ -2064,12 +2064,12 @@
           "edu": "FSLC SSCE B.SC",
           "bg": "Contesting for Maiduguri (Metropolitan) under SDP.",
           "scores": [
-            57,
-            57,
-            59,
-            50,
-            71,
-            54
+            95,
+            40,
+            60,
+            85,
+            95,
+            40
           ]
         },
         {
@@ -2082,12 +2082,12 @@
           "edu": "FSCL SSCE STATEMENT OF RESULT",
           "bg": "Contesting for Jere under ADP.",
           "scores": [
-            52,
-            48,
-            48,
-            48,
-            46,
-            69
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2100,12 +2100,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Jere under APP.",
           "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
+            40,
+            40,
+            80,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2118,12 +2118,12 @@
           "edu": "PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
           "bg": "Contesting for Jere under ADC.",
           "scores": [
-            61,
-            50,
-            59,
-            51,
-            53,
-            70
+            95,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2136,12 +2136,12 @@
           "edu": "CERTIFICATE OF PRIMARY EDUCATION SSCE AND NECO BACHELOR OF SCIENCE DEGREE",
           "bg": "Contesting for Jere under APC.",
           "scores": [
-            66,
-            51,
-            70,
-            53,
-            65,
-            59
+            95,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2154,12 +2154,12 @@
           "edu": "Not confirmed",
           "bg": "Contesting for Jere under LP.",
           "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
+            40,
+            40,
+            95,
+            85,
+            30,
+            40
           ]
         },
         {
@@ -2172,12 +2172,12 @@
           "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
           "bg": "Contesting for I Jere under NDC.",
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
+            70,
+            40,
+            80,
+            100,
+            80,
+            40
           ]
         },
         {
@@ -2190,12 +2190,12 @@
           "edu": "SSCE DIPLOMA",
           "bg": "Contesting for Jere under PDP.",
           "scores": [
-            55,
-            50,
-            51,
-            51,
-            51,
-            67
+            60,
+            40,
+            95,
+            100,
+            65,
+            40
           ]
         },
         {
@@ -2208,12 +2208,12 @@
           "edu": "FSLC B.SC",
           "bg": "Contesting for Jere under SDP.",
           "scores": [
-            61,
-            51,
-            59,
-            50,
-            52,
-            69
+            80,
+            40,
+            95,
+            100,
+            80,
+            40
           ]
         }
       ]
