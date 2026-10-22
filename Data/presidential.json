@@ -23,8 +23,8 @@
             "p": "ADC",
             "age": "79",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "Not confirmed",
+            "rm": "Rotimi Amaechi",
+            "edu": "GCE MASTERS",
             "bg": "Former Vice President. 2023 Presidential Candidate.",
             "scores": [
                 82,
@@ -40,8 +40,8 @@
             "p": "NDC",
             "age": "65",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "B.A Philosophy",
+            "rm": "Rabiu Kwankwaso",
+            "edu": "FSLC WASC/GCE B.A Philosophy",
             "bg": "Former Governor of Anambra State. 2023 Presidential Candidate.",
             "scores": [
                 80,
@@ -57,8 +57,8 @@
             "p": "APM",
             "age": "58",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "B.Sc Electrical Engineering",
+            "rm": "Lawal Musa Daura",
+            "edu": "WAEC-GCE B.Sc Electrical Engineering",
             "bg": "Incumbent Governor of Oyo State.",
             "scores": [
                 75,
@@ -74,7 +74,7 @@
             "p": "PRP",
             "age": "65",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Kabiru Rabiu",
             "edu": "LL.B Law",
             "bg": "Former Governor of Cross River State.",
             "scores": [
@@ -91,8 +91,8 @@
             "p": "PDP",
             "age": "58",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "Ph.D",
+            "rm": "Babangida Umaru",
+            "edu": " GCE BA Ph.D",
             "bg": "Former Senator, Cross River Central.",
             "scores": [
                 65,
@@ -108,8 +108,8 @@
             "p": "SDP",
             "age": "54",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "LL.B Law",
+            "rm": "Usman Bugaje",
+            "edu": "FLSC SSCE LL.B Law",
             "bg": "Lawyer and Media Proprietor.",
             "scores": [
                 68,
@@ -125,9 +125,9 @@
             "p": "AAC",
             "age": "55",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "Not confirmed",
-            "bg": "Media Publisher and Activist.",
+            "rm": "Haruna Garba Magashi",
+            "edu": "FSLC WAEC MASTER'S DEGREE",
+            "bg": "Businessperson, Media Publisher and Activist.",
             "scores": [
                 60,
                 75,
@@ -142,8 +142,8 @@
             "p": "ZLP",
             "age": "66",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "Not confirmed",
+            "rm": "Khalid Hassan",
+            "edu": "WEST AFRICAN SCHOOL CERTIFICATE BACHELOR OF LAWS",
             "bg": "Veteran Labour Union Leader.",
             "scores": [
                 62,
@@ -159,7 +159,7 @@
             "p": "NDP",
             "age": "Not confirmed",
             "gender": "F",
-            "rm": "Not confirmed",
+            "rm": "Uchenna Anthony Chukwuemeka",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -176,7 +176,7 @@
             "p": "AA",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Shehu Hussaini",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -191,10 +191,10 @@
         {
             "n": "Adenuga Sunday Oluwafemi",
             "p": "BP",
-            "age": "Not confirmed",
+            "age": "51",
             "gender": "M",
-            "rm": "Not confirmed",
-            "edu": "Not confirmed",
+            "rm": "Usman Turaki Mustapha",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MASTER OF SCIENCE",
             "bg": "Party Nominee.",
             "scores": [
                 55,
@@ -210,7 +210,7 @@
             "p": "ADP",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Chinazam Ike",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -227,7 +227,7 @@
             "p": "LP",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Bintu Konto",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -244,7 +244,7 @@
             "p": "NRM",
             "age": "Not confirmed",
             "gender": "F",
-            "rm": "Not confirmed",
+            "rm": "Nasir Muhammed Sulaiman",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -261,7 +261,7 @@
             "p": "APP",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Ofordile Peace Egobia",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -278,7 +278,7 @@
             "p": "DLA",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Nafisat Usaku Abubakar",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
@@ -295,7 +295,7 @@
             "p": "YPP",
             "age": "Not confirmed",
             "gender": "M",
-            "rm": "Not confirmed",
+            "rm": "Patience Ndidi Key",
             "edu": "Not confirmed",
             "bg": "Party Nominee.",
             "scores": [
