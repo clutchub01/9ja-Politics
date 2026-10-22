@@ -1,0 +1,6934 @@
+{
+  "state": "Kwara",
+  "offices": {
+    "Governor": {
+      "constituency": "Kwara Statewide",
+      "candidates": [
+        {
+          "n": "KWARA",
+          "p": "AA",
+          "age": "45",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under AA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OLABODE",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "ADC",
+          "age": "56",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under ADC.",
+          "scores": [
+            51,
+            56,
+            63,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "OLAYIDE",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "A",
+          "age": "49",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "APC",
+          "age": "41",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "OLUWASEUN",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "APGA",
+          "age": "71",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under APGA.",
+          "scores": [
+            51,
+            58,
+            50,
+            51,
+            74,
+            47
+          ]
+        },
+        {
+          "n": "FOLORUNSHO",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "APM",
+          "age": "46",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "APP",
+          "age": "57",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under APP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "MU TOYIN WAHAB",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "IND",
+          "age": "51",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "C WASC B",
+          "p": "A",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under A.",
+          "scores": [
+            48,
+            48,
+            48,
+            48,
+            52,
+            55
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "NDP",
+          "age": "69",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under NDP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "SSA SALIHU",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "NNPP",
+          "age": "52",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "BAIR ZURURAT",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "PDP",
+          "age": "57",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ENU CORNELIUS",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KWARA",
+          "p": "SDP",
+          "age": "53",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Kwara under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        }
+      ]
+    },
+    "Senate": {
+      "constituency": "Senatorial Districts",
+      "candidates": [
+        {
+          "n": "SALIU MURITALA A.",
+          "p": "A",
+          "district": "KWARA NORTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for KWARA NORTH under A.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "IBRAHIM EJIKO MOHAMMED",
+          "p": "AA",
+          "district": "KWARA NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KWARA NORTH under AA.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "TEMAKO NAOMI",
+          "p": "ADP",
+          "district": "KWARA NORTH",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for KWARA NORTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IBRAHIM RAMAT",
+          "p": "APP",
+          "district": "KWARA NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for KWARA NORTH under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BALA TAOHEED USMAN",
+          "p": "ADC",
+          "district": "KWARA NORTH",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC (GCE) ASSOCIATION OF CHARTERED ACCOUNTANT OF NIGERIA(ANAN)",
+          "bg": "Contesting for KWARA NORTH under ADC.",
+          "scores": [
+            65,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "MAHMUD UMAR MUHAMMAD",
+          "p": "APC",
+          "district": "KWARA NORTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT GCE, WAEC, AND NECO PHD, MSC,PGD, HND, AND ND",
+          "bg": "Contesting for KWARA NORTH under APC.",
+          "scores": [
+            64,
+            57,
+            82,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "N OWOLABI FELICIA",
+          "p": "APM",
+          "district": "KWARA NORTH",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for KWARA NORTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULGAFAR SULAIMAN",
+          "p": "NRM",
+          "district": "KWARA NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KWARA NORTH under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "TAJUDEEN ABDULLAHI MOHAMMED",
+          "p": "NNPP",
+          "district": "KWARA NORTH",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KWARA NORTH under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "GANA THOMAS AUDU",
+          "p": "NDC",
+          "district": "I KWARA NORTH",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC B.SC ARCHITECTURE, M.SC ARCHI",
+          "bg": "Contesting for I KWARA NORTH under NDC.",
+          "scores": [
+            59,
+            53,
+            67,
+            61,
+            75,
+            54
+          ]
+        },
+        {
+          "n": "JIYA KOLLO",
+          "p": "PDP",
+          "district": "KWARA NORTH",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for KWARA NORTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "MUSA ALIYU",
+          "p": "A",
+          "district": "KWARA CENTRAL",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KWARA CENTRAL under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ADESOLA KEHINDE",
+          "p": "AA",
+          "district": "KWARA CENTRAL",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Frist School Leaving Certificate Waec",
+          "bg": "Contesting for KWARA CENTRAL under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "GANI OMOLABI",
+          "p": "ADP",
+          "district": "KWARA CENTRAL",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for KWARA CENTRAL under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "GBADESOGUN OLUFEMI ADELEKE.",
+          "p": "APP",
+          "district": "KWARA CENTRAL",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB",
+          "bg": "Contesting for KWARA CENTRAL under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABDULAHI RISIKAT MOTUNRAYO",
+          "p": "ADC",
+          "district": "KWARA CENTRAL",
+          "age": "59",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SSCE B.SC BUSINESS ADMINISTRATION",
+          "bg": "Contesting for KWARA CENTRAL under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "ABDULRAZAQ ABDULRAHAMAN",
+          "p": "APC",
+          "district": "KWARA CENTRAL",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BISHOP SMITH MEMORIAL SCHOOL GOVT COLLED KADUNA",
+          "bg": "Contesting for KWARA CENTRAL under APC.",
+          "scores": [
+            52,
+            59,
+            50,
+            53,
+            77,
+            45
+          ]
+        },
+        {
+          "n": "ANJORIN JOHN TEMITAYO",
+          "p": "APM",
+          "district": "KWARA CENTRAL",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HIGHER NATIONAL DIPLOMA (HND)",
+          "bg": "Contesting for KWARA CENTRAL under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ABDULKARIM-ADISA MARYAM AYOOLA- FADEKEMI",
+          "p": "LP",
+          "district": "KWARA CENTRAL",
+          "age": "56",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "O level Degree",
+          "bg": "Contesting for KWARA CENTRAL under LP.",
+          "scores": [
+            58,
+            57,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "N ADEPOJU ADEKUNLE",
+          "p": "NRM",
+          "district": "KWARA CENTRAL",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KWARA CENTRAL under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "LAWAL ABDULHAKEEM TOYIN",
+          "p": "NNPP",
+          "district": "KWARA CENTRAL",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE B.SC",
+          "bg": "Contesting for KWARA CENTRAL under NNPP.",
+          "scores": [
+            57,
+            58,
+            59,
+            50,
+            72,
+            54
+          ]
+        },
+        {
+          "n": "SULEIMAN ABDULRASHEED OLUFEMI OMODA",
+          "p": "NDC",
+          "district": "I KWARA CENTRAL",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE GCE O'LEVEL DVM/PGDM",
+          "bg": "Contesting for I KWARA CENTRAL under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "MUSTAPHA SALIU",
+          "p": "PDP",
+          "district": "KWARA CENTRAL",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERT. SSCE NATIONAL DIPLOMA",
+          "bg": "Contesting for KWARA CENTRAL under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ALH SALMA ABDUL YAKINI",
+          "p": "SDP",
+          "district": "KWARA CENTRAL",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KWARA CENTRAL under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "ALABI AMOS",
+          "p": "AA",
+          "district": "KWARA SOUTH",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Frist School Leaving Certificate Waec",
+          "bg": "Contesting for KWARA SOUTH under AA.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABDULLAHI BALOGUN",
+          "p": "ADP",
+          "district": "KWARA SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC",
+          "bg": "Contesting for KWARA SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OLAREWAJU SEGUN OLUWATOYIN",
+          "p": "APP",
+          "district": "KWARA SOUTH",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC B.MED&SURG",
+          "bg": "Contesting for KWARA SOUTH under APP.",
+          "scores": [
+            52,
+            48,
+            60,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OYEDEPO IYIOLA",
+          "p": "ADC",
+          "district": "KWARA SOUTH",
+          "age": "72",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC BARRISTER AT LAW",
+          "bg": "Contesting for KWARA SOUTH under ADC.",
+          "scores": [
+            57,
+            72,
+            59,
+            51,
+            78,
+            49
+          ]
+        },
+        {
+          "n": "ADEWOYE OLALEKAN",
+          "p": "APC",
+          "district": "KWARA SOUTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC DIPLOMA",
+          "bg": "Contesting for KWARA SOUTH under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "AJAYI OLAYEMI BIDEMI",
+          "p": "APM",
+          "district": "KWARA SOUTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for KWARA SOUTH under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABDULGAFAR SULAIMAN",
+          "p": "NRM",
+          "district": "KWARA SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KWARA SOUTH under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OMOKANYE ADEDOYIN RAYMOND",
+          "p": "NNPP",
+          "district": "KWARA SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "B.SC",
+          "bg": "Contesting for KWARA SOUTH under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "ONI SAMUEL OMONIYI",
+          "p": "NDC",
+          "district": "KWARA SOUTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KWARA SOUTH under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N POPOOLA ADEKEYE LEKAN SAHEED",
+          "p": "PDP",
+          "district": "KWARA SOUTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KWARA SOUTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ANIFOWOSHE GRACE",
+          "p": "SDP",
+          "district": "KWARA SOUTH",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC MED",
+          "bg": "Contesting for KWARA SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            63,
+            50,
+            57,
+            62
+          ]
+        }
+      ]
+    },
+    "House of Reps": {
+      "constituency": "Federal Constituencies",
+      "candidates": [
+        {
+          "n": "MOHAMMED IDRIS",
+          "p": "ADP",
+          "district": "Baruten/Kaiama",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NAPTEP",
+          "bg": "Contesting for Baruten/Kaiama under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "KAZEEM RASHIDAT KEHINDE",
+          "p": "APP",
+          "district": "Baruten/Kaiama",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SSCE NCE",
+          "bg": "Contesting for Baruten/Kaiama under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IDRIS USMAN HALIRU",
+          "p": "ADC",
+          "district": "Baruten/Kaiama",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for Baruten/Kaiama under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AHMED SAIDU BABA",
+          "p": "APC",
+          "district": "Baruten/Kaiama",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ZEB PRIMARY SCH BANI ARMY DAY SEC SCH J F L A MINNA",
+          "bg": "Contesting for Baruten/Kaiama under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AHMED ILYAS BALA",
+          "p": "APM",
+          "district": "Baruten/Kaiama",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for Baruten/Kaiama under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "TAOFEEQ SAHEED",
+          "p": "NRM",
+          "district": "Baruten/Kaiama",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Baruten/Kaiama under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AHMED IDRIS BWEBWE",
+          "p": "NNPP",
+          "district": "Baruten/Kaiama",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for Baruten/Kaiama under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "N IBRAHIM USMAN BAGIDI",
+          "p": "NDC",
+          "district": "Baruten/Kaiama",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.ED",
+          "bg": "Contesting for Baruten/Kaiama under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "AHMED ABUBAKAR SADIQ",
+          "p": "PDP",
+          "district": "Baruten/Kaiama",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SENIOR SCHOOL CERTIFICATE MPA, BSC POLITICAL SCIENCE",
+          "bg": "Contesting for Baruten/Kaiama under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "MOHAMMED ABDULLAHI",
+          "p": "A",
+          "district": "I Edu/Moro/Pategi",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I Edu/Moro/Pategi under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OLANREWAJU MOHAMMED YUSUF",
+          "p": "AA",
+          "district": "Edu/Moro/Pategi",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate Senior school certificate Certificate in Education",
+          "bg": "Contesting for Edu/Moro/Pategi under AA.",
+          "scores": [
+            56,
+            48,
+            60,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MARIAM IBRAHIM",
+          "p": "ADP",
+          "district": "Edu/Moro/Pategi",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for Edu/Moro/Pategi under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OLABODE MATTHEW AJISOLA",
+          "p": "APP",
+          "district": "Edu/Moro/Pategi",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Edu/Moro/Pategi under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "HASSAN ZUBAIRU MUHAMMAD",
+          "p": "ADC",
+          "district": "Edu/Moro/Pategi",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC COMPUTER SCIENCE",
+          "bg": "Contesting for Edu/Moro/Pategi under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "MAMMAN MOHAMMED",
+          "p": "APC",
+          "district": "Edu/Moro/Pategi",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC S.S.CE. OND, HND, PGDM, MBA",
+          "bg": "Contesting for Edu/Moro/Pategi under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "AHMED HAWAWU MUHAMMED",
+          "p": "APM",
+          "district": "Edu/Moro/Pategi",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Edu/Moro/Pategi under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "JIBRIL SALAMAT",
+          "p": "NRM",
+          "district": "Edu/Moro/Pategi",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Edu/Moro/Pategi under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "NASIRU ABDULLAHI",
+          "p": "NNPP",
+          "district": "Edu/Moro/Pategi",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE B.SC (Ed)",
+          "bg": "Contesting for Edu/Moro/Pategi under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "ADELOWO ADEBARA JULIUS",
+          "p": "NDC",
+          "district": "Edu/Moro/Pategi",
+          "age": "65",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ARMY DAY SEC SCHOOL SOBI KWT POLY ILORIN",
+          "bg": "Contesting for Edu/Moro/Pategi under NDC.",
+          "scores": [
+            47,
+            55,
+            47,
+            47,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "MOHAMMED USMAN KAWU",
+          "p": "PDP",
+          "district": "Edu/Moro/Pategi",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "TESTIMONIAL GCE O'LEVEL",
+          "bg": "Contesting for Edu/Moro/Pategi under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ADAM KADIR",
+          "p": "SDP",
+          "district": "Edu/Moro/Pategi",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC (ED)",
+          "bg": "Contesting for Edu/Moro/Pategi under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "OLASEHINDE BABATUNDE",
+          "p": "ADP",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.ED",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N AWONIYI JUSTINA FOLAKE",
+          "p": "APP",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "50",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SSCE BSC",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under APP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "ASANLOKO ABIODUN TAKIT",
+          "p": "ADC",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "65",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC B. ENG CIVIL ENGINEERING",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under ADC.",
+          "scores": [
+            51,
+            58,
+            51,
+            65,
+            74,
+            49
+          ]
+        },
+        {
+          "n": "OYEYEMI FLORENCE OLASUMBO",
+          "p": "APC",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT SSCE BSC",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "ALABI ABIONA TAIBAT",
+          "p": "APM",
+          "district": "I Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for I Ekiti/Isin/Irepodun/ Oke-Ero under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "TITILOYE GIDIOEN",
+          "p": "NRM",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ISAIAH JOSHUA AKANDE",
+          "p": "NDC",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "TANKE LGA PRIMARY CHAPEL SECONDARY SCHOOL B.SC",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "JOSEPH ADEWOLE GBENGA",
+          "p": "PDP",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC GRADE II NCE CERT.",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "DANIEL EUNICE",
+          "p": "SDP",
+          "district": "Ekiti/Isin/Irepodun/ Oke-Ero",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for Ekiti/Isin/Irepodun/ Oke-Ero under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ALIU JAMIU ATANDA",
+          "p": "A",
+          "district": "Ilorin East/Ilorin South",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ilorin East/Ilorin South under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OLADELE OMOTAYO ALICE",
+          "p": "AA",
+          "district": "Ilorin East/Ilorin South",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Federal Polytechnic",
+          "bg": "Contesting for Ilorin East/Ilorin South under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            62,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OWOLABI IBRAHIM",
+          "p": "ADP",
+          "district": "Ilorin East/Ilorin South",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ilorin East/Ilorin South under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "SAKA TAIYE",
+          "p": "APP",
+          "district": "Ilorin East/Ilorin South",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for Ilorin East/Ilorin South under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SAAD OLADIMEJI ISSA",
+          "p": "ADC",
+          "district": "Ilorin East/Ilorin South",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC PHD BUSINESS ADMINISTRATION",
+          "bg": "Contesting for Ilorin East/Ilorin South under ADC.",
+          "scores": [
+            57,
+            56,
+            75,
+            51,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "N ABDULGANIYU OLODODO ABDULQUAWIY DAMILOLA",
+          "p": "APC",
+          "district": "Ilorin East/Ilorin South",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE OF ATTENDENCE SSCE",
+          "bg": "Contesting for Ilorin East/Ilorin South under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "NUHU AISHAT",
+          "p": "APM",
+          "district": "Ilorin East/Ilorin South",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO NCE",
+          "bg": "Contesting for Ilorin East/Ilorin South under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AKANDE ISMAIL",
+          "p": "NRM",
+          "district": "I Ilorin East/Ilorin South",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Ilorin East/Ilorin South under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AJIBOYE TITILAYO AISHAT",
+          "p": "NNPP",
+          "district": "Ilorin East/Ilorin South",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "DIPLOMA",
+          "bg": "Contesting for Ilorin East/Ilorin South under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "IBRAHEEM ALFA ABDULRASHEED BOLAKALE",
+          "p": "NDC",
+          "district": "Ilorin East/Ilorin South",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ilorin East/Ilorin South under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SAKA YUSUF ELETU",
+          "p": "PDP",
+          "district": "Ilorin East/Ilorin South",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C SCHOOL CERTIFICATE SECONDARY SHCOOL CERTIFICATE M.ED, B.ED",
+          "bg": "Contesting for Ilorin East/Ilorin South under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ABDULKAREEM SULEIMAN",
+          "p": "SDP",
+          "district": "Ilorin East/Ilorin South",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC OND",
+          "bg": "Contesting for Ilorin East/Ilorin South under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "AYUBA ABDULLATEEF KAYODE",
+          "p": "A",
+          "district": "Ilorin West/Asa",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "primary SSCE",
+          "bg": "Contesting for Ilorin West/Asa under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SAHEED ABDULLAHI",
+          "p": "ADP",
+          "district": "Ilorin West/Asa",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ilorin West/Asa under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ABDULAZEEZ TOYIN",
+          "p": "APP",
+          "district": "Ilorin West/Asa",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Ilorin West/Asa under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULKADIR OLANREWAJU OBA-ALUKO",
+          "p": "ADC",
+          "district": "Ilorin West/Asa",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SSCE MASTERS OF BUSINESS ADMINISTRATION",
+          "bg": "Contesting for Ilorin West/Asa under ADC.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "SHAGAYA MUKTAR TOLANI",
+          "p": "APC",
+          "district": "Ilorin West/Asa",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ATTESTATION LETTER GCSE/A LEVEL BSC",
+          "bg": "Contesting for Ilorin West/Asa under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "HAMMAD MUHEENAT AJOKE",
+          "p": "APM",
+          "district": "Ilorin West/Asa",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB NCE",
+          "bg": "Contesting for Ilorin West/Asa under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N AROWOLO YETUNDE MARIAM",
+          "p": "NRM",
+          "district": "Ilorin West/Asa",
+          "age": "50",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for Ilorin West/Asa under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "IBRAHIM KAMAL",
+          "p": "NNPP",
+          "district": "Ilorin West/Asa",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE ND",
+          "bg": "Contesting for Ilorin West/Asa under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "SHUAIB MUHAMMED JAMIU",
+          "p": "NDC",
+          "district": "Ilorin West/Asa",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE UNIVERSITY OF ILORIN",
+          "bg": "Contesting for Ilorin West/Asa under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "AREMU FATAI AYINDE",
+          "p": "PDP",
+          "district": "I Ilorin West/Asa",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE WASC O'LEVEL DIP; B. SC; M. SC; Ph. D",
+          "bg": "Contesting for I Ilorin West/Asa under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ABDULRAUF JAMIU",
+          "p": "SDP",
+          "district": "Ilorin West/Asa",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ilorin West/Asa under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "YUSUF AKEEM OLASUNKANMI",
+          "p": "A",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under A.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ADEYEMO ABDULWASIU OLAMILEKAN",
+          "p": "AA",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSC",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under AA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ALIU SUAIB",
+          "p": "ADP",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "OLAGBENJO NASIRULLAHI GBOLAHAN",
+          "p": "APP",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OLAYONU OLARIN TOPE",
+          "p": "ADC",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GRADE 2 PHD PUBLIC ADMINISTRATION",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under ADC.",
+          "scores": [
+            57,
+            72,
+            75,
+            51,
+            80,
+            49
+          ]
+        },
+        {
+          "n": "AJAKAYE RAFIU ORIYOMI",
+          "p": "APC",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ECWA LGSA SCH LABE LABASCO OKKE AGEGE LAGOS LAGOS STATE UNIVERSITY",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "AKANO TOLUWASE FUNKE",
+          "p": "APM",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC NATIONAL DIPLOMA",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "POPOOLA AYOOLA",
+          "p": "NRM",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BUARI ABDULGANIYU",
+          "p": "NNPP",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE ND",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "SHITTU MASHOOD",
+          "p": "NDC",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "N BAKARE MOSHOOD OLANREWAJU",
+          "p": "PDP",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERT. SSCE",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ADEBAYE SIKIRU ADEDEJI",
+          "p": "SDP",
+          "district": "Ifelodun/Offa/Oyun",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC HND",
+          "bg": "Contesting for Ifelodun/Offa/Oyun under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        }
+      ]
+    },
+    "State Assembly": {
+      "constituency": "State Constituencies",
+      "candidates": [
+        {
+          "n": "KAREEM RAHEMAT T",
+          "p": "A",
+          "district": "AFON",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for AFON under A.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "IBRAHIM MALIK",
+          "p": "ADP",
+          "district": "AFON",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AFON under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "JAMIU FALILAT",
+          "p": "APP",
+          "district": "AFON",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AFON under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ISHOLA SHITTU OLAYIWOLA",
+          "p": "ADC",
+          "district": "AFON",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MASTERS IN PUBLIC ADMIN",
+          "bg": "Contesting for AFON under ADC.",
+          "scores": [
+            61,
+            64,
+            63,
+            51,
+            55,
+            70
+          ]
+        },
+        {
+          "n": "BELLO YINUSA ONIBOKI",
+          "p": "APC",
+          "district": "AFON",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for AFON under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "OLAJIDE AINA RACHEAL",
+          "p": "APM",
+          "district": "AFON",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB",
+          "bg": "Contesting for AFON under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N OLADOKUN RUTH OMOYEMI",
+          "p": "NDP",
+          "district": "AFON",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AFON under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "RAHAMAN MURITALA",
+          "p": "NNPP",
+          "district": "AFON",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for AFON under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ABDULRASHEED SALIU RUFAI",
+          "p": "NDC",
+          "district": "AFON",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AFON under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SALMAN RIDWAN",
+          "p": "PDP",
+          "district": "I AFON",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE NCE",
+          "bg": "Contesting for I AFON under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "AYINDE AKANBI JELIL",
+          "p": "SDP",
+          "district": "AFON",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE BSC",
+          "bg": "Contesting for AFON under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "SALAUDEEN A. ONIKOKO",
+          "p": "A",
+          "district": "ONIRE/OWODE",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ONIRE/OWODE under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULWAHEED TAOFEEK",
+          "p": "ADP",
+          "district": "ONIRE/OWODE",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ONIRE/OWODE under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "OPEYEMI MOHAMMED ADENIYI",
+          "p": "APP",
+          "district": "ONIRE/OWODE",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LIVING CERTIFICATE SSCE OND",
+          "bg": "Contesting for ONIRE/OWODE under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BABATUNDE WAHEED ALADE",
+          "p": "ADC",
+          "district": "ONIRE/OWODE",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ALAPA PRIMARY NABTEB KWARA STATE POLYTECHNIC",
+          "bg": "Contesting for ONIRE/OWODE under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            65,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "SHITTU RUKAYAT MOTUNRAYO",
+          "p": "APC",
+          "district": "ONIRE/OWODE",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for ONIRE/OWODE under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "AREMU B BELLO",
+          "p": "NDP",
+          "district": "ONIRE/OWODE",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ONIRE/OWODE under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AGBOOLA OLUWABUNMI",
+          "p": "NRM",
+          "district": "ONIRE/OWODE",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC ND",
+          "bg": "Contesting for ONIRE/OWODE under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SOLIU SAHEED ONISHO",
+          "p": "NNPP",
+          "district": "ONIRE/OWODE",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ONIRE/OWODE under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "OYEWALE SILAS",
+          "p": "NDC",
+          "district": "ONIRE/OWODE",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "OUR SAVIOUR NUR/PRI SCH BLESSING COMPREHENSIVE COLLEGE POLYTECHNIC OFFA",
+          "bg": "Contesting for ONIRE/OWODE under NDC.",
+          "scores": [
+            51,
+            61,
+            47,
+            61,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N YINUSA ABDULLAHI",
+          "p": "PDP",
+          "district": "ONIRE/OWODE",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC NECO",
+          "bg": "Contesting for ONIRE/OWODE under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ISIAQ ABDULMUMEEN",
+          "p": "SDP",
+          "district": "ONIRE/OWODE",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL WAEC CERITICATE",
+          "bg": "Contesting for ONIRE/OWODE under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UMAR FATIMOH",
+          "p": "A",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HALIMAT USMAN",
+          "p": "ADP",
+          "district": "I ILESHA/GWANARA BARUTIN I",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ILESHA/GWANARA BARUTIN I under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ADAMU HARUNA",
+          "p": "APP",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ISHAQ SALIHU ABUBAKAR WENE",
+          "p": "ADC",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC N.E.C DEGREE\\MASTERS",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "ISHAQ IBRAHIM FARU",
+          "p": "APC",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "GARUBA SEMO LUKMAN",
+          "p": "APM",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE N.C.E",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YERO ISAH",
+          "p": "NDP",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ABUBAKAR SIDIQ UMAR",
+          "p": "NNPP",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "MOHAMMED SURAJUDEEN",
+          "p": "NDC",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ADAMU TOURE ABDULMALIK",
+          "p": "PDP",
+          "district": "ILESHA/GWANARA BARUTIN I",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE KWARA STATE POLYTECHNIC",
+          "bg": "Contesting for ILESHA/GWANARA BARUTIN I under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            65,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "YUSUF S. SABI",
+          "p": "A",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under A.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N MUSA JABINTA",
+          "p": "ADP",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "AUDU ABDULRAHMAN",
+          "p": "APP",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADAMU IBRAHIM",
+          "p": "ADC",
+          "district": "I OKUTA/AYASHKIRA BARUTIN II",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for I OKUTA/AYASHKIRA BARUTIN II under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "AHMED SHERO YAKUB",
+          "p": "APC",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "SALIHU RAFAT",
+          "p": "APM",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UMAR JIBRIL BABA",
+          "p": "NNPP",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "ALHASSAN YINUSA KOTO",
+          "p": "NDC",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ADAMU BABA YAKUB",
+          "p": "PDP",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SENIOR SCHOOL CERTIFICATE NIGER STATE POLY ZUNGERU",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "YAKUB HUSEIN",
+          "p": "SDP",
+          "district": "OKUTA/AYASHKIRA BARUTIN II",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE NCE",
+          "bg": "Contesting for OKUTA/AYASHKIRA BARUTIN II under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "MUHAMMED A MUHAMMED",
+          "p": "A",
+          "district": "LAFIAGI / EDU",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for LAFIAGI / EDU under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EZEKIEL KOLO",
+          "p": "ADP",
+          "district": "LAFIAGI / EDU",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for LAFIAGI / EDU under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "RAMATU MOHAMMED",
+          "p": "APP",
+          "district": "LAFIAGI / EDU",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LAFIAGI / EDU under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N ADAMU MUHAMMED SHESHI",
+          "p": "ADC",
+          "district": "LAFIAGI / EDU",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MANFU PRIMARY SCHOOL TSARAGI SENIOR SECONDARY SCHOOL COLLEGE OF EDUCATION",
+          "bg": "Contesting for LAFIAGI / EDU under ADC.",
+          "scores": [
+            55,
+            50,
+            63,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "BUHARI ABUBAKAR SADDIQ",
+          "p": "APC",
+          "district": "LAFIAGI / EDU",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT SSCE MS.C",
+          "bg": "Contesting for LAFIAGI / EDU under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "AHMED LUTU",
+          "p": "APM",
+          "district": "I LAFIAGI / EDU",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB NCE",
+          "bg": "Contesting for I LAFIAGI / EDU under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ZAINAB BELLO",
+          "p": "NDP",
+          "district": "LAFIAGI / EDU",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LAFIAGI / EDU under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "FAKAYODE SAIDAT",
+          "p": "NRM",
+          "district": "LAFIAGI / EDU",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for LAFIAGI / EDU under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HARUNA MARIAM",
+          "p": "NNPP",
+          "district": "LAFIAGI / EDU",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for LAFIAGI / EDU under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "LEGBO EZRA IDOWU",
+          "p": "NDC",
+          "district": "LAFIAGI / EDU",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE BSC.",
+          "bg": "Contesting for LAFIAGI / EDU under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "SABA YISA GIDEON",
+          "p": "PDP",
+          "district": "LAFIAGI / EDU",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO/NABTEB",
+          "bg": "Contesting for LAFIAGI / EDU under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "JAMES KOLO",
+          "p": "A",
+          "district": "PATIGI",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for PATIGI under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "MUSTAPHA SANI",
+          "p": "ADP",
+          "district": "PATIGI",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for PATIGI under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "FATIMA ABUBAKAR",
+          "p": "APP",
+          "district": "PATIGI",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PATIGI under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MOHAMMED BABA ADAM",
+          "p": "ADC",
+          "district": "PATIGI",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC EDU \\ POL SCI",
+          "bg": "Contesting for PATIGI under ADC.",
+          "scores": [
+            61,
+            50,
+            71,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "ALIYU YUSUF DANGANA",
+          "p": "APC",
+          "district": "PATIGI",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for PATIGI under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "AUWALU USMAN",
+          "p": "APM",
+          "district": "PATIGI",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE N.C.E",
+          "bg": "Contesting for PATIGI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OMOTOSHO EMMANUEL",
+          "p": "NDP",
+          "district": "PATIGI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PATIGI under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YUNUSA MARYAM",
+          "p": "NRM",
+          "district": "PATIGI",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC BSC",
+          "bg": "Contesting for PATIGI under NRM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "YISA SUNDAY",
+          "p": "NNPP",
+          "district": "PATIGI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for PATIGI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "N MOHAMMED ETSU DANJUMO",
+          "p": "NDC",
+          "district": "PATIGI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE COLLEGE",
+          "bg": "Contesting for PATIGI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ABUBAKAR DANSARAKI UMAR",
+          "p": "PDP",
+          "district": "PATIGI",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SENIOR SCHOOL CERTIFICATE HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for PATIGI under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ADEWUMI OLAIYA OLUSEGUN",
+          "p": "A",
+          "district": "I EKITI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate)",
+          "bg": "Contesting for I EKITI under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "POPOOLA MODUPE",
+          "p": "AA",
+          "district": "EKITI",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HND",
+          "bg": "Contesting for EKITI under AA.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OGUNNIYI KAYODE",
+          "p": "ADP",
+          "district": "EKITI",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for EKITI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "AWONIYI OLUSHOLA",
+          "p": "APP",
+          "district": "EKITI",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE WASC",
+          "bg": "Contesting for EKITI under APP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "OSASONA JOSEPH ADELEKE",
+          "p": "ADC",
+          "district": "EKITI",
+          "age": "70",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WACE BSC EDU MANGT \\ MSC PUBLIC ADMIN",
+          "bg": "Contesting for EKITI under ADC.",
+          "scores": [
+            63,
+            72,
+            83,
+            51,
+            84,
+            49
+          ]
+        },
+        {
+          "n": "OLUJIDE ROTIMI SAMUEL",
+          "p": "APC",
+          "district": "EKITI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE LLB",
+          "bg": "Contesting for EKITI under APC.",
+          "scores": [
+            58,
+            71,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "OGUNLEYE IYANYOLUWA",
+          "p": "APM",
+          "district": "EKITI",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for EKITI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JIDE BALOGUN",
+          "p": "NDP",
+          "district": "EKITI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for EKITI under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OGUNGBEMI OLUBUNMI",
+          "p": "NRM",
+          "district": "EKITI",
+          "age": "28",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for EKITI under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BARINKIN O. SAMUEL",
+          "p": "NNPP",
+          "district": "EKITI",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for EKITI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ANTHONY DELE ABIODUN",
+          "p": "NDC",
+          "district": "EKITI",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE BSC.",
+          "bg": "Contesting for EKITI under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "AJAYI REUBEN OLABANJI",
+          "p": "PDP",
+          "district": "EKITI",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC BSC/MSC/MBA/ICAN/ACTIETC",
+          "bg": "Contesting for EKITI under PDP.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            70,
+            60
+          ]
+        },
+        {
+          "n": "N OGUNDEJI SUNDAY SAMUEL",
+          "p": "A",
+          "district": "OKE-ERO",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKE-ERO under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AROWOLO SEYE",
+          "p": "ADP",
+          "district": "OKE-ERO",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKE-ERO under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ADENIYI MURITALA",
+          "p": "APP",
+          "district": "OKE-ERO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE SSCE",
+          "bg": "Contesting for OKE-ERO under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "GRACE E.JOLAYEMI",
+          "p": "ADC",
+          "district": "OKE-ERO",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC EDU",
+          "bg": "Contesting for OKE-ERO under ADC.",
+          "scores": [
+            65,
+            50,
+            71,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "BAKARE LATIFAT TITILOPE",
+          "p": "APC",
+          "district": "I OKE-ERO",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC",
+          "bg": "Contesting for I OKE-ERO under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "ADEKUNLE OPEYEMI OMOLARA",
+          "p": "APM",
+          "district": "OKE-ERO",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for OKE-ERO under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OLUWASEUN AREMU",
+          "p": "NDP",
+          "district": "OKE-ERO",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATE H.N.D",
+          "bg": "Contesting for OKE-ERO under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ARIOGUNDE CAROLINE",
+          "p": "NRM",
+          "district": "OKE-ERO",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C SSCE NCE",
+          "bg": "Contesting for OKE-ERO under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "POPOOLA OLUFEMI MATHEW",
+          "p": "NNPP",
+          "district": "OKE-ERO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OKE-ERO under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "OLADIPO TEMITOPE MATTHEW",
+          "p": "NDC",
+          "district": "OKE-ERO",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for OKE-ERO under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "OLUSHOLA TEMITOPE MOSES",
+          "p": "PDP",
+          "district": "OKE-ERO",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC",
+          "bg": "Contesting for OKE-ERO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ABUBAKAR OLADAPO DAUDA",
+          "p": "A",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OLAKUNLE OLAOYE",
+          "p": "ADP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM KAFAYAT KEHINDE",
+          "p": "APP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N NURUDEEN OKANLAWON",
+          "p": "ADC",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC ND",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "LAWAL SULAIMON",
+          "p": "APC",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSC B.ED",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "ADEDAYO ALICE ABIOLA",
+          "p": "APM",
+          "district": "I OMUPO/IGBAJA IFELODUN I",
+          "age": "62",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for I OMUPO/IGBAJA IFELODUN I under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DELE SALIU",
+          "p": "NDP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OLOKUNOLA ALADE SIKIRU",
+          "p": "NNPP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "ISMAIL BAKARE",
+          "p": "NDC",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "LAWAL ABDULRAZAK ABIODUN",
+          "p": "PDP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIM SCH CERTIFICATE SSCE B.SC, PGDM, MBA",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under PDP.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            70,
+            60
+          ]
+        },
+        {
+          "n": "IBRAHIM JAMIU",
+          "p": "SDP",
+          "district": "OMUPO/IGBAJA IFELODUN I",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OMUPO/IGBAJA IFELODUN I under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SAHEED AMAO",
+          "p": "A",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under A.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "YAKUB OLANREWAJU",
+          "p": "ADP",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "TAIYE IBRAHIM KABIRU",
+          "p": "APP",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE SSCE OND",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BASHORUN ZULU OLAYINKA",
+          "p": "ADC",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FCPE SSCE DIPLOMA",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N OYINLOYE BENJAMIN DAIRO",
+          "p": "APC",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc/MSC",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under APC.",
+          "scores": [
+            72,
+            51,
+            70,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "ODETUNDE FEHINTOLA JANET",
+          "p": "APM",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB ND",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "BASHIR OLAMILEKAN",
+          "p": "NNPP",
+          "district": "I SHARE/OKE-ODE IFELODUN II",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I SHARE/OKE-ODE IFELODUN II under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "OLAJIDE OBAFEMI ALASHI",
+          "p": "NDC",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE BSC ARCHITECT",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "JIMOH JOGUNOLA ABDULGANIYU",
+          "p": "PDP",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC NABTEB",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "AJILEYE OLUSEGUN",
+          "p": "SDP",
+          "district": "SHARE/OKE-ODE IFELODUN II",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FLSC WEAC",
+          "bg": "Contesting for SHARE/OKE-ODE IFELODUN II under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "MUHAMMED ALABI SULYMAN",
+          "p": "A",
+          "district": "ILORIN EAST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN EAST under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SALAU AFOLAYAN",
+          "p": "ADP",
+          "district": "ILORIN EAST",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN EAST under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IBRAHIM KAMAL",
+          "p": "APP",
+          "district": "ILORIN EAST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN EAST under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BAMIDELE ABDULLAHI OLANREWAJU",
+          "p": "ADC",
+          "district": "ILORIN EAST",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PROGRESSIVE DAY SCHOOL IBEDA MERCY T. VOCATIONAL EDU CENTER KWARA STATE COLLEGE OF EDU",
+          "bg": "Contesting for ILORIN EAST under ADC.",
+          "scores": [
+            51,
+            56,
+            63,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "LAWAL ARINOLA FATIMOH",
+          "p": "APC",
+          "district": "ILORIN EAST",
+          "age": "56",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for ILORIN EAST under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "USMAN TAOFEEK OMOTOSHO",
+          "p": "APM",
+          "district": "ILORIN EAST",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for ILORIN EAST under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N MOHAMMED ABUBAKAR",
+          "p": "NDP",
+          "district": "ILORIN EAST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN EAST under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADEOYE OMODELE",
+          "p": "NRM",
+          "district": "ILORIN EAST",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for ILORIN EAST under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "YAHAYA BOLAKALE SAUTA",
+          "p": "NNPP",
+          "district": "ILORIN EAST",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for ILORIN EAST under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "OLUWALAMBE AJADI MATHEW",
+          "p": "NDC",
+          "district": "I ILORIN EAST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ALGORO ONIKOKO L G E A PRI. SCH. ILORIN COMP SEC. SCHOOL LAGOS STATE UNIVERSITY",
+          "bg": "Contesting for I ILORIN EAST under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "MOHAMMED HARUNA",
+          "p": "PDP",
+          "district": "ILORIN EAST",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC NABTEB NCE/BSC.M.ED",
+          "bg": "Contesting for ILORIN EAST under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "ABDULAHI ABDULRAHMAN OLOWO",
+          "p": "SDP",
+          "district": "ILORIN EAST",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for ILORIN EAST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ALAO JAMIU",
+          "p": "A",
+          "district": "ILORIN SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN SOUTH under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "NAOMI OLLA",
+          "p": "ADP",
+          "district": "ILORIN SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for ILORIN SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "AYINDE ATOLAGBE",
+          "p": "APP",
+          "district": "ILORIN SOUTH",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN SOUTH under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABULRASAQ ABDULSALAM",
+          "p": "ADC",
+          "district": "ILORIN SOUTH",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for ILORIN SOUTH under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "YUSUF MARYAM ALADI",
+          "p": "APC",
+          "district": "ILORIN SOUTH",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MSc Public Administration",
+          "bg": "Contesting for ILORIN SOUTH under APC.",
+          "scores": [
+            58,
+            71,
+            62,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "IBRAHIM RAMAT YETUNDE",
+          "p": "APM",
+          "district": "ILORIN SOUTH",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB",
+          "bg": "Contesting for ILORIN SOUTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ISSA HALIMAT",
+          "p": "NDP",
+          "district": "ILORIN SOUTH",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN SOUTH under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADEYOOLA KEHINDE",
+          "p": "NRM",
+          "district": "ILORIN SOUTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO BSC",
+          "bg": "Contesting for ILORIN SOUTH under NRM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "LAWAL LUKMAN TOPE",
+          "p": "NDC",
+          "district": "ILORIN SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ST. JOHN AFRICAN PRIMARY GDSS ALEGONGO KWARA POLYTECHNIC",
+          "bg": "Contesting for ILORIN SOUTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            61,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N ALAYA TAIYE",
+          "p": "PDP",
+          "district": "ILORIN SOUTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE HND",
+          "bg": "Contesting for ILORIN SOUTH under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "SALMAN MURITALA",
+          "p": "SDP",
+          "district": "ILORIN SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ABDULRAHMAN LUKMAN",
+          "p": "A",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SAKA OLAREWAJU",
+          "p": "ADP",
+          "district": "I ILORIN CENTRAL / ILORIN WEST I",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for I ILORIN CENTRAL / ILORIN WEST I under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "YUSUF OMOKAYODE BASHIR",
+          "p": "ADC",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NABCTEB BSC MPA",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "MAGAJI OBA ABDULKADIR",
+          "p": "APC",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE/WAEC B.L [HON]",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "SOLIHU SODIQ OLODEOKUTA",
+          "p": "APM",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE ND",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BELLO ABU",
+          "p": "NDP",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "JIMOH ALIMAT",
+          "p": "NRM",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NECO ND",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ISSA BELLO MAGAJIN",
+          "p": "NNPP",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "AHMED IMAM ADAM",
+          "p": "NDC",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NAWA AISHAT MEMORY NUR/PRI C&S COLLEGE KWARA STATE POLYTECHNIC",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            61,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "JIMOH UTHMAN BABATUNDE",
+          "p": "PDP",
+          "district": "ILORIN CENTRAL / ILORIN WEST I",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN CENTRAL / ILORIN WEST I under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "SALIHU AFEEZ",
+          "p": "A",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under A.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N OLAWALE AFOLABI",
+          "p": "ADP",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "OLUWAMUYIWA TAIWO",
+          "p": "APP",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE SSCE",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HAKEEM MUSTAPHA DARE",
+          "p": "ADC",
+          "district": "I ILORIN WEST / ILORIN WEST II",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC ACCOUNTING",
+          "bg": "Contesting for I ILORIN WEST / ILORIN WEST II under ADC.",
+          "scores": [
+            79,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "SHOLAGBERU AHMED BOLAJI",
+          "p": "APC",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc ACCOUNTING",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under APC.",
+          "scores": [
+            80,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "OLOWOKERE MARIAM",
+          "p": "APM",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YAHAYA TUNDE IBRAHIM",
+          "p": "NDP",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BUHARI OLAITAN ISIAKA",
+          "p": "NNPP",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "NURUDEEN GIDADO",
+          "p": "NDC",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC MOUNT CARMEL COLLEGE KWARA STATE POLYTECHNIC",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            61,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ABDULHAMEED ISIAKA OLATUNJI",
+          "p": "PDP",
+          "district": "ILORIN WEST / ILORIN WEST II",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "GCE LLM & LLB",
+          "bg": "Contesting for ILORIN WEST / ILORIN WEST II under PDP.",
+          "scores": [
+            63,
+            70,
+            71,
+            51,
+            80,
+            52
+          ]
+        },
+        {
+          "n": "ADEKANYE IBIKUNLE JOSEPH",
+          "p": "A",
+          "district": "IREPODUN",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) NCE",
+          "bg": "Contesting for IREPODUN under A.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "BABATUNDE AYANDA",
+          "p": "ADP",
+          "district": "IREPODUN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IREPODUN under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "LAWAL OLUWAKEMI RUKAYAT",
+          "p": "APP",
+          "district": "IREPODUN",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IREPODUN under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADEBOYE LATEEF",
+          "p": "ADC",
+          "district": "IREPODUN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IREPODUN under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N FAFOLUYI OLAYINKA MICHAEL",
+          "p": "APC",
+          "district": "IREPODUN",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE BSc Microbiology",
+          "bg": "Contesting for IREPODUN under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "AFOLABI VICTORIA OGUNDELE",
+          "p": "APM",
+          "district": "IREPODUN",
+          "age": "28",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.A",
+          "bg": "Contesting for IREPODUN under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MUDASHIRU LAWAL",
+          "p": "NDP",
+          "district": "I IREPODUN",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I IREPODUN under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OLUWATUMININU MICAH",
+          "p": "NRM",
+          "district": "IREPODUN",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "OLEVEL BSC",
+          "bg": "Contesting for IREPODUN under NRM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ADEOTI OLUWATOSIN AUGUSTINE",
+          "p": "NNPP",
+          "district": "IREPODUN",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for IREPODUN under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "OLUGBENGA AROGUNDADE",
+          "p": "NDC",
+          "district": "IREPODUN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC.",
+          "bg": "Contesting for IREPODUN under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ODETUNDUN OLUSHOLA",
+          "p": "PDP",
+          "district": "IREPODUN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for IREPODUN under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "SANNI SODIQ KAYODE",
+          "p": "SDP",
+          "district": "IREPODUN",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for IREPODUN under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "MARY TITILOPE",
+          "p": "A",
+          "district": "ISIN",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for ISIN under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "BOGUNJOKO YEMISI",
+          "p": "ADP",
+          "district": "ISIN",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NAPTEB B.A.ED",
+          "bg": "Contesting for ISIN under ADP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "IBRAHIM SAKIRAT IDOWU",
+          "p": "APP",
+          "district": "ISIN",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ISIN under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OLAOYE DARE FUNMINIYI",
+          "p": "ADC",
+          "district": "ISIN",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "IJARA ISIN BAPTIST IJARA ISIN HIGH SCHOOL UNI OF IBADAN",
+          "bg": "Contesting for ISIN under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "AWOYALE STEPHEN ADEOLA",
+          "p": "APC",
+          "district": "ISIN",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for ISIN under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "SUNDAY OYINLOYE AYO",
+          "p": "APM",
+          "district": "ISIN",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Sc (ED)",
+          "bg": "Contesting for ISIN under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N PRINCESS OMOLARA OMIYINKA",
+          "p": "NDP",
+          "district": "ISIN",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ISIN under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "EMMANUEL BLESSING",
+          "p": "NRM",
+          "district": "ISIN",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ISIN under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ANIYIKAYE COMFORT OLUSOLA",
+          "p": "NNPP",
+          "district": "ISIN",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ISIN under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ADEWARA OLUSEGUN",
+          "p": "NDC",
+          "district": "I ISIN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I ISIN under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "MADANDOLA OLALEKAN BASHIR",
+          "p": "PDP",
+          "district": "ISIN",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIM SCHOOL CERT NECO",
+          "bg": "Contesting for ISIN under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "AKINYEMI SAMSON ROTIMI",
+          "p": "SDP",
+          "district": "ISIN",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC 2005",
+          "bg": "Contesting for ISIN under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "MUHAMMED ISMAIL BIO",
+          "p": "A",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABUBAKAR ISMAILA",
+          "p": "ADP",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "FATIMAT AMMAHULLAHI",
+          "p": "APP",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "25",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BASHIR JIKANTORI MOHAMMED",
+          "p": "ADC",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "TUNGA ABOKI SCHOOL NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "GARBA YARU UMAR",
+          "p": "APC",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DILPOMA IN LAW",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under APC.",
+          "scores": [
+            52,
+            71,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ISHAQ AHMED BIO",
+          "p": "APM",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE N.C.E",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YAHAYA MOHAMMED BASHAR",
+          "p": "NNPP",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "N ADAMU IBRAHIM",
+          "p": "NDC",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "K.C.G.E.A GWTEKUTA G U S S KAIMA USMAN DANFODIO UNIVERSITY",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "UMAR MOHAMMED",
+          "p": "PDP",
+          "district": "GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE NTI",
+          "bg": "Contesting for GWANABE/ADENA/ BANNI /KAIAMA I under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "USMAN AHMED",
+          "p": "SDP",
+          "district": "I GWANABE/ADENA/ BANNI /KAIAMA I",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC 2017",
+          "bg": "Contesting for I GWANABE/ADENA/ BANNI /KAIAMA I under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "MUSA SABI",
+          "p": "A",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "USMAN KABIRU",
+          "p": "ADP",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ALHASSAN MEIMUNAT",
+          "p": "APP",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MOHAMMED MUSTAPHA UMAR",
+          "p": "ADC",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NATIONAL DIPLOMA",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "USMAN ZULKAMAINI ZAKARI",
+          "p": "APC",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "MUSA KHADIJAT",
+          "p": "APM",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULLAHI KABIR",
+          "p": "NNPP",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MUHAMMED ZELIYAT",
+          "p": "NDC",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UMAR ABDULRAZAQ ZOR",
+          "p": "PDP",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "N ABDULLAHI NASIRU",
+          "p": "SDP",
+          "district": "KAIAMA/WAJIBE/ KEMANJI / KAIAMA II",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC",
+          "bg": "Contesting for KAIAMA/WAJIBE/ KEMANJI / KAIAMA II under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "AYOKU ABDULGANIYU",
+          "p": "A",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "FRIDAY OYEGOKE",
+          "p": "ADP",
+          "district": "I LANWA/EJIDONGARI / MORO I",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I LANWA/EJIDONGARI / MORO I under ADP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "IDRIS SULEIMAN",
+          "p": "APP",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "TIMOTHY OLAYINKA SAMUEL",
+          "p": "ADC",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO NCE",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ABDULRAHEEM MEDINAT MOTUNRAYO",
+          "p": "APC",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FLSC NECO HIGHER NATIONAL DIPLOMA (HND)",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "OMOTOSHO GANIYAT",
+          "p": "APM",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "54",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE TECHNICAL COLLEGE",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            62,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "TUNJI SALIHU",
+          "p": "NDP",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ALERU JOHN",
+          "p": "NRM",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO B.EDU",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under NRM.",
+          "scores": [
+            52,
+            48,
+            60,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YUNUS OLAMILEKAN",
+          "p": "NNPP",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "AJADI GABRIEL FEMI",
+          "p": "NDC",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SOLIU JAMIU ATANDA",
+          "p": "PDP",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "N AYOKU ABDULGANEEY BOLA",
+          "p": "SDP",
+          "district": "LANWA/EJIDONGARI / MORO I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC 2007",
+          "bg": "Contesting for LANWA/EJIDONGARI / MORO I under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SULYMAN TOHEER",
+          "p": "A",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JIMOH AYODELE",
+          "p": "ADP",
+          "district": "I OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC POLITICAL SCIENCE",
+          "bg": "Contesting for I OLORU/MALETE/ IPAIYE / MORO II under ADP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "MODUPE FATIMEHIN",
+          "p": "APP",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABEGUNDE ADEKUNLE",
+          "p": "ADC",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "LAWAL AYANSHOLA SALIU",
+          "p": "APC",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCH LEAVING CERT SSCE HND",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "SAAD SIKIRAT",
+          "p": "APM",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "LAWAL BELLO",
+          "p": "NDP",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "GBOLAHAN ABDULRASHEED",
+          "p": "NNPP",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "AHMED OLUWATOYIN ISSA",
+          "p": "NDC",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC NECO OND",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ADEGBITE ADEMOLA OYENIYI",
+          "p": "PDP",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "RAJI OLAMILEKAN YUSUF",
+          "p": "SDP",
+          "district": "OLORU/MALETE/ IPAIYE / MORO II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC",
+          "bg": "Contesting for OLORU/MALETE/ IPAIYE / MORO II under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N LAWAL MUINAT BOLA",
+          "p": "A",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DAUDA AIYEGBAMI",
+          "p": "ADP",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IFABIYI TEMITOPE",
+          "p": "APP",
+          "district": "I BALOGUN/OJUMU / OFFA I",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LIVING CERTIFICATE SSCE",
+          "bg": "Contesting for I BALOGUN/OJUMU / OFFA I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "KEHINDE OLUSHOLA OPARANTI",
+          "p": "ADC",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "GIWA MUSEMIL KEHINDE",
+          "p": "APC",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE OND",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "AKANO DAVID VICTOR",
+          "p": "APM",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MUFUTAU SHOGO",
+          "p": "NDP",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ATOLAGBE AZEEZ BAMIDELE",
+          "p": "NNPP",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "BALOGUN TIRIMISIYU OLADAYO",
+          "p": "NDC",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SALAHUDEEN ADEYEMI LUKMAN",
+          "p": "PDP",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE HND",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "HUSSAIN MUHAMMED",
+          "p": "SDP",
+          "district": "BALOGUN/OJUMU / OFFA I",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BALOGUN/OJUMU / OFFA I under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "WASIU AROYEHUN",
+          "p": "A",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SANNI SURAJUDEEN",
+          "p": "ADP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC, MSC",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under ADP.",
+          "scores": [
+            68,
+            48,
+            68,
+            48,
+            65,
+            62
+          ]
+        },
+        {
+          "n": "N SALAHUDEEN NAFISAT OLUWABUKOLA",
+          "p": "APP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULAZEEZ ABDULWAHAB T.",
+          "p": "ADC",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "OKEALUKO PRIMARY SCHOOL ABIJET INTERNATIONAL VOCATIONAL CENTER",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "OMOTOSHO TAIYE MUTIAT",
+          "p": "APC",
+          "district": "I SHAWO/ESSA / OFFA II",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/GCE HND",
+          "bg": "Contesting for I SHAWO/ESSA / OFFA II under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ADEBIYI RASHEEDAT TEMITOPE",
+          "p": "APM",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE ND",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DARE FASHOLA",
+          "p": "NDP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OLUWAFEMI HANNAH",
+          "p": "NRM",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JIMOH SAMSUDEEN O.",
+          "p": "NNPP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "AHMED ADEBISI SHITTU",
+          "p": "NDC",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO UPPER CREDIT",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "GANIYU LUKMAN OLA",
+          "p": "PDP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SENIOR SCHOOL CERTIFICATE HND",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "ALHAJI MAROOF BUKOYE",
+          "p": "SDP",
+          "district": "SHAWO/ESSA / OFFA II",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SHAWO/ESSA / OFFA II under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "ADESHINA SODIQ ABUBAKAR",
+          "p": "A",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OKEOWO FUNMILAYO AYODELE",
+          "p": "AA",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "57",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NCE",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under AA.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABIBAT ABDULGANIYU",
+          "p": "ADP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "26",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N PRECIOUS JOSIAH OMOTOSHO",
+          "p": "APP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OLURANTI EMMANUEL AFOLABI",
+          "p": "ADC",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC TECHNICAL FEDERAL CERT EXAM NATIONAL DIPLOMA",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            65,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "YUSUF ATOYEBI MUSA",
+          "p": "APC",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE ND",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "TOMORI OLUWAKEMI",
+          "p": "APM",
+          "district": "I ODO-OGUN/ OYUN I",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for I ODO-OGUN/ OYUN I under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OMOTAYO OTITOJU",
+          "p": "NDP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OJO HELEN",
+          "p": "NRM",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC HND",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under NRM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "LUKMAN UTHMAN",
+          "p": "NNPP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "MOROOF JIMO OPELOYERU",
+          "p": "NDC",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE/WASC HND",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ADEBAYO ADELEKE MOSES",
+          "p": "PDP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FLSC NABTEB HND",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "AJETUNMOBI AFEES",
+          "p": "SDP",
+          "district": "ODO-OGUN/ OYUN I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC CERITICATE",
+          "bg": "Contesting for ODO-OGUN/ OYUN I under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ABDULAZEEZ O. SALAUDEEN",
+          "p": "A",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OKE-OGUN / OYUN II under A.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ISMAILA ABDULGANIYU",
+          "p": "ADP",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OKE-OGUN / OYUN II under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SEGUN OYEDELE",
+          "p": "APP",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKE-OGUN / OYUN II under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SHOBALOJU SHOLA PHILIP",
+          "p": "ADC",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BAPTIST L.G.E.A IGOSUN COMMUNITY HIGH SCH OLADAPO FEDERAL POLYTECHNIC OFFA",
+          "bg": "Contesting for OKE-OGUN / OYUN II under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            65,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "OJO OLAYIWOLA OYEBODE",
+          "p": "APC",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ORDINARY NATIONAL DIPLOMA",
+          "bg": "Contesting for OKE-OGUN / OYUN II under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "N ABIFARIN OMOLARA OLAMIDE",
+          "p": "APM",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for OKE-OGUN / OYUN II under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OKUNLOLA PAUL KAYODE",
+          "p": "NNPP",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for OKE-OGUN / OYUN II under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "JUMOKE MICHAEL",
+          "p": "NDC",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PSLC WAEC NCE",
+          "bg": "Contesting for OKE-OGUN / OYUN II under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OYETUNJI FEMI ABOLARIN",
+          "p": "PDP",
+          "district": "I OKE-OGUN / OYUN II",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SENIOR SCHOOL CERTIFICATE HND",
+          "bg": "Contesting for I OKE-OGUN / OYUN II under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "OLANREWAJU BABATUNDE",
+          "p": "SDP",
+          "district": "OKE-OGUN / OYUN II",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKE-OGUN / OYUN II under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6774 @@
+{
+  "state": "Plateau",
+  "offices": {
+    "Governor": {
+      "constituency": "Plateau Statewide",
+      "candidates": []
+    },
+    "Senate": {
+      "constituency": "Senatorial Districts",
+      "candidates": [
+        {
+          "n": "NA'ANMA CLETUS",
+          "p": "ADP",
+          "district": "PLATEAU SOUTH",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate Diploma",
+          "bg": "Contesting for PLATEAU SOUTH under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "JAZULI GARBA",
+          "p": "APP",
+          "district": "PLATEAU SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WASSCE",
+          "bg": "Contesting for PLATEAU SOUTH under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SOLOMON SELCAP DALUNG",
+          "p": "ADC",
+          "district": "PLATEAU SOUTH",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE O\\LEVEL LLB",
+          "bg": "Contesting for PLATEAU SOUTH under ADC.",
+          "scores": [
+            57,
+            70,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "LALONG SIMON BAKO",
+          "p": "APC",
+          "district": "PLATEAU SOUTH",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE LLB",
+          "bg": "Contesting for PLATEAU SOUTH under APC.",
+          "scores": [
+            58,
+            71,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "LOHKAP RAMNAN RAMEJO",
+          "p": "APM",
+          "district": "PLATEAU SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for PLATEAU SOUTH under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N KEFAS PETER KEFAS DANDAM",
+          "p": "NDC",
+          "district": "PLATEAU SOUTH",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC",
+          "bg": "Contesting for PLATEAU SOUTH under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "SHEKARAU JOHNBULL TIEMLONG",
+          "p": "PDP",
+          "district": "PLATEAU SOUTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "T/R.C.M SCHOOL, DEMSHIN G.S.G GEOPA'AL, SHENDAM UNIVERSITY OF JOS",
+          "bg": "Contesting for PLATEAU SOUTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "DENNIS GWAPNA",
+          "p": "YPP",
+          "district": "I PLATEAU SOUTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BSC",
+          "bg": "Contesting for I PLATEAU SOUTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "DABONG MOSES",
+          "p": "ZLP",
+          "district": "PLATEAU SOUTH",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WEAC B.ED",
+          "bg": "Contesting for PLATEAU SOUTH under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "MALLO MAHAN",
+          "p": "ADP",
+          "district": "PLATEAU CENTRAL",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PLATEAU CENTRAL under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NURA UMAR",
+          "p": "APP",
+          "district": "PLATEAU CENTRAL",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for PLATEAU CENTRAL under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "YUSUF BELLO",
+          "p": "ADC",
+          "district": "PLATEAU CENTRAL",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE\\NECO\\WACE BSC H\\ANATONY, DOCTOR OF MEDICINE",
+          "bg": "Contesting for PLATEAU CENTRAL under ADC.",
+          "scores": [
+            63,
+            56,
+            83,
+            51,
+            78,
+            55
+          ]
+        },
+        {
+          "n": "KASUWA BITRUS DAVID",
+          "p": "APC",
+          "district": "PLATEAU CENTRAL",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for PLATEAU CENTRAL under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ROBERT MANESSEH WUYEP",
+          "p": "APM",
+          "district": "PLATEAU CENTRAL",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for PLATEAU CENTRAL under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DANJUMA GUMMAP YERIMA",
+          "p": "LP",
+          "district": "PLATEAU CENTRAL",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC",
+          "bg": "Contesting for PLATEAU CENTRAL under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "YUSUF ISHAKU MWANTOK",
+          "p": "NDC",
+          "district": "PLATEAU CENTRAL",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC DIPLOMA IN LAW",
+          "bg": "Contesting for PLATEAU CENTRAL under NDC.",
+          "scores": [
+            55,
+            61,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "GOLU TIMOTHY SIMON",
+          "p": "PDP",
+          "district": "PLATEAU CENTRAL",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "LEA PRIMARY SCHOOL, LIMPYE(FSLT) GMC-TUWAN KABWIR SSCE(WAEC) UNIVERSITY OF JOS(B. SC)",
+          "bg": "Contesting for PLATEAU CENTRAL under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "N MR. NANFORT GOWON",
+          "p": "SDP",
+          "district": "PLATEAU CENTRAL",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PLATEAU CENTRAL under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "LUKA SEKYEN LEKSHAK",
+          "p": "YPP",
+          "district": "PLATEAU CENTRAL",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for PLATEAU CENTRAL under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "VERENGKAT PANSHAK JOHN",
+          "p": "ZLP",
+          "district": "PLATEAU CENTRAL",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for PLATEAU CENTRAL under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "BOYI BITRUS",
+          "p": "ADP",
+          "district": "I PLATEAU NORTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Ngwal comm sec sch wang Chattered institute of public management",
+          "bg": "Contesting for I PLATEAU NORTH under ADP.",
+          "scores": [
+            70,
+            62,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "VEREGKAT FWANGMUN JOHN",
+          "p": "APP",
+          "district": "PLATEAU NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PLATEAU NORTH under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ROSE BITRUS MWANTI",
+          "p": "ADC",
+          "district": "PLATEAU NORTH",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for PLATEAU NORTH under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "MWADKWON SIMON DAVOU",
+          "p": "APC",
+          "district": "PLATEAU NORTH",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC GCE PHD",
+          "bg": "Contesting for PLATEAU NORTH under APC.",
+          "scores": [
+            58,
+            57,
+            74,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "JOHN ITSEGOK ABEDNEGO",
+          "p": "APM",
+          "district": "PLATEAU NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PLATEAU NORTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HABIBU ABUBAKAR",
+          "p": "NDP",
+          "district": "PLATEAU NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO H.N.D",
+          "bg": "Contesting for PLATEAU NORTH under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "INAH DEBORAH AJANG",
+          "p": "NRM",
+          "district": "PLATEAU NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for PLATEAU NORTH under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BATURE MUSA JONATHAN",
+          "p": "NDC",
+          "district": "PLATEAU NORTH",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATION OF EDUCATION MASTERS BA THEARTHER",
+          "bg": "Contesting for PLATEAU NORTH under NDC.",
+          "scores": [
+            59,
+            53,
+            79,
+            47,
+            75,
+            54
+          ]
+        },
+        {
+          "n": "GWOTTSON DALYOP FOM",
+          "p": "PDP",
+          "district": "PLATEAU NORTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION PHD",
+          "bg": "Contesting for PLATEAU NORTH under PDP.",
+          "scores": [
+            57,
+            56,
+            75,
+            51,
+            76,
+            52
+          ]
+        },
+        {
+          "n": "N MR. ILIYA PAM GYANG",
+          "p": "SDP",
+          "district": "PLATEAU NORTH",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PLATEAU NORTH under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "DAUDA DASHWEI JACOB",
+          "p": "YPP",
+          "district": "PLATEAU NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE W.A.E.C",
+          "bg": "Contesting for PLATEAU NORTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "DIDO LUKA PETER",
+          "p": "ZLP",
+          "district": "PLATEAU NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC HND",
+          "bg": "Contesting for PLATEAU NORTH under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        }
+      ]
+    },
+    "House of Reps": {
+      "constituency": "Federal Constituencies",
+      "candidates": [
+        {
+          "n": "MUHAMMED JABIR SHEHU",
+          "p": "A",
+          "district": "Jos North/Bassa",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Jos North/Bassa under A.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MARKUS RUTH",
+          "p": "ADP",
+          "district": "Jos North/Bassa",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate NECO HND in Accounting",
+          "bg": "Contesting for Jos North/Bassa under ADP.",
+          "scores": [
+            76,
+            48,
+            56,
+            48,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "GHAZALI SANI ABBAS",
+          "p": "APP",
+          "district": "Jos North/Bassa",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WA/NECO DIPLOMA",
+          "bg": "Contesting for Jos North/Bassa under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JAMILU L. DATTI",
+          "p": "ADC",
+          "district": "Jos North/Bassa",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.A",
+          "bg": "Contesting for Jos North/Bassa under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "ABUBAKAR SHUAIBU",
+          "p": "APC",
+          "district": "Jos North/Bassa",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for Jos North/Bassa under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UMAR ISA YUSI",
+          "p": "DLA",
+          "district": "Jos North/Bassa",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Jos North/Bassa under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N IDRIS DAYYABU",
+          "p": "NDP",
+          "district": "Jos North/Bassa",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C",
+          "bg": "Contesting for Jos North/Bassa under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YAKUBU JAMES",
+          "p": "NDC",
+          "district": "Jos North/Bassa",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE EDUCATION SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for Jos North/Bassa under NDC.",
+          "scores": [
+            47,
+            53,
+            59,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "MUSA AGAH AVIA",
+          "p": "PDP",
+          "district": "I Jos North/Bassa",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE OND, B. SC",
+          "bg": "Contesting for I Jos North/Bassa under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "LAWAN RABIU",
+          "p": "PRP",
+          "district": "Jos North/Bassa",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for Jos North/Bassa under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "MOSES AGUDU",
+          "p": "SDP",
+          "district": "Jos North/Bassa",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Jos North/Bassa under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "WAKILI DANJUMA SANDA",
+          "p": "YPP",
+          "district": "Jos North/Bassa",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MBBS2003",
+          "bg": "Contesting for Jos North/Bassa under YPP.",
+          "scores": [
+            56,
+            55,
+            58,
+            49,
+            69,
+            59
+          ]
+        },
+        {
+          "n": "ISMAIL SALISU MOHAMMED",
+          "p": "ZLP",
+          "district": "Jos North/Bassa",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC",
+          "bg": "Contesting for Jos North/Bassa under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "LOGYANG WENG EMMANUEL",
+          "p": "ADP",
+          "district": "Jos South/Jos East",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate S S C E Bachelor of laws",
+          "bg": "Contesting for Jos South/Jos East under ADP.",
+          "scores": [
+            58,
+            62,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "MUHAMMAD DAN KB",
+          "p": "APP",
+          "district": "Jos South/Jos East",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Jos South/Jos East under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DAVOU DANYAM GYANG",
+          "p": "AAC",
+          "district": "Jos South/Jos East",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for Jos South/Jos East under AAC.",
+          "scores": [
+            54,
+            54,
+            52,
+            49,
+            46,
+            75
+          ]
+        },
+        {
+          "n": "JOSHUA DAVOU",
+          "p": "ADC",
+          "district": "Jos South/Jos East",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB NATIONAL DIPLOMA",
+          "bg": "Contesting for Jos South/Jos East under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "BAGOS DACHUNG MUSA",
+          "p": "APC",
+          "district": "Jos South/Jos East",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Jos South/Jos East under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "GOJI HELEN GYANG",
+          "p": "LP",
+          "district": "Jos South/Jos East",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NECO DIPLOMA",
+          "bg": "Contesting for Jos South/Jos East under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "ATANG AKARE IZANG",
+          "p": "NRM",
+          "district": "Jos South/Jos East",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Jos South/Jos East under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N DANGYANG SIMON CHIROMA",
+          "p": "NDC",
+          "district": "Jos South/Jos East",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE NECO MSC",
+          "bg": "Contesting for Jos South/Jos East under NDC.",
+          "scores": [
+            61,
+            47,
+            59,
+            47,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "DOH DUNG PAM",
+          "p": "PDP",
+          "district": "Jos South/Jos East",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRDT SCHOOL LEAVING CERTIFICATE M.SC, B.SC, DIPLOMA CERTIFICATION",
+          "bg": "Contesting for Jos South/Jos East under PDP.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            70,
+            60
+          ]
+        },
+        {
+          "n": "MRS. FATIMA WAJA",
+          "p": "SDP",
+          "district": "I Jos South/Jos East",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for I Jos South/Jos East under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "GYANG DANIEL PAM",
+          "p": "YPP",
+          "district": "Jos South/Jos East",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC ACCOUNTING",
+          "bg": "Contesting for Jos South/Jos East under YPP.",
+          "scores": [
+            74,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "AJANG DANIEL AWARI",
+          "p": "ZLP",
+          "district": "Jos South/Jos East",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WEAC",
+          "bg": "Contesting for Jos South/Jos East under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        },
+        {
+          "n": "PAM RWANG BITRUS",
+          "p": "ADP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate NECO National Diploma",
+          "bg": "Contesting for Barkin Ladi/Riyom under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BULLE GYANG DAVOU",
+          "p": "APP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C WASSCE",
+          "bg": "Contesting for Barkin Ladi/Riyom under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "DAVID P. KIM",
+          "p": "ADC",
+          "district": "Barkin Ladi/Riyom",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.ENG & MA",
+          "bg": "Contesting for Barkin Ladi/Riyom under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            65,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "FOM DALYOP CHOLLOM",
+          "p": "APC",
+          "district": "Barkin Ladi/Riyom",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC C & G HND",
+          "bg": "Contesting for Barkin Ladi/Riyom under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "NYANG YAKUBU AUDU",
+          "p": "APM",
+          "district": "Barkin Ladi/Riyom",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE",
+          "bg": "Contesting for Barkin Ladi/Riyom under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SAMUEL ALFA",
+          "p": "NDP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for Barkin Ladi/Riyom under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DUNG SUNDAY NUHU",
+          "p": "NDC",
+          "district": "Barkin Ladi/Riyom",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "LEAVING SCHOOL CERTIFICATE WAEC BSC",
+          "bg": "Contesting for Barkin Ladi/Riyom under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "DACHOMO DARIM EZEKIEL",
+          "p": "PDP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B. SC",
+          "bg": "Contesting for Barkin Ladi/Riyom under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "N DANIEL AYUBA MICHEAL",
+          "p": "SDP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Barkin Ladi/Riyom under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "EZEKIEL DACHOMO BWEDE",
+          "p": "YPP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC PSYCHOLOGY",
+          "bg": "Contesting for Barkin Ladi/Riyom under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "FOM BITRUS DAYAN",
+          "p": "ZLP",
+          "district": "Barkin Ladi/Riyom",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC 2009 BSC",
+          "bg": "Contesting for Barkin Ladi/Riyom under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "GUSHIT DAFFI",
+          "p": "ADP",
+          "district": "I Bokkos/Mangu",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BA religion and philosophy",
+          "bg": "Contesting for I Bokkos/Mangu under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "ALIYU SOMSHAK MUHAMMAD",
+          "p": "APP",
+          "district": "Bokkos/Mangu",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE NCE",
+          "bg": "Contesting for Bokkos/Mangu under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "MANGUT M. PETER",
+          "p": "ADC",
+          "district": "Bokkos/Mangu",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC",
+          "bg": "Contesting for Bokkos/Mangu under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "LALU ISHAYA DAVID",
+          "p": "APC",
+          "district": "Bokkos/Mangu",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE/SSCE ND, BSC, MSC",
+          "bg": "Contesting for Bokkos/Mangu under APC.",
+          "scores": [
+            72,
+            51,
+            70,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "DANNY MOLPUN",
+          "p": "APM",
+          "district": "Bokkos/Mangu",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for Bokkos/Mangu under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "KAMSON VICTOR",
+          "p": "NDP",
+          "district": "Bokkos/Mangu",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C",
+          "bg": "Contesting for Bokkos/Mangu under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SAGAI JOPHEL ILIYA",
+          "p": "NDC",
+          "district": "Bokkos/Mangu",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Bokkos/Mangu under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "MAPE JOSHUA ISHAKU",
+          "p": "PDP",
+          "district": "Bokkos/Mangu",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE (FSLC) GENERAL CERTIFICATE OF EDUCATION (GCE) DIPLOMA, DEGREE, MASTERS DEGREE(BA, MA)",
+          "bg": "Contesting for Bokkos/Mangu under PDP.",
+          "scores": [
+            63,
+            56,
+            83,
+            51,
+            80,
+            52
+          ]
+        },
+        {
+          "n": "MALLO JACOB GABRIEL",
+          "p": "YPP",
+          "district": "Bokkos/Mangu",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC",
+          "bg": "Contesting for Bokkos/Mangu under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "DAJAN POKYES YOHANA",
+          "p": "ZLP",
+          "district": "Bokkos/Mangu",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASSCE",
+          "bg": "Contesting for Bokkos/Mangu under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "DASHE KWALTOMAI",
+          "p": "ADP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "West African school certificate",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "YUNUSA YUSUF",
+          "p": "APP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N DAVID GRACE ADAMU",
+          "p": "AAC",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under AAC.",
+          "scores": [
+            60,
+            54,
+            60,
+            49,
+            50,
+            75
+          ]
+        },
+        {
+          "n": "AMOS NENROTMWA BLESSING",
+          "p": "ADC",
+          "district": "I Kanke/Pankshin/ Kanam",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Kanke/Pankshin/ Kanam under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "YUSUF ADAMU GAGDI",
+          "p": "APC",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE / WASSCE NCE, BSc ECONS, MSc, PHd",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under APC.",
+          "scores": [
+            72,
+            51,
+            82,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "GONTEN SEYILNEN LUZU",
+          "p": "APM",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC LLB HONS",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under APM.",
+          "scores": [
+            58,
+            62,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DIMKA EVELYN KATMWA",
+          "p": "NNPP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "53",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC, GCE LLB(HON), BL",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under NNPP.",
+          "scores": [
+            57,
+            72,
+            59,
+            50,
+            72,
+            54
+          ]
+        },
+        {
+          "n": "KUMTAP YILJI CASHMIR",
+          "p": "NDC",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY SCHOOL CERTIFICATE WAEC MBBS",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "DASUN PHILIP PETER",
+          "p": "PDP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC Ph.D",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under PDP.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            66,
+            60
+          ]
+        },
+        {
+          "n": "MAHMUD I, MUSA",
+          "p": "SDP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "GOMA WALLOK PHILIP",
+          "p": "YPP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC - SECONDARY SCHOOL CERTIFICATE LLB, BL, LLM",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under YPP.",
+          "scores": [
+            70,
+            63,
+            70,
+            49,
+            65,
+            67
+          ]
+        },
+        {
+          "n": "MONDAY VILLONG POFI",
+          "p": "ZLP",
+          "district": "Kanke/Pankshin/ Kanam",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC(ED)",
+          "bg": "Contesting for Kanke/Pankshin/ Kanam under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "KABIRU ABDULLAHI",
+          "p": "ADP",
+          "district": "Wase",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate NECO",
+          "bg": "Contesting for Wase under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "MOHAMMED HADI ISA",
+          "p": "APP",
+          "district": "Wase",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for Wase under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N UMAR YUSHUA MAVEDA",
+          "p": "ADC",
+          "district": "Wase",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Wase under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "IDRIS AHMED",
+          "p": "APC",
+          "district": "Wase",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC HND",
+          "bg": "Contesting for Wase under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ABUBAKAR MUHAMMED",
+          "p": "APM",
+          "district": "I Wase",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Wase under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AHMAD TIJJANI RAMAT",
+          "p": "NRM",
+          "district": "Wase",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE FIRST DEGREE",
+          "bg": "Contesting for Wase under NRM.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "JIBRIN KASIMU AUTA",
+          "p": "NDC",
+          "district": "Wase",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for Wase under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "LADAN LABONG NDEN",
+          "p": "PDP",
+          "district": "Wase",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION(GEC) B SC. (EDUCATION)",
+          "bg": "Contesting for Wase under PDP.",
+          "scores": [
+            51,
+            56,
+            63,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "HON. NAJIBU IBRAHIM SODANGI",
+          "p": "SDP",
+          "district": "Wase",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Wase under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ABDULLAHI SUNUSI",
+          "p": "ZLP",
+          "district": "Wase",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for Wase under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "WUYEP PONFA",
+          "p": "ADP",
+          "district": "Langtang North/ Langtang South",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Langtang North/ Langtang South under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "DANIEL MUSA CIRMA",
+          "p": "ADC",
+          "district": "Langtang North/ Langtang South",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO DOCTOR OF PHILOSOPHY",
+          "bg": "Contesting for Langtang North/ Langtang South under ADC.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "LAR BENI BUTMAK",
+          "p": "APC",
+          "district": "Langtang North/ Langtang South",
+          "age": "58",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WASC LLB, LLM",
+          "bg": "Contesting for Langtang North/ Langtang South under APC.",
+          "scores": [
+            64,
+            71,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "MAMVEN JACK SOLOMON",
+          "p": "APM",
+          "district": "Langtang North/ Langtang South",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for Langtang North/ Langtang South under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N KUMSWA DALEN PROMISE",
+          "p": "NDC",
+          "district": "Langtang North/ Langtang South",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for Langtang North/ Langtang South under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "ZHATTAU SINGA EDWARD",
+          "p": "PDP",
+          "district": "Langtang North/ Langtang South",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO/ SSCE BACHELOR OF LAW(LL.B)",
+          "bg": "Contesting for Langtang North/ Langtang South under PDP.",
+          "scores": [
+            61,
+            64,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "SHENI DIRYA",
+          "p": "YPP",
+          "district": "Langtang North/ Langtang South",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE WAEC BSC",
+          "bg": "Contesting for Langtang North/ Langtang South under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "BULUS ZUWARYA DIDAGHA",
+          "p": "ZLP",
+          "district": "I Langtang North/ Langtang South",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for I Langtang North/ Langtang South under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "MALONG BARTHOLOMEW",
+          "p": "ADP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate OND",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "SHAMWILU IBRAHIM MURIDI",
+          "p": "APP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JEREMIAH DAMORREOM L.",
+          "p": "ADC",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE HND CIVIL ENG",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            65,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "DADING JOSEPH DASHE",
+          "p": "APC",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "GEA FIRST SCH LEAVING CERT SSCE/WAEC ASO CERT, DIPLOMA, BSC.BA AND MSC",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "DASHE FLORENCE LAMO\u2019OUS",
+          "p": "APM",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "62",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DAPE MARK TSEENPOET",
+          "p": "NDC",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE GCE BSC",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "KWALLU ISAAC KYALE",
+          "p": "PDP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC TECHNICAL CERTIFICATE HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            65,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ALHASSAN GARBA",
+          "p": "SDP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "N KOP'EP KEVIN",
+          "p": "YPP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "DASHE PAUL PHILEMON",
+          "p": "ZLP",
+          "district": "Mikang/Qua'an/Pan/ Shedam",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC M.ED",
+          "bg": "Contesting for Mikang/Qua'an/Pan/ Shedam under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        }
+      ]
+    },
+    "State Assembly": {
+      "constituency": "State Constituencies",
+      "candidates": [
+        {
+          "n": "SIMON SHUT",
+          "p": "ADP",
+          "district": "BARKIN LADI",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BARKIN LADI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "PAM TIMOTHY SAMSON",
+          "p": "ADC",
+          "district": "BARKIN LADI",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc(ED)",
+          "bg": "Contesting for BARKIN LADI under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "JWE PHILIP GWOM",
+          "p": "APC",
+          "district": "BARKIN LADI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GRADE II CERTIFICATE BSc PHE",
+          "bg": "Contesting for BARKIN LADI under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "BATURE KACHOLLOM EZEKIEL",
+          "p": "APM",
+          "district": "BARKIN LADI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BARKIN LADI under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "RUTH ADAMS",
+          "p": "NDP",
+          "district": "BARKIN LADI",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BARKIN LADI under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "WANG P. STEPHEN",
+          "p": "NNPP",
+          "district": "BARKIN LADI",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BARKIN LADI under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "GWOM GYANG GRACE",
+          "p": "NDC",
+          "district": "BARKIN LADI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BARKIN LADI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N BULUS DOMINIC DAKWAK",
+          "p": "PDP",
+          "district": "BARKIN LADI",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE S.S.C.E DIPLOMA IN LAW, BSC & MSC",
+          "bg": "Contesting for BARKIN LADI under PDP.",
+          "scores": [
+            71,
+            64,
+            71,
+            51,
+            70,
+            60
+          ]
+        },
+        {
+          "n": "PAM JAMES DAWUDA",
+          "p": "SDP",
+          "district": "BARKIN LADI",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICA EXAMINATION COUNCIL",
+          "bg": "Contesting for BARKIN LADI under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "JOSHUA DASONG",
+          "p": "YPP",
+          "district": "I BARKIN LADI",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE WAEC",
+          "bg": "Contesting for I BARKIN LADI under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "MBANG DIMOO MAMUDA",
+          "p": "ZLP",
+          "district": "BARKIN LADI",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for BARKIN LADI under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "LEMORO WANGA HOSEA",
+          "p": "ADP",
+          "district": "PENGANA",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate Grade 11 teacher certificate Bsc",
+          "bg": "Contesting for PENGANA under ADP.",
+          "scores": [
+            54,
+            56,
+            68,
+            48,
+            75,
+            48
+          ]
+        },
+        {
+          "n": "IBRAHIM YAKUBU",
+          "p": "APP",
+          "district": "PENGANA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for PENGANA under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SAMAILA MUHAMMAD USMAN",
+          "p": "ADC",
+          "district": "PENGANA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for PENGANA under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "AKAWU HAPPINESS MATHEW",
+          "p": "APC",
+          "district": "PENGANA",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for PENGANA under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "BABUJE BRIGHT",
+          "p": "LP",
+          "district": "PENGANA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "RENASCENT NURSURY AND PRIMARY SCHOOL GOVERNMENT SECONDARY SCHOOL BUJI PLATEAU STATE POLYTECHNIC",
+          "bg": "Contesting for PENGANA under LP.",
+          "scores": [
+            56,
+            51,
+            53,
+            64,
+            48,
+            74
+          ]
+        },
+        {
+          "n": "JOSHUA GLADIS",
+          "p": "NDP",
+          "district": "PENGANA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATEE N.C.E",
+          "bg": "Contesting for PENGANA under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HAMISU MOSES PANU",
+          "p": "NRM",
+          "district": "PENGANA",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PENGANA under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ANDY MUSA JESSE",
+          "p": "NNPP",
+          "district": "PENGANA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PENGANA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "YOHANNA RAHILA",
+          "p": "NDC",
+          "district": "PENGANA",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for PENGANA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "DANJUMA JEREMIAH SAMAKA",
+          "p": "PDP",
+          "district": "PENGANA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATE B. SC",
+          "bg": "Contesting for PENGANA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "N MURTALA ABDULLAHI",
+          "p": "PRP",
+          "district": "PENGANA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Certificate of Primary Education WASSCE",
+          "bg": "Contesting for PENGANA under PRP.",
+          "scores": [
+            58,
+            50,
+            64,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "SHABIRI ELIZABETH KABILA",
+          "p": "YPP",
+          "district": "PENGANA",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for PENGANA under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "PETER UYAH DOKTOR",
+          "p": "ZLP",
+          "district": "PENGANA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC BSC",
+          "bg": "Contesting for PENGANA under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "JUA BITRUS",
+          "p": "ADP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RUKUBA/IRIGWE under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "FUH ILIYA JERRY",
+          "p": "ADC",
+          "district": "I RUKUBA/IRIGWE",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I RUKUBA/IRIGWE under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "RANDA ISAIAH KPERIN",
+          "p": "APC",
+          "district": "RUKUBA/IRIGWE",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE LL.B",
+          "bg": "Contesting for RUKUBA/IRIGWE under APC.",
+          "scores": [
+            58,
+            71,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "GADA JERRY",
+          "p": "APM",
+          "district": "RUKUBA/IRIGWE",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE COLLEGE OF AGRICULTURE LAFIA",
+          "bg": "Contesting for RUKUBA/IRIGWE under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DICK MICAH",
+          "p": "NDP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RUKUBA/IRIGWE under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "PETER AGWI TALATU",
+          "p": "NRM",
+          "district": "RUKUBA/IRIGWE",
+          "age": "40",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for RUKUBA/IRIGWE under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "RUGU EZEKIEL AGAH",
+          "p": "NDC",
+          "district": "RUKUBA/IRIGWE",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RUKUBA/IRIGWE under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "HWENKE TUHU",
+          "p": "PDP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE S.S.C.E HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for RUKUBA/IRIGWE under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "MUSA AZI NUHU",
+          "p": "SDP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for RUKUBA/IRIGWE under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "ADINIMIL ABSALOM SUNDAY",
+          "p": "YPP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE WAEC BSc",
+          "bg": "Contesting for RUKUBA/IRIGWE under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "AHMAD ABUBAKAR",
+          "p": "ZLP",
+          "district": "RUKUBA/IRIGWE",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for RUKUBA/IRIGWE under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "MATHIAS SAMUEL",
+          "p": "ADP",
+          "district": "BOKKOS",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BOKKOS under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SYBEN MARAM JOHN",
+          "p": "ADC",
+          "district": "BOKKOS",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for BOKKOS under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "BWOI MAKUT LUKA",
+          "p": "APC",
+          "district": "BOKKOS",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for BOKKOS under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "JAMES MAHANAN",
+          "p": "APM",
+          "district": "BOKKOS",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO HND",
+          "bg": "Contesting for BOKKOS under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N GIDEON MAGIT DESMOND",
+          "p": "NDP",
+          "district": "BOKKOS",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATEE N.D",
+          "bg": "Contesting for BOKKOS under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "MATON JOHN APOLLOS",
+          "p": "NDC",
+          "district": "BOKKOS",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LLB",
+          "bg": "Contesting for BOKKOS under NDC.",
+          "scores": [
+            57,
+            61,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "MATONG BLESSING LUKA",
+          "p": "PDP",
+          "district": "I BOKKOS",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for I BOKKOS under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "SOLOMON PALANG",
+          "p": "SDP",
+          "district": "BOKKOS",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE/ NECO HND",
+          "bg": "Contesting for BOKKOS under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "ISAIAH FWANGSHAK DIBANG",
+          "p": "YPP",
+          "district": "BOKKOS",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for BOKKOS under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "KOPMUT KASUWA SHEDRACK",
+          "p": "ZLP",
+          "district": "BOKKOS",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for BOKKOS under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "AZI MUSA",
+          "p": "ADP",
+          "district": "JOS EAST",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate Neco Master of education",
+          "bg": "Contesting for JOS EAST under ADP.",
+          "scores": [
+            48,
+            54,
+            60,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ABDULRAZAK MUSA ADUSUK",
+          "p": "ADC",
+          "district": "JOS EAST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for JOS EAST under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MADAKI ISA AJIJI",
+          "p": "APC",
+          "district": "JOS EAST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for JOS EAST under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "EZEKIEL YOHANNA ABOK",
+          "p": "APM",
+          "district": "JOS EAST",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for JOS EAST under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ARIN KAZE DABO",
+          "p": "NRM",
+          "district": "JOS EAST",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JOS EAST under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AGWOM BAPPA MUSA",
+          "p": "NDC",
+          "district": "JOS EAST",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JOS EAST under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "AJIK ILIYA MUSA",
+          "p": "PDP",
+          "district": "JOS EAST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for JOS EAST under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "AZI ADAMU JOHN",
+          "p": "SDP",
+          "district": "JOS EAST",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL NCE",
+          "bg": "Contesting for JOS EAST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N AJIK AJANG DESTINY",
+          "p": "YPP",
+          "district": "JOS EAST",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DIPLOMA IN LAW",
+          "bg": "Contesting for JOS EAST under YPP.",
+          "scores": [
+            54,
+            63,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "GARBA SERAH AGOK",
+          "p": "ZLP",
+          "district": "JOS EAST",
+          "age": "58",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC GR 11 M.ED",
+          "bg": "Contesting for JOS EAST under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "MUWAFFAQ NABAGE",
+          "p": "ADP",
+          "district": "JOS NORTH",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JOS NORTH under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "AWUNA YOHANNA SUNDAY",
+          "p": "APP",
+          "district": "I JOS NORTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO COLLEGE OF HEALTH TECHNOLOGY",
+          "bg": "Contesting for I JOS NORTH under APP.",
+          "scores": [
+            56,
+            48,
+            60,
+            62,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "HABIBU SALISU",
+          "p": "ADC",
+          "district": "JOS NORTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for JOS NORTH under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "HASSAN ABDULKADIR",
+          "p": "APC",
+          "district": "JOS NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTICATE OF PRIMARY EDUCATION WAEC",
+          "bg": "Contesting for JOS NORTH under APC.",
+          "scores": [
+            56,
+            51,
+            62,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "SULEIMAN TIJANI MATO",
+          "p": "DLA",
+          "district": "JOS NORTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JOS NORTH under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YUSUF IBRAHIM",
+          "p": "NDP",
+          "district": "JOS NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE B.SC",
+          "bg": "Contesting for JOS NORTH under NDP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DANFULANI S. ADAMU",
+          "p": "NNPP",
+          "district": "JOS NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for JOS NORTH under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM HUSSAINI ADAM",
+          "p": "NDC",
+          "district": "JOS NORTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JOS NORTH under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "MOHAMMED HAMISU NURU",
+          "p": "PDP",
+          "district": "JOS NORTH",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE (WAEC)",
+          "bg": "Contesting for JOS NORTH under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "HASSAN ABDUL JALIL",
+          "p": "PRP",
+          "district": "JOS NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Certificate of Primary Education SSCE",
+          "bg": "Contesting for JOS NORTH under PRP.",
+          "scores": [
+            58,
+            50,
+            64,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "USMAN ALIYU",
+          "p": "SDP",
+          "district": "JOS NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for JOS NORTH under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "GALADIMA AZI ITSE",
+          "p": "YPP",
+          "district": "JOS NORTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE/NECO",
+          "bg": "Contesting for JOS NORTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "LAWAL MUNNIR SHUAIBU",
+          "p": "ZLP",
+          "district": "JOS NORTH",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for JOS NORTH under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "N BALA AHMAD",
+          "p": "APP",
+          "district": "JOS NORTH WEST",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
+          "bg": "Contesting for JOS NORTH WEST under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "MONDAY MOSES NZETA",
+          "p": "AAC",
+          "district": "JOS NORTH WEST",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE DIPLOMA",
+          "bg": "Contesting for JOS NORTH WEST under AAC.",
+          "scores": [
+            54,
+            54,
+            52,
+            49,
+            46,
+            75
+          ]
+        },
+        {
+          "n": "HUSSAINI SHEHU MOHAMMED",
+          "p": "ADC",
+          "district": "JOS NORTH WEST",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for JOS NORTH WEST under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "AZI DANJUMA",
+          "p": "APC",
+          "district": "I JOS NORTH WEST",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for I JOS NORTH WEST under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "SUNDAY MUSA",
+          "p": "APM",
+          "district": "JOS NORTH WEST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for JOS NORTH WEST under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MOSES BUDDY ANKO",
+          "p": "LP",
+          "district": "JOS NORTH WEST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE NATIONAL DIPLOMA / HND",
+          "bg": "Contesting for JOS NORTH WEST under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "MUHAMMAD HASSAN ISHAQ",
+          "p": "NDP",
+          "district": "JOS NORTH WEST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for JOS NORTH WEST under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKAS BITRUS IMBA",
+          "p": "NDC",
+          "district": "JOS NORTH WEST",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BMLS",
+          "bg": "Contesting for JOS NORTH WEST under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "CHUNDUSU YUSUF DANIEL",
+          "p": "PDP",
+          "district": "JOS NORTH WEST",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for JOS NORTH WEST under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ODARIKO ZAINAB",
+          "p": "PRP",
+          "district": "JOS NORTH WEST",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Certificate of Primary Education SSCE",
+          "bg": "Contesting for JOS NORTH WEST under PRP.",
+          "scores": [
+            58,
+            50,
+            64,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "SONG JAMES GYANG",
+          "p": "SDP",
+          "district": "JOS NORTH WEST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE HND",
+          "bg": "Contesting for JOS NORTH WEST under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "HODUS GABRIEL",
+          "p": "YPP",
+          "district": "JOS NORTH WEST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for JOS NORTH WEST under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "MANCHA NICHOLAS MANG",
+          "p": "YP",
+          "district": "JOS NORTH WEST",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "F.S.L.C. WASSCE BACHELOR OF SCIENCE",
+          "bg": "Contesting for JOS NORTH WEST under YP.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "N STEPHEN ISAAC ALANGS",
+          "p": "ZLP",
+          "district": "JOS NORTH WEST",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BA",
+          "bg": "Contesting for JOS NORTH WEST under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "KUNDE ADAMU",
+          "p": "A",
+          "district": "JOS SOUTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JOS SOUTH under A.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AUGUSTINE DAVOU",
+          "p": "ADP",
+          "district": "JOS SOUTH",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JOS SOUTH under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "DUNG ELIZABETH",
+          "p": "ADC",
+          "district": "I JOS SOUTH",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for I JOS SOUTH under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "MANCHA JOHN VINCENT",
+          "p": "APC",
+          "district": "JOS SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC Accounting",
+          "bg": "Contesting for JOS SOUTH under APC.",
+          "scores": [
+            76,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "DANBOYI ABRAHAM KIM",
+          "p": "APM",
+          "district": "JOS SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for JOS SOUTH under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "DUNG FELIX",
+          "p": "LP",
+          "district": "JOS SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.SC GEOGRAPHY",
+          "bg": "Contesting for JOS SOUTH under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "JAMES DANIEL PAM",
+          "p": "NNPP",
+          "district": "JOS SOUTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JOS SOUTH under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "BOTTSON GEOFREY DAVID",
+          "p": "NDC",
+          "district": "JOS SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for JOS SOUTH under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "PAM SANDRA SELE",
+          "p": "PDP",
+          "district": "JOS SOUTH",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE S.S.C.E L.L. B",
+          "bg": "Contesting for JOS SOUTH under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "STEVEN BWETSHA JESSICA",
+          "p": "PRP",
+          "district": "JOS SOUTH",
+          "age": "28",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE MBBS",
+          "bg": "Contesting for JOS SOUTH under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "CHOJI KWANDI BENJAMIN",
+          "p": "SDP",
+          "district": "JOS SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for JOS SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "DAVOU ABRAHAM CHANG-CHUWANG",
+          "p": "YPP",
+          "district": "JOS SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WASSCE",
+          "bg": "Contesting for JOS SOUTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "PAM TIMOTHY DHCHOLOM",
+          "p": "ZLP",
+          "district": "JOS SOUTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JOS SOUTH under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "MUNKWAPBA MOSES",
+          "p": "ADP",
+          "district": "KANKE",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANKE under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N GOYIT GOWUS MOSES",
+          "p": "ADC",
+          "district": "KANKE",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for KANKE under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "PANKSHIN KEVIN NEDIM",
+          "p": "APC",
+          "district": "KANKE",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for KANKE under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "GOJIM DENIS GOWON",
+          "p": "APM",
+          "district": "I KANKE",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I KANKE under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "TAWE HARUNA GOBWIR",
+          "p": "NNPP",
+          "district": "KANKE",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KANKE under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "THEODORE BEATRICE",
+          "p": "NDC",
+          "district": "KANKE",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANKE under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "FOTSHAK LUKA LENGKITDA",
+          "p": "PDP",
+          "district": "KANKE",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE EXAMINATIONS HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for KANKE under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "GONSUK JOHNSON JOY",
+          "p": "SDP",
+          "district": "KANKE",
+          "age": "28",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for KANKE under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "WADAK ISTIFANUS",
+          "p": "YPP",
+          "district": "KANKE",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for KANKE under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "PARDUNG KEVING AZI",
+          "p": "ZLP",
+          "district": "KANKE",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KANKE under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "DAMALAK NENDELMWA",
+          "p": "ADP",
+          "district": "PANKSHIN NORTH",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate Bsc",
+          "bg": "Contesting for PANKSHIN NORTH under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "JOY ELIJAH",
+          "p": "ADC",
+          "district": "PANKSHIN NORTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB",
+          "bg": "Contesting for PANKSHIN NORTH under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "GIDEON ROTSHAK YOKDEN",
+          "p": "APC",
+          "district": "PANKSHIN NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for PANKSHIN NORTH under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "NENTAWE DAKUP NDU",
+          "p": "APM",
+          "district": "PANKSHIN NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PANKSHIN NORTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YILA ROTSHAK",
+          "p": "NDP",
+          "district": "PANKSHIN NORTH",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PANKSHIN NORTH under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N TIKOP GODIT SATI",
+          "p": "NRM",
+          "district": "PANKSHIN NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PANKSHIN NORTH under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HOSEA DUNKA",
+          "p": "NNPP",
+          "district": "PANKSHIN NORTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for PANKSHIN NORTH under NNPP.",
+          "scores": [
+            65,
+            52,
+            59,
+            50,
+            62,
+            62
+          ]
+        },
+        {
+          "n": "GWASHI LANGKUK SUNDAY",
+          "p": "NDC",
+          "district": "I PANKSHIN NORTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I PANKSHIN NORTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "GUTAP JAMES SATMAK",
+          "p": "PDP",
+          "district": "PANKSHIN NORTH",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC(SSCE) BSC",
+          "bg": "Contesting for PANKSHIN NORTH under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "BESKENI YUSUF SHAKSHIVI",
+          "p": "SDP",
+          "district": "PANKSHIN NORTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO DEGREE",
+          "bg": "Contesting for PANKSHIN NORTH under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "DEWAN KUDANGBENNA GABRIEL",
+          "p": "YPP",
+          "district": "PANKSHIN NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BSC",
+          "bg": "Contesting for PANKSHIN NORTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "JOHN NANKYER VERENGKAT",
+          "p": "ZLP",
+          "district": "PANKSHIN NORTH",
+          "age": "29",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BA",
+          "bg": "Contesting for PANKSHIN NORTH under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "RAYMOND HANATU",
+          "p": "ADP",
+          "district": "PANKSHIN SOUTH",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PANKSHIN SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "KUMWEN WALSHAK",
+          "p": "ADC",
+          "district": "PANKSHIN SOUTH",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for PANKSHIN SOUTH under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DAFUR NANPAN DANIEL",
+          "p": "APC",
+          "district": "PANKSHIN SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for PANKSHIN SOUTH under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "GEORGE EMMANUEL DIKE",
+          "p": "LP",
+          "district": "PANKSHIN SOUTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for PANKSHIN SOUTH under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "N DASHUWAR WALKYES JOHN",
+          "p": "NDC",
+          "district": "PANKSHIN SOUTH",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for PANKSHIN SOUTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "DALIS BENJI",
+          "p": "PDP",
+          "district": "PANKSHIN SOUTH",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL EDUCATION CERTIFICATE SSCE(WAEC) B. SC ECONOMICS",
+          "bg": "Contesting for PANKSHIN SOUTH under PDP.",
+          "scores": [
+            65,
+            56,
+            63,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "MAPRING TANKO KUMBE",
+          "p": "SDP",
+          "district": "PANKSHIN SOUTH",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICA EXAMINATION COUNCIL",
+          "bg": "Contesting for PANKSHIN SOUTH under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "TALI LENGYANG JONAH",
+          "p": "YPP",
+          "district": "I PANKSHIN SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BACHELORS PHARMACY",
+          "bg": "Contesting for I PANKSHIN SOUTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "DASHI CHINNAN SATZILANG",
+          "p": "ZLP",
+          "district": "PANKSHIN SOUTH",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC BSC",
+          "bg": "Contesting for PANKSHIN SOUTH under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "ABDULLAHI YAHUZA",
+          "p": "ADP",
+          "district": "DENGI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate U B E",
+          "bg": "Contesting for DENGI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ALHASSAN RABIATU",
+          "p": "APP",
+          "district": "DENGI",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for DENGI under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "YAKUBU SANDA BILYAMINU",
+          "p": "ADC",
+          "district": "DENGI",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for DENGI under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "IDRIS KALAMU DAL",
+          "p": "APC",
+          "district": "DENGI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for DENGI under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "ABUBAKAR HALADU ZUPMAL",
+          "p": "APM",
+          "district": "DENGI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for DENGI under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SALEH SANI",
+          "p": "NDC",
+          "district": "DENGI",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for DENGI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MUSA ABDULLAHI",
+          "p": "PDP",
+          "district": "DENGI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE(NECO) NATIONAL DIPLOMA",
+          "bg": "Contesting for DENGI under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "SABITU SALIHU",
+          "p": "SDP",
+          "district": "DENGI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICA EXAMINATION COUNCIL",
+          "bg": "Contesting for DENGI under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "NANPON TAROSCO MALSON",
+          "p": "YPP",
+          "district": "DENGI",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NAPTEB ND/HND",
+          "bg": "Contesting for DENGI under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "N MOHAMMED ILIYASU AREWA",
+          "p": "ZLP",
+          "district": "DENGI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for DENGI under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "HAMISU JIBRIN",
+          "p": "ADP",
+          "district": "KANTANA",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANTANA under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "BASHIR MUHAMMED",
+          "p": "APP",
+          "district": "KANTANA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for KANTANA under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "LUKMAN ZUMUNTA",
+          "p": "ADC",
+          "district": "KANTANA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for KANTANA under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "SHUAIBU ALIYU ALI",
+          "p": "APC",
+          "district": "I KANTANA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE(NECO) B'ED",
+          "bg": "Contesting for I KANTANA under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "ALGAHANUNA IBRAHIM ABDULHAMID",
+          "p": "APM",
+          "district": "KANTANA",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for KANTANA under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AUWALU HARUNA YUSUF",
+          "p": "NDP",
+          "district": "KANTANA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANTANA under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "BARAU KWAMANDA",
+          "p": "NDC",
+          "district": "KANTANA",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSCL WAEC BSC",
+          "bg": "Contesting for KANTANA under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "HASSAN SALIHU MOHAMMED",
+          "p": "PDP",
+          "district": "KANTANA",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE NATIONAL DIPLOMA",
+          "bg": "Contesting for KANTANA under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "IDRIS ABDULLAHI GALADIMA",
+          "p": "SDP",
+          "district": "KANTANA",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for KANTANA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "DAIYABU ABDULAZEEZ",
+          "p": "YPP",
+          "district": "KANTANA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC PUBLIC HEALTH",
+          "bg": "Contesting for KANTANA under YPP.",
+          "scores": [
+            60,
+            63,
+            70,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "HUSSAINI DALHATU",
+          "p": "ZLP",
+          "district": "KANTANA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for KANTANA under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        },
+        {
+          "n": "TIMNAN TAHVEN",
+          "p": "ADP",
+          "district": "LANGTANG NORTH",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANGTANG NORTH under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BERNARD PONFA YAKNA",
+          "p": "ADC",
+          "district": "LANGTANG NORTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for LANGTANG NORTH under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "N NIMCHAK ABEL NANSAK",
+          "p": "APC",
+          "district": "LANGTANG NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc (ED)",
+          "bg": "Contesting for LANGTANG NORTH under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "BENEDICT DOMFA PONFA",
+          "p": "APM",
+          "district": "LANGTANG NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for LANGTANG NORTH under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "CHALYA WUYEB",
+          "p": "NDP",
+          "district": "I LANGTANG NORTH",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATEE H.N.D",
+          "bg": "Contesting for I LANGTANG NORTH under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EMMANUEL KANTIP",
+          "p": "NNPP",
+          "district": "LANGTANG NORTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for LANGTANG NORTH under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "GALANG PONZING",
+          "p": "NDC",
+          "district": "LANGTANG NORTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANGTANG NORTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NANNIM JOSEPH LANGYI",
+          "p": "PDP",
+          "district": "LANGTANG NORTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE B.SC POLITICAL SCIENCE",
+          "bg": "Contesting for LANGTANG NORTH under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "NANDOM SAMBO",
+          "p": "SDP",
+          "district": "LANGTANG NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for LANGTANG NORTH under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "DADI JOSEPH",
+          "p": "YPP",
+          "district": "LANGTANG NORTH",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for LANGTANG NORTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "LOHKUR LANIM",
+          "p": "ZLP",
+          "district": "LANGTANG NORTH",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for LANGTANG NORTH under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "NANBOL BOLCHANG",
+          "p": "ADP",
+          "district": "LANGTANG CENTRAL",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANGTANG CENTRAL under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NANZING JOHN BONGTIM",
+          "p": "ADC",
+          "district": "LANGTANG CENTRAL",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.Ed",
+          "bg": "Contesting for LANGTANG CENTRAL under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "LAR NANDIR",
+          "p": "APC",
+          "district": "LANGTANG CENTRAL",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for LANGTANG CENTRAL under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "N PRIMAK BILBUL",
+          "p": "NDP",
+          "district": "LANGTANG CENTRAL",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATEE B.ED GEOGRAPHY",
+          "bg": "Contesting for LANGTANG CENTRAL under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JOSIAH POMJUL NIMCHAK",
+          "p": "NNPP",
+          "district": "LANGTANG CENTRAL",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for LANGTANG CENTRAL under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "MIRI SOLOMON PHILEMON",
+          "p": "NDC",
+          "district": "LANGTANG CENTRAL",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANGTANG CENTRAL under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "RIMVYAT NANBOL",
+          "p": "PDP",
+          "district": "I LANGTANG CENTRAL",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE TEACHER'S GRADE II DIPLOMA CERTIFICATE",
+          "bg": "Contesting for I LANGTANG CENTRAL under PDP.",
+          "scores": [
+            51,
+            56,
+            63,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "MARTHA MIRI",
+          "p": "SDP",
+          "district": "LANGTANG CENTRAL",
+          "age": "55",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE DIPLOMA IN EDUCATION",
+          "bg": "Contesting for LANGTANG CENTRAL under SDP.",
+          "scores": [
+            51,
+            57,
+            63,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "YOHANA EMMANUEL DADOM",
+          "p": "YPP",
+          "district": "LANGTANG CENTRAL",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSc.Ed",
+          "bg": "Contesting for LANGTANG CENTRAL under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "GIDEON WOZHIM",
+          "p": "ZLP",
+          "district": "LANGTANG CENTRAL",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC OND",
+          "bg": "Contesting for LANGTANG CENTRAL under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "DUL LOUIS",
+          "p": "ADP",
+          "district": "LANGTANG SOUTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for LANGTANG SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NANMWA CHETO",
+          "p": "ADC",
+          "district": "LANGTANG SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCSE MSc",
+          "bg": "Contesting for LANGTANG SOUTH under ADC.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "BENDAL NANCWAT DOMFA",
+          "p": "APC",
+          "district": "LANGTANG SOUTH",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for LANGTANG SOUTH under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "BENJAMIN NANCWAT MAKZY",
+          "p": "APM",
+          "district": "LANGTANG SOUTH",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for LANGTANG SOUTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SINDEP JOHN TIMNAN",
+          "p": "NDC",
+          "district": "LANGTANG SOUTH",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for LANGTANG SOUTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NIMCHAK RIMS",
+          "p": "PDP",
+          "district": "LANGTANG SOUTH",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WASSCE (SC)",
+          "bg": "Contesting for LANGTANG SOUTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "N PONFA MIRI SAUL",
+          "p": "SDP",
+          "district": "LANGTANG SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL NATIONAL DIPLOMA",
+          "bg": "Contesting for LANGTANG SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "SAMBO JONAH BINFAH",
+          "p": "ZLP",
+          "district": "LANGTANG SOUTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC ND",
+          "bg": "Contesting for LANGTANG SOUTH under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "TABA VRENGTU",
+          "p": "ADP",
+          "district": "I MANGU SOUTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "West African school certificate Bsc business management",
+          "bg": "Contesting for I MANGU SOUTH under ADP.",
+          "scores": [
+            76,
+            48,
+            56,
+            48,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "SHUWAPWET DAVID KROMBEN",
+          "p": "ADC",
+          "district": "MANGU SOUTH",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE COLLEGE OF ART SCIENCE",
+          "bg": "Contesting for MANGU SOUTH under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "KWARPO MATHEW SYLVANUS",
+          "p": "APC",
+          "district": "MANGU SOUTH",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DEGREE",
+          "bg": "Contesting for MANGU SOUTH under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "KWARSEN DOMSHAK MONDAY",
+          "p": "APM",
+          "district": "MANGU SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE ND",
+          "bg": "Contesting for MANGU SOUTH under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "INUSA CHIPLANG",
+          "p": "NDP",
+          "district": "MANGU SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MANGU SOUTH under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "DAKWAL PATIENCE MANGUT",
+          "p": "NNPP",
+          "district": "MANGU SOUTH",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MANGU SOUTH under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "YUSUF KWADE DYELSHAK",
+          "p": "NDC",
+          "district": "MANGU SOUTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for MANGU SOUTH under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "LERE NANBAL GABRIEL GERO",
+          "p": "PDP",
+          "district": "MANGU SOUTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MANGU SOUTH under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "DANLADI NAMBAK",
+          "p": "SDP",
+          "district": "MANGU SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MANGU SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "DIBANG FWANGSHAK ISAIAH",
+          "p": "YPP",
+          "district": "MANGU SOUTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for MANGU SOUTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "DALENG EMMANUEL",
+          "p": "ZLP",
+          "district": "MANGU SOUTH",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MANGU SOUTH under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "N ZAKARI DALUHUM",
+          "p": "ADP",
+          "district": "MANGU NORTH",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate Diploma",
+          "bg": "Contesting for MANGU NORTH under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ABUBAKAR MAHMUD ZAKARI",
+          "p": "ADC",
+          "district": "MANGU NORTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for MANGU NORTH under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "SHILAK SANI ABUBAKAR",
+          "p": "APC",
+          "district": "I MANGU NORTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for I MANGU NORTH under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "HABU HAPPY",
+          "p": "APM",
+          "district": "MANGU NORTH",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for MANGU NORTH under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "BLESSING DANJUMA",
+          "p": "NDP",
+          "district": "MANGU NORTH",
+          "age": "30",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MANGU NORTH under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SANI MARYANN MUTLE",
+          "p": "NDC",
+          "district": "MANGU NORTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MANGU NORTH under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "MANOMI FRANCIS BAUCHI",
+          "p": "PDP",
+          "district": "MANGU NORTH",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE(NECO)",
+          "bg": "Contesting for MANGU NORTH under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "MUSA MAREN",
+          "p": "SDP",
+          "district": "MANGU NORTH",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE HND",
+          "bg": "Contesting for MANGU NORTH under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "ENOCH ALEXANDER LUKA",
+          "p": "YPP",
+          "district": "MANGU NORTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC NATIONAL DIPLOMA",
+          "bg": "Contesting for MANGU NORTH under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "NAPCHANG VENMAK FIDELIS",
+          "p": "ZLP",
+          "district": "MANGU NORTH",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for MANGU NORTH under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "JAMES DANGTIS",
+          "p": "ADP",
+          "district": "MIKANG",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate Bsc business administration",
+          "bg": "Contesting for MIKANG under ADP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "EMMANUEL AUDU YIMISON",
+          "p": "ADC",
+          "district": "MIKANG",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MIKANG under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "DANIEL NAANLONG GAPYIL",
+          "p": "APC",
+          "district": "MIKANG",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BS.c",
+          "bg": "Contesting for MIKANG under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "HOTLAM STANLEY",
+          "p": "APM",
+          "district": "MIKANG",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for MIKANG under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N BAKO PAUL NSHEM",
+          "p": "NDC",
+          "district": "MIKANG",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MIKANG under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "KRINBUT NANHAP THEOPHILUS",
+          "p": "PDP",
+          "district": "MIKANG",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC-NEC0",
+          "bg": "Contesting for MIKANG under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "HOSEA NETEHI",
+          "p": "SDP",
+          "district": "MIKANG",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for MIKANG under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "BIDAS EDWINA RUTH",
+          "p": "YPP",
+          "district": "I MIKANG",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC DEGREE",
+          "bg": "Contesting for I MIKANG under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "POENBOK THOMPSON PETER",
+          "p": "ZLP",
+          "district": "MIKANG",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MIKANG under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "DATENG CHIGIRDAT",
+          "p": "ADP",
+          "district": "QUA'AN PAN NORTH",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate OND",
+          "bg": "Contesting for QUA'AN PAN NORTH under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SAIDU SANI",
+          "p": "ADC",
+          "district": "QUA'AN PAN NORTH",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for QUA'AN PAN NORTH under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "DAGOGOT KARYIT OWEN",
+          "p": "APC",
+          "district": "QUA'AN PAN NORTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for QUA'AN PAN NORTH under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "DAYIL BLESSING LONGS",
+          "p": "NDC",
+          "district": "QUA'AN PAN NORTH",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "SCIENCE PRI SCH GOV SEC SCH DOEMAK HND",
+          "bg": "Contesting for QUA'AN PAN NORTH under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "DATUGUN PAUL NA'ANKOT",
+          "p": "PDP",
+          "district": "QUA'AN PAN NORTH",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE B. SC ACCOUNTING",
+          "bg": "Contesting for QUA'AN PAN NORTH under PDP.",
+          "scores": [
+            65,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "DAKOK NAAN MATHEW",
+          "p": "SDP",
+          "district": "QUA'AN PAN NORTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for QUA'AN PAN NORTH under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "BAKO KOSMUK DAMEN",
+          "p": "YPP",
+          "district": "QUA'AN PAN NORTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC NATIONAL DIPLOMA",
+          "bg": "Contesting for QUA'AN PAN NORTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "DASHE NA'ANWUL MANDONG",
+          "p": "ZLP",
+          "district": "QUA'AN PAN NORTH",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NABTEB",
+          "bg": "Contesting for QUA'AN PAN NORTH under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "N POESNOK ANTHONY",
+          "p": "ADP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate Diploma",
+          "bg": "Contesting for QUA'AN PAN SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OBADIAH MONDAY DADING",
+          "p": "ADC",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for QUA'AN PAN SOUTH under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DOEYOK CORNELIUS DONGNA'AN",
+          "p": "APC",
+          "district": "I QUA'AN PAN SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MSc",
+          "bg": "Contesting for I QUA'AN PAN SOUTH under APC.",
+          "scores": [
+            66,
+            51,
+            62,
+            53,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "DANIANG DAVID",
+          "p": "APM",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for QUA'AN PAN SOUTH under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "HALADU SAIFULLAH",
+          "p": "BP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for QUA'AN PAN SOUTH under BP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            71
+          ]
+        },
+        {
+          "n": "DAKYAP MICHEAL MUDUUT",
+          "p": "NDC",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for QUA'AN PAN SOUTH under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MOENSHEP RANGDAT SIMON",
+          "p": "PDP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B. SC",
+          "bg": "Contesting for QUA'AN PAN SOUTH under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "MMA SOGOM",
+          "p": "SDP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for QUA'AN PAN SOUTH under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "TSENYEN EVA KATYEN",
+          "p": "YPP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for QUA'AN PAN SOUTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "MOENDAT SOLOMON DATOEK",
+          "p": "ZLP",
+          "district": "QUA'AN PAN SOUTH",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LLB",
+          "bg": "Contesting for QUA'AN PAN SOUTH under ZLP.",
+          "scores": [
+            63,
+            63,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "DALYOP RUTH",
+          "p": "ADP",
+          "district": "RIYOM",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate",
+          "bg": "Contesting for RIYOM under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "DADU JOHN",
+          "p": "ADC",
+          "district": "RIYOM",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
+          "bg": "Contesting for RIYOM under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N DACHUNG MOSES DADON",
+          "p": "APC",
+          "district": "RIYOM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for RIYOM under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "TIMOTHY TOMA MBELLEM",
+          "p": "APM",
+          "district": "RIYOM",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RIYOM under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "GRACE TIMOTHY",
+          "p": "NDP",
+          "district": "RIYOM",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RIYOM under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MONDAY BATURE",
+          "p": "NNPP",
+          "district": "I RIYOM",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for I RIYOM under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "SIMON BOSS ALEXANDER",
+          "p": "NDC",
+          "district": "RIYOM",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RIYOM under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "LONG JOHN GANG",
+          "p": "PDP",
+          "district": "RIYOM",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE CERTIFICATION MBA (MGT)",
+          "bg": "Contesting for RIYOM under PDP.",
+          "scores": [
+            63,
+            56,
+            71,
+            51,
+            80,
+            52
+          ]
+        },
+        {
+          "n": "SAMUEL DATONG",
+          "p": "SDP",
+          "district": "RIYOM",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for RIYOM under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "JOSHUA DACHUNG MANG",
+          "p": "YPP",
+          "district": "RIYOM",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NECO HND",
+          "bg": "Contesting for RIYOM under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "CHOLLOM LUKA BOT",
+          "p": "ZLP",
+          "district": "RIYOM",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for RIYOM under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        },
+        {
+          "n": "SALISU DANTATA",
+          "p": "ADP",
+          "district": "SHENDAM",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SHENDAM under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "USAMA GALADIMA",
+          "p": "APP",
+          "district": "SHENDAM",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
+          "bg": "Contesting for SHENDAM under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EMMANUEL TSENWUL JOHN",
+          "p": "ADC",
+          "district": "SHENDAM",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for SHENDAM under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "BUKAR JOESPH LONGSHIN",
+          "p": "APC",
+          "district": "SHENDAM",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE ADVANCED DIPLOMA CERT",
+          "bg": "Contesting for SHENDAM under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "MIKAN CORNELIUS",
+          "p": "APM",
+          "district": "SHENDAM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC COMPUTER",
+          "bg": "Contesting for SHENDAM under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ALIYU IBRAHIM GARBA",
+          "p": "NDC",
+          "district": "SHENDAM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "T/RCM SCHOOL YELWA GOVERNMENT SEC SCH YELWA",
+          "bg": "Contesting for SHENDAM under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N KATGURUM ALBERT DONATUS",
+          "p": "PDP",
+          "district": "SHENDAM",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE(NECO) HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for SHENDAM under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "TTAHIRU SAM",
+          "p": "SDP",
+          "district": "SHENDAM",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DEGREE",
+          "bg": "Contesting for SHENDAM under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "MAIMAKO DANLADI HOOMMEN",
+          "p": "YPP",
+          "district": "SHENDAM",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC DEGREE",
+          "bg": "Contesting for SHENDAM under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "USMAN EMMANUEL",
+          "p": "ZLP",
+          "district": "I SHENDAM",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for I SHENDAM under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "SADIQ BABANYAYA",
+          "p": "ADP",
+          "district": "WASE",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "School leaving certificate West African school certificate HND public admin",
+          "bg": "Contesting for WASE under ADP.",
+          "scores": [
+            62,
+            62,
+            56,
+            48,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "IBRAHIM SADIYA",
+          "p": "APP",
+          "district": "WASE",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WASSCE",
+          "bg": "Contesting for WASE under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "JANGNAP ISRAEL ABEL",
+          "p": "ADC",
+          "district": "WASE",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for WASE under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ADAMU IBRAHIM GALADIMA",
+          "p": "APC",
+          "district": "WASE",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE MSc",
+          "bg": "Contesting for WASE under APC.",
+          "scores": [
+            58,
+            57,
+            62,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "LAKNIM MONDAY AUDU",
+          "p": "APM",
+          "district": "WASE",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for WASE under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "MUSA GARBA",
+          "p": "NDP",
+          "district": "WASE",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for WASE under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MOHAMMED MURTALA DANLARAI",
+          "p": "NRM",
+          "district": "WASE",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for WASE under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AMOS LACHAK GWAKTIM",
+          "p": "NDC",
+          "district": "WASE",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for WASE under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BULUS FINCIT JOHN",
+          "p": "PDP",
+          "district": "WASE",
+          "age": "59",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC GRADE II NCE",
+          "bg": "Contesting for WASE under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "GOSPEL BONGTUR EMMANUEL",
+          "p": "SDP",
+          "district": "WASE",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
+          "bg": "Contesting for WASE under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "N ISA ABDULKABIR",
+          "p": "YPP",
+          "district": "WASE",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for WASE under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "IBRAHIM ABUBAKAR YUSUF",
+          "p": "ZLP",
+          "district": "WASE",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for WASE under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        }
+      ]
+    }
+  }
+}

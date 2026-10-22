@@ -1,0 +1,28 @@
+{
+  "state": "Lagos",
+  "offices": {
+    "Governor": {
+      "constituency": "Lagos Statewide",
+      "candidates": [
+        {
+          "id": "lag-gov-apc",
+          "n": "Candidate Full Name",
+          "p": "APC",
+          "age": "58",
+          "gender": "M",
+          "rm": "Deputy Candidate Name",
+          "edu": "FSLC, WASSCE, B.Sc Economics, MBA",
+          "bg": "Incumbent / Former Commissioner for Finance.",
+          "scores": [
+            82,
+            70,
+            75,
+            84,
+            88,
+            72
+          ]
+        }
+      ]
+    }
+  }
+}

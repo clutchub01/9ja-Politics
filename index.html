@@ -1,0 +1,2461 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>9ja Politics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    /* STRICT PALETTE: ONLY Nigerian Flag Green (#008751), White (#ffffff), and Black (#000000) */
+    :root {
+      --green: #008751;
+      --white: #ffffff;
+      --black: #000000;
+      --display: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+      --body: "Public Sans", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--white);
+      color: var(--black);
+      font-family: var(--body);
+      font-size: 16px;
+      line-height: 1.55;
+      padding-block: 0 64px;
+      overflow-x: hidden;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    .flag-ribbon {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      height: 8px;
+      border-bottom: 2px solid var(--black);
+    }
+
+    .flag-ribbon div:nth-child(1),
+    .flag-ribbon div:nth-child(3) {
+      background: var(--green);
+    }
+
+    .flag-ribbon div:nth-child(2) {
+      background: var(--white);
+    }
+
+    .top-nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--white);
+      border-bottom: 2px solid var(--black);
+      padding: 10px max(16px, env(safe-area-inset-left, 0px));
+    }
+
+    .top-nav-inner {
+      max-width: 860px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .brand-btn {
+      background: var(--white);
+      border: 2px solid var(--black);
+      padding: 6px 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 1.05rem;
+      color: var(--black);
+      box-shadow: 2px 2px 0 var(--green);
+      min-height: 44px;
+      cursor: pointer;
+    }
+
+    .brand-btn span {
+      color: var(--green);
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      max-width: 100%;
+      padding-bottom: 2px;
+    }
+
+    .hamburger-btn {
+      display: none;
+      width: 46px;
+      height: 46px;
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      box-shadow: 2px 2px 0 var(--green);
+      padding: 10px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+      cursor: pointer;
+    }
+
+    .hamburger-btn[aria-expanded="true"] {
+      background: var(--green);
+      box-shadow: 2px 2px 0 var(--black);
+    }
+
+    .hamburger-bar {
+      display: block;
+      width: 22px;
+      height: 2.5px;
+      background: var(--black);
+      transition: transform 0.2s ease, opacity 0.2s ease, background-color 0.2s ease;
+    }
+
+    .hamburger-btn[aria-expanded="true"] .hamburger-bar {
+      background: var(--white);
+    }
+
+    .hamburger-btn[aria-expanded="true"] .hamburger-bar:nth-child(1) {
+      transform: translateY(7.5px) rotate(45deg);
+    }
+
+    .hamburger-btn[aria-expanded="true"] .hamburger-bar:nth-child(2) {
+      opacity: 0;
+    }
+
+    .hamburger-btn[aria-expanded="true"] .hamburger-bar:nth-child(3) {
+      transform: translateY(-7.5px) rotate(-45deg);
+    }
+
+    .mobile-drawer {
+      display: none;
+      max-width: 860px;
+      margin: 10px auto 0;
+      border-top: 2px solid var(--black);
+      padding-top: 12px;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .mobile-drawer.open {
+      display: flex;
+    }
+
+    .drawer-section-label {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--green);
+      margin-top: 2px;
+    }
+
+    .drawer-views {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .drawer-btn,
+    .drawer-jump {
+      width: 100%;
+      min-height: 46px;
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 10px 14px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 0.96rem;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 2px 2px 0 var(--green);
+      cursor: pointer;
+    }
+
+    .drawer-btn[aria-current="page"] {
+      background: var(--green);
+      color: var(--white);
+      box-shadow: 2px 2px 0 var(--black);
+    }
+
+    .drawer-jumps {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .drawer-jump {
+      font-family: var(--mono);
+      font-size: 0.74rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      box-shadow: none;
+    }
+
+    .drawer-jump:active,
+    .drawer-jump:hover {
+      background: var(--green);
+      color: var(--white);
+    }
+
+    .nav-pill {
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 8px 12px;
+      font-family: var(--mono);
+      font-size: 0.74rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      white-space: nowrap;
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+    }
+
+    .nav-pill[aria-current="page"] {
+      background: var(--green);
+      color: var(--white);
+      box-shadow: 2px 2px 0 var(--black);
+    }
+
+    .wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      padding-top: 24px;
+      padding-left: max(16px, env(safe-area-inset-left, 0px));
+      padding-right: max(16px, env(safe-area-inset-right, 0px));
+      display: flex;
+      flex-direction: column;
+      gap: 44px;
+    }
+
+    .view-page {
+      display: none;
+      flex-direction: column;
+      gap: 44px;
+    }
+
+    .view-page.active {
+      display: flex;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-family: var(--display);
+      line-height: 1.1;
+      text-wrap: balance;
+      margin: 0;
+      color: var(--black);
+    }
+
+    h1 {
+      font-size: clamp(2.25rem, 8.5vw, 4.2rem);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: clamp(1.5rem, 5vw, 2.2rem);
+      font-weight: 800;
+      letter-spacing: -0.01em;
+    }
+
+    h3 {
+      font-size: clamp(1.12rem, 3.5vw, 1.3rem);
+      font-weight: 800;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .eyebrow {
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--green);
+    }
+
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      border-bottom: 4px solid var(--green);
+      padding-bottom: 28px;
+    }
+
+    .hero-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .flag-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 2px solid var(--black);
+      padding: 4px 10px;
+      background: var(--white);
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .mini-flag {
+      display: inline-grid;
+      grid-template-columns: 8px 8px 8px;
+      height: 14px;
+      border: 1px solid var(--black);
+    }
+
+    .mini-flag span:nth-child(1),
+    .mini-flag span:nth-child(3) {
+      background: var(--green);
+    }
+
+    .mini-flag span:nth-child(2) {
+      background: var(--white);
+    }
+
+    .hero h1 span {
+      color: var(--green);
+    }
+
+    .lede {
+      max-width: 62ch;
+      color: var(--black);
+      font-size: clamp(0.98rem, 2.8vw, 1.06rem);
+    }
+
+    .dates {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin-top: 4px;
+    }
+
+    .date {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .date-head {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 8px;
+    }
+
+    .date b {
+      font-family: var(--display);
+      font-size: clamp(1.25rem, 4vw, 1.5rem);
+      color: var(--black);
+    }
+
+    .timer-row {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 6px;
+    }
+
+    .time-unit {
+      background: var(--green);
+      color: var(--white);
+      border: 1.5px solid var(--black);
+      padding: 8px 2px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-width: 0;
+    }
+
+    .time-unit .num {
+      font-family: var(--display);
+      font-size: clamp(1.1rem, 4vw, 1.35rem);
+      font-weight: 800;
+      line-height: 1.05;
+      color: var(--white);
+    }
+
+    .time-unit .lbl {
+      font-family: var(--mono);
+      font-size: 0.62rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--white);
+      margin-top: 2px;
+    }
+
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      min-width: 0;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    button {
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .tab,
+    .chip {
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-weight: 600;
+      font-size: 0.92rem;
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: transform 0.1s ease;
+    }
+
+    .tab:hover,
+    .chip:hover {
+      border-color: var(--green);
+    }
+
+    .tab[aria-selected="true"],
+    .chip[aria-pressed="true"] {
+      background: var(--green);
+      border-color: var(--black);
+      color: var(--white);
+      box-shadow: 2px 2px 0 var(--black);
+    }
+
+    button:focus-visible,
+    select:focus-visible {
+      outline: 3px solid var(--green);
+      outline-offset: 2px;
+    }
+
+    .chip img {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      border: 1.5px solid var(--black);
+      background: var(--white);
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .action-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      border-top: 2px solid var(--black);
+      padding-top: 16px;
+      margin-top: 4px;
+    }
+
+    .btn-primary {
+      background: var(--green);
+      color: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 3px 3px 0 var(--black);
+      padding: 12px 20px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 0.98rem;
+      min-height: 46px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      text-decoration: none;
+    }
+
+    .btn-primary:hover {
+      background: var(--black);
+      color: var(--white);
+    }
+
+    .btn-secondary {
+      background: var(--white);
+      color: var(--black);
+      border: 2px solid var(--black);
+      box-shadow: 3px 3px 0 var(--green);
+      padding: 10px 18px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 0.95rem;
+      min-height: 46px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .btn-secondary:hover {
+      background: var(--green);
+      color: var(--white);
+    }
+
+    .panel {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .office-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border-bottom: 2px solid var(--black);
+      padding-bottom: 14px;
+    }
+
+    .office-avatar {
+      width: 54px;
+      height: 54px;
+      border: 2px solid var(--black);
+      background: var(--green);
+      flex-shrink: 0;
+    }
+
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 12px;
+    }
+
+    .fact {
+      background: var(--white);
+      border: 2px solid var(--green);
+      padding: 10px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .fact b {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    .cols {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 18px;
+    }
+
+    ul {
+      margin: 8px 0 0;
+      padding-left: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .impact {
+      border-left: 5px solid var(--green);
+      border-top: 1px solid var(--black);
+      border-right: 1px solid var(--black);
+      border-bottom: 1px solid var(--black);
+      padding: 14px 16px;
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .compare-box,
+    .radar-box {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .radar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 10px;
+    }
+
+    .radar-wrap,
+    .radar-canvas-wrap {
+      position: relative;
+      width: 100%;
+      height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--white);
+      padding: 4px;
+    }
+
+    .score-strip {
+      border: 2px solid var(--black);
+      background: var(--white);
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .score-strip-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 6px;
+    }
+
+    .score-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 10px;
+    }
+
+    .score-strip-row {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      padding-bottom: 8px;
+      border-bottom: 1px dashed var(--black);
+    }
+
+    .score-strip-row:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .score-strip-label {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: var(--black);
+    }
+
+    .score-strip-values {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .score-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      border: 1.5px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 3px 7px;
+      font-family: var(--mono);
+      font-size: 0.74rem;
+      font-weight: 600;
+    }
+
+    .score-pill b {
+      background: var(--green);
+      color: var(--white);
+      padding: 1px 5px;
+      border: 1px solid var(--black);
+    }
+
+    .cand-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+    }
+
+    .cand-card {
+      border: 2px solid var(--black);
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+
+    .cand-card-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px;
+      background: var(--green);
+      color: var(--white);
+      border-bottom: 2px solid var(--black);
+    }
+
+    .cand-card-top img {
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      border: 2px solid var(--white);
+      background: var(--white);
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .cand-card-title h3 {
+      color: var(--white);
+      font-size: 1.12rem;
+    }
+
+    .party-pill {
+      display: inline-block;
+      margin-top: 4px;
+      font-family: var(--mono);
+      font-size: 0.74rem;
+      font-weight: 600;
+      background: var(--white);
+      color: var(--black);
+      border: 1.5px solid var(--black);
+      padding: 2px 8px;
+    }
+
+    .cand-fields {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      font-size: 0.92rem;
+    }
+
+    .cand-field {
+      border-bottom: 1px solid var(--black);
+      padding-bottom: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .cand-field:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .cand-field b {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--green);
+    }
+
+    .note {
+      font-size: 0.9rem;
+      color: var(--black);
+      border: 2px dashed var(--green);
+      background: var(--white);
+      padding: 12px 16px;
+    }
+
+    .cta-banner {
+      border: 3px solid var(--black);
+      background: var(--green);
+      color: var(--white);
+      padding: 22px 18px;
+      box-shadow: 5px 5px 0 var(--black);
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .cta-banner .eyebrow {
+      color: var(--white);
+      background: var(--black);
+      align-self: flex-start;
+      padding: 3px 10px;
+    }
+
+    .cta-banner h2 {
+      color: var(--white);
+    }
+
+    .cta-banner p {
+      color: var(--white);
+      max-width: 62ch;
+    }
+
+    .cta-controls {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 12px;
+      background: var(--white);
+      color: var(--black);
+      border: 2px solid var(--black);
+      padding: 16px;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+
+    .control-group label {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: var(--black);
+    }
+
+    .control-group select {
+      font: inherit;
+      font-size: 1rem;
+      padding: 10px 12px;
+      min-height: 44px;
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      font-weight: 600;
+      width: 100%;
+    }
+
+    .cta-btn {
+      background: var(--black);
+      color: var(--white);
+      border: 2px solid var(--black);
+      padding: 12px 18px;
+      min-height: 46px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 1rem;
+      align-self: end;
+      width: 100%;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+
+    .cta-btn:hover {
+      background: var(--green);
+      color: var(--white);
+    }
+
+    .check-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .check-progress {
+      font-family: var(--mono);
+      font-size: 0.8rem;
+      font-weight: 600;
+      border: 2px solid var(--black);
+      background: var(--green);
+      color: var(--white);
+      padding: 4px 10px;
+    }
+
+    .check {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .check label {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      background: var(--white);
+      border: 2px solid var(--black);
+      padding: 14px 16px;
+      cursor: pointer;
+    }
+
+    .check label:hover {
+      border-color: var(--green);
+    }
+
+    .check input {
+      margin-top: 3px;
+      accent-color: var(--green);
+      width: 22px;
+      height: 22px;
+      flex: none;
+      cursor: pointer;
+    }
+
+    .check input:checked+span {
+      text-decoration: line-through;
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    .subview-header {
+      border-bottom: 4px solid var(--green);
+      padding-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .academy-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 18px;
+    }
+
+    .academy-card {
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      background: var(--white);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .academy-card-head {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 10px;
+    }
+
+    .academy-card-head img {
+      width: 44px;
+      height: 44px;
+      border: 2px solid var(--black);
+      flex-shrink: 0;
+    }
+
+    .quiz-box {
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 20px;
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .quiz-opt {
+      text-align: left;
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 12px 14px;
+      font-weight: 600;
+      min-height: 46px;
+    }
+
+    .quiz-opt.correct {
+      background: var(--green);
+      color: var(--white);
+    }
+
+    .quiz-opt.wrong {
+      background: var(--black);
+      color: var(--white);
+    }
+
+    .ballot-guide-box {
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      background: var(--white);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .guide-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+
+    .guide-card {
+      border: 2px solid var(--black);
+      padding: 14px;
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .guide-card h4 {
+      font-size: 1.05rem;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 6px;
+    }
+
+    footer {
+      font-size: 0.88rem;
+      color: var(--black);
+      border-top: 3px solid var(--green);
+      padding-top: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    a {
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    @media (max-width: 680px) {
+      .nav-links {
+        display: none;
+      }
+
+      .hamburger-btn {
+        display: inline-flex;
+      }
+
+      .wrap {
+        padding-top: 18px;
+        gap: 36px;
+      }
+
+      .view-page {
+        gap: 36px;
+      }
+
+      .compare-box,
+      .radar-box {
+        padding: 12px 6px;
+      }
+
+      .radar-header,
+      .compare-box .action-bar {
+        padding-left: 6px;
+        padding-right: 6px;
+      }
+
+      .radar-wrap,
+      .radar-canvas-wrap {
+        height: 340px;
+        padding: 0;
+      }
+
+      .score-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .panel,
+      .cta-banner,
+      .ballot-guide-box,
+      .quiz-box {
+        padding: 14px;
+      }
+
+      .cand-cards {
+        grid-template-columns: 1fr;
+        padding-left: 4px;
+        padding-right: 4px;
+      }
+
+      .tabs {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 6px;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .tab,
+      .chip {
+        flex-shrink: 0;
+      }
+
+      .action-bar .btn-primary,
+      .action-bar .btn-secondary {
+        width: 100%;
+      }
+    }
+
+    @media (max-width: 420px) {
+      .score-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .drawer-jumps {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="flag-ribbon" aria-hidden="true">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <nav class="top-nav" aria-label="Primary Navigation">
+    <div class="top-nav-inner">
+      <button type="button" class="brand-btn" id="navHomeBrand">
+        <span class="mini-flag" aria-hidden="true"><span></span><span></span><span></span></span>
+        9ja <span>Politics</span>
+      </button>
+
+      <div class="nav-links">
+        <button type="button" class="nav-pill" id="navMainBtn" aria-current="page">Voter Guide</button>
+        <button type="button" class="nav-pill" id="navAcademyBtn">Civic Academy</button>
+        <button type="button" class="nav-pill" id="navBallotBtn">Ballot &amp; Offices</button>
+      </div>
+
+      <button type="button" class="hamburger-btn" id="mobileMenuBtn" aria-expanded="false" aria-controls="mobileDrawer"
+        aria-label="Toggle navigation menu">
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+        <span class="hamburger-bar"></span>
+      </button>
+    </div>
+
+    <div class="mobile-drawer" id="mobileDrawer" aria-label="Mobile Navigation Drawer">
+      <span class="drawer-section-label">Main Pages</span>
+      <div class="drawer-views">
+        <button type="button" class="drawer-btn" id="drawerMainBtn" aria-current="page">
+          <span>Voter Guide (Home)</span>
+          <span>&rarr;</span>
+        </button>
+        <button type="button" class="drawer-btn" id="drawerAcademyBtn">
+          <span>Civic Academy</span>
+          <span>&rarr;</span>
+        </button>
+        <button type="button" class="drawer-btn" id="drawerBallotBtn">
+          <span>Ballot &amp; Office Compare</span>
+          <span>&rarr;</span>
+        </button>
+      </div>
+      <span class="drawer-section-label">Quick Jump on Voter Guide</span>
+      <div class="drawer-jumps">
+        <button type="button" class="drawer-jump" data-jump="#offices">
+          <span>5 Offices</span><span>&darr;</span>
+        </button>
+        <button type="button" class="drawer-jump" data-jump="#compare">
+          <span>Presidential Radar</span><span>&darr;</span>
+        </button>
+        <button type="button" class="drawer-jump" data-jump="#other-offices-cta">
+          <span>Other Offices</span><span>&darr;</span>
+        </button>
+        <button type="button" class="drawer-jump" data-jump="#ready">
+          <span>Voter Checklist</span><span>&darr;</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <div class="wrap">
+    <main class="view-page active" id="view-main">
+      <header class="hero">
+        <div class="hero-top">
+          <p class="eyebrow">Voter guide · 2027 general election</p>
+          <div class="flag-badge">
+            <span class="mini-flag" aria-hidden="true"><span></span><span></span><span></span></span>
+            Federal Republic of Nigeria
+          </div>
+        </div>
+        <h1>9ja <span>Politics</span></h1>
+        <p class="lede">Know what each office does, see who is running, and compare candidates on the same facts before
+          you vote.</p>
+        <div class="dates">
+          <div class="date">
+            <div class="date-head">
+              <span class="eyebrow">President and National Assembly</span>
+              <b>16 January 2027</b>
+            </div>
+            <div class="timer-row" id="cd1" aria-label="Countdown to Presidential Election">
+              <div class="time-unit"><span class="num" id="p-days">00</span><span class="lbl">Days</span></div>
+              <div class="time-unit"><span class="num" id="p-hrs">00</span><span class="lbl">Hrs</span></div>
+              <div class="time-unit"><span class="num" id="p-mins">00</span><span class="lbl">Mins</span></div>
+              <div class="time-unit"><span class="num" id="p-secs">00</span><span class="lbl">Secs</span></div>
+            </div>
+          </div>
+          <div class="date">
+            <div class="date-head">
+              <span class="eyebrow">Governorship and State Assemblies</span>
+              <b>6 February 2027</b>
+            </div>
+            <div class="timer-row" id="cd2" aria-label="Countdown to Governorship Election">
+              <div class="time-unit"><span class="num" id="g-days">00</span><span class="lbl">Days</span></div>
+              <div class="time-unit"><span class="num" id="g-hrs">00</span><span class="lbl">Hrs</span></div>
+              <div class="time-unit"><span class="num" id="g-mins">00</span><span class="lbl">Mins</span></div>
+              <div class="time-unit"><span class="num" id="g-secs">00</span><span class="lbl">Secs</span></div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section id="offices">
+        <p class="eyebrow">Why each vote matters</p>
+        <h2>Five offices, five different jobs</h2>
+        <p class="lede">The president gets the attention. The office closest to your daily life is often a different
+          one.</p>
+        <div class="tabs" role="tablist" id="otabs"></div>
+        <div class="panel" id="opanel" role="tabpanel"></div>
+        <div class="action-bar">
+          <p class="eyebrow">Want to understand budgets, bills &amp; citizen powers?</p>
+          <button type="button" class="btn-primary" id="openAcademyBtn">Learn more &rarr; Civic Academy</button>
+        </div>
+      </section>
+
+      <section id="compare">
+        <p class="eyebrow">Presidential race · Compare beyond the campaign promises</p>
+        <h2>Compare candidates side by side</h2>
+        <p class="lede">Pick up to three. Every candidate is shown against the same fields and radar graph dimensions so
+          no one gets a longer write-up.</p>
+        <div class="tabs" id="chips" aria-label="Choose candidates"></div>
+
+        <div class="compare-box radar-box">
+          <div class="radar-header">
+            <h3>Compare beyond the campaign promises (Radar Graph)</h3>
+            <span class="eyebrow">Up to 3 candidates overlaid</span>
+          </div>
+          <div class="radar-wrap radar-canvas-wrap">
+            <canvas id="radarChart" aria-label="Candidate Comparison Radar Graph"></canvas>
+          </div>
+
+          <div class="score-strip" aria-label="Exact Radar Scores by Category">
+            <div class="score-strip-head">
+              <span class="eyebrow">Category Score Breakdown (0–100)</span>
+              <span class="eyebrow">Tap candidate chips above to change</span>
+            </div>
+            <div id="presScoreBreakdown"></div>
+          </div>
+
+          <div class="cand-cards" id="candCards"></div>
+
+          <div class="action-bar">
+            <p class="eyebrow">Need the step-by-step Presidential ballot &amp; manifesto guide?</p>
+            <button type="button" class="btn-secondary" id="viewPresBallotGuideBtn">View Ballot Guide &rarr;</button>
+          </div>
+        </div>
+
+        <p class="note">Ages, parties and running mates follow the final INEC list as reported by Nigerian media in
+          October 2026. "Not confirmed" means we could not verify it from a source, not that it does not exist. Radar
+          scores are illustrative civic comparison metrics across key governance areas. Check names and tickets on <a
+            href="https://inec.gov.ng" target="_blank" rel="noopener">inec.gov.ng</a>, and read each manifesto yourself.
+        </p>
+      </section>
+
+      <section id="other-offices-cta">
+        <div class="cta-banner">
+          <span class="eyebrow">Down-Ballot Races · 36 States &amp; FCT</span>
+          <h2>Compare candidates for other offices</h2>
+          <p>Democracy does not stop at Aso Rock. Your State Governor, Senator, Federal Representative, and State
+            Assembly member directly shape your roads, schools, clinics, and local security. Select your state and
+            office below to open the radar graph and ballot guide for your area.</p>
+
+          <div class="cta-controls">
+            <div class="control-group">
+              <label for="stateSelect">1. Select Your State</label>
+              <select id="stateSelect"></select>
+            </div>
+            <div class="control-group">
+              <label for="officeSelect">2. Select Office</label>
+              <select id="officeSelect">
+                <option value="Governor">Governorship</option>
+                <option value="Senate">Senate (National Assembly)</option>
+                <option value="House of Reps">House of Representatives</option>
+                <option value="State Assembly">State House of Assembly</option>
+              </select>
+            </div>
+            <div class="control-group">
+              <label for="districtSelect">3. Constituency / District</label>
+              <select id="districtSelect">
+                <option value="">Loading districts...</option>
+              </select>
+            </div>
+            <button type="button" class="cta-btn" id="compareOtherBtn">Compare Candidates &rarr;</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="ready">
+        <div class="check-header">
+          <div>
+            <p class="eyebrow">Before election day</p>
+            <h2>Your voter checklist</h2>
+          </div>
+          <span class="check-progress" id="checkProgress">0 / 5 completed</span>
+        </div>
+        <div class="check" id="check"></div>
+      </section>
+    </main>
+
+    <div class="view-page" id="view-academy" aria-live="polite">
+      <div class="subview-header">
+        <div>
+          <button type="button" class="btn-secondary" id="backFromAcademyBtn">&larr; Back to Main Voter Guide</button>
+        </div>
+        <p class="eyebrow">9ja Politics · Civic Academy</p>
+        <h2>How Nigerian Government &amp; Your Vote Work</h2>
+        <p class="lede">Beyond election day headlines: learn how power, public funds, and lawmaking work across Federal,
+          State, and Local levels.</p>
+      </div>
+
+      <section>
+        <p class="eyebrow">Module 1 · Constitutional Structure</p>
+        <h3>Separation of Powers &amp; Three Tiers</h3>
+        <div class="academy-grid" id="academyModules"></div>
+      </section>
+
+      <section>
+        <p class="eyebrow">Module 2 · Interactive Civic Readiness Quiz</p>
+        <h3>Test your knowledge before you head to the polling unit</h3>
+        <div class="quiz-box" id="quizContainer"></div>
+      </section>
+
+      <div class="action-bar">
+        <button type="button" class="btn-secondary" id="backFromAcademyBottomBtn">&larr; Back to Main Voter
+          Guide</button>
+        <button type="button" class="btn-primary" id="academyToOtherOfficesBtn">Compare Down-Ballot Candidates
+          &rarr;</button>
+      </div>
+    </div>
+
+    <div class="view-page" id="view-ballot" aria-live="polite">
+      <div class="subview-header">
+        <div>
+          <button type="button" class="btn-secondary" id="backFromBallotBtn">&larr; Back to Main Voter Guide</button>
+        </div>
+        <p class="eyebrow" id="ballotViewEyebrow">Office Comparison &amp; Ballot Guide</p>
+        <h2 id="ballotViewTitle">Compare Candidates &amp; Ballot Guide</h2>
+        <p class="lede" id="ballotViewLede">Filter by state, office, and constituency to compare candidates beyond
+          campaign promises on the radar graph and inspect your tailored ballot guide.</p>
+
+        <div class="cta-controls">
+          <div class="control-group">
+            <label for="subStateSelect">State</label>
+            <select id="subStateSelect"></select>
+          </div>
+          <div class="control-group">
+            <label for="subOfficeSelect">Office on Ballot</label>
+            <select id="subOfficeSelect">
+              <option value="President">Presidential (National)</option>
+              <option value="Governor">Governorship</option>
+              <option value="Senate">Senate (National Assembly)</option>
+              <option value="House of Reps">House of Representatives</option>
+              <option value="State Assembly">State House of Assembly</option>
+            </select>
+          </div>
+          <div class="control-group">
+            <label for="subDistrictSelect">Constituency / Zone</label>
+            <select id="subDistrictSelect">
+              <option value="">Loading districts...</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel" id="offCycleNotice" style="display:none;"></div>
+
+      <section id="subCompareSection">
+        <p class="eyebrow" id="subRadarEyebrow">Compare beyond the campaign promises</p>
+        <h3>Select up to 3 candidates to compare</h3>
+        <div class="tabs" id="subChips" aria-label="Choose candidates for selected office"></div>
+
+        <div class="compare-box radar-box" id="subRadarBox">
+          <div class="radar-header">
+            <h3 id="subRadarHeading">Office Governance Radar Graph</h3>
+            <span class="eyebrow">Up to 3 candidates overlaid</span>
+          </div>
+          <div class="radar-wrap radar-canvas-wrap">
+            <canvas id="subRadarChart" aria-label="Selected Office Candidate Radar Graph"></canvas>
+          </div>
+
+          <div class="score-strip" aria-label="Selected Office Exact Radar Scores">
+            <div class="score-strip-head">
+              <span class="eyebrow">Category Score Breakdown (0–100)</span>
+              <span class="eyebrow">Direct mobile readout</span>
+            </div>
+            <div id="subScoreBreakdown"></div>
+          </div>
+
+          <div class="cand-cards" id="subCandCards"></div>
+        </div>
+      </section>
+
+      <section id="ballotGuideSection">
+        <p class="eyebrow">Official Ballot &amp; Evaluation Guide</p>
+        <h3 id="ballotGuideHeading">Ballot Guide for Selected Office</h3>
+        <div class="ballot-guide-box" id="ballotGuideContent"></div>
+      </section>
+
+      <div class="action-bar">
+        <button type="button" class="btn-secondary" id="backFromBallotBottomBtn">&larr; Back to Main Voter
+          Guide</button>
+        <button type="button" class="btn-primary" id="ballotToAcademyBtn">Visit Civic Academy &rarr;</button>
+      </div>
+    </div>
+
+    <footer>
+      <p>9ja Politics is a non-partisan education project. It does not endorse any candidate or party. Governorship
+        elections do not hold in every state in 2027, because some states vote in other years.</p>
+    </footer>
+  </div>
+
+  <script>
+    function updateCountdown(isoDate, prefix) {
+      var target = new Date(isoDate + "T08:00:00").getTime();
+      var now = new Date().getTime();
+      var diff = target - now;
+      if (diff <= 0) {
+        document.getElementById(prefix + "-days").textContent = "00";
+        document.getElementById(prefix + "-hrs").textContent = "00";
+        document.getElementById(prefix + "-mins").textContent = "00";
+        document.getElementById(prefix + "-secs").textContent = "00";
+        return;
+      }
+      var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+      var h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      var s = Math.floor((diff % (1000 * 60)) / 1000);
+
+      document.getElementById(prefix + "-days").textContent = String(d).padStart(2, "0");
+      document.getElementById(prefix + "-hrs").textContent = String(h).padStart(2, "0");
+      document.getElementById(prefix + "-mins").textContent = String(m).padStart(2, "0");
+      document.getElementById(prefix + "-secs").textContent = String(s).padStart(2, "0");
+    }
+
+    function tickAllCountdowns() {
+      updateCountdown("2027-01-16", "p");
+      updateCountdown("2027-02-06", "g");
+    }
+    tickAllCountdowns();
+    setInterval(tickAllCountdowns, 1000);
+
+    function el(t, c, x) {
+      var e = document.createElement(t);
+      if (c) e.className = c;
+      if (x != null) e.textContent = x;
+      return e;
+    }
+
+    function makePortraitSvg(initials, subtitle) {
+      var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">' +
+        '<rect width="120" height="120" fill="#008751"/>' +
+        '<circle cx="60" cy="44" r="22" fill="#ffffff" stroke="#000000" stroke-width="3"/>' +
+        '<path d="M22 108 C22 78, 98 78, 98 108 Z" fill="#ffffff" stroke="#000000" stroke-width="3"/>' +
+        '<rect x="0" y="92" width="120" height="28" fill="#000000"/>' +
+        '<text x="60" y="51" text-anchor="middle" font-family="sans-serif" font-weight="800" font-size="16" fill="#000000">' + initials + '</text>' +
+        '<text x="60" y="110" text-anchor="middle" font-family="monospace" font-weight="700" font-size="11" fill="#ffffff">' + subtitle + '</text>' +
+        '</svg>';
+      return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+    }
+
+    function makeOfficeIconSvg(code) {
+      var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">' +
+        '<rect width="56" height="56" fill="#008751"/>' +
+        '<rect x="6" y="10" width="44" height="36" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>' +
+        '<rect x="6" y="10" width="14" height="36" fill="#008751"/>' +
+        '<rect x="36" y="10" width="14" height="36" fill="#008751"/>' +
+        '<circle cx="28" cy="28" r="10" fill="#000000"/>' +
+        '<text x="28" y="32" text-anchor="middle" font-family="monospace" font-weight="700" font-size="10" fill="#ffffff">' + code + '</text>' +
+        '</svg>';
+      return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+    }
+
+    var views = {
+      main: document.getElementById("view-main"),
+      academy: document.getElementById("view-academy"),
+      ballot: document.getElementById("view-ballot")
+    };
+    var navBtns = {
+      main: document.getElementById("navMainBtn"),
+      academy: document.getElementById("navAcademyBtn"),
+      ballot: document.getElementById("navBallotBtn")
+    };
+    var drawerBtns = {
+      main: document.getElementById("drawerMainBtn"),
+      academy: document.getElementById("drawerAcademyBtn"),
+      ballot: document.getElementById("drawerBallotBtn")
+    };
+    var mobileMenuBtn = document.getElementById("mobileMenuBtn");
+    var mobileDrawer = document.getElementById("mobileDrawer");
+
+    function closeMobileMenu() {
+      if (!mobileMenuBtn || !mobileDrawer) return;
+      mobileMenuBtn.setAttribute("aria-expanded", "false");
+      mobileDrawer.classList.remove("open");
+    }
+
+    function toggleMobileMenu() {
+      var isOpen = mobileMenuBtn.getAttribute("aria-expanded") === "true";
+      if (isOpen) {
+        closeMobileMenu();
+      } else {
+        mobileMenuBtn.setAttribute("aria-expanded", "true");
+        mobileDrawer.classList.add("open");
+      }
+    }
+
+    mobileMenuBtn.onclick = toggleMobileMenu;
+
+    function switchView(targetView, skipScrollTop) {
+      closeMobileMenu();
+      Object.keys(views).forEach(function (k) {
+        if (k === targetView) {
+          views[k].classList.add("active");
+          navBtns[k].setAttribute("aria-current", "page");
+          drawerBtns[k].setAttribute("aria-current", "page");
+        } else {
+          views[k].classList.remove("active");
+          navBtns[k].removeAttribute("aria-current");
+          drawerBtns[k].removeAttribute("aria-current");
+        }
+      });
+      if (!skipScrollTop) {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+      if (targetView === "main" && radarChart) {
+        setTimeout(function () { radarChart.resize(); }, 60);
+      }
+      if (targetView === "ballot") {
+        renderBallotAndComparisonView();
+      }
+    }
+
+    document.getElementById("navHomeBrand").onclick = function () { switchView("main"); };
+    navBtns.main.onclick = function () { switchView("main"); };
+    navBtns.academy.onclick = function () { switchView("academy"); };
+    navBtns.ballot.onclick = function () { switchView("ballot"); };
+    drawerBtns.main.onclick = function () { switchView("main"); };
+    drawerBtns.academy.onclick = function () { switchView("academy"); };
+    drawerBtns.ballot.onclick = function () { switchView("ballot"); };
+
+    Array.prototype.forEach.call(document.querySelectorAll(".drawer-jump"), function (btn) {
+      btn.onclick = function () {
+        var targetSelector = btn.getAttribute("data-jump");
+        switchView("main", true);
+        setTimeout(function () {
+          var targetEl = document.querySelector(targetSelector);
+          if (targetEl) targetEl.scrollIntoView({ behavior: "smooth" });
+        }, 60);
+      };
+    });
+
+    document.getElementById("openAcademyBtn").onclick = function () { switchView("academy"); };
+    document.getElementById("backFromAcademyBtn").onclick = function () { switchView("main"); };
+    document.getElementById("backFromAcademyBottomBtn").onclick = function () { switchView("main"); };
+    document.getElementById("academyToOtherOfficesBtn").onclick = function () { switchView("ballot"); };
+    document.getElementById("backFromBallotBtn").onclick = function () { switchView("main"); };
+    document.getElementById("backFromBallotBottomBtn").onclick = function () { switchView("main"); };
+    document.getElementById("ballotToAcademyBtn").onclick = function () { switchView("academy"); };
+
+    var OFFICES = [
+      {
+        k: "President", code: "FG", lvl: "Federal", seats: "1 (plus a vice president)", term: "4 years, max 2 terms",
+        does: [
+          "Heads the federal executive and is commander-in-chief of the armed forces",
+          "Proposes the national budget and appoints ministers (Senate confirms)",
+          "Sets foreign policy and signs or vetoes bills"
+        ],
+        life: "Fuel and exchange-rate policy, federal security, federal roads and power, tax rules on businesses."
+      },
+      {
+        k: "Governor", code: "GOV", lvl: "State", seats: "36 (one per state)", term: "4 years, max 2 terms",
+        does: [
+          "Runs the state government and proposes the state budget",
+          "Controls state schools, hospitals and roads",
+          "Oversees local governments and coordinates security in the state"
+        ],
+        life: "Your state school system, primary healthcare, state roads, state taxes and levies."
+      },
+      {
+        k: "Senator", code: "SEN", lvl: "Federal", seats: "109 (3 per state, 1 for FCT)", term: "4 years, no term limit",
+        does: [
+          "Makes national laws together with the House",
+          "Confirms ministers, ambassadors and heads of agencies",
+          "Approves the budget and investigates agencies"
+        ],
+        life: "How federal money is spent in your state and who gets federal appointments."
+      },
+      {
+        k: "House of Reps", code: "REP", lvl: "Federal", seats: "360 (by constituency)", term: "4 years, no term limit",
+        does: [
+          "Passes national laws and money bills",
+          "Oversees federal ministries and agencies",
+          "Brings federal projects and constituency funds to a local area"
+        ],
+        life: "The member who speaks for your federal constituency and can push projects in your area."
+      },
+      {
+        k: "State Assembly", code: "SHA", lvl: "State", seats: "Varies by state", term: "4 years, no term limit",
+        does: [
+          "Makes state laws and approves the state budget",
+          "Checks the governor and confirms commissioners",
+          "Passes laws that affect local governments in the state"
+        ],
+        life: "State-level laws on land, education, local councils and how the governor spends money."
+      }
+    ];
+
+    var ot = document.getElementById("otabs");
+    var op = document.getElementById("opanel");
+
+    function showOffice(i) {
+      Array.prototype.forEach.call(ot.children, function (b, j) {
+        b.setAttribute("aria-selected", j === i);
+      });
+      var o = OFFICES[i];
+      op.textContent = "";
+
+      var header = el("div", "office-header");
+      var iconImg = document.createElement("img");
+      iconImg.className = "office-avatar";
+      iconImg.src = makeOfficeIconSvg(o.code);
+      iconImg.alt = o.k + " badge";
+      header.appendChild(iconImg);
+
+      var titleWrap = el("div", "");
+      titleWrap.appendChild(el("p", "eyebrow", o.lvl + " Executive / Legislature"));
+      titleWrap.appendChild(el("h3", "", o.k + " · " + o.lvl));
+      header.appendChild(titleWrap);
+      op.appendChild(header);
+
+      var f = el("div", "facts");
+      [["Seats", o.seats], ["Term", o.term]].forEach(function (x) {
+        var d = el("div", "fact");
+        d.appendChild(el("b", "", x[0]));
+        d.appendChild(el("span", "", x[1]));
+        f.appendChild(d);
+      });
+      op.appendChild(f);
+
+      var c = el("div", "cols");
+      var a = el("div", "");
+      var ul = el("ul", "");
+      a.appendChild(el("p", "eyebrow", "What they do"));
+      o.does.forEach(function (t) {
+        ul.appendChild(el("li", "", t));
+      });
+      a.appendChild(ul);
+
+      var b = el("div", "impact");
+      b.appendChild(el("p", "eyebrow", "What it means for you"));
+      b.appendChild(el("p", "", o.life));
+
+      c.appendChild(a);
+      c.appendChild(b);
+      op.appendChild(c);
+    }
+
+    OFFICES.forEach(function (o, i) {
+      var b = el("button", "tab", o.k);
+      b.setAttribute("role", "tab");
+      b.onclick = function () { showOffice(i); };
+      ot.appendChild(b);
+    });
+    showOffice(0);
+
+    // 3. PRESIDENTIAL COMPARE SECTION
+    var CANDS = [];
+    var sel = [0, 1, 2];
+    var chips = document.getElementById("chips");
+    var candCards = document.getElementById("candCards");
+    var presScoreBreakdown = document.getElementById("presScoreBreakdown");
+    var radarChart = null;
+
+    var RADAR_LABELS = [
+      ["Economy &", "Jobs"],
+      ["Security &", "Rule of Law"],
+      ["Education &", "Health"],
+      ["Infrastructure", "& Power"],
+      ["Executive", "Experience"],
+      ["Youth &", "Energy"]
+    ];
+
+    var FIELDS = [
+      ["Party", "p"],
+      ["Age", "age"],
+      ["Running mate", "rm"],
+      ["Education", "edu"],
+      ["Background", "bg"]
+    ];
+
+    fetch('./data/presidential.json')
+      .then(function (res) {
+        if (!res.ok) throw new Error("HTTP error " + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        if (data && data.candidates && data.candidates.length > 0) {
+          CANDS = data.candidates;
+          sel = [0, 1, 2].filter(function (i) { return i < CANDS.length; });
+          buildPresidentialChips();
+          drawCompare();
+        }
+      })
+      .catch(function (err) {
+        console.error("Error loading presidential data. Make sure you are using a local server.", err);
+      });
+
+    function buildPresidentialChips() {
+      chips.innerHTML = "";
+      CANDS.forEach(function (c, i) {
+        var b = el("button", "chip");
+        b.setAttribute("aria-pressed", sel.indexOf(i) > -1 ? "true" : "false");
+
+        var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
+        var avatar = document.createElement("img");
+        avatar.src = makePortraitSvg(ini, c.p);
+        avatar.alt = "";
+
+        b.appendChild(avatar);
+        b.appendChild(el("span", "", c.n));
+
+        b.onclick = function () {
+          var k = sel.indexOf(i);
+          if (k > -1) {
+            if (sel.length > 1) sel.splice(k, 1);
+          } else {
+            if (sel.length >= 3) sel.shift();
+            sel.push(i);
+          }
+          buildPresidentialChips();
+          drawCompare();
+        };
+        chips.appendChild(b);
+      });
+    }
+
+    function renderScoreBreakdownStrip(stripEl, labelsArr, candsArr, selArr) {
+      if (!stripEl) return;
+      stripEl.innerHTML = "";
+      if (!candsArr || candsArr.length === 0 || selArr.length === 0) return;
+
+      labelsArr.forEach(function (labelArr, dimIdx) {
+        var dimName = Array.isArray(labelArr) ? labelArr.join(" ") : labelArr;
+        var row = el("div", "score-strip-row");
+
+        var title = el("b", "score-strip-label", dimName);
+        row.appendChild(title);
+
+        var scoresWrap = el("div", "score-strip-values");
+
+        selArr.forEach(function (candIdx) {
+          var cand = candsArr[candIdx];
+          if (!cand) return;
+          var scores = cand.scores || cand.radar || [50, 50, 50, 50, 50, 50];
+          var scoreVal = scores[dimIdx] !== undefined ? scores[dimIdx] : 50;
+
+          var pill = el("span", "score-pill");
+          pill.textContent = cand.p + ": ";
+          var b = el("b", "", scoreVal);
+          pill.appendChild(b);
+          scoresWrap.appendChild(pill);
+        });
+
+        row.appendChild(scoresWrap);
+        stripEl.appendChild(row);
+      });
+    }
+
+    function getRadarChartOptions() {
+      var isMobile = window.innerWidth <= 680;
+      return {
+        responsive: true,
+        maintainAspectRatio: false,
+        layout: {
+          padding: isMobile ? { top: 6, right: 8, bottom: 6, left: 8 } : { top: 10, right: 16, bottom: 10, left: 16 }
+        },
+        scales: {
+          r: {
+            min: 0,
+            max: 100,
+            ticks: {
+              stepSize: 20,
+              backdropColor: "#ffffff",
+              color: "#000000",
+              font: { family: '"IBM Plex Mono", monospace', size: isMobile ? 9 : 10, weight: "600" }
+            },
+            grid: { color: "#000000", lineWidth: 1.2 },
+            angleLines: { color: "#008751", lineWidth: 1.5 },
+            pointLabels: {
+              color: "#000000",
+              padding: isMobile ? 6 : 10,
+              font: { family: '"Public Sans", sans-serif', size: isMobile ? 11 : 12, weight: "700" }
+            }
+          }
+        },
+        plugins: {
+          legend: {
+            position: "bottom",
+            labels: {
+              color: "#000000",
+              boxWidth: isMobile ? 12 : 16,
+              font: { family: '"Public Sans", sans-serif', size: isMobile ? 11 : 12, weight: "700" },
+              usePointStyle: true,
+              padding: isMobile ? 10 : 14
+            }
+          }
+        }
+      };
+    }
+
+    function drawCompare() {
+      if (!CANDS || CANDS.length === 0) return;
+
+      sel = sel.filter(function (i) {
+        return typeof i === "number" && i >= 0 && i < CANDS.length;
+      });
+
+      if (sel.length === 0) {
+        sel = [0, 1, 2].filter(function (i) { return i < CANDS.length; });
+      }
+
+      var datasets = sel.map(function (idx) {
+        var c = CANDS[idx];
+        var color = c.chartColor || ["#008751", "#1d4ed8", "#dc2626", "#d97706", "#9333ea", "#0891b2"][idx % 6];
+        var scores = c.scores || c.radar || [50, 50, 50, 50, 50, 50];
+        return {
+          label: c.n + " (" + c.p + ")",
+          data: scores,
+          backgroundColor: color + "2E",
+          borderColor: color,
+          pointBackgroundColor: color,
+          pointBorderColor: "#ffffff",
+          pointHoverBackgroundColor: "#000000",
+          pointHoverBorderColor: color,
+          borderWidth: 3,
+          pointRadius: 5,
+          pointHoverRadius: 7
+        };
+      });
+
+      if (radarChart) {
+        radarChart.options = getRadarChartOptions();
+        radarChart.data.labels = RADAR_LABELS;
+        radarChart.data.datasets = datasets;
+        radarChart.update();
+      } else {
+        var ctx = document.getElementById("radarChart").getContext("2d");
+        radarChart = new Chart(ctx, {
+          type: "radar",
+          data: {
+            labels: RADAR_LABELS,
+            datasets: datasets
+          },
+          options: getRadarChartOptions()
+        });
+      }
+
+      renderScoreBreakdownStrip(presScoreBreakdown, RADAR_LABELS, CANDS, sel);
+
+      candCards.textContent = "";
+      sel.forEach(function (i) {
+        var c = CANDS[i];
+        if (!c) return;
+        var card = el("article", "cand-card");
+
+        var top = el("div", "cand-card-top");
+        var img = document.createElement("img");
+        var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
+        img.src = makePortraitSvg(ini, c.p);
+        img.alt = c.n + " portrait";
+        top.appendChild(img);
+
+        var titleBox = el("div", "cand-card-title");
+        titleBox.appendChild(el("h3", "", c.n));
+        titleBox.appendChild(el("span", "party-pill", "Party: " + c.p));
+        top.appendChild(titleBox);
+        card.appendChild(top);
+
+        var fieldsBox = el("div", "cand-fields");
+        FIELDS.forEach(function (f) {
+          var row = el("div", "cand-field");
+          row.appendChild(el("b", "", f[0]));
+          var val = c[f[1]] || "Not confirmed";
+          row.appendChild(el("span", "", val));
+          fieldsBox.appendChild(row);
+        });
+        card.appendChild(fieldsBox);
+
+        candCards.appendChild(card);
+      });
+    }
+
+    // 4. DOWN-BALLOT SECTION
+    document.getElementById("viewPresBallotGuideBtn").onclick = function () {
+      subOfficeSelect.value = "President";
+      handleStateOrOfficeChange();
+      switchView("ballot");
+      setTimeout(function () {
+        var guideEl = document.getElementById("ballotGuideSection");
+        if (guideEl) guideEl.scrollIntoView({ behavior: "smooth" });
+      }, 100);
+    };
+
+    var NIGERIA_STATES = [
+      "Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno",
+      "Cross River", "Delta", "Ebonyi", "Edo", "Ekiti", "Enugu", "FCT", "Gombe", "Imo",
+      "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Kogi", "Kwara", "Lagos", "Nasarawa",
+      "Niger", "Ogun", "Ondo", "Osun", "Oyo", "Plateau", "Rivers", "Sokoto", "Taraba",
+      "Yobe", "Zamfara"
+    ];
+
+    var OFF_CYCLE_GOV_STATES = ["Anambra", "Bayelsa", "Edo", "Ekiti", "Imo", "Kogi", "Ondo", "Osun"];
+
+    var stateSelect = document.getElementById("stateSelect");
+    var officeSelect = document.getElementById("officeSelect");
+    var districtSelect = document.getElementById("districtSelect");
+    var compareOtherBtn = document.getElementById("compareOtherBtn");
+
+    var subStateSelect = document.getElementById("subStateSelect");
+    var subOfficeSelect = document.getElementById("subOfficeSelect");
+    var subDistrictSelect = document.getElementById("subDistrictSelect");
+
+    NIGERIA_STATES.forEach(function (st) {
+      var opt1 = document.createElement("option");
+      opt1.value = st;
+      opt1.textContent = st;
+      stateSelect.appendChild(opt1);
+
+      var opt2 = document.createElement("option");
+      opt2.value = st;
+      opt2.textContent = st;
+      subStateSelect.appendChild(opt2);
+    });
+
+    let ALL_STATE_DATA = {};
+
+    async function loadStateData(stateName) {
+      var slug = stateName.toLowerCase().replace(/[^a-z0-9]/g, '_');
+      if (ALL_STATE_DATA[slug]) return ALL_STATE_DATA[slug];
+
+      try {
+        var res = await fetch('./data/states/' + slug + '.json');
+        if (!res.ok) throw new Error("HTTP error " + res.status);
+        var data = await res.json();
+        ALL_STATE_DATA[slug] = data;
+        return data;
+      } catch (e) {
+        console.error("Failed to load state data for", stateName, e);
+        return null;
+      }
+    }
+
+    async function handleStateOrOfficeChange(isFromMainPage) {
+      var st = isFromMainPage ? stateSelect.value : subStateSelect.value;
+      var off = isFromMainPage ? officeSelect.value : subOfficeSelect.value;
+      var distSelectEl = isFromMainPage ? districtSelect : subDistrictSelect;
+
+      if (off === "President") {
+        distSelectEl.innerHTML = '<option value="Nationwide">Nationwide Federal Constituency</option>';
+        if (!isFromMainPage) renderBallotAndComparisonView();
+        return;
+      }
+
+      var data = await loadStateData(st);
+      distSelectEl.innerHTML = "";
+
+      if (!data || !data.offices || !data.offices[off] || !data.offices[off].candidates) {
+        distSelectEl.innerHTML = '<option value="">No districts found</option>';
+        if (!isFromMainPage) renderBallotAndComparisonView();
+        return;
+      }
+
+      var cands = data.offices[off].candidates;
+      var uniqueDistricts = [];
+      cands.forEach(function (c) {
+        var d = c.district || "General";
+        if (uniqueDistricts.indexOf(d) === -1) uniqueDistricts.push(d);
+      });
+
+      if (uniqueDistricts.length === 0) {
+        distSelectEl.innerHTML = '<option value="">No districts found</option>';
+      } else {
+        uniqueDistricts.sort().forEach(function (d) {
+          var o = document.createElement("option");
+          o.value = d;
+          o.textContent = d;
+          distSelectEl.appendChild(o);
+        });
+      }
+
+      if (!isFromMainPage) renderBallotAndComparisonView();
+    }
+
+    stateSelect.onchange = function () { handleStateOrOfficeChange(true); };
+    officeSelect.onchange = function () { handleStateOrOfficeChange(true); };
+    subStateSelect.onchange = function () { handleStateOrOfficeChange(false); };
+    subOfficeSelect.onchange = function () { handleStateOrOfficeChange(false); };
+    subDistrictSelect.onchange = function () { renderBallotAndComparisonView(); };
+
+    // Initial load
+    handleStateOrOfficeChange(true);
+    handleStateOrOfficeChange(false);
+
+    compareOtherBtn.onclick = function () {
+      subStateSelect.value = stateSelect.value;
+      subOfficeSelect.value = officeSelect.value;
+
+      handleStateOrOfficeChange(false).then(function () {
+        subDistrictSelect.value = districtSelect.value;
+        switchView("ballot");
+        renderBallotAndComparisonView();
+      });
+    };
+
+    var subRadarChart = null;
+    var subSel = [0, 1, 2];
+    var currentSubCandidates = [];
+
+    function renderBallotAndComparisonView() {
+      var st = subStateSelect.value;
+      var off = subOfficeSelect.value;
+      var dist = subDistrictSelect.value;
+
+      document.getElementById("ballotViewEyebrow").textContent = off === "President"
+        ? "Presidential Race · Nationwide Ballot Guide"
+        : st + " State · " + off + " · " + (dist || "Pending");
+
+      document.getElementById("ballotViewTitle").textContent = off === "President"
+        ? "Presidential Comparison & Ballot Guide"
+        : st + " " + off + " Comparison & Ballot Guide";
+
+      document.getElementById("subRadarHeading").textContent = "Compare beyond the campaign promises · " + off + " Radar Graph";
+      document.getElementById("ballotGuideHeading").textContent = "Ballot Comparison Guide · " + (off === "President" ? "President" : st + " " + off);
+
+      var offCycleNotice = document.getElementById("offCycleNotice");
+      if (off === "Governor" && (st === "FCT" || OFF_CYCLE_GOV_STATES.indexOf(st) > -1)) {
+        offCycleNotice.style.display = "flex";
+        offCycleNotice.innerHTML = "";
+        var noticeTitle = st === "FCT"
+          ? "Note: FCT Abuja does not elect a State Governor"
+          : "Calendar Note: " + st + " holds off-cycle Governorship elections";
+        var noticeBody = st === "FCT"
+          ? "The Federal Capital Territory is administered by an FCT Minister appointed by the President. Switch the office selector to Senator or House of Representatives to compare candidates."
+          : st + " conducts its Governorship election outside the 2027 general election cycle. Results below may reflect placeholder data. Switch to Senate or House of Reps for 2027 races.";
+        offCycleNotice.appendChild(el("p", "eyebrow", "INEC Election Calendar Notice"));
+        offCycleNotice.appendChild(el("h3", "", noticeTitle));
+        offCycleNotice.appendChild(el("p", "", noticeBody));
+      } else {
+        offCycleNotice.style.display = "none";
+      }
+
+      var officeAxes = {
+        "Governor": [
+          ["State IGR", "& Jobs"], ["Education &", "Schools"], ["Primary", "Healthcare"],
+          ["State Roads", "& Power"], ["Security &", "Rule of Law"], ["Youth &", "Energy"]
+        ],
+        "Senate": [
+          ["Bill", "Sponsorship"], ["Committee", "Oversight"], ["Budget", "Scrutiny"],
+          ["Constituency", "Reach"], ["Confirmation", "Rigor"], ["Youth &", "Energy"]
+        ],
+        "House of Reps": [
+          ["Constituency", "Projects"], ["Local", "Representation"], ["Agency", "Oversight"],
+          ["Budget", "Scrutiny"], ["Town Hall", "Access"], ["Youth &", "Energy"]
+        ],
+        "State Assembly": [
+          ["State Budget", "Check"], ["Local Council", "Autonomy"], ["State", "Lawmaking"],
+          ["Commissioner", "Screening"], ["Grassroots", "Access"], ["Youth &", "Energy"]
+        ]
+      };
+
+      var labels = officeAxes[off] || RADAR_LABELS;
+      var cands = [];
+
+      if (off === "President") {
+        cands = CANDS;
+      } else {
+        var slug = st.toLowerCase().replace(/[^a-z0-9]/g, '_');
+        var sData = ALL_STATE_DATA[slug];
+        if (sData && sData.offices && sData.offices[off] && sData.offices[off].candidates) {
+          cands = sData.offices[off].candidates.filter(function (c) {
+            return c.district === dist;
+          });
+        }
+      }
+
+      currentSubCandidates = cands;
+      subSel = [0, 1, 2].filter(function (i) { return i < cands.length; });
+
+      var subChips = document.getElementById("subChips");
+      subChips.innerHTML = "";
+
+      if (cands.length === 0) {
+        document.getElementById("subRadarBox").style.display = "none";
+      } else {
+        document.getElementById("subRadarBox").style.display = "flex";
+        cands.forEach(function (c, i) {
+          var b = el("button", "chip");
+          b.setAttribute("aria-pressed", subSel.indexOf(i) > -1);
+          var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
+          var avatar = document.createElement("img");
+          avatar.src = makePortraitSvg(ini, c.p);
+          b.appendChild(avatar);
+          b.appendChild(el("span", "", c.n));
+
+          b.onclick = function () {
+            var k = subSel.indexOf(i);
+            if (k > -1) {
+              if (subSel.length > 1) subSel.splice(k, 1);
+            } else {
+              if (subSel.length >= 3) subSel.shift();
+              subSel.push(i);
+            }
+            // Re-render chips to update aria-pressed states
+            Array.prototype.forEach.call(subChips.children, function (btn, idx) {
+              btn.setAttribute("aria-pressed", subSel.indexOf(idx) > -1);
+            });
+            drawSubRadarAndCards(labels);
+          };
+          subChips.appendChild(b);
+        });
+        drawSubRadarAndCards(labels);
+      }
+
+      // Populate Ballot Guide Content
+      var guideBox = document.getElementById("ballotGuideContent");
+      guideBox.innerHTML = "";
+
+      var topBanner = el("div", "check-header");
+      topBanner.appendChild(el("p", "eyebrow", "Constituency: " + (dist || "Not selected")));
+      topBanner.appendChild(el("span", "party-pill", off === "President" || off === "Senate" || off === "House of Reps" ? "Election Date: 16 Jan 2027" : "Election Date: 6 Feb 2027"));
+      guideBox.appendChild(topBanner);
+
+      var guideSteps = [
+        {
+          title: "1. What this office controls in " + st,
+          body: off === "Governor"
+            ? "The Governor manages the state budget, state roads, universal basic education, primary healthcare, and land administration."
+            : "Legislators in " + off + " do not award road contracts directly—their job is passing laws, approving budgets, and auditing the executive."
+        },
+        {
+          title: "2. Questions to ask before voting",
+          body: "Ask for verifiable past records in " + (dist || "your area") + ", how they will publish budget implementation reports, and when they will hold town halls."
+        },
+        {
+          title: "3. Polling Unit Ballot Verification",
+          body: "On election day, you will receive a separate ballot paper for each office. Confirm your party symbol and thumbprint neatly inside the box."
+        }
+      ];
+
+      var gGrid = el("div", "guide-grid");
+      guideSteps.forEach(function (step) {
+        var gCard = el("div", "guide-card");
+        gCard.appendChild(el("h4", "", step.title));
+        gCard.appendChild(el("p", "", step.body));
+        gGrid.appendChild(gCard);
+      });
+      guideBox.appendChild(gGrid);
+    }
+
+    function drawSubRadarAndCards(labels) {
+      var subCandCards = document.getElementById("subCandCards");
+      var subScoreBreakdown = document.getElementById("subScoreBreakdown");
+
+      var datasets = subSel.map(function (idx) {
+        var c = currentSubCandidates[idx];
+        var color = ["#008751", "#1d4ed8", "#dc2626", "#d97706", "#9333ea", "#0891b2"][idx % 6];
+        var scores = c.scores || [50, 50, 50, 50, 50, 50];
+        return {
+          label: c.n + " (" + c.p + ")",
+          data: scores,
+          backgroundColor: color + "2E",
+          borderColor: color,
+          pointBackgroundColor: color,
+          pointBorderColor: "#ffffff",
+          pointHoverBackgroundColor: "#000000",
+          pointHoverBorderColor: color,
+          borderWidth: 3,
+          pointRadius: 5,
+          pointHoverRadius: 7
+        };
+      });
+
+      if (subRadarChart) {
+        subRadarChart.options = getRadarChartOptions();
+        subRadarChart.data.labels = labels;
+        subRadarChart.data.datasets = datasets;
+        subRadarChart.update();
+      } else {
+        var ctx = document.getElementById("subRadarChart").getContext("2d");
+        subRadarChart = new Chart(ctx, {
+          type: "radar",
+          data: {
+            labels: labels,
+            datasets: datasets
+          },
+          options: getRadarChartOptions()
+        });
+      }
+
+      renderScoreBreakdownStrip(subScoreBreakdown, labels, currentSubCandidates, subSel);
+
+      subCandCards.innerHTML = "";
+      subSel.forEach(function (i) {
+        var c = currentSubCandidates[i];
+        if (!c) return;
+        var card = el("article", "cand-card");
+
+        var top = el("div", "cand-card-top");
+        var img = document.createElement("img");
+        var ini = c.ini || c.n.split(" ").map(function (n) { return n[0]; }).slice(0, 2).join("");
+        img.src = makePortraitSvg(ini, c.p);
+        img.alt = c.n + " portrait";
+        top.appendChild(img);
+
+        var titleBox = el("div", "cand-card-title");
+        titleBox.appendChild(el("h3", "", c.n));
+        titleBox.appendChild(el("span", "party-pill", "Party: " + c.p));
+        top.appendChild(titleBox);
+        card.appendChild(top);
+
+        var fieldsBox = el("div", "cand-fields");
+        FIELDS.forEach(function (f) {
+          var row = el("div", "cand-field");
+          row.appendChild(el("b", "", f[0]));
+          var val = c[f[1]] || "Not confirmed";
+          row.appendChild(el("span", "", val));
+          fieldsBox.appendChild(row);
+        });
+        card.appendChild(fieldsBox);
+
+        subCandCards.appendChild(card);
+      });
+    }
+
+    // 5. CIVIC ACADEMY CONTENT & INTERACTIVE QUIZ
+    var ACADEMY_MODULES = [
+      {
+        code: "3T", title: "Federal, State & Local Tiers", subtitle: "Exclusive vs. Concurrent Lists",
+        points: [
+          "Federal Government handles currency, defense, customs, foreign affairs, and federal trunk A roads.",
+          "State Governments control basic education, state hospitals, urban roads, and land titles.",
+          "774 Local Government Areas manage primary health clinics, local markets, motor parks, and community sanitation."
+        ]
+      },
+      {
+        code: "FA", title: "Follow the Public Money (FAAC)", subtitle: "Budgets & Constituency Projects",
+        points: [
+          "Every month, revenue from taxes and oil receipts is shared via FAAC among Federal, States, and LGAs.",
+          "Legislators nominate Zonal Intervention Projects in the budget, but executive agencies award and execute the contracts.",
+          "Citizens have the right to track project allocations and demand audited state and local budget reports."
+        ]
+      },
+      {
+        code: "AC", title: "Citizen Powers After Election Day", subtitle: "Holding Officials Accountable",
+        points: [
+          "Attend constituency town halls and submit petitions to Senate, House of Reps, or State Assembly committees.",
+          "Use the Freedom of Information (FOI) Act to request public procurement records.",
+          "The Constitution allows registered voters in a constituency to initiate a legislative recall process."
+        ]
+      }
+    ];
+
+    var academyModulesEl = document.getElementById("academyModules");
+    ACADEMY_MODULES.forEach(function (m) {
+      var card = el("article", "academy-card");
+      var head = el("div", "academy-card-head");
+      var icon = document.createElement("img");
+      icon.src = makeOfficeIconSvg(m.code);
+      icon.alt = m.title;
+      head.appendChild(icon);
+
+      var hWrap = el("div", "");
+      hWrap.appendChild(el("p", "eyebrow", m.subtitle));
+      hWrap.appendChild(el("h4", "", m.title));
+      head.appendChild(hWrap);
+      card.appendChild(head);
+
+      var ul = el("ul", "");
+      m.points.forEach(function (pt) { ul.appendChild(el("li", "", pt)); });
+      card.appendChild(ul);
+      academyModulesEl.appendChild(card);
+    });
+
+    var QUIZ_QUESTIONS = [
+      {
+        q: "1. Which office is responsible for confirming federal ministers nominated by the President?",
+        opts: ["The Senate", "State Governors", "The Supreme Court"],
+        ans: 0,
+        exp: "Correct! The Nigerian Senate screens and confirms ministerial and ambassadorial nominees."
+      },
+      {
+        q: "2. Who proposes the state budget and oversees state schools, hospitals, and state roads?",
+        opts: ["The Senator", "The State Governor", "The Federal Representative"],
+        ans: 1,
+        exp: "Correct! The State Governor heads the state executive and proposes the state budget to the State House of Assembly."
+      },
+      {
+        q: "3. How many Senators is each of the 36 states entitled to elect?",
+        opts: ["1 Senator per state", "3 Senators per state", "5 Senators per state"],
+        ans: 1,
+        exp: "Correct! Every state elects 3 Senators (1 per senatorial district), while the FCT elects 1, making 109 Senators in total."
+      }
+    ];
+
+    var quizContainer = document.getElementById("quizContainer");
+    var quizScore = 0;
+    var answeredCount = 0;
+
+    function renderQuiz() {
+      quizContainer.textContent = "";
+      quizScore = 0;
+      answeredCount = 0;
+
+      var statusRow = el("div", "check-header");
+      statusRow.appendChild(el("p", "eyebrow", "Tap an answer for instant feedback"));
+      var scoreBadge = el("span", "check-progress", "Score: 0 / " + QUIZ_QUESTIONS.length);
+      statusRow.appendChild(scoreBadge);
+      quizContainer.appendChild(statusRow);
+
+      QUIZ_QUESTIONS.forEach(function (item) {
+        var qBlock = el("div", "guide-card");
+        qBlock.appendChild(el("h4", "", item.q));
+        var optList = el("div", "quiz-options");
+        var feedback = el("p", "eyebrow", "");
+
+        item.opts.forEach(function (optText, idx) {
+          var btn = el("button", "quiz-opt", optText);
+          btn.type = "button";
+          btn.onclick = function () {
+            if (qBlock.getAttribute("data-done") === "true") return;
+            qBlock.setAttribute("data-done", "true");
+            answeredCount++;
+            if (idx === item.ans) {
+              btn.classList.add("correct");
+              quizScore++;
+              feedback.textContent = "✓ " + item.exp;
+            } else {
+              btn.classList.add("wrong");
+              optList.children[item.ans].classList.add("correct");
+              feedback.textContent = "✗ " + item.exp;
+            }
+            scoreBadge.textContent = "Score: " + quizScore + " / " + QUIZ_QUESTIONS.length;
+          };
+          optList.appendChild(btn);
+        });
+
+        qBlock.appendChild(optList);
+        qBlock.appendChild(feedback);
+        quizContainer.appendChild(qBlock);
+      });
+    }
+    renderQuiz();
+
+    // 6. VOTER CHECKLIST
+    var CHECK = [
+      "Confirm your Permanent Voter Card (PVC) is ready for collection or in hand",
+      "Check your polling unit on the INEC portal",
+      "Read each candidate's manifesto from the official source",
+      "Ask what each office can actually change, using the guide above",
+      "Plan how to get to your polling unit on election day"
+    ];
+
+    var ck = document.getElementById("check");
+    var checkProgress = document.getElementById("checkProgress");
+
+    function updateCheckProgress() {
+      var boxes = ck.querySelectorAll('input[type="checkbox"]');
+      var done = 0;
+      Array.prototype.forEach.call(boxes, function (b) { if (b.checked) done++; });
+      checkProgress.textContent = done + " / " + CHECK.length + " completed";
+    }
+
+    CHECK.forEach(function (t, i) {
+      var l = el("label");
+      var c = document.createElement("input");
+      c.type = "checkbox";
+      c.id = "ck" + i;
+      c.onchange = updateCheckProgress;
+      l.appendChild(c);
+      l.appendChild(el("span", "", t));
+      ck.appendChild(l);
+    });
+
+    window.addEventListener("resize", function () {
+      if (window.innerWidth > 680) closeMobileMenu();
+      if (radarChart) { radarChart.options = getRadarChartOptions(); radarChart.update(); }
+      if (subRadarChart) { subRadarChart.options = getRadarChartOptions(); subRadarChart.update(); }
+    });
+  </script>
+</body>
+
+</html>

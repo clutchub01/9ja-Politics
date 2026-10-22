@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>9ja Politics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    /* STRICT PALETTE: ONLY Nigerian Flag Green (#008751), White (#ffffff), and Black (#000000) */
+    :root {
+      --green: #008751;
+      --white: #ffffff;
+      --black: #000000;
+      --display: "Bricolage Grotesque", "Trebuchet MS", sans-serif;
+      --body: "Public Sans", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, monospace;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--white);
+      color: var(--black);
+      font-family: var(--body);
+      font-size: 16px;
+      line-height: 1.55;
+      padding-block: 0 56px;
+    }
+
+    img {
+      max-width: 100%;
+      display: block;
+    }
+
+    /* Top Nigerian Flag Bar */
+    .flag-ribbon {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      height: 10px;
+      border-bottom: 2px solid var(--black);
+    }
+
+    .flag-ribbon div:nth-child(1),
+    .flag-ribbon div:nth-child(3) {
+      background: var(--green);
+    }
+
+    .flag-ribbon div:nth-child(2) {
+      background: var(--white);
+    }
+
+    .wrap {
+      max-width: 860px;
+      margin: 0 auto;
+      padding-top: 28px;
+      padding-left: max(16px, env(safe-area-inset-left, 0px));
+      padding-right: max(16px, env(safe-area-inset-right, 0px));
+      display: flex;
+      flex-direction: column;
+      gap: 48px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      font-family: var(--display);
+      line-height: 1.08;
+      text-wrap: balance;
+      margin: 0;
+      color: var(--black);
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 9vw, 4.3rem);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      font-size: clamp(1.65rem, 5vw, 2.25rem);
+      font-weight: 800;
+      letter-spacing: -0.01em;
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      font-weight: 800;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .eyebrow {
+      font-family: var(--mono);
+      font-size: 0.76rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--green);
+    }
+
+    /* HERO SECTION (From @9ja Politics1.html with live countdown boxes) */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      border-bottom: 4px solid var(--green);
+      padding-bottom: 30px;
+    }
+
+    .hero-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .flag-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      border: 2px solid var(--black);
+      padding: 4px 10px;
+      background: var(--white);
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+
+    .mini-flag {
+      display: inline-grid;
+      grid-template-columns: 8px 8px 8px;
+      height: 14px;
+      border: 1px solid var(--black);
+    }
+
+    .mini-flag span:nth-child(1),
+    .mini-flag span:nth-child(3) {
+      background: var(--green);
+    }
+
+    .mini-flag span:nth-child(2) {
+      background: var(--white);
+    }
+
+    .hero h1 span {
+      color: var(--green);
+    }
+
+    .lede {
+      max-width: 62ch;
+      color: var(--black);
+      font-size: 1.05rem;
+    }
+
+    .dates {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+      margin-top: 4px;
+    }
+
+    .date {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 16px 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .date-head {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 8px;
+    }
+
+    .date b {
+      font-family: var(--display);
+      font-size: 1.5rem;
+      color: var(--black);
+    }
+
+    /* Live Countdown Timer (Days, Hrs, Mins, Secs) */
+    .timer-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+
+    .time-unit {
+      background: var(--green);
+      color: var(--white);
+      border: 1.5px solid var(--black);
+      padding: 8px 4px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .time-unit .num {
+      font-family: var(--display);
+      font-size: 1.35rem;
+      font-weight: 800;
+      line-height: 1.05;
+      color: var(--white);
+    }
+
+    .time-unit .lbl {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--white);
+      margin-top: 2px;
+    }
+
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      min-width: 0;
+    }
+
+    /* TABS & CHIPS */
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    button {
+      font: inherit;
+      cursor: pointer;
+    }
+
+    .tab,
+    .chip {
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: transform 0.1s ease;
+    }
+
+    .tab:hover,
+    .chip:hover {
+      border-color: var(--green);
+    }
+
+    .tab[aria-selected="true"],
+    .chip[aria-pressed="true"] {
+      background: var(--green);
+      border-color: var(--black);
+      color: var(--white);
+      box-shadow: 2px 2px 0 var(--black);
+    }
+
+    button:focus-visible,
+    select:focus-visible {
+      outline: 3px solid var(--green);
+      outline-offset: 2px;
+    }
+
+    .chip img {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      border: 1.5px solid var(--black);
+      background: var(--white);
+      object-fit: cover;
+    }
+
+    /* OFFICE EXPLORER PANEL */
+    .panel {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .office-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      border-bottom: 2px solid var(--black);
+      padding-bottom: 14px;
+    }
+
+    .office-avatar {
+      width: 56px;
+      height: 56px;
+      border: 2px solid var(--black);
+      background: var(--green);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .facts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+
+    .fact {
+      background: var(--white);
+      border: 2px solid var(--green);
+      padding: 10px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .fact b {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    .cols {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    ul {
+      margin: 8px 0 0;
+      padding-left: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .impact {
+      border-left: 5px solid var(--green);
+      border-top: 1px solid var(--black);
+      border-right: 1px solid var(--black);
+      border-bottom: 1px solid var(--black);
+      padding: 14px 16px;
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    /* COMPARE BEYOND CAMPAIGN PROMISES: RADAR + SIDE-BY-SIDE CARDS */
+    .compare-box {
+      background: var(--white);
+      border: 2px solid var(--black);
+      box-shadow: 4px 4px 0 var(--green);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .radar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 10px;
+    }
+
+    .radar-wrap {
+      position: relative;
+      width: 100%;
+      height: 390px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--white);
+      padding: 8px;
+    }
+
+    .cand-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+
+    .cand-card {
+      border: 2px solid var(--black);
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .cand-card-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px;
+      background: var(--green);
+      color: var(--white);
+      border-bottom: 2px solid var(--black);
+    }
+
+    .cand-card-top img {
+      width: 54px;
+      height: 54px;
+      border-radius: 50%;
+      border: 2px solid var(--white);
+      background: var(--white);
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    .cand-card-title h3 {
+      color: var(--white);
+      font-size: 1.15rem;
+    }
+
+    .party-pill {
+      display: inline-block;
+      margin-top: 4px;
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      font-weight: 600;
+      background: var(--white);
+      color: var(--black);
+      border: 1.5px solid var(--black);
+      padding: 1px 8px;
+    }
+
+    .cand-fields {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      font-size: 0.92rem;
+    }
+
+    .cand-field {
+      border-bottom: 1px solid var(--black);
+      padding-bottom: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .cand-field:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .cand-field b {
+      font-family: var(--mono);
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--green);
+    }
+
+    .note {
+      font-size: 0.9rem;
+      color: var(--black);
+      border: 2px dashed var(--green);
+      background: var(--white);
+      padding: 12px 16px;
+    }
+
+    /* CALL TO ACTION: COMPARE OTHER OFFICES */
+    .cta-banner {
+      border: 3px solid var(--black);
+      background: var(--green);
+      color: var(--white);
+      padding: 26px 24px;
+      box-shadow: 6px 6px 0 var(--black);
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+
+    .cta-banner .eyebrow {
+      color: var(--white);
+      background: var(--black);
+      align-self: flex-start;
+      padding: 3px 10px;
+    }
+
+    .cta-banner h2 {
+      color: var(--white);
+    }
+
+    .cta-banner p {
+      color: var(--white);
+      max-width: 62ch;
+    }
+
+    .cta-controls {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      background: var(--white);
+      color: var(--black);
+      border: 2px solid var(--black);
+      padding: 16px;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .control-group label {
+      font-family: var(--mono);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      font-weight: 600;
+      color: var(--black);
+    }
+
+    .control-group select {
+      font: inherit;
+      padding: 10px 12px;
+      border: 2px solid var(--black);
+      background: var(--white);
+      color: var(--black);
+      font-weight: 600;
+    }
+
+    .cta-btn {
+      background: var(--black);
+      color: var(--white);
+      border: 2px solid var(--black);
+      padding: 12px 18px;
+      font-family: var(--display);
+      font-weight: 800;
+      font-size: 1rem;
+      align-self: end;
+      transition: background 0.15s ease, color 0.15s ease;
+    }
+
+    .cta-btn:hover {
+      background: var(--green);
+      color: var(--white);
+    }
+
+    .other-office-results {
+      background: var(--white);
+      color: var(--black);
+      border: 2px solid var(--black);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .other-office-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .downballot-card {
+      border: 2px solid var(--black);
+      padding: 12px;
+      background: var(--white);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .downballot-head {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      border-bottom: 2px solid var(--green);
+      padding-bottom: 8px;
+    }
+
+    .downballot-head img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 1.5px solid var(--black);
+    }
+
+    /* VOTER CHECKLIST */
+    .check-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .check-progress {
+      font-family: var(--mono);
+      font-size: 0.82rem;
+      font-weight: 600;
+      border: 2px solid var(--black);
+      background: var(--green);
+      color: var(--white);
+      padding: 4px 10px;
+    }
+
+    .check {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .check label {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      background: var(--white);
+      border: 2px solid var(--black);
+      padding: 14px 16px;
+      cursor: pointer;
+    }
+
+    .check label:hover {
+      border-color: var(--green);
+    }
+
+    .check input {
+      margin-top: 3px;
+      accent-color: var(--green);
+      width: 20px;
+      height: 20px;
+      flex: none;
+      cursor: pointer;
+    }
+
+    .check input:checked+span {
+      text-decoration: line-through;
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    footer {
+      font-size: 0.88rem;
+      color: var(--black);
+      border-top: 3px solid var(--green);
+      padding-top: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    a {
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    @media (max-width: 600px) {
+      .radar-wrap {
+        height: 320px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Top Nigerian Flag Bar -->
+  <div class="flag-ribbon" aria-hidden="true">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <div class="wrap">
+    <!-- HERO SECTION -->
+    <header class="hero">
+      <div class="hero-top">
+        <p class="eyebrow">Voter guide · 2027 general election</p>
+        <div class="flag-badge">
+          <span class="mini-flag" aria-hidden="true"><span></span><span></span><span></span></span>
+          Federal Republic of Nigeria
+        </div>
+      </div>
+      <h1>9ja <span>Politics</span></h1>
+      <p class="lede">Know what each office does, see who is running, and compare candidates on the same facts before
+        you vote.</p>
+      <div class="dates">
+        <div class="date">
+          <div class="date-head">
+            <span class="eyebrow">President and National Assembly</span>
+            <b>16 January 2027</b>
+          </div>
+          <div class="timer-row" id="cd1" aria-label="Countdown to Presidential Election">
+            <div class="time-unit"><span class="num" id="p-days">00</span><span class="lbl">Days</span></div>
+            <div class="time-unit"><span class="num" id="p-hrs">00</span><span class="lbl">Hrs</span></div>
+            <div class="time-unit"><span class="num" id="p-mins">00</span><span class="lbl">Mins</span></div>
+            <div class="time-unit"><span class="num" id="p-secs">00</span><span class="lbl">Secs</span></div>
+          </div>
+        </div>
+        <div class="date">
+          <div class="date-head">
+            <span class="eyebrow">Governorship and State Assemblies</span>
+            <b>6 February 2027</b>
+          </div>
+          <div class="timer-row" id="cd2" aria-label="Countdown to Governorship Election">
+            <div class="time-unit"><span class="num" id="g-days">00</span><span class="lbl">Days</span></div>
+            <div class="time-unit"><span class="num" id="g-hrs">00</span><span class="lbl">Hrs</span></div>
+            <div class="time-unit"><span class="num" id="g-mins">00</span><span class="lbl">Mins</span></div>
+            <div class="time-unit"><span class="num" id="g-secs">00</span><span class="lbl">Secs</span></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- SECTION 1: WHY EACH VOTE MATTERS -->
+    <section id="offices">
+      <p class="eyebrow">Why each vote matters</p>
+      <h2>Five offices, five different jobs</h2>
+      <p class="lede">The president gets the attention. The office closest to your daily life is often a different one.
+      </p>
+      <div class="tabs" role="tablist" id="otabs"></div>
+      <div class="panel" id="opanel" role="tabpanel"></div>
+    </section>
+
+    <!-- SECTION 2: COMPARE CANDIDATES (RADAR GRAPH + SIDE BY SIDE FACTS WITH IMAGES) -->
+    <section id="compare">
+      <p class="eyebrow">Presidential race · Compare beyond the campaign promises</p>
+      <h2>Compare candidates side by side</h2>
+      <p class="lede">Pick up to three. Every candidate is shown against the same fields and radar graph dimensions so
+        no one gets a longer write-up.</p>
+      <div class="tabs" id="chips" aria-label="Choose candidates"></div>
+
+      <div class="compare-box">
+        <div class="radar-header">
+          <h3>Compare beyond the campaign promises (Radar Graph)</h3>
+          <span class="eyebrow">Up to 3 candidates overlaid</span>
+        </div>
+        <div class="radar-wrap">
+          <canvas id="radarChart" aria-label="Candidate Comparison Radar Graph"></canvas>
+        </div>
+
+        <!-- Side-by-side factual cards from @9ja Politics1.html with candidate portraits -->
+        <div class="cand-cards" id="candCards"></div>
+      </div>
+
+      <p class="note">Ages, parties and running mates follow the final INEC list as reported by Nigerian media in
+        October 2026. "Not confirmed" means we could not verify it from a source, not that it does not exist. Radar
+        scores are illustrative civic comparison metrics across key governance areas. Check names and tickets on <a
+          href="https://inec.gov.ng" target="_blank" rel="noopener">inec.gov.ng</a>, and read each manifesto yourself.
+      </p>
+    </section>
+
+    <!-- SECTION 3: CALL TO ACTION TO COMPARE CANDIDATES OF OTHER OFFICES -->
+    <section id="other-offices-cta">
+      <div class="cta-banner">
+        <span class="eyebrow">Down-Ballot Races · 36 States &amp; FCT</span>
+        <h2>Compare candidates for other offices</h2>
+        <p>Democracy does not stop at Aso Rock. Your State Governor, Senator, Federal Representative, and State Assembly
+          member directly shape your roads, schools, clinics, and local security. Select your state and office below to
+          compare candidates on the ballot near you.</p>
+
+        <div class="cta-controls">
+          <div class="control-group">
+            <label for="stateSelect">1. Select Your State</label>
+            <select id="stateSelect"></select>
+          </div>
+          <div class="control-group">
+            <label for="officeSelect">2. Select Office to Compare</label>
+            <select id="officeSelect">
+              <option value="Governor">Governorship</option>
+              <option value="Senator">Senate (National Assembly)</option>
+              <option value="House of Reps">House of Representatives</option>
+              <option value="State Assembly">State House of Assembly</option>
+            </select>
+          </div>
+          <button type="button" class="cta-btn" id="compareOtherBtn">Compare Candidates &rarr;</button>
+        </div>
+
+        <div class="other-office-results" id="otherOfficeResults"></div>
+      </div>
+    </section>
+
+    <!-- SECTION 4: BEFORE ELECTION DAY CHECKLIST -->
+    <section id="ready">
+      <div class="check-header">
+        <div>
+          <p class="eyebrow">Before election day</p>
+          <h2>Your voter checklist</h2>
+        </div>
+        <span class="check-progress" id="checkProgress">0 / 5 completed</span>
+      </div>
+      <div class="check" id="check"></div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <p>9ja Politics is a non-partisan education project. It does not endorse any candidate or party. Governorship
+        elections do not hold in every state in 2027, because some states vote in other years.</p>
+    </footer>
+  </div>
+
+  <script>
+    // 1. LIVE COUNTDOWN (Days, Hrs, Mins, Secs)
+    function updateCountdown(isoDate, prefix) {
+      var target = new Date(isoDate + "T08:00:00").getTime();
+      var now = new Date().getTime();
+      var diff = target - now;
+
+      if (diff <= 0) {
+        document.getElementById(prefix + "-days").textContent = "00";
+        document.getElementById(prefix + "-hrs").textContent = "00";
+        document.getElementById(prefix + "-mins").textContent = "00";
+        document.getElementById(prefix + "-secs").textContent = "00";
+        return;
+      }
+
+      var d = Math.floor(diff / (1000 * 60 * 60 * 24));
+      var h = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      var s = Math.floor((diff % (1000 * 60)) / 1000);
+
+      document.getElementById(prefix + "-days").textContent = String(d).padStart(2, "0");
+      document.getElementById(prefix + "-hrs").textContent = String(h).padStart(2, "0");
+      document.getElementById(prefix + "-mins").textContent = String(m).padStart(2, "0");
+      document.getElementById(prefix + "-secs").textContent = String(s).padStart(2, "0");
+    }
+
+    function tickAllCountdowns() {
+      updateCountdown("2027-01-16", "p");
+      updateCountdown("2027-02-06", "g");
+    }
+    tickAllCountdowns();
+    setInterval(tickAllCountdowns, 1000);
+
+    // Helper for creating DOM elements
+    function el(t, c, x) {
+      var e = document.createElement(t);
+      if (c) e.className = c;
+      if (x != null) e.textContent = x;
+      return e;
+    }
+
+    // Generate clean SVG data URI portrait/badge using ONLY Green, White, Black
+    function makePortraitSvg(initials, subtitle) {
+      var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">' +
+        '<rect width="120" height="120" fill="#008751"/>' +
+        '<circle cx="60" cy="44" r="22" fill="#ffffff" stroke="#000000" stroke-width="3"/>' +
+        '<path d="M22 108 C22 78, 98 78, 98 108 Z" fill="#ffffff" stroke="#000000" stroke-width="3"/>' +
+        '<rect x="0" y="92" width="120" height="28" fill="#000000"/>' +
+        '<text x="60" y="51" text-anchor="middle" font-family="sans-serif" font-weight="800" font-size="16" fill="#000000">' + initials + '</text>' +
+        '<text x="60" y="110" text-anchor="middle" font-family="monospace" font-weight="700" font-size="11" fill="#ffffff">' + subtitle + '</text>' +
+        '</svg>';
+      return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+    }
+
+    function makeOfficeIconSvg(code) {
+      var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">' +
+        '<rect width="56" height="56" fill="#008751"/>' +
+        '<rect x="6" y="10" width="44" height="36" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>' +
+        '<rect x="6" y="10" width="14" height="36" fill="#008751"/>' +
+        '<rect x="36" y="10" width="14" height="36" fill="#008751"/>' +
+        '<circle cx="28" cy="28" r="10" fill="#000000"/>' +
+        '<text x="28" y="32" text-anchor="middle" font-family="monospace" font-weight="700" font-size="10" fill="#ffffff">' + code + '</text>' +
+        '</svg>';
+      return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+    }
+
+    // 2. OFFICES SECTION ("Why each vote matters")
+    var OFFICES = [
+      {
+        k: "President",
+        code: "FG",
+        lvl: "Federal",
+        seats: "1 (plus a vice president)",
+        term: "4 years, max 2 terms",
+        does: [
+          "Heads the federal executive and is commander-in-chief of the armed forces",
+          "Proposes the national budget and appoints ministers (Senate confirms)",
+          "Sets foreign policy and signs or vetoes bills"
+        ],
+        life: "Fuel and exchange-rate policy, federal security, federal roads and power, tax rules on businesses."
+      },
+      {
+        k: "Governor",
+        code: "GOV",
+        lvl: "State",
+        seats: "36 (one per state)",
+        term: "4 years, max 2 terms",
+        does: [
+          "Runs the state government and proposes the state budget",
+          "Controls state schools, hospitals and roads",
+          "Oversees local governments and coordinates security in the state"
+        ],
+        life: "Your state school system, primary healthcare, state roads, state taxes and levies."
+      },
+      {
+        k: "Senator",
+        code: "SEN",
+        lvl: "Federal",
+        seats: "109 (3 per state, 1 for FCT)",
+        term: "4 years, no term limit",
+        does: [
+          "Makes national laws together with the House",
+          "Confirms ministers, ambassadors and heads of agencies",
+          "Approves the budget and investigates agencies"
+        ],
+        life: "How federal money is spent in your state and who gets federal appointments."
+      },
+      {
+        k: "House of Reps",
+        code: "REP",
+        lvl: "Federal",
+        seats: "360 (by constituency)",
+        term: "4 years, no term limit",
+        does: [
+          "Passes national laws and money bills",
+          "Oversees federal ministries and agencies",
+          "Brings federal projects and constituency funds to a local area"
+        ],
+        life: "The member who speaks for your federal constituency and can push projects in your area."
+      },
+      {
+        k: "State Assembly",
+        code: "SHA",
+        lvl: "State",
+        seats: "Varies by state",
+        term: "4 years, no term limit",
+        does: [
+          "Makes state laws and approves the state budget",
+          "Checks the governor and confirms commissioners",
+          "Passes laws that affect local governments in the state"
+        ],
+        life: "State-level laws on land, education, local councils and how the governor spends money."
+      }
+    ];
+
+    var ot = document.getElementById("otabs");
+    var op = document.getElementById("opanel");
+
+    function showOffice(i) {
+      Array.prototype.forEach.call(ot.children, function (b, j) {
+        b.setAttribute("aria-selected", j === i);
+      });
+      var o = OFFICES[i];
+      op.textContent = "";
+
+      var header = el("div", "office-header");
+      var iconImg = document.createElement("img");
+      iconImg.className = "office-avatar";
+      iconImg.src = makeOfficeIconSvg(o.code);
+      iconImg.alt = o.k + " badge";
+      header.appendChild(iconImg);
+
+      var titleWrap = el("div", "");
+      titleWrap.appendChild(el("p", "eyebrow", o.lvl + " Executive / Legislature"));
+      titleWrap.appendChild(el("h3", "", o.k + " · " + o.lvl));
+      header.appendChild(titleWrap);
+      op.appendChild(header);
+
+      var f = el("div", "facts");
+      [["Seats", o.seats], ["Term", o.term]].forEach(function (x) {
+        var d = el("div", "fact");
+        d.appendChild(el("b", "", x[0]));
+        d.appendChild(el("span", "", x[1]));
+        f.appendChild(d);
+      });
+      op.appendChild(f);
+
+      var c = el("div", "cols");
+      var a = el("div", "");
+      var ul = el("ul", "");
+      a.appendChild(el("p", "eyebrow", "What they do"));
+      o.does.forEach(function (t) {
+        ul.appendChild(el("li", "", t));
+      });
+      a.appendChild(ul);
+
+      var b = el("div", "impact");
+      b.appendChild(el("p", "eyebrow", "What it means for you"));
+      b.appendChild(el("p", "", o.life));
+
+      c.appendChild(a);
+      c.appendChild(b);
+      op.appendChild(c);
+    }
+
+    OFFICES.forEach(function (o, i) {
+      var b = el("button", "tab", o.k);
+      b.setAttribute("role", "tab");
+      b.onclick = function () { showOffice(i); };
+      ot.appendChild(b);
+    });
+    showOffice(0);
+
+    // 3. PRESIDENTIAL COMPARE SECTION (Radar Graph + Side-by-Side Candidate Cards)
+    // Distinct colors are ONLY used inside the Radar Chart datasets as requested
+    var CANDS = [
+      {
+        n: "Bola Tinubu",
+        ini: "BT",
+        p: "APC",
+        age: "74",
+        rm: "Kashim Shettima (59)",
+        edu: "B.Sc (as listed by INEC)",
+        bg: "Incumbent president since May 2023. Governor of Lagos State 1999 to 2007.",
+        chartColor: "#008751",
+        radar: [92, 82, 74, 88, 76, 70]
+      },
+      {
+        n: "Atiku Abubakar",
+        ini: "AA",
+        p: "ADC",
+        age: "79",
+        rm: "Not confirmed",
+        edu: "Not confirmed",
+        bg: "Vice president 1999 to 2007. Presidential candidate in previous elections.",
+        chartColor: "#1d4ed8",
+        radar: [86, 80, 72, 85, 70, 68]
+      },
+      {
+        n: "Peter Obi",
+        ini: "PO",
+        p: "NDC",
+        age: "65",
+        rm: "Rabiu Kwankwaso (69)",
+        edu: "Not confirmed",
+        bg: "Governor of Anambra State 2006 to 2014. Labour Party candidate in 2023.",
+        chartColor: "#dc2626",
+        radar: [80, 86, 75, 82, 78, 88]
+      },
+      {
+        n: "Omoyele Sowore",
+        ini: "OS",
+        p: "AAC",
+        age: "Not confirmed",
+        rm: "Not confirmed",
+        edu: "Not confirmed",
+        bg: "Activist and publisher. African Action Congress candidate.",
+        chartColor: "#d97706",
+        radar: [55, 72, 68, 74, 90, 92]
+      },
+      {
+        n: "Adewole Adebayo",
+        ini: "AD",
+        p: "SDP",
+        age: "Not confirmed",
+        rm: "Not confirmed",
+        edu: "Not confirmed",
+        bg: "Businessman and politician. Social Democratic Party candidate.",
+        chartColor: "#7c3aed",
+        radar: [60, 78, 70, 65, 80, 82]
+      },
+      {
+        n: "Esther Okereke",
+        ini: "EO",
+        p: "NRM",
+        age: "Not confirmed",
+        rm: "Not confirmed",
+        edu: "Not confirmed",
+        bg: "Film producer and actress. National Rescue Movement candidate.",
+        chartColor: "#db2777",
+        radar: [52, 68, 64, 62, 76, 84]
+      }
+    ];
+
+    var RADAR_LABELS = [
+      "Executive Experience",
+      "Economic Policy Track",
+      "Security Framework",
+      "National Network",
+      "Reform & Civic Record",
+      "Public Engagement"
+    ];
+
+    var FIELDS = [
+      ["Party", "p"],
+      ["Age", "age"],
+      ["Running mate", "rm"],
+      ["Education", "edu"],
+      ["Background", "bg"]
+    ];
+
+    var sel = [0, 1, 2];
+    var chips = document.getElementById("chips");
+    var candCards = document.getElementById("candCards");
+    var radarChart = null;
+
+    function drawCompare() {
+      Array.prototype.forEach.call(chips.children, function (b, i) {
+        b.setAttribute("aria-pressed", sel.indexOf(i) > -1);
+      });
+
+      // Update Radar Chart
+      var datasets = sel.map(function (idx) {
+        var c = CANDS[idx];
+        return {
+          label: c.n + " (" + c.p + ")",
+          data: c.radar,
+          backgroundColor: c.chartColor + "2E",
+          borderColor: c.chartColor,
+          pointBackgroundColor: c.chartColor,
+          pointBorderColor: "#ffffff",
+          pointHoverBackgroundColor: "#000000",
+          pointHoverBorderColor: c.chartColor,
+          borderWidth: 2.5
+        };
+      });
+
+      if (radarChart) {
+        radarChart.data.datasets = datasets;
+        radarChart.update();
+      } else {
+        var ctx = document.getElementById("radarChart").getContext("2d");
+        radarChart = new Chart(ctx, {
+          type: "radar",
+          data: {
+            labels: RADAR_LABELS,
+            datasets: datasets
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              r: {
+                min: 0,
+                max: 100,
+                ticks: {
+                  stepSize: 20,
+                  backdropColor: "#ffffff",
+                  color: "#000000",
+                  font: { family: '"IBM Plex Mono", monospace', size: 10 }
+                },
+                grid: { color: "#000000" },
+                angleLines: { color: "#008751" },
+                pointLabels: {
+                  color: "#000000",
+                  font: { family: '"Public Sans", sans-serif', size: 12, weight: "700" }
+                }
+              }
+            },
+            plugins: {
+              legend: {
+                position: "bottom",
+                labels: {
+                  color: "#000000",
+                  font: { family: '"Public Sans", sans-serif', size: 13, weight: "700" },
+                  usePointStyle: true,
+                  padding: 16
+                }
+              }
+            }
+          }
+        });
+      }
+
+      // Render Side-by-Side Candidate Cards with Images & All Facts
+      candCards.textContent = "";
+      sel.forEach(function (i) {
+        var c = CANDS[i];
+        var card = el("article", "cand-card");
+
+        var top = el("div", "cand-card-top");
+        var img = document.createElement("img");
+        img.src = makePortraitSvg(c.ini, c.p);
+        img.alt = c.n + " portrait";
+        top.appendChild(img);
+
+        var titleBox = el("div", "cand-card-title");
+        titleBox.appendChild(el("h3", "", c.n));
+        titleBox.appendChild(el("span", "party-pill", "Party: " + c.p));
+        top.appendChild(titleBox);
+        card.appendChild(top);
+
+        var fieldsBox = el("div", "cand-fields");
+        FIELDS.forEach(function (f) {
+          var row = el("div", "cand-field");
+          row.appendChild(el("b", "", f[0]));
+          row.appendChild(el("span", "", c[f[1]]));
+          fieldsBox.appendChild(row);
+        });
+        card.appendChild(fieldsBox);
+
+        candCards.appendChild(card);
+      });
+    }
+
+    CANDS.forEach(function (c, i) {
+      var b = el("button", "chip");
+      b.setAttribute("aria-pressed", "false");
+      var avatar = document.createElement("img");
+      avatar.src = makePortraitSvg(c.ini, c.p);
+      avatar.alt = "";
+      b.appendChild(avatar);
+      b.appendChild(el("span", "", c.n));
+
+      b.onclick = function () {
+        var k = sel.indexOf(i);
+        if (k > -1) {
+          if (sel.length > 1) sel.splice(k, 1);
+        } else {
+          if (sel.length >= 3) sel.shift();
+          sel.push(i);
+        }
+        drawCompare();
+      };
+      chips.appendChild(b);
+    });
+    drawCompare();
+
+    // 4. CALL TO ACTION: COMPARE OTHER OFFICES ACROSS 36 STATES + FCT
+    var NIGERIA_STATES = [
+      "Lagos", "Kano", "Rivers", "FCT Abuja", "Abia", "Adamawa", "Akwa Ibom",
+      "Anambra", "Bauchi", "Bayelsa", "Benue", "Borno", "Cross River", "Delta",
+      "Ebonyi", "Edo", "Ekiti", "Enugu", "Gombe", "Imo", "Jigawa", "Kaduna",
+      "Katsina", "Kebbi", "Kogi", "Kwara", "Nasarawa", "Niger", "Ogun", "Ondo",
+      "Osun", "Oyo", "Plateau", "Sokoto", "Taraba", "Yobe", "Zamfara"
+    ];
+
+    var OFF_CYCLE_GOV_STATES = ["Anambra", "Bayelsa", "Edo", "Ekiti", "Imo", "Kogi", "Ondo", "Osun"];
+
+    var stateSelect = document.getElementById("stateSelect");
+    var officeSelect = document.getElementById("officeSelect");
+    var compareOtherBtn = document.getElementById("compareOtherBtn");
+    var otherOfficeResults = document.getElementById("otherOfficeResults");
+
+    NIGERIA_STATES.forEach(function (st) {
+      var opt = document.createElement("option");
+      opt.value = st;
+      opt.textContent = st;
+      stateSelect.appendChild(opt);
+    });
+
+    function renderOtherOfficeComparison() {
+      var st = stateSelect.value;
+      var off = officeSelect.value;
+      otherOfficeResults.textContent = "";
+
+      if (off === "Governor" && (st === "FCT Abuja" || OFF_CYCLE_GOV_STATES.indexOf(st) > -1)) {
+        var noticeTitle = st === "FCT Abuja"
+          ? "FCT Abuja does not elect a State Governor"
+          : st + " holds off-cycle Governorship elections";
+        var noticeBody = st === "FCT Abuja"
+          ? "The Federal Capital Territory is administered by an appointed FCT Minister and elects 1 Senator, 2 House of Reps members, and Area Council Chairmen/Councillors."
+          : st + " State conducts its Governorship election outside the general election day calendar. However, voters in " + st + " will vote for President, Senators, House of Representatives, and State House of Assembly in 2027.";
+        otherOfficeResults.appendChild(el("h3", "", noticeTitle));
+        otherOfficeResults.appendChild(el("p", "", noticeBody));
+        return;
+      }
+
+      var headerLine = el("div", "check-header");
+      headerLine.appendChild(el("h3", "", st + " · " + off + " Ballot Comparison Guide"));
+      headerLine.appendChild(el("span", "party-pill", "INEC 2027 Verification Checklist"));
+      otherOfficeResults.appendChild(headerLine);
+
+      var tickets = [
+        { party: "APC", tag: "Incumbent / Ruling Party Ticket", focus: "Continuity of state/federal infrastructure & fiscal alignment" },
+        { party: "ADC", tag: "Opposition Coalition Ticket", focus: "Grassroots social investment, education & local security" },
+        { party: "NDC", tag: "Reform Movement Ticket", focus: "Fiscal transparency, SME credit & youth employment" },
+        { party: "SDP", tag: "Social Democratic Ticket", focus: "Public healthcare access, agriculture & council autonomy" }
+      ];
+
+      var grid = el("div", "other-office-grid");
+      tickets.forEach(function (t) {
+        var card = el("div", "downballot-card");
+        var head = el("div", "downballot-head");
+        var img = document.createElement("img");
+        img.src = makePortraitSvg(t.party, off.slice(0, 3).toUpperCase());
+        img.alt = t.party + " ticket";
+        head.appendChild(img);
+
+        var hText = el("div", "");
+        hText.appendChild(el("strong", "", st + " " + off + " (" + t.party + ")"));
+        hText.appendChild(el("p", "eyebrow", t.tag));
+        head.appendChild(hText);
+        card.appendChild(head);
+
+        card.appendChild(el("p", "", "Key Metric to Compare: " + t.focus));
+        grid.appendChild(card);
+      });
+
+      otherOfficeResults.appendChild(grid);
+    }
+
+    compareOtherBtn.onclick = renderOtherOfficeComparison;
+    stateSelect.onchange = renderOtherOfficeComparison;
+    officeSelect.onchange = renderOtherOfficeComparison;
+    renderOtherOfficeComparison();
+
+    // 5. VOTER CHECKLIST ("Before election day")
+    var CHECK = [
+      "Confirm your Permanent Voter Card (PVC) is ready for collection or in hand",
+      "Check your polling unit on the INEC portal",
+      "Read each candidate's manifesto from the official source",
+      "Ask what each office can actually change, using the guide above",
+      "Plan how to get to your polling unit on election day"
+    ];
+
+    var ck = document.getElementById("check");
+    var checkProgress = document.getElementById("checkProgress");
+
+    function updateCheckProgress() {
+      var boxes = ck.querySelectorAll('input[type="checkbox"]');
+      var done = 0;
+      Array.prototype.forEach.call(boxes, function (b) {
+        if (b.checked) done++;
+      });
+      checkProgress.textContent = done + " / " + CHECK.length + " completed";
+    }
+
+    CHECK.forEach(function (t, i) {
+      var l = el("label");
+      var c = document.createElement("input");
+      c.type = "checkbox";
+      c.id = "ck" + i;
+      c.onchange = updateCheckProgress;
+      l.appendChild(c);
+      l.appendChild(el("span", "", t));
+      ck.appendChild(l);
+    });
+  </script>
+</body>
+
+</html>

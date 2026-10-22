@@ -1,0 +1,7832 @@
+{
+  "state": "Akwa Ibom",
+  "offices": {
+    "Governor": {
+      "constituency": "Akwa Ibom Statewide",
+      "candidates": [
+        {
+          "n": "GOVE",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "A",
+          "age": "43",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under A.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "AA",
+          "age": "46",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "AAC",
+          "age": "46",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under AAC.",
+          "scores": [
+            58,
+            54,
+            52,
+            49,
+            55,
+            68
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "ADC",
+          "age": "62",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "ADP",
+          "age": "39",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under ADP.",
+          "scores": [
+            58,
+            48,
+            60,
+            48,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "APC",
+          "age": "62",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            59,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "APGA",
+          "age": "41",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under APGA.",
+          "scores": [
+            59,
+            50,
+            50,
+            51,
+            58,
+            61
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "APM",
+          "age": "61",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "APP",
+          "age": "36",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "BP",
+          "age": "52",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under BP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            56
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "DLA",
+          "age": "48",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "LP",
+          "age": "55",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under LP.",
+          "scores": [
+            64,
+            57,
+            73,
+            50,
+            77,
+            59
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "57",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            59,
+            53,
+            79,
+            47,
+            75,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "NDP",
+          "age": "58",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "NNPP",
+          "age": "50",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "NRM",
+          "age": "52",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            62,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "PDP",
+          "age": "48",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "PRP",
+          "age": "45",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under PRP.",
+          "scores": [
+            64,
+            50,
+            60,
+            48,
+            61,
+            64
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "SDP",
+          "age": "49",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under SDP.",
+          "scores": [
+            65,
+            51,
+            63,
+            50,
+            63,
+            62
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "48",
+          "gender": "F",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            61,
+            61,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "AKWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        }
+      ]
+    },
+    "Senate": {
+      "constituency": "Senatorial Districts",
+      "candidates": [
+        {
+          "n": "RAPHAEL CHRISTOPHER",
+          "p": "AA",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate WAEC BSC",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under AA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OBOTUKO IKPE AKPAN",
+          "p": "ADP",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC / GCE",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "UKPONG MARY INIOBONG",
+          "p": "AAC",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "56",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BA",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under AAC.",
+          "scores": [
+            56,
+            60,
+            60,
+            49,
+            69,
+            60
+          ]
+        },
+        {
+          "n": "SUNDAY ETIM UMOREN",
+          "p": "ADC",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "BASSEY ANIEKAN ETIM",
+          "p": "APC",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC, MSC, PHD",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under APC.",
+          "scores": [
+            72,
+            51,
+            82,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "N DAVIS MICHAEL AUGUSTINE",
+          "p": "APM",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IBOKETTE PRINCESS VICTORIA",
+          "p": "DLA",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "49",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "UDONTU IMOH EDET",
+          "p": "LP",
+          "district": "I AKWA IBOM NORTH EAST",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certificate",
+          "bg": "Contesting for I AKWA IBOM NORTH EAST under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "ESSIEN EDEM OKON",
+          "p": "NDP",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE BSC UNIVERSITY OF UYO",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under NDP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "AFIA EKERE S.",
+          "p": "NDC",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC GCE BSC, MSC",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under NDC.",
+          "scores": [
+            59,
+            53,
+            67,
+            47,
+            75,
+            54
+          ]
+        },
+        {
+          "n": "UDOBANG CLETUS KUFRE",
+          "p": "PDP",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE, GCE BSC IN VIEW",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "ASUQUO AKAN",
+          "p": "YPP",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "UMOH ITUEN NNAMONSO",
+          "p": "ZLP",
+          "district": "AKWA IBOM NORTH EAST",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for AKWA IBOM NORTH EAST under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "INYANG PEACE MARTINS",
+          "p": "A",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under A.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UDOUDO COMFORT ETIM",
+          "p": "AA",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate WAEC",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ETUK JONATHAN",
+          "p": "ADP",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC MBBS",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "N AKPAN UNYIME MBONO",
+          "p": "AAC",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under AAC.",
+          "scores": [
+            58,
+            54,
+            52,
+            49,
+            55,
+            68
+          ]
+        },
+        {
+          "n": "AKPABIO PATIENCE CHRISTOPHER IBANGA",
+          "p": "ADC",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "COLLEGE PRE DIPLOMA BBA FINANCE MIB INTERNATIONAL BUSINESS",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under ADC.",
+          "scores": [
+            79,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "AKPABIO GODSWILL OBOT",
+          "p": "APC",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GCE LLB(HONS), BL(HONS)",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under APC.",
+          "scores": [
+            58,
+            71,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "SEMBENGE NSE EKANEM",
+          "p": "APM",
+          "district": "I AKWA IBOM NORTH WEST",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for I AKWA IBOM NORTH WEST under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ITONGESHIET AMAISO SOLOMON",
+          "p": "BP",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under BP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            64
+          ]
+        },
+        {
+          "n": "UTIBEABASI EMMANUEL PAUL",
+          "p": "DLA",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "INEMEH PATTY ETETE",
+          "p": "NDC",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE MSC",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under NDC.",
+          "scores": [
+            53,
+            53,
+            59,
+            47,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "CLEMENT JAMES UDUAKOBONG",
+          "p": "SDP",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCF",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UDOH NATURE DENIS",
+          "p": "YPP",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First school leaving certificate SSCE B.Sc",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under YPP.",
+          "scores": [
+            56,
+            55,
+            58,
+            49,
+            69,
+            59
+          ]
+        },
+        {
+          "n": "AFFRESSE GODWIN AKPANUDO",
+          "p": "ZLP",
+          "district": "AKWA IBOM NORTH WEST",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for AKWA IBOM NORTH WEST under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        },
+        {
+          "n": "PRISCILLA AKPANUMO",
+          "p": "ADP",
+          "district": "AKWA IBOM SOUTH",
+          "age": "66",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC GCE 'O' Level / WAEC B.SC (HON) EDU (AGRIC)",
+          "bg": "Contesting for AKWA IBOM SOUTH under ADP.",
+          "scores": [
+            54,
+            56,
+            68,
+            48,
+            75,
+            48
+          ]
+        },
+        {
+          "n": "EKANEM JOY VICTOR",
+          "p": "AAC",
+          "district": "AKWA IBOM SOUTH",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AKWA IBOM SOUTH under AAC.",
+          "scores": [
+            54,
+            54,
+            52,
+            49,
+            46,
+            75
+          ]
+        },
+        {
+          "n": "LOUIS PAUL UDOH",
+          "p": "ADC",
+          "district": "AKWA IBOM SOUTH",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for AKWA IBOM SOUTH under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N AKPAN EKONG SAMPSON",
+          "p": "APC",
+          "district": "AKWA IBOM SOUTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GENERAL CERTIFICATE OF EDUCATION BACHELOR OF LAW",
+          "bg": "Contesting for AKWA IBOM SOUTH under APC.",
+          "scores": [
+            58,
+            71,
+            70,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "MORRISON ABRAHAM MORRISON",
+          "p": "DLA",
+          "district": "AKWA IBOM SOUTH",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for AKWA IBOM SOUTH under DLA.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "OKON ISEMIN ETIM",
+          "p": "NNPP",
+          "district": "I AKWA IBOM SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for I AKWA IBOM SOUTH under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "FRANK OKON DANIEL",
+          "p": "NDC",
+          "district": "AKWA IBOM SOUTH",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC BSC",
+          "bg": "Contesting for AKWA IBOM SOUTH under NDC.",
+          "scores": [
+            53,
+            55,
+            55,
+            47,
+            75,
+            48
+          ]
+        },
+        {
+          "n": "ISONG ETIM",
+          "p": "PDP",
+          "district": "AKWA IBOM SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ST CATHERINES - ATTESTATION ST. FINIBARRS COLLEGE - WASC UNIVERSITY OF ABUJA - B. SC",
+          "bg": "Contesting for AKWA IBOM SOUTH under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "EGBO WILLSON SAMUEL",
+          "p": "SDP",
+          "district": "AKWA IBOM SOUTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WASSCE BSC",
+          "bg": "Contesting for AKWA IBOM SOUTH under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "JEREMIAH OBOT JEREMIAH",
+          "p": "YPP",
+          "district": "AKWA IBOM SOUTH",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for AKWA IBOM SOUTH under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "UFOT PATRICIA GABRIEL",
+          "p": "ZLP",
+          "district": "AKWA IBOM SOUTH",
+          "age": "60",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC OND",
+          "bg": "Contesting for AKWA IBOM SOUTH under ZLP.",
+          "scores": [
+            49,
+            55,
+            49,
+            49,
+            65,
+            55
+          ]
+        }
+      ]
+    },
+    "House of Reps": {
+      "constituency": "Federal Constituencies",
+      "candidates": [
+        {
+          "n": "MANDU EKPENYONG",
+          "p": "A",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "59",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC, M.SC, PH.D",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under A.",
+          "scores": [
+            60,
+            54,
+            68,
+            48,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "AKPAN ELIJAH THOMPSON",
+          "p": "AA",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate NABTEB",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under AA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EBOH MBATA",
+          "p": "ADP",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE / NECO",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OFONIME JOHNSON INYAN",
+          "p": "ADC",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.Sc",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "JIMBO INEMESIT CLEMENT",
+          "p": "APC",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "N TOM FREDFISH",
+          "p": "APM",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC, MSC, PHD",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under APM.",
+          "scores": [
+            68,
+            48,
+            80,
+            48,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "RAPHAEL EDWIN AMOS",
+          "p": "LP",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB BSc",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "NKOPUYO NTUKIDME",
+          "p": "NDP",
+          "district": "I Abak/Etim Ekpo/Ika",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE ND ACCOUNTING",
+          "bg": "Contesting for I Abak/Etim Ekpo/Ika under NDP.",
+          "scores": [
+            66,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UDOM UYO JUMBO",
+          "p": "NDC",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC BSC",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "AKPAN OKON ABASI",
+          "p": "PDP",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE/NECO HERITAGE POLYTECHNIC EKET AKS",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under PDP.",
+          "scores": [
+            51,
+            58,
+            51,
+            65,
+            76,
+            46
+          ]
+        },
+        {
+          "n": "ABEL HONOURABLE ABRAHAM",
+          "p": "PRP",
+          "district": "Abak/Etim Ekpo/Ika",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE B.Sc Finance and Banking",
+          "bg": "Contesting for Abak/Etim Ekpo/Ika under PRP.",
+          "scores": [
+            74,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "PAUL EKONG",
+          "p": "ADP",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "CHRIS SUNDAY GEORGE",
+          "p": "ADC",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "THOMAS EUNICE SAMUEL",
+          "p": "APC",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC ND, HND, P.hD, MSC",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "AKPADIAH SUNDAY EBITU",
+          "p": "APM",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LLB",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under APM.",
+          "scores": [
+            54,
+            68,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "AKPAN THERESA SAM",
+          "p": "DLA",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "JOSEPH ETTE BEN",
+          "p": "NDC",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "N AKPAOBOT GODFREY UBONG",
+          "p": "PDP",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ANIEFIOK EDOHO NENE",
+          "p": "SDP",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "26",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WASSC NCE",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "NATHANIEL EMMANUEL",
+          "p": "YPP",
+          "district": "I Eket/Onna/Esit Eket/Ibeno",
+          "age": "65",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Eket/Onna/Esit Eket/Ibeno under YPP.",
+          "scores": [
+            50,
+            57,
+            50,
+            49,
+            71,
+            53
+          ]
+        },
+        {
+          "n": "WILLIAMS COMFORT DANIEL",
+          "p": "ZLP",
+          "district": "Eket/Onna/Esit Eket/Ibeno",
+          "age": "59",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for Eket/Onna/Esit Eket/Ibeno under ZLP.",
+          "scores": [
+            55,
+            55,
+            57,
+            49,
+            69,
+            55
+          ]
+        },
+        {
+          "n": "ANIEFIOK ASUQUO",
+          "p": "ADP",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "JACKSON EMEM DANIEL",
+          "p": "ADC",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC/NECO B.TECH",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            65,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "EKPO PAUL ASUQUO",
+          "p": "APC",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC B.SC",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "EKOMOBONG OKON AKPAN",
+          "p": "APM",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC OND",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DICKSON FRANCIS ETIM",
+          "p": "DLA",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BACHELOR",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under DLA.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "EKONG SOLOMON PHILIP",
+          "p": "LP",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC HND",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under LP.",
+          "scores": [
+            58,
+            57,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "OWO ESSIEN",
+          "p": "NDP",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BACHELOR OF ARTS",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under NDP.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UDOFIA UWEM UTIBE",
+          "p": "NDC",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC BSC",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "N ITINA INEMESIT SUNDAY",
+          "p": "PDP",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE PH.D",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under PDP.",
+          "scores": [
+            57,
+            56,
+            63,
+            51,
+            76,
+            52
+          ]
+        },
+        {
+          "n": "EKPO IMOH NSIKAN",
+          "p": "SDP",
+          "district": "Etinan/Nsit Ibom/Nsit ubium",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for Etinan/Nsit Ibom/Nsit ubium under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ISAIAH PEACE JOSEPH",
+          "p": "ZLP",
+          "district": "I Etinan/Nsit Ibom/Nsit ubium",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for I Etinan/Nsit Ibom/Nsit ubium under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        },
+        {
+          "n": "EKIKOR MFON WILLIE",
+          "p": "AAC",
+          "district": "Ikono/Ini",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND",
+          "bg": "Contesting for Ikono/Ini under AAC.",
+          "scores": [
+            54,
+            54,
+            52,
+            49,
+            46,
+            75
+          ]
+        },
+        {
+          "n": "UMOH ALFRED",
+          "p": "ADC",
+          "district": "Ikono/Ini",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Ikono/Ini under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UKPONG-UDO EMMANUEL EFFIONG",
+          "p": "APC",
+          "district": "Ikono/Ini",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE/WAEC BSC, MSC, MPHIL, PHD",
+          "bg": "Contesting for Ikono/Ini under APC.",
+          "scores": [
+            64,
+            57,
+            82,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "AKPAKPAN INNOCENT MONDAY",
+          "p": "APM",
+          "district": "Ikono/Ini",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Ikono/Ini under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DAVID SUNDAY JOSHUA",
+          "p": "LP",
+          "district": "Ikono/Ini",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC ND",
+          "bg": "Contesting for Ikono/Ini under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "BASSEY DIVINE SOLOMON",
+          "p": "NRM",
+          "district": "Ikono/Ini",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO N.D",
+          "bg": "Contesting for Ikono/Ini under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN PIUS ITOHOWO",
+          "p": "NDC",
+          "district": "Ikono/Ini",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ikono/Ini under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IKOT NSIKAN SUNDAY",
+          "p": "PDP",
+          "district": "Ikono/Ini",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ikono/Ini under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "UDO GODWIN ETIM",
+          "p": "SDP",
+          "district": "Ikono/Ini",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC",
+          "bg": "Contesting for Ikono/Ini under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "N AKPAN UBONG",
+          "p": "YPP",
+          "district": "Ikono/Ini",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ikono/Ini under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "HANSON PAUL UDOBONG",
+          "p": "ADC",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO B.Sc, M.Sc",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "ODUDOH UDUAK ALPHONSUS",
+          "p": "APC",
+          "district": "I Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLST WAEC BSC, PGD",
+          "bg": "Contesting for I Ikot Abasi/Mkpat Enin/ Eastern Obolo under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UDON KINGSLEY AKPAN",
+          "p": "DLA",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AMOS PAULINE ANIEKAN",
+          "p": "LP",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "28",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "F.S.L.C WAEC",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under LP.",
+          "scores": [
+            56,
+            51,
+            53,
+            50,
+            48,
+            74
+          ]
+        },
+        {
+          "n": "IDEMUDO UBONG CLEMENT",
+          "p": "NDC",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC BSC",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "UMOH ESTHER ROBSON",
+          "p": "PDP",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "59",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC RN, RM, INTENSIVE CARE NURSING",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "EKEKRETE QUEENALENE",
+          "p": "SDP",
+          "district": "Ikot Abasi/Mkpat Enin/ Eastern Obolo",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Ikot Abasi/Mkpat Enin/ Eastern Obolo under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "CHRISTOPHER BONIFACE OKON",
+          "p": "A",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE OND",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "THERESA AKPAN",
+          "p": "ADP",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC IN SOCIOLOGY",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "ISAAC ISAAC ASUQUO",
+          "p": "ADC",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC IOSH",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UMOH PATRICK",
+          "p": "APC",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE LLB, BL, LLM, PHD",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under APC.",
+          "scores": [
+            72,
+            65,
+            82,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "N UDOH ANIETIE AUGUSTUS",
+          "p": "APGA",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL ATU EDGERLEY GIRLS SECONDARY SCHOOL",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under APGA.",
+          "scores": [
+            59,
+            50,
+            50,
+            51,
+            58,
+            61
+          ]
+        },
+        {
+          "n": "MARTIN INYANG-ETOH",
+          "p": "APM",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EMMANUEL EDET AFFIA",
+          "p": "LP",
+          "district": "I Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE-NECO",
+          "bg": "Contesting for I Ikot Ekpene/Essien Udim/ Obot Akara under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "UMOH ABASIONO FRIDAY",
+          "p": "NDP",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SECONDARY SCHOOL CERTIFICATE",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AKANG BONIFACE UDO",
+          "p": "NDC",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC LLB",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under NDC.",
+          "scores": [
+            53,
+            67,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "EKANEM DANIEL STEPHEN",
+          "p": "PDP",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE B.A. (COM ARTS)",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "OBOT UFOKOBONG EPHRAIM",
+          "p": "PRP",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE Adv. NABTEB",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "UDOKA DONALD ELISHA",
+          "p": "YPP",
+          "district": "Ikot Ekpene/Essien Udim/ Obot Akara",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Eng",
+          "bg": "Contesting for Ikot Ekpene/Essien Udim/ Obot Akara under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            63,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "EFFIONG IDORENYIN NSE",
+          "p": "AAC",
+          "district": "Itu/Ibiono Ibom",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Neco",
+          "bg": "Contesting for Itu/Ibiono Ibom under AAC.",
+          "scores": [
+            58,
+            54,
+            52,
+            49,
+            55,
+            68
+          ]
+        },
+        {
+          "n": "EKA NSIKAK EDDIE UMOH",
+          "p": "ADC",
+          "district": "Itu/Ibiono Ibom",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc, M.Sc",
+          "bg": "Contesting for Itu/Ibiono Ibom under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "OKON IME BASSEY",
+          "p": "APC",
+          "district": "Itu/Ibiono Ibom",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASC LL.B",
+          "bg": "Contesting for Itu/Ibiono Ibom under APC.",
+          "scores": [
+            58,
+            73,
+            58,
+            53,
+            81,
+            45
+          ]
+        },
+        {
+          "n": "UMOH CHRISTOPHER TETTE",
+          "p": "APM",
+          "district": "Itu/Ibiono Ibom",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WASC",
+          "bg": "Contesting for Itu/Ibiono Ibom under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N MFON PETER UDON",
+          "p": "DLA",
+          "district": "Itu/Ibiono Ibom",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Itu/Ibiono Ibom under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "BASSEY SAMUEL DAVID",
+          "p": "NDP",
+          "district": "Itu/Ibiono Ibom",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for Itu/Ibiono Ibom under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "BASSEY ABASIAMANAM EFFIONG",
+          "p": "NDC",
+          "district": "I Itu/Ibiono Ibom",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "F3LC SSCE HND",
+          "bg": "Contesting for I Itu/Ibiono Ibom under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "BASSEY JOSEPH BONIFACE",
+          "p": "PDP",
+          "district": "Itu/Ibiono Ibom",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for Itu/Ibiono Ibom under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "APKAN UDUAKOBONG UBON",
+          "p": "SDP",
+          "district": "Itu/Ibiono Ibom",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC GCE HND",
+          "bg": "Contesting for Itu/Ibiono Ibom under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "OKU NYIKKE-ABASI JOHN",
+          "p": "YPP",
+          "district": "Itu/Ibiono Ibom",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for Itu/Ibiono Ibom under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "OKON JOHN GABRIEL",
+          "p": "ADC",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "ESIN MARTINS ETIM",
+          "p": "APC",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASSCE BSC & MBA",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under APC.",
+          "scores": [
+            72,
+            51,
+            70,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "EFFIONG EFFIONG ONUKAKA",
+          "p": "APM",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKAN AKAN",
+          "p": "NDP",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB HND",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under NDP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OKUK ALBERT PROGRESS",
+          "p": "NDC",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "GCE",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "EKPENGYONG JOHN ETIM",
+          "p": "PDP",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC /GCE B.A. HONS",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "N EKPANG SHARON NKOYO",
+          "p": "SDP",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BACHELORS",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ODIONG EMMANUEL",
+          "p": "YPP",
+          "district": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "UKO AKWAOWO",
+          "p": "ADP",
+          "district": "I Ukanafun/Oruk Anam",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSE / NECO LL.B / B.L",
+          "bg": "Contesting for I Ukanafun/Oruk Anam under ADP.",
+          "scores": [
+            62,
+            62,
+            56,
+            48,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "AKANINYENE ISAAC UDOFAH",
+          "p": "ADC",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO, WAEC LL.B, BL",
+          "bg": "Contesting for Ukanafun/Oruk Anam under ADC.",
+          "scores": [
+            61,
+            64,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "IDEM UNYIME JOSIAH",
+          "p": "APC",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC, MBA, Ph.D",
+          "bg": "Contesting for Ukanafun/Oruk Anam under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "OKOMEM JOY MONDAY",
+          "p": "APM",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FSLC WAECC",
+          "bg": "Contesting for Ukanafun/Oruk Anam under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AKPAN GLORY MFON",
+          "p": "DLA",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "61",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE: WAEC AND NECO BACHELOR",
+          "bg": "Contesting for Ukanafun/Oruk Anam under DLA.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "IDUNGATA SAVIOUR AMOS",
+          "p": "LP",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC POLITICAL SCIENCE",
+          "bg": "Contesting for Ukanafun/Oruk Anam under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "IDUT MBOUTIDEM AKPAN",
+          "p": "NDC",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ukanafun/Oruk Anam under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "IBANGA EMEM EMMANSON",
+          "p": "PDP",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ukanafun/Oruk Anam under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ALEXANDER LUCKY IME",
+          "p": "YPP",
+          "district": "Ukanafun/Oruk Anam",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Ukanafun/Oruk Anam under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "EFFIONG TONNY",
+          "p": "AA",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate NECO BA B/S",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under AA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N OLIVER BASSEY",
+          "p": "ADP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE Leadership and Resue Management. CLRMJ",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under ADP.",
+          "scores": [
+            70,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ASUQUO DANIEL AUSTIN",
+          "p": "AAC",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under AAC.",
+          "scores": [
+            50,
+            60,
+            52,
+            49,
+            65,
+            60
+          ]
+        },
+        {
+          "n": "DAVID NNAMMONSO UBIT",
+          "p": "ADC",
+          "district": "I Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for I Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "MARK ESSET UDO",
+          "p": "APC",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SENIOR SCHOOL CERTIFICATE BSC",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UDOEYOP OTOMFON NNANKERE",
+          "p": "APM",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.ENG",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            62,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "CHARLES CELESTINE EFFIONG",
+          "p": "DLA",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE ND",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BASSEY IKAKKE MONDAY",
+          "p": "LP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "F.S.L.C WAEC",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under LP.",
+          "scores": [
+            56,
+            51,
+            53,
+            50,
+            48,
+            74
+          ]
+        },
+        {
+          "n": "NYONG MKPOIKANABASI",
+          "p": "NDP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN GODSTIME",
+          "p": "NNPP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "ESSEN UWEMEDIMO UDO",
+          "p": "NDC",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "BENJAMIN JOHN ERNEST",
+          "p": "PDP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "O'BRIEN GOLDEN O'BRIEN",
+          "p": "SDP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE/NECO BSC",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "N INEMESIT NSE UMOH",
+          "p": "YPP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First school leaving certificate SSCE HND",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "ENO OKON ADAMS",
+          "p": "ZLP",
+          "district": "Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Uyo/Uruan/Nsit Atai/ Ibesikpo Asutan under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        }
+      ]
+    },
+    "State Assembly": {
+      "constituency": "State Constituencies",
+      "candidates": [
+        {
+          "n": "AKPAN ETIMBUK IME",
+          "p": "ADC",
+          "district": "ABAK",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ABAK under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OTONG UDEME JAMES",
+          "p": "APC",
+          "district": "ABAK",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC RN, RPN, BSC, SOCILOGY",
+          "bg": "Contesting for ABAK under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AKPAN IFIOK SANDY",
+          "p": "APM",
+          "district": "ABAK",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for ABAK under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EKONG NSISONG CHRISTOPHER",
+          "p": "LP",
+          "district": "ABAK",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for ABAK under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "VICTOR ABATAI",
+          "p": "NDP",
+          "district": "ABAK",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ABAK under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N JAMES ISRAEL ANIEKAN",
+          "p": "NDC",
+          "district": "ABAK",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ABAK under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ARCHIBONG FRIDAY UKO",
+          "p": "PDP",
+          "district": "ABAK",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL NKO OTORO UNIVERSAL SEC SCH MAUTA",
+          "bg": "Contesting for ABAK under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "OTONG MARY PATRICK",
+          "p": "SDP",
+          "district": "I ABAK",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ABAK under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ELIZABETH DARA WEALTH",
+          "p": "YPP",
+          "district": "ABAK",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ABAK under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        },
+        {
+          "n": "EKONG JOY EMMANUEL",
+          "p": "ADP",
+          "district": "EKET",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for EKET under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "DANNISON ISINE EMMANUEL",
+          "p": "ADC",
+          "district": "EKET",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC NECO NCE",
+          "bg": "Contesting for EKET under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "AKATA NSIDIBE INYANG",
+          "p": "APC",
+          "district": "EKET",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC PHD",
+          "bg": "Contesting for EKET under APC.",
+          "scores": [
+            58,
+            57,
+            74,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "EKPO ANIEKAN INIODU",
+          "p": "APM",
+          "district": "EKET",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for EKET under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ETUKAKPAN MICHAEL UDOUDOH",
+          "p": "DLA",
+          "district": "EKET",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for EKET under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "NDIEFREKE EKONG EDET",
+          "p": "NDP",
+          "district": "EKET",
+          "age": "53",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for EKET under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "EKAETTE BASSEY",
+          "p": "NNPP",
+          "district": "EKET",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for EKET under NNPP.",
+          "scores": [
+            65,
+            52,
+            59,
+            50,
+            62,
+            62
+          ]
+        },
+        {
+          "n": "N GEOFFREY ALFRED ESSIEN",
+          "p": "NDC",
+          "district": "EKET",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for EKET under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "EMMANUEL COMFORT OKON",
+          "p": "PDP",
+          "district": "EKET",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for EKET under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "UDOABASI ESTHER IKINFENWA",
+          "p": "SDP",
+          "district": "EKET",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for EKET under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "AKPAN CHARITY EYO",
+          "p": "ADP",
+          "district": "I ESSIEN UDIM",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for I ESSIEN UDIM under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "INEMESIT MITCHEL NKEREUWEM",
+          "p": "ADC",
+          "district": "ESSIEN UDIM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for ESSIEN UDIM under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "AKPABIO UKPONG UDO",
+          "p": "APC",
+          "district": "ESSIEN UDIM",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE LLB",
+          "bg": "Contesting for ESSIEN UDIM under APC.",
+          "scores": [
+            66,
+            65,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ETIDO OMODOT",
+          "p": "APM",
+          "district": "ESSIEN UDIM",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for ESSIEN UDIM under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "EKERUKE ITORO UDO",
+          "p": "DLA",
+          "district": "ESSIEN UDIM",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ESSIEN UDIM under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "KINGSLEY UDO EKONG",
+          "p": "NDP",
+          "district": "ESSIEN UDIM",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for ESSIEN UDIM under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OKPONGETTE CALEB PHILIP",
+          "p": "NDC",
+          "district": "ESSIEN UDIM",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ESSIEN UDIM under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "PETER KUFRE UKO",
+          "p": "PDP",
+          "district": "ESSIEN UDIM",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for ESSIEN UDIM under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "EKWERE BLESSING PATRICK",
+          "p": "SDP",
+          "district": "ESSIEN UDIM",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ESSIEN UDIM under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "N MFON UDOH",
+          "p": "YPP",
+          "district": "ESSIEN UDIM",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ESSIEN UDIM under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "ARCHIBONG UMOE DUKE",
+          "p": "ADC",
+          "district": "ESIT EKET/IBENO",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND, HND, BSc, MSc",
+          "bg": "Contesting for ESIT EKET/IBENO under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "UDO UDOFIA FRIDAY",
+          "p": "APC",
+          "district": "ESIT EKET/IBENO",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.ENG",
+          "bg": "Contesting for ESIT EKET/IBENO under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            67,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "USO IDARA UMO",
+          "p": "APM",
+          "district": "I ESIT EKET/IBENO",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for I ESIT EKET/IBENO under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "EMMANUEL ASUQUO FRANK",
+          "p": "NDP",
+          "district": "ESIT EKET/IBENO",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ESIT EKET/IBENO under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKPASO ENIANG EKPENYONG",
+          "p": "NNPP",
+          "district": "ESIT EKET/IBENO",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ESIT EKET/IBENO under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "AKPAN PERRY SAMUEL",
+          "p": "NDC",
+          "district": "ESIT EKET/IBENO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for ESIT EKET/IBENO under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ESE NSIKANABASI",
+          "p": "PDP",
+          "district": "ESIT EKET/IBENO",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO POLYTECHNIC",
+          "bg": "Contesting for ESIT EKET/IBENO under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            65,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "AMANAWAM EMEM SAMUEL",
+          "p": "SDP",
+          "district": "ESIT EKET/IBENO",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ESIT EKET/IBENO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "PEACE INYANG KOFFI",
+          "p": "YPP",
+          "district": "ESIT EKET/IBENO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ESIT EKET/IBENO under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "AKPAN IFIOK JOSHUA",
+          "p": "AA",
+          "district": "ETIM EKPO/IKA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate NABTEB",
+          "bg": "Contesting for ETIM EKPO/IKA under AA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AMOS BEN",
+          "p": "ADP",
+          "district": "ETIM EKPO/IKA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NIL",
+          "bg": "Contesting for ETIM EKPO/IKA under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N JOHN ENWONO ETIM",
+          "p": "ADC",
+          "district": "ETIM EKPO/IKA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for ETIM EKPO/IKA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "EBEWO BONIFACE JAMES",
+          "p": "APC",
+          "district": "ETIM EKPO/IKA",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MA",
+          "bg": "Contesting for ETIM EKPO/IKA under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ENANG NKEREUWEM ETIM",
+          "p": "APM",
+          "district": "ETIM EKPO/IKA",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE ND",
+          "bg": "Contesting for ETIM EKPO/IKA under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ADAKA OKON ABEL",
+          "p": "DLA",
+          "district": "I ETIM EKPO/IKA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ETIM EKPO/IKA under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MFON IME PAUL",
+          "p": "NDP",
+          "district": "ETIM EKPO/IKA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for ETIM EKPO/IKA under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UDOH IMOH GEORGE",
+          "p": "NDC",
+          "district": "ETIM EKPO/IKA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ETIM EKPO/IKA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ESUAIKO ANIEFIOK SUNDAY",
+          "p": "PDP",
+          "district": "ETIM EKPO/IKA",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WASSCE",
+          "bg": "Contesting for ETIM EKPO/IKA under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "JACK ITORO HAPPY",
+          "p": "SDP",
+          "district": "ETIM EKPO/IKA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ETIM EKPO/IKA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ETUK IKPE WILSON",
+          "p": "ADP",
+          "district": "ETINAN",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NIL",
+          "bg": "Contesting for ETINAN under ADP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "EKWERE ENOBONG DENNIS",
+          "p": "AAC",
+          "district": "ETINAN",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HND",
+          "bg": "Contesting for ETINAN under AAC.",
+          "scores": [
+            64,
+            54,
+            60,
+            49,
+            59,
+            68
+          ]
+        },
+        {
+          "n": "INEM KUFRE INEM",
+          "p": "ADC",
+          "district": "ETINAN",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.Sc",
+          "bg": "Contesting for ETINAN under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "JOHN PIUS EMMANUEL",
+          "p": "APC",
+          "district": "ETINAN",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ETINAN under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "N EKPO-UFOT UDUAK- OBONG ABEL",
+          "p": "APM",
+          "district": "ETINAN",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for ETINAN under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN UNYIMEABASI NSEABASI",
+          "p": "BP",
+          "district": "ETINAN",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE (FSLC) SENIOR SCHOOL CERTIFICATE (SSC - NECO) BACHELOR OF ARTS (B.Arts Comm Arts)",
+          "bg": "Contesting for ETINAN under BP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            71
+          ]
+        },
+        {
+          "n": "UKO DAVID ENE",
+          "p": "DLA",
+          "district": "I ETINAN",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ETINAN under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SILAS IME SUNDAY",
+          "p": "LP",
+          "district": "ETINAN",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ETINAN under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "NYENEIME MFON JACOB",
+          "p": "NDP",
+          "district": "ETINAN",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ETINAN under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ENOBONG THOMAS GODWIN",
+          "p": "NNPP",
+          "district": "ETINAN",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for ETINAN under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "JOHN EDIDIONG UNYIME",
+          "p": "NDC",
+          "district": "ETINAN",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ETINAN under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ARCHIBONG OKON ABRAHAM",
+          "p": "PDP",
+          "district": "ETINAN",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE B.SC",
+          "bg": "Contesting for ETINAN under PDP.",
+          "scores": [
+            57,
+            58,
+            59,
+            51,
+            80,
+            46
+          ]
+        },
+        {
+          "n": "UMOH DOUGLAS DANIEL",
+          "p": "SDP",
+          "district": "ETINAN",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ETINAN under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "EKEFRE KUFRE",
+          "p": "ADP",
+          "district": "IBESIKPO ASUTAN",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IBESIKPO ASUTAN under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NKAN JUDE LINUS",
+          "p": "ADC",
+          "district": "IBESIKPO ASUTAN",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WAEC B.Sc",
+          "bg": "Contesting for IBESIKPO ASUTAN under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "N ATTAH UBONG ESSIEN",
+          "p": "APC",
+          "district": "IBESIKPO ASUTAN",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.ENG",
+          "bg": "Contesting for IBESIKPO ASUTAN under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            67,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "UDOMBON EMMANUEL ITA",
+          "p": "APM",
+          "district": "IBESIKPO ASUTAN",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for IBESIKPO ASUTAN under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IBOK PRINCE EFFIONG YOUNG",
+          "p": "DLA",
+          "district": "IBESIKPO ASUTAN",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.A",
+          "bg": "Contesting for IBESIKPO ASUTAN under DLA.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "EMMANUEL UDO",
+          "p": "NDP",
+          "district": "I IBESIKPO ASUTAN",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I IBESIKPO ASUTAN under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "UNYIME ENE IKPE",
+          "p": "NNPP",
+          "district": "IBESIKPO ASUTAN",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for IBESIKPO ASUTAN under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "JOHNSON ANIEKAN ANIEDI",
+          "p": "NDC",
+          "district": "IBESIKPO ASUTAN",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IBESIKPO ASUTAN under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "BENJAMIN ANIEDI EDET",
+          "p": "PDP",
+          "district": "IBESIKPO ASUTAN",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WASSCE B.SC",
+          "bg": "Contesting for IBESIKPO ASUTAN under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "UYOE IME JACKSON",
+          "p": "SDP",
+          "district": "IBESIKPO ASUTAN",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IBESIKPO ASUTAN under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "UMOH GLORY",
+          "p": "ADP",
+          "district": "IBIONO IBOM",
+          "age": "40",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "NIL NIL NIL",
+          "bg": "Contesting for IBIONO IBOM under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ETIM AKANINYENE BONIFACE",
+          "p": "ADC",
+          "district": "IBIONO IBOM",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IBIONO IBOM under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ESSIEN MOSES EDET",
+          "p": "APC",
+          "district": "IBIONO IBOM",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for IBIONO IBOM under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AKPAN JOHN OKON",
+          "p": "APM",
+          "district": "IBIONO IBOM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE HND",
+          "bg": "Contesting for IBIONO IBOM under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N OKON EDIDIONG GEORGE",
+          "p": "DLA",
+          "district": "IBIONO IBOM",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB B.ENG",
+          "bg": "Contesting for IBIONO IBOM under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            62,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ESSIEN TOMMY EDITORO",
+          "p": "NNPP",
+          "district": "IBIONO IBOM",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for IBIONO IBOM under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "UMOH CROSS STEPHEN",
+          "p": "NDC",
+          "district": "IBIONO IBOM",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IBIONO IBOM under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IDIONG PRECIOUS DANIEL",
+          "p": "PDP",
+          "district": "I IBIONO IBOM",
+          "age": "40",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC",
+          "bg": "Contesting for I IBIONO IBOM under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "JACKSON HOSANNA EDEM",
+          "p": "SDP",
+          "district": "IBIONO IBOM",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IBIONO IBOM under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "UDEME EFFIONG AKPAN",
+          "p": "A",
+          "district": "IKONO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "primary SSCE",
+          "bg": "Contesting for IKONO under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN ETEOBONG ARCHIBONG",
+          "p": "AA",
+          "district": "IKONO",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C First School Leaving Certficate Senior school certificate",
+          "bg": "Contesting for IKONO under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN UBONG UDO",
+          "p": "ADC",
+          "district": "IKONO",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for IKONO under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UDO ASUQUO NANA",
+          "p": "APC",
+          "district": "IKONO",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/SSCE WAEC",
+          "bg": "Contesting for IKONO under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "NELSON VICTOR EFFIONG",
+          "p": "APGA",
+          "district": "IKONO",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for IKONO under APGA.",
+          "scores": [
+            61,
+            50,
+            58,
+            51,
+            53,
+            68
+          ]
+        },
+        {
+          "n": "AKWAOWO EDIDIONG JOHN",
+          "p": "APM",
+          "district": "IKONO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for IKONO under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UDOH RUTH JOSEPH",
+          "p": "DLA",
+          "district": "IKONO",
+          "age": "26",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKONO under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N AKPAN DANIELSON ANDREW",
+          "p": "LP",
+          "district": "IKONO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BA(HON)MASS COMMUNICATION",
+          "bg": "Contesting for IKONO under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "LOUIS ANIETIEMFON FRANCIS",
+          "p": "NNPP",
+          "district": "IKONO",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IKONO under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "OKON ABASIONO BASSEY",
+          "p": "NDC",
+          "district": "IKONO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IKONO under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ISAIAH UKEME GIDEON",
+          "p": "PDP",
+          "district": "I IKONO",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "KURAMU PRIMARY SCHOOL ISE HIGH SCHOOL UNIVERSITY OF CALABAR",
+          "bg": "Contesting for I IKONO under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "AKPAN BRIAN MONDAY",
+          "p": "SDP",
+          "district": "IKONO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IKONO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "JOSIAH OTUK",
+          "p": "YPP",
+          "district": "IKONO",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE LL.B",
+          "bg": "Contesting for IKONO under YPP.",
+          "scores": [
+            56,
+            69,
+            58,
+            49,
+            69,
+            59
+          ]
+        },
+        {
+          "n": "PETER EMMANUEL STEPHEN",
+          "p": "ADC",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC NECO B.Sc, MBA",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "UKPATU SELINAH ISOTUK",
+          "p": "APC",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "43",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "UBULOM DORIS EMIGBANAM",
+          "p": "APM",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "40",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "INYENE-OBONG EMMANUEL",
+          "p": "NNPP",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "ADASI SAMUEL GOGO",
+          "p": "NDC",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "FRANK SYLVANUS LINUS",
+          "p": "PDP",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "N ESSANG VICTOR GODWIN",
+          "p": "SDP",
+          "district": "IKOT ABASI/ EASTERN OBOLO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKOT ABASI/ EASTERN OBOLO under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "IBANGA ISAAC UDOIDIONG",
+          "p": "ADC",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OTU JERRY UDUAK ANSON",
+          "p": "APC",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC GCE BSC",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ITUEN GODWILL OKOH",
+          "p": "APM",
+          "district": "I IKOT EKPENE/OBOT AKARA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I IKOT EKPENE/OBOT AKARA under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "TIMOTHY MERCY",
+          "p": "NDP",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "53",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "EDIDIONG DANIEL JOSEPH",
+          "p": "NNPP",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "UKUT SAMUEL ALEXANDER",
+          "p": "NDC",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OBOT ETIENO UDO",
+          "p": "PDP",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "UDONYA MICAH NSE",
+          "p": "SDP",
+          "district": "IKOT EKPENE/OBOT AKARA",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for IKOT EKPENE/OBOT AKARA under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "AYAH ITORO UDO",
+          "p": "AAC",
+          "district": "INI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "HND",
+          "bg": "Contesting for INI under AAC.",
+          "scores": [
+            64,
+            54,
+            60,
+            49,
+            59,
+            68
+          ]
+        },
+        {
+          "n": "OTU MONDAY OTU",
+          "p": "ADC",
+          "district": "INI",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for INI under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UDOIDE LAWRENCE OFONMBUK",
+          "p": "APC",
+          "district": "INI",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for INI under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "N EKONG SAMUEL ALEXANDER",
+          "p": "APM",
+          "district": "INI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for INI under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ESSIEN SOLOMON JOSEPH",
+          "p": "DLA",
+          "district": "INI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for INI under DLA.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABASIEFREKE MONDAY EMMANUEL",
+          "p": "NDP",
+          "district": "INI",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for INI under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ISAAC ITORO JOE",
+          "p": "NNPP",
+          "district": "I INI",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for I INI under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "UDO WILSON JOHN",
+          "p": "NDC",
+          "district": "INI",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for INI under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "UDOH OFONIME MICHAEL",
+          "p": "PDP",
+          "district": "INI",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC NATIONAL CERTIFICATE OF EDUCATION",
+          "bg": "Contesting for INI under PDP.",
+          "scores": [
+            59,
+            50,
+            63,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ESSIEN ANIEBIET UDO",
+          "p": "SDP",
+          "district": "INI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BSC",
+          "bg": "Contesting for INI under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "CHRISTOPHER EDET UDOH",
+          "p": "YPP",
+          "district": "INI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC/NECO BSC",
+          "bg": "Contesting for INI under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "OKON EMMANUEL BASSEY",
+          "p": "ADP",
+          "district": "ITU",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO IED IN DISASTER MNT",
+          "bg": "Contesting for ITU under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BASSEY ARCHIBONG BASSEY",
+          "p": "ADC",
+          "district": "ITU",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MSC. (Ed)",
+          "bg": "Contesting for ITU under ADC.",
+          "scores": [
+            57,
+            56,
+            63,
+            51,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "UDANG EMMANUEL UKOK",
+          "p": "APC",
+          "district": "ITU",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT FEDERAL CRAFT TRAINING CERT, WAEC HIGH NATIONAL DIPLOMA",
+          "bg": "Contesting for ITU under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "ANTIA EKENG ETEBONG",
+          "p": "APM",
+          "district": "ITU",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ITU under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "N EDEM PRINCE CHARLES",
+          "p": "DLA",
+          "district": "ITU",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO B.SC",
+          "bg": "Contesting for ITU under DLA.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "USORO VICTORIA",
+          "p": "NDP",
+          "district": "ITU",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE OND, BSC, MSC, PHD",
+          "bg": "Contesting for ITU under NDP.",
+          "scores": [
+            68,
+            48,
+            80,
+            48,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "OKON NKOYO ETIM",
+          "p": "NNPP",
+          "district": "I ITU",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ITU under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "OKON OKON ETIM",
+          "p": "NDC",
+          "district": "ITU",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ITU under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "EMAH EFFIONG ITAH",
+          "p": "PDP",
+          "district": "ITU",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.SC",
+          "bg": "Contesting for ITU under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "GERALD CHRISTOPHER TOM",
+          "p": "PRP",
+          "district": "ITU",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE B.Sc Geography and Regional Planning",
+          "bg": "Contesting for ITU under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "VALIANT PROGRESS UMOH",
+          "p": "SDP",
+          "district": "ITU",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE BSC",
+          "bg": "Contesting for ITU under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ISEMIN ETIM OKON",
+          "p": "ADP",
+          "district": "MBO",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC NIL",
+          "bg": "Contesting for MBO under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "JOSEPH OKON ETIM",
+          "p": "ADC",
+          "district": "MBO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.Sc",
+          "bg": "Contesting for MBO under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "BASSEY OKON EDET",
+          "p": "APC",
+          "district": "MBO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/SSCE CRS UNIVERSITY OF TECH",
+          "bg": "Contesting for MBO under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            67,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "BASSEY ASUKWO FRANKLIN",
+          "p": "APM",
+          "district": "MBO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MBO under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N GODWIN OKON UKAM",
+          "p": "DLA",
+          "district": "MBO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for MBO under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "GODWIN ETIM SOLOMON",
+          "p": "NDP",
+          "district": "MBO",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MBO under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "MOSES CHARLES EFFIONG",
+          "p": "NDC",
+          "district": "MBO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MBO under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NKUDA EFFIONG EFFIONG",
+          "p": "PDP",
+          "district": "I MBO",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for I MBO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "BASSEY-ESANG BASSEY EFIONG",
+          "p": "SDP",
+          "district": "MBO",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MBO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "INOH IDONGESIT AMOS",
+          "p": "ADC",
+          "district": "MKPAT ENIN",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB OND",
+          "bg": "Contesting for MKPAT ENIN under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "IMOH-ITA UWEM PETER",
+          "p": "APC",
+          "district": "MKPAT ENIN",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BSC",
+          "bg": "Contesting for MKPAT ENIN under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "EBE PATIENCE INIMFON",
+          "p": "APM",
+          "district": "MKPAT ENIN",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MKPAT ENIN under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "UBONG EKWERE ABEL",
+          "p": "NDP",
+          "district": "MKPAT ENIN",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MKPAT ENIN under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "GEORGE VICTOR NTA",
+          "p": "NDC",
+          "district": "MKPAT ENIN",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MKPAT ENIN under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UDO EMMANUEL SYLVESTER",
+          "p": "PDP",
+          "district": "MKPAT ENIN",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO/WAEC",
+          "bg": "Contesting for MKPAT ENIN under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "PAUL UWEMEDIMO DANIEL",
+          "p": "SDP",
+          "district": "MKPAT ENIN",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MKPAT ENIN under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N NYONG JIMMY EFFIONG",
+          "p": "ADP",
+          "district": "NSIT ATAI",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NIL",
+          "bg": "Contesting for NSIT ATAI under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "DAN EDEMIKOH ITA",
+          "p": "ADC",
+          "district": "NSIT ATAI",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB B.Eng",
+          "bg": "Contesting for NSIT ATAI under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            65,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "ATTAH PRINCE- ANIEFIOK OKON",
+          "p": "APC",
+          "district": "NSIT ATAI",
+          "age": "65",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE/SSCE OND",
+          "bg": "Contesting for NSIT ATAI under APC.",
+          "scores": [
+            52,
+            59,
+            50,
+            53,
+            77,
+            45
+          ]
+        },
+        {
+          "n": "AKPAN PAUL JAMES",
+          "p": "APM",
+          "district": "I NSIT ATAI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.A ARTS",
+          "bg": "Contesting for I NSIT ATAI under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN KINGSLEY EFFIONG",
+          "p": "DLA",
+          "district": "NSIT ATAI",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for NSIT ATAI under DLA.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UKO SUNDAY MATTHEW",
+          "p": "NDP",
+          "district": "NSIT ATAI",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for NSIT ATAI under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "UDONTUK ELIJAH ESANG",
+          "p": "NDC",
+          "district": "NSIT ATAI",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for NSIT ATAI under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NKANTA SAMUEL SAMUEL",
+          "p": "PDP",
+          "district": "NSIT ATAI",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Q.I.C IBEDU IDIKPA COMM. SEC SCH. IKOT UDOM",
+          "bg": "Contesting for NSIT ATAI under PDP.",
+          "scores": [
+            59,
+            50,
+            63,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "UDOH ANIEFIOK AKPAN",
+          "p": "SDP",
+          "district": "NSIT ATAI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NSIT ATAI under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "AKPAN IBORO NNA",
+          "p": "AAC",
+          "district": "NSIT IBOM",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Fslc Ssce",
+          "bg": "Contesting for NSIT IBOM under AAC.",
+          "scores": [
+            58,
+            54,
+            52,
+            49,
+            55,
+            68
+          ]
+        },
+        {
+          "n": "EFFIONG MFON BASSEY",
+          "p": "ADC",
+          "district": "NSIT IBOM",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for NSIT IBOM under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AKPAN ERIC EFFIONG",
+          "p": "APC",
+          "district": "NSIT IBOM",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSc",
+          "bg": "Contesting for NSIT IBOM under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "N WILLIAM IBORO SUNDAY",
+          "p": "APM",
+          "district": "NSIT IBOM",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for NSIT IBOM under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "EKPENYONG VICTORY AKANINYENE",
+          "p": "BP",
+          "district": "NSIT IBOM",
+          "age": "25",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE (FSLC) SENIOR SCHOOL CERTIFICATE (SSC - NECO) BACHELOR OF SCIENCE ( B.Sc)",
+          "bg": "Contesting for NSIT IBOM under BP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            71
+          ]
+        },
+        {
+          "n": "MFON AKPAN",
+          "p": "NDP",
+          "district": "I NSIT IBOM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I NSIT IBOM under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "JIM EMMANUEL SUNDAY",
+          "p": "NRM",
+          "district": "NSIT IBOM",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for NSIT IBOM under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ISAIAH JANET",
+          "p": "NNPP",
+          "district": "NSIT IBOM",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NSIT IBOM under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "JACKSON NSISONG CHARLES",
+          "p": "NDC",
+          "district": "NSIT IBOM",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for NSIT IBOM under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NATHANIEL GODWIN EMMANUEL",
+          "p": "PDP",
+          "district": "NSIT IBOM",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for NSIT IBOM under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "BASSEY DANIEL",
+          "p": "SDP",
+          "district": "NSIT IBOM",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NSIT IBOM under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "IBANGA GRACE",
+          "p": "ADP",
+          "district": "NSIT UBIUM",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NIL NIL",
+          "bg": "Contesting for NSIT UBIUM under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "GODWIN MICHEAL AVO",
+          "p": "ADC",
+          "district": "NSIT UBIUM",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for NSIT UBIUM under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "BOB OTOBONG EFFIONG",
+          "p": "APC",
+          "district": "NSIT UBIUM",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC IGCSE LLM",
+          "bg": "Contesting for NSIT UBIUM under APC.",
+          "scores": [
+            62,
+            51,
+            62,
+            53,
+            58,
+            66
+          ]
+        },
+        {
+          "n": "N ANYANG ABRAHAM ABRAHAM",
+          "p": "APM",
+          "district": "NSIT UBIUM",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for NSIT UBIUM under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "OWEN UDOUWEM UDOH",
+          "p": "NDP",
+          "district": "NSIT UBIUM",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for NSIT UBIUM under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "BRIGHT MOSES ISAAC",
+          "p": "NNPP",
+          "district": "NSIT UBIUM",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NSIT UBIUM under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "UMANA GODWIN BASSEY",
+          "p": "NDC",
+          "district": "I NSIT UBIUM",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I NSIT UBIUM under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "JOHNNY UDEME FRIDAY",
+          "p": "PDP",
+          "district": "NSIT UBIUM",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC",
+          "bg": "Contesting for NSIT UBIUM under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "ODOTUKANA EKPO",
+          "p": "PRP",
+          "district": "NSIT UBIUM",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for NSIT UBIUM under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "JOHN SAMUEL JOHN",
+          "p": "SDP",
+          "district": "NSIT UBIUM",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for NSIT UBIUM under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "SUNDAY BASSEY ISONG",
+          "p": "YPP",
+          "district": "NSIT UBIUM",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NSIT UBIUM under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "SIMON MAGDALENE SUNDAY",
+          "p": "ADP",
+          "district": "OKOBO",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for OKOBO under ADP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "OKON ITAOBONG ARCHIBONG",
+          "p": "ADC",
+          "district": "OKOBO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for OKOBO under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "BASSEY BASSEY PIUS",
+          "p": "APC",
+          "district": "OKOBO",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC, PGD",
+          "bg": "Contesting for OKOBO under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UKPONG NYONG UKPONG",
+          "p": "APM",
+          "district": "OKOBO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for OKOBO under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N DENIS ASANWANA",
+          "p": "NDP",
+          "district": "OKOBO",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKOBO under NDP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "BASSEY EDET EDET",
+          "p": "NDC",
+          "district": "OKOBO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for OKOBO under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ETONG NORA GREGORY",
+          "p": "PDP",
+          "district": "OKOBO",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NECO NCE",
+          "bg": "Contesting for OKOBO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "NYONG UDUAK LIVINUS",
+          "p": "SDP",
+          "district": "I OKOBO",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I OKOBO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UDO PAUL SUNDAY",
+          "p": "ADC",
+          "district": "ONNA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO/WAEC",
+          "bg": "Contesting for ONNA under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NELSON NELSON NTIA",
+          "p": "APC",
+          "district": "ONNA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MSC",
+          "bg": "Contesting for ONNA under APC.",
+          "scores": [
+            66,
+            51,
+            62,
+            53,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "JOHNNY SUNDAY UDOFOT",
+          "p": "APM",
+          "district": "ONNA",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for ONNA under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AKPAN ROBERT BASSEY",
+          "p": "DLA",
+          "district": "ONNA",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ONNA under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MFON EMMANUEL",
+          "p": "NDP",
+          "district": "ONNA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ONNA under NDP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OKON OTOBONG UMOREN",
+          "p": "NNPP",
+          "district": "ONNA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for ONNA under NNPP.",
+          "scores": [
+            61,
+            52,
+            59,
+            50,
+            53,
+            69
+          ]
+        },
+        {
+          "n": "SAM MBUOTIDEM PETERS",
+          "p": "NDC",
+          "district": "ONNA",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ONNA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "JOHNSON MBOSOWO UDO",
+          "p": "PDP",
+          "district": "ONNA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HND",
+          "bg": "Contesting for ONNA under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "N OKON BLESSING NATHANIEL",
+          "p": "SDP",
+          "district": "ONNA",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ONNA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "EFFIONG EBIEME",
+          "p": "A",
+          "district": "ORON/UDUNG UKO",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "primary",
+          "bg": "Contesting for ORON/UDUNG UKO under A.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "VICTOR FRANK ANTAK",
+          "p": "ADC",
+          "district": "ORON/UDUNG UKO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ORON/UDUNG UKO under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ONOFIOK KENIM VICTOR",
+          "p": "APC",
+          "district": "I ORON/UDUNG UKO",
+          "age": "54",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "TESTEMONIAL WAEC MBA",
+          "bg": "Contesting for I ORON/UDUNG UKO under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "OKON JEREMIAH",
+          "p": "APM",
+          "district": "ORON/UDUNG UKO",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ORON/UDUNG UKO under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ATTAH ANWANA",
+          "p": "NNPP",
+          "district": "ORON/UDUNG UKO",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ORON/UDUNG UKO under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "EDAGHA OKON",
+          "p": "NDC",
+          "district": "ORON/UDUNG UKO",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for ORON/UDUNG UKO under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ASUKWO ASUKWO ITA",
+          "p": "PDP",
+          "district": "ORON/UDUNG UKO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE/NECO B. SC",
+          "bg": "Contesting for ORON/UDUNG UKO under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "EFFIONG EFFIONG AKANAM",
+          "p": "PRP",
+          "district": "ORON/UDUNG UKO",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.Sc",
+          "bg": "Contesting for ORON/UDUNG UKO under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "IDUNG IDONGESIT EMMANUEL",
+          "p": "SDP",
+          "district": "ORON/UDUNG UKO",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ORON/UDUNG UKO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UBONG SUNDAY INYANG",
+          "p": "A",
+          "district": "ORUK ANAM",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "primary",
+          "bg": "Contesting for ORUK ANAM under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "BROWNSON GODWIN SUNDAY",
+          "p": "AA",
+          "district": "ORUK ANAM",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate Senior school certificate",
+          "bg": "Contesting for ORUK ANAM under AA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N OKORO INNOCENT SAMUEL",
+          "p": "ADC",
+          "district": "ORUK ANAM",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for ORUK ANAM under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "IDIONG SAMPSON BERNARD",
+          "p": "APC",
+          "district": "ORUK ANAM",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE UNIVERSITY OF CALABAR",
+          "bg": "Contesting for ORUK ANAM under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "EPHRAIM DINAH",
+          "p": "APM",
+          "district": "ORUK ANAM",
+          "age": "34",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for ORUK ANAM under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "PETER DANIEL MONDAY",
+          "p": "DLA",
+          "district": "I ORUK ANAM",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I ORUK ANAM under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "CLETINE GODWIN UDOH",
+          "p": "NDP",
+          "district": "ORUK ANAM",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for ORUK ANAM under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "DAVID COMFORT",
+          "p": "NNPP",
+          "district": "ORUK ANAM",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ORUK ANAM under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "STEPHEN EKAETTE FRIDAY",
+          "p": "NDC",
+          "district": "ORUK ANAM",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for ORUK ANAM under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UDOATAI ANIEFIOK SUNDAY",
+          "p": "PDP",
+          "district": "ORUK ANAM",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSC BA ED",
+          "bg": "Contesting for ORUK ANAM under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "JONAH UDUAKOBONG IZRAEL",
+          "p": "SDP",
+          "district": "ORUK ANAM",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ORUK ANAM under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "LUCKY SUNDAY ENANG",
+          "p": "ADC",
+          "district": "UKANAFUN",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for UKANAFUN under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "UDOM EMEM ETOKABASI",
+          "p": "APC",
+          "district": "UKANAFUN",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for UKANAFUN under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UDOUMOH UBONG SATURDAY",
+          "p": "APM",
+          "district": "UKANAFUN",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for UKANAFUN under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N BASSEY POWER IME",
+          "p": "DLA",
+          "district": "UKANAFUN",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for UKANAFUN under DLA.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "INYENE BENJAMIN ESHIET",
+          "p": "NDP",
+          "district": "UKANAFUN",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for UKANAFUN under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "EKONG NDIFREKE",
+          "p": "NDC",
+          "district": "I UKANAFUN",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I UKANAFUN under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "JACOB OTO-BONG JOHN",
+          "p": "PDP",
+          "district": "UKANAFUN",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HIGHER DIPLOMA",
+          "bg": "Contesting for UKANAFUN under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "JACKSON SAMUEL SUNDAY",
+          "p": "PRP",
+          "district": "UKANAFUN",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC OND",
+          "bg": "Contesting for UKANAFUN under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "AMOS KUFRE",
+          "p": "SDP",
+          "district": "UKANAFUN",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for UKANAFUN under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "INI URUA",
+          "p": "A",
+          "district": "URUAN",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "primary SSCE",
+          "bg": "Contesting for URUAN under A.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "NOAH IMEOBONG AKPANESHIET",
+          "p": "AA",
+          "district": "URUAN",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "First School Leaving Certficate WAEC",
+          "bg": "Contesting for URUAN under AA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ESSIEN ANIEFIOK",
+          "p": "ADP",
+          "district": "URUAN",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for URUAN under ADP.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "BOCCO KEVIN IME",
+          "p": "ADC",
+          "district": "URUAN",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for URUAN under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "ETIM ITOROBONG FRANCIS",
+          "p": "APC",
+          "district": "URUAN",
+          "age": "54",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE PhD",
+          "bg": "Contesting for URUAN under APC.",
+          "scores": [
+            58,
+            57,
+            74,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "N EYO ASUQUO BASSEY",
+          "p": "APM",
+          "district": "URUAN",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for URUAN under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "EMMANUEL OKON ESSIEN",
+          "p": "DLA",
+          "district": "URUAN",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for URUAN under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "PATRICIA CLEMENT INYANG",
+          "p": "NDP",
+          "district": "URUAN",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C",
+          "bg": "Contesting for URUAN under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "UWEM UDEME NYONG",
+          "p": "NNPP",
+          "district": "I URUAN",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WACE HND",
+          "bg": "Contesting for I URUAN under NNPP.",
+          "scores": [
+            65,
+            52,
+            59,
+            50,
+            62,
+            62
+          ]
+        },
+        {
+          "n": "EFFIONG GODWIN EDEM",
+          "p": "NDC",
+          "district": "URUAN",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for URUAN under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "EDET RUTH SYLVESTER",
+          "p": "PDP",
+          "district": "URUAN",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NECO/SSCE",
+          "bg": "Contesting for URUAN under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "INEMESIT OFFIONG OKON",
+          "p": "PRP",
+          "district": "URUAN",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for URUAN under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "MOSES ASUABIAT MATHEW",
+          "p": "SDP",
+          "district": "URUAN",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for URUAN under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ESANG ETIM OKWONG",
+          "p": "ADC",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "SELONG PRECIOUS AKAMBA",
+          "p": "APC",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE Masters of ARTS",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under APC.",
+          "scores": [
+            66,
+            51,
+            62,
+            53,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "ATANSEK ALEX GODWIN",
+          "p": "APM",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "BENJAMIN UMOH",
+          "p": "NDP",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE ORD, NAT DIPLOMA",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under NDP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "N IMADU MARY MFON",
+          "p": "NNPP",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC GCE",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "EDEM INYANG LAWRENCE",
+          "p": "NDC",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "JACKSON HELEN OKWONG",
+          "p": "PDP",
+          "district": "URUE OFFONG/ ORUKO",
+          "age": "32",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for URUE OFFONG/ ORUKO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "EDET UKO MERCY",
+          "p": "SDP",
+          "district": "I URUE OFFONG/ ORUKO",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I URUE OFFONG/ ORUKO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "AKPAN SAMUEL EDEM",
+          "p": "ADP",
+          "district": "UYO",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC NIL",
+          "bg": "Contesting for UYO under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "WILLIAMS PATRICK SAMBO",
+          "p": "ADC",
+          "district": "UYO",
+          "age": "70",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC/GCE NCE, B.Sc (ED), M.Sc (ED) PHD",
+          "bg": "Contesting for UYO under ADC.",
+          "scores": [
+            63,
+            58,
+            83,
+            51,
+            84,
+            49
+          ]
+        },
+        {
+          "n": "ASUQUO UWEMEDIMO DIANABASI",
+          "p": "APC",
+          "district": "UYO",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE B. A ED",
+          "bg": "Contesting for UYO under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "UKO INIOBONG SYLVESTER",
+          "p": "APM",
+          "district": "UYO",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for UYO under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OKON NTIENSE",
+          "p": "DLA",
+          "district": "UYO",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for UYO under DLA.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "IKPE GLORY DONATUS",
+          "p": "NNPP",
+          "district": "UYO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for UYO under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "UBOH FELIX EYO",
+          "p": "NDC",
+          "district": "UYO",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for UYO under NDC.",
+          "scores": [
+            47,
+            55,
+            47,
+            47,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "SUNDAY UBONG MOSES",
+          "p": "PDP",
+          "district": "UYO",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for UYO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "N IMOH INNOCENT SAMPSON",
+          "p": "PRP",
+          "district": "UYO",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for UYO under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "KING AKWAODODU",
+          "p": "SDP",
+          "district": "UYO",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for UYO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ANTHONY JOSEPH ESSONG",
+          "p": "YPP",
+          "district": "I UYO",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE Bsc",
+          "bg": "Contesting for I UYO under YPP.",
+          "scores": [
+            60,
+            49,
+            58,
+            49,
+            50,
+            74
+          ]
+        }
+      ]
+    }
+  }
+}

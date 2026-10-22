@@ -1,0 +1,173 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>9ja Politics</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Public+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: single-column civic guide. Hero with live countdown, office explorer, side-by-side candidate compare, voter checklist. */
+:root{
+  --bg:#f5f6f1; --surface:#ffffff; --fg:#14231b; --muted:#56655c; --line:#d8ddd2;
+  --green:#0b6b3a; --green-ink:#ffffff; --stamp:#c2410c; --tint:#e6efe4;
+  --display:"Bricolage Grotesque","Trebuchet MS",sans-serif;
+  --body:"Public Sans",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e1712; --surface:#16231b; --fg:#e9efe6; --muted:#9db0a2; --line:#2a3b31;
+  --green:#4fcf8a; --green-ink:#07210f; --stamp:#ff9a62; --tint:#1b2d22; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e1712; --surface:#16231b; --fg:#e9efe6; --muted:#9db0a2; --line:#2a3b31;
+  --green:#4fcf8a; --green-ink:#07210f; --stamp:#ff9a62; --tint:#1b2d22; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55;
+  padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:44px}
+h1,h2,h3{font-family:var(--display);line-height:1.08;text-wrap:balance;margin:0}
+h1{font-size:clamp(2.4rem,9vw,4.2rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:clamp(1.6rem,5vw,2.2rem);font-weight:800;letter-spacing:-.01em}
+h3{font-size:1.15rem;font-weight:600}
+p{margin:0}
+.eyebrow{font-family:var(--mono);font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.hero{display:flex;flex-direction:column;gap:16px;border-bottom:3px solid var(--green);padding-bottom:28px}
+.hero h1 span{color:var(--green)}
+.lede{max-width:60ch;color:var(--muted);font-size:1.05rem}
+.dates{display:flex;flex-wrap:wrap;gap:12px}
+.date{flex:1 1 220px;min-width:0;background:var(--surface);border:1px solid var(--line);padding:14px 16px;display:flex;flex-direction:column;gap:2px}
+.date b{font-family:var(--display);font-size:1.5rem}
+.date .n{font-family:var(--mono);color:var(--stamp);font-size:.85rem}
+section{display:flex;flex-direction:column;gap:18px;min-width:0}
+.tabs{display:flex;flex-wrap:wrap;gap:8px}
+button{font:inherit;cursor:pointer}
+.tab,.chip{border:1.5px solid var(--line);background:var(--surface);color:var(--fg);padding:8px 14px;border-radius:999px;font-weight:500}
+.tab[aria-selected="true"],.chip[aria-pressed="true"]{background:var(--green);border-color:var(--green);color:var(--green-ink)}
+button:focus-visible{outline:3px solid var(--stamp);outline-offset:2px}
+.panel{background:var(--surface);border:1px solid var(--line);padding:20px;display:flex;flex-direction:column;gap:16px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.fact{background:var(--tint);padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.fact b{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+ul{margin:6px 0 0;padding-left:1.1rem;display:flex;flex-direction:column;gap:4px}
+.impact{border-left:4px solid var(--stamp);padding-left:12px}
+.tablewrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line)}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:.95rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
+th{font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;width:130px}
+thead th{font-family:var(--display);font-size:1.05rem;text-transform:none;letter-spacing:0;color:var(--fg);font-weight:800}
+.party{font-family:var(--mono);font-size:.8rem;color:var(--green)}
+.note{font-size:.9rem;color:var(--muted);border:1px dashed var(--line);padding:12px 14px;max-width:70ch}
+.check{display:flex;flex-direction:column;gap:8px}
+.check label{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);padding:12px 14px;cursor:pointer}
+.check input{margin-top:4px;accent-color:var(--green);width:18px;height:18px;flex:none}
+.check input:checked+span{text-decoration:line-through;color:var(--muted)}
+footer{font-size:.85rem;color:var(--muted)}
+a{color:var(--green)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="hero">
+    <p class="eyebrow">Voter guide · 2027 general election</p>
+    <h1>9ja <span>Politics</span></h1>
+    <p class="lede">Know what each office does, see who is running, and compare candidates on the same facts before you vote.</p>
+    <div class="dates">
+      <div class="date"><span class="eyebrow">President and National Assembly</span><b>16 January 2027</b><span class="n" id="cd1"></span></div>
+      <div class="date"><span class="eyebrow">Governorship and State Assemblies</span><b>6 February 2027</b><span class="n" id="cd2"></span></div>
+    </div>
+  </header>
+
+  <section id="offices">
+    <p class="eyebrow">Why each vote matters</p>
+    <h2>Five offices, five different jobs</h2>
+    <p class="lede">The president gets the attention. The office closest to your daily life is often a different one.</p>
+    <div class="tabs" role="tablist" id="otabs"></div>
+    <div class="panel" id="opanel" role="tabpanel"></div>
+  </section>
+
+  <section id="compare">
+    <p class="eyebrow">Presidential race</p>
+    <h2>Compare candidates side by side</h2>
+    <p class="lede">Pick up to three. Every candidate is shown against the same fields so no one gets a longer write-up.</p>
+    <div class="tabs" id="chips" aria-label="Choose candidates"></div>
+    <div class="tablewrap"><table id="ctable"></table></div>
+    <p class="note">Ages, parties and running mates follow the final INEC list as reported by Nigerian media in October 2026. "Not confirmed" means we could not verify it from a source, not that it does not exist. Check names and tickets on inec.gov.ng, and read each manifesto yourself.</p>
+  </section>
+
+  <section id="ready">
+    <p class="eyebrow">Before election day</p>
+    <h2>Your voter checklist</h2>
+    <div class="check" id="check"></div>
+  </section>
+
+  <footer>9ja Politics is a non-partisan education project. It does not endorse any candidate or party. Governorship elections do not hold in every state in 2027, because some states vote in other years.</footer>
+</div>
+
+<script>
+var OFFICES=[
+ {k:"President",lvl:"Federal",seats:"1 (plus a vice president)",term:"4 years, max 2 terms",
+  does:["Heads the federal executive and is commander-in-chief of the armed forces","Proposes the national budget and appoints ministers (Senate confirms)","Sets foreign policy and signs or vetoes bills"],
+  life:"Fuel and exchange-rate policy, federal security, federal roads and power, tax rules on businesses."},
+ {k:"Governor",lvl:"State",seats:"36 (one per state)",term:"4 years, max 2 terms",
+  does:["Runs the state government and proposes the state budget","Controls state schools, hospitals and roads","Oversees local governments and coordinates security in the state"],
+  life:"Your state school system, primary healthcare, state roads, state taxes and levies."},
+ {k:"Senator",lvl:"Federal",seats:"109 (3 per state, 1 for FCT)",term:"4 years, no term limit",
+  does:["Makes national laws together with the House","Confirms ministers, ambassadors and heads of agencies","Approves the budget and investigates agencies"],
+  life:"How federal money is spent in your state and who gets federal appointments."},
+ {k:"House of Reps",lvl:"Federal",seats:"360 (by constituency)",term:"4 years, no term limit",
+  does:["Passes national laws and money bills","Oversees federal ministries and agencies","Brings federal projects and constituency funds to a local area"],
+  life:"The member who speaks for your federal constituency and can push projects in your area."},
+ {k:"State Assembly",lvl:"State",seats:"Varies by state",term:"4 years, no term limit",
+  does:["Makes state laws and approves the state budget","Checks the governor and confirms commissioners","Passes laws that affect local governments in the state"],
+  life:"State-level laws on land, education, local councils and how the governor spends money."}
+];
+var CANDS=[
+ {n:"Bola Tinubu",p:"APC",age:"74",rm:"Kashim Shettima (59)",edu:"B.Sc (as listed by INEC)",bg:"Incumbent president since May 2023. Governor of Lagos State 1999 to 2007."},
+ {n:"Atiku Abubakar",p:"ADC",age:"79",rm:"Not confirmed",edu:"Not confirmed",bg:"Vice president 1999 to 2007. Presidential candidate in previous elections."},
+ {n:"Peter Obi",p:"NDC",age:"65",rm:"Rabiu Kwankwaso (69)",edu:"Not confirmed",bg:"Governor of Anambra State 2006 to 2014. Labour Party candidate in 2023."},
+ {n:"Omoyele Sowore",p:"AAC",age:"Not confirmed",rm:"Not confirmed",edu:"Not confirmed",bg:"Activist and publisher. African Action Congress candidate."},
+ {n:"Adewole Adebayo",p:"SDP",age:"Not confirmed",rm:"Not confirmed",edu:"Not confirmed",bg:"Businessman and politician. Social Democratic Party candidate."},
+ {n:"Esther Okereke",p:"NRM",age:"Not confirmed",rm:"Not confirmed",edu:"Not confirmed",bg:"Film producer and actress. National Rescue Movement candidate."}
+];
+var FIELDS=[["Party","p"],["Age","age"],["Running mate","rm"],["Education","edu"],["Background","bg"]];
+var CHECK=["Confirm your Permanent Voter Card (PVC) is ready for collection or in hand","Check your polling unit on the INEC portal","Read each candidate's manifesto from the official source","Ask what each office can actually change, using the guide above","Plan how to get to your polling unit on election day"];
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function days(iso){var d=Math.ceil((new Date(iso+"T00:00:00")-new Date())/864e5);return d>0?d+" days to go":d===0?"Election day":"Held"}
+document.getElementById("cd1").textContent=days("2027-01-16");
+document.getElementById("cd2").textContent=days("2027-02-06");
+
+var ot=document.getElementById("otabs"),op=document.getElementById("opanel");
+function showOffice(i){
+  Array.prototype.forEach.call(ot.children,function(b,j){b.setAttribute("aria-selected",j===i)});
+  var o=OFFICES[i];op.textContent="";
+  op.appendChild(el("h3","",o.k+" · "+o.lvl));
+  var f=el("div","facts");
+  [["Seats",o.seats],["Term",o.term]].forEach(function(x){var d=el("div","fact");d.appendChild(el("b","",x[0]));d.appendChild(el("span","",x[1]));f.appendChild(d)});
+  op.appendChild(f);
+  var c=el("div","cols"),a=el("div"),ul=el("ul");
+  a.appendChild(el("p","eyebrow","What they do"));
+  o.does.forEach(function(t){ul.appendChild(el("li","",t))});a.appendChild(ul);
+  var b=el("div","impact");b.appendChild(el("p","eyebrow","What it means for you"));b.appendChild(el("p","",o.life));
+  c.appendChild(a);c.appendChild(b);op.appendChild(c);
+}
+OFFICES.forEach(function(o,i){var b=el("button","tab",o.k);b.setAttribute("role","tab");b.onclick=function(){showOffice(i)};ot.appendChild(b)});
+showOffice(0);
+
+var sel=[0,1,2],chips=document.getElementById("chips"),tb=document.getElementById("ctable");
+function drawCompare(){
+  Array.prototype.forEach.call(chips.children,function(b,i){b.setAttribute("aria-pressed",sel.indexOf(i)>-1)});
+  tb.textContent="";
+  var th=el("thead"),tr=el("tr");tr.appendChild(el("th"));
+  sel.forEach(function(i){tr.appendChild(el("th","",CANDS[i].n))});th.appendChild(tr);tb.appendChild(th);
+  var body=el("tbody");
+  FIELDS.forEach(function(f){var r=el("tr");r.appendChild(el("th","",f[0]));
+    sel.forEach(function(i){r.appendChild(el("td",f[1]==="p"?"party":"",CANDS[i][f[1]]))});body.appendChild(r)});
+  tb.appendChild(body);
+}
+CANDS.forEach(function(c,i){var b=el("button","chip",c.n);b.setAttribute("aria-pressed","false");
+  b.onclick=function(){var k=sel.indexOf(i);if(k>-1){if(sel.length>1)sel.splice(k,1)}else{if(sel.length>=3)sel.shift();sel.push(i)}drawCompare()};
+  chips.appendChild(b)});
+drawCompare();
+
+var ck=document.getElementById("check");
+CHECK.forEach(function(t,i){var l=el("label"),c=document.createElement("input");c.type="checkbox";c.id="ck"+i;
+  l.appendChild(c);l.appendChild(el("span","",t));ck.appendChild(l)});
+</script>
+
+</body></html>

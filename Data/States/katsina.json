@@ -1,0 +1,7942 @@
+{
+  "state": "Katsina",
+  "offices": {
+    "Governor": {
+      "constituency": "Katsina Statewide",
+      "candidates": [
+        {
+          "n": "GOVERNO",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "AAC",
+          "age": "56",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under AAC.",
+          "scores": [
+            50,
+            60,
+            52,
+            49,
+            65,
+            60
+          ]
+        },
+        {
+          "n": "A JIBRIN AUDU",
+          "p": "A",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under A.",
+          "scores": [
+            54,
+            48,
+            56,
+            48,
+            56,
+            55
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "ADC",
+          "age": "58",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "INU YAR'ADUA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            53,
+            47,
+            59,
+            47,
+            59,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "ADP",
+          "age": "51",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under ADP.",
+          "scores": [
+            48,
+            54,
+            60,
+            62,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "APC",
+          "age": "57",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under APC.",
+          "scores": [
+            52,
+            57,
+            62,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "AWAL FARUK",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            47,
+            47,
+            59,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "APM",
+          "age": "62",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "NATIONAL DIPLOMA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "IND",
+          "age": "44",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ABDULLAHI",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "A",
+          "age": "43",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "IBRAHIM",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "NRM",
+          "age": "60",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "PDP",
+          "age": "64",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "MMAN RUMAH",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "KATSINA",
+          "p": "IND",
+          "age": "46",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "HAMMAD MUSA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        },
+        {
+          "n": "DANSARAI MNI",
+          "p": "SDP",
+          "age": "67",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under SDP.",
+          "scores": [
+            51,
+            59,
+            51,
+            50,
+            73,
+            48
+          ]
+        },
+        {
+          "n": "Candidate Name",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Katsina under IND.",
+          "scores": [
+            53,
+            47,
+            55,
+            47,
+            57,
+            54
+          ]
+        }
+      ]
+    },
+    "Senate": {
+      "constituency": "Senatorial Districts",
+      "candidates": [
+        {
+          "n": "SADE MUSA",
+          "p": "ADP",
+          "district": "KATSINA NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for KATSINA NORTH under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "LAWAL SANI",
+          "p": "ADC",
+          "district": "KATSINA NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC NATIONAL DIPLOMA, HIGHER NATIONAL DIPLOMA,BACHELOR DEGREE,MASTERS",
+          "bg": "Contesting for KATSINA NORTH under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "YAHAYA NASIR",
+          "p": "APC",
+          "district": "KATSINA NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CIRTIFICATE SSCE BSc POLITICAL SCIENCE",
+          "bg": "Contesting for KATSINA NORTH under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ALKASIM SANUSI",
+          "p": "APM",
+          "district": "KATSINA NORTH",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for KATSINA NORTH under APM.",
+          "scores": [
+            54,
+            56,
+            56,
+            48,
+            74,
+            49
+          ]
+        },
+        {
+          "n": "MUSA USMAN",
+          "p": "NRM",
+          "district": "KATSINA NORTH",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE OND",
+          "bg": "Contesting for KATSINA NORTH under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "YAHAYA AMINU",
+          "p": "NDC",
+          "district": "KATSINA NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ISLAMMIYA SCHOOL GDSS FCE KANO",
+          "bg": "Contesting for KATSINA NORTH under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "N DAURA UMAR DAUDA",
+          "p": "PDP",
+          "district": "KATSINA NORTH",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SSCE HND CERT.",
+          "bg": "Contesting for KATSINA NORTH under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "ALH. MUSAPHA ABBA",
+          "p": "SDP",
+          "district": "KATSINA NORTH",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE IN CO-OPERATIVE STUDIES",
+          "bg": "Contesting for KATSINA NORTH under SDP.",
+          "scores": [
+            51,
+            59,
+            51,
+            50,
+            73,
+            48
+          ]
+        },
+        {
+          "n": "LAWAL UMAR",
+          "p": "ADP",
+          "district": "KATSINA SOUTH",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for KATSINA SOUTH under ADP.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "JAMILU MUHAMMAD KATSINA",
+          "p": "ADC",
+          "district": "I KATSINA SOUTH",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC/NECO ND",
+          "bg": "Contesting for I KATSINA SOUTH under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "DANDUTSE MUNTARI MOHAMMED",
+          "p": "APC",
+          "district": "KATSINA SOUTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE BA MIAD",
+          "bg": "Contesting for KATSINA SOUTH under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "HASSAN MOHAMMED DAUDADWA",
+          "p": "APM",
+          "district": "KATSINA SOUTH",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for KATSINA SOUTH under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "HUSSAIN ISHAK SULEIMAN",
+          "p": "NDC",
+          "district": "KATSINA SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KATSINA SOUTH under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "KHALIL MOHAMMED NUR",
+          "p": "PDP",
+          "district": "KATSINA SOUTH",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WEST AFRICAN SCHOOL CERTIFICATE B.ENG (CIVIL ENGINEERING)",
+          "bg": "Contesting for KATSINA SOUTH under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            65,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "BAWA RABIU",
+          "p": "PRP",
+          "district": "KATSINA SOUTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GOVT VOCATIONAL TRI SCHOOL",
+          "bg": "Contesting for KATSINA SOUTH under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "ALH. SAMAILA AMAJIR",
+          "p": "SDP",
+          "district": "KATSINA SOUTH",
+          "age": "64",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MA ED. AD/PL",
+          "bg": "Contesting for KATSINA SOUTH under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "ABBA GALADIMA SIRAJO",
+          "p": "ADP",
+          "district": "KATSINA CENTRAL",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE DIPLOMA",
+          "bg": "Contesting for KATSINA CENTRAL under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "N ABUBAKAR SADIQ YAR'ADUA",
+          "p": "ADC",
+          "district": "KATSINA CENTRAL",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE TEACHER'S GRADE 2 BA(HONS)",
+          "bg": "Contesting for KATSINA CENTRAL under ADC.",
+          "scores": [
+            57,
+            58,
+            71,
+            51,
+            78,
+            49
+          ]
+        },
+        {
+          "n": "YAR'ADUA MUSA ABDULAZIZ",
+          "p": "APC",
+          "district": "KATSINA CENTRAL",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE SCHOOL LEAVING CERTIFICATE DEGREE",
+          "bg": "Contesting for KATSINA CENTRAL under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AMINA LAWAL RAFINDADI",
+          "p": "APM",
+          "district": "KATSINA CENTRAL",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Sc ECONOMICS",
+          "bg": "Contesting for KATSINA CENTRAL under APM.",
+          "scores": [
+            68,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "GAMBO HAMISU",
+          "p": "PDP",
+          "district": "I KATSINA CENTRAL",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "GOBARAU PRIMARY SCHOOL KATSINA (FSCL_ GOVERNMENT COLLEGE, KATSINA (GCE)",
+          "bg": "Contesting for I KATSINA CENTRAL under PDP.",
+          "scores": [
+            57,
+            58,
+            59,
+            51,
+            80,
+            46
+          ]
+        },
+        {
+          "n": "MALAMI TUKUR MASANAWA",
+          "p": "PRP",
+          "district": "KATSINA CENTRAL",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASCE ABU ZARIA, UNIVERSITY OF MANCHESTER",
+          "bg": "Contesting for KATSINA CENTRAL under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "ALH. BELLO ADAMU SAFANA",
+          "p": "SDP",
+          "district": "KATSINA CENTRAL",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for KATSINA CENTRAL under SDP.",
+          "scores": [
+            51,
+            59,
+            51,
+            50,
+            73,
+            48
+          ]
+        }
+      ]
+    },
+    "House of Reps": {
+      "constituency": "Federal Constituencies",
+      "candidates": [
+        {
+          "n": "SANI ISMAILA",
+          "p": "ADP",
+          "district": "Bakori/Danja",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for Bakori/Danja under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ATTAHIR DABAI KABIR",
+          "p": "ADC",
+          "district": "Bakori/Danja",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Bakori/Danja under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "DABAI ABDULLAHI BALARABE",
+          "p": "APC",
+          "district": "Bakori/Danja",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WEST AFRICAN SCHOOL CERT BSc ECONOMICS, MBA",
+          "bg": "Contesting for Bakori/Danja under APC.",
+          "scores": [
+            78,
+            59,
+            70,
+            53,
+            87,
+            45
+          ]
+        },
+        {
+          "n": "BELLO IDRIS BAKORI",
+          "p": "APM",
+          "district": "Bakori/Danja",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Bakori/Danja under APM.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "SULEIMAN IBRAHIM",
+          "p": "NDC",
+          "district": "Bakori/Danja",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE BSC",
+          "bg": "Contesting for Bakori/Danja under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "N GUGA ABDULJABBAR SURAJO",
+          "p": "PDP",
+          "district": "Bakori/Danja",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "YARMAOUK N/D SCHOOL, KADUNA FEBEL SECONDARY SCHOOL MISSOURI STATE UNIVERSITY (WESTERN)",
+          "bg": "Contesting for Bakori/Danja under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "TSOHO IBRAHIM KALAH",
+          "p": "PRP",
+          "district": "Bakori/Danja",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for Bakori/Danja under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MURTALA MUHD DABAI",
+          "p": "SDP",
+          "district": "I Bakori/Danja",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Bakori/Danja under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "IBRAHIM ATIKU",
+          "p": "ADP",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "MURTALA L. BATAGARAWA",
+          "p": "ADC",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC BSC",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "MURTALA USMAN BANYE",
+          "p": "APC",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCH CERT SECONDARY SCH CERT BSC ARCHIECTURE",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "SULE ABDUL",
+          "p": "APM",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SANI JAMILU",
+          "p": "PDP",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERT SSCE/NECO COLLEGE OF EDUCATION",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under PDP.",
+          "scores": [
+            59,
+            50,
+            63,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ADDA'U YAHAYA",
+          "p": "PRP",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE MLAC",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "HASSAN USMAN",
+          "p": "SDP",
+          "district": "Batagarawa/ Charanchi/Rimi",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC DIPLOMA",
+          "bg": "Contesting for Batagarawa/ Charanchi/Rimi under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "MUHAMMED MUSA",
+          "p": "ADP",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "JAMILU MOHAMMED",
+          "p": "ADC",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEAVING CERTIFICARE SSCE B.SC ACCOUNTING",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under ADC.",
+          "scores": [
+            71,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "N ILIYASU ALIYU ABUBAKAR",
+          "p": "APC",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE BSC, MBA, PHD, ANAN",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under APC.",
+          "scores": [
+            64,
+            57,
+            82,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "JABIRU YUSUF YAUYAU",
+          "p": "APM",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABDULLAHI JAMILU",
+          "p": "NDC",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL TESTMONIAL SSCE",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "RUMA YAZID LAWAL",
+          "p": "PDP",
+          "district": "I Batsari/Safana/ Danmusa",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for I Batsari/Safana/ Danmusa under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ISAH AHMAD ABUBAKAR",
+          "p": "SDP",
+          "district": "Batsari/Safana/ Danmusa",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for Batsari/Safana/ Danmusa under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "BADAMASI ABDULLAHI",
+          "p": "ADP",
+          "district": "Bindawa/Mani",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Bindawa/Mani under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "AMINU SULEIMAN",
+          "p": "ADC",
+          "district": "Bindawa/Mani",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY LEVEL CERTIFICATE SSCE MASTERS",
+          "bg": "Contesting for Bindawa/Mani under ADC.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "ABDU JAMILA MANI",
+          "p": "APC",
+          "district": "Bindawa/Mani",
+          "age": "44",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC SSCE/WAEC BSc",
+          "bg": "Contesting for Bindawa/Mani under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "MAGAJI ABDULLAHI DAUDA",
+          "p": "APM",
+          "district": "Bindawa/Mani",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DOCTOR OF PHILOSOPHY",
+          "bg": "Contesting for Bindawa/Mani under APM.",
+          "scores": [
+            62,
+            48,
+            60,
+            48,
+            60,
+            63
+          ]
+        },
+        {
+          "n": "IBRAHIM MANI",
+          "p": "NDC",
+          "district": "Bindawa/Mani",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE",
+          "bg": "Contesting for Bindawa/Mani under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "HARUNA ALIYU JANI",
+          "p": "PDP",
+          "district": "Bindawa/Mani",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC TEACHERS GR II NIG CERTIFICATION EDU",
+          "bg": "Contesting for Bindawa/Mani under PDP.",
+          "scores": [
+            51,
+            56,
+            63,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ALI SULAIMAN",
+          "p": "ADP",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NASIR ABDURRASHID",
+          "p": "ADC",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE NABTEB CERTIFICATES B.SC SOFTWARE ENGINEERING, M.SC COMPUTER SYSTEMS ENGINEERING",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under ADC.",
+          "scores": [
+            71,
+            50,
+            71,
+            65,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "N MOHAMMADU BUHARI YUSUF",
+          "p": "APC",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CIRTIFICATE IGCSE BSC",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "MOHAMMED LAWAL NALADO",
+          "p": "APM",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "KAMALU ABUBAKAR",
+          "p": "NRM",
+          "district": "I Daura/Sandamu/ Mai'adua",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I Daura/Sandamu/ Mai'adua under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ALHASSAN AHMED",
+          "p": "NDC",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE PHD",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under NDC.",
+          "scores": [
+            57,
+            47,
+            71,
+            47,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "HARUNA SABIU",
+          "p": "PDP",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE NECO CERTIFICATE",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ISYAKU SANI LAWAL",
+          "p": "SDP",
+          "district": "Daura/Sandamu/ Mai'adua",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY NYSC CERTIFICATE",
+          "bg": "Contesting for Daura/Sandamu/ Mai'adua under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UMAR ABDULLAHI TSAURI",
+          "p": "ADC",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY LEVEL CERTIFICATE WAEC BACHELOR'S DEGREE",
+          "bg": "Contesting for Dutsin-ma/Kurfi under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "BALELE AMINU",
+          "p": "APC",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE/WAEC BSc",
+          "bg": "Contesting for Dutsin-ma/Kurfi under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "SULEIMAN MUBARAK",
+          "p": "APM",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Dutsin-ma/Kurfi under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ABUBAKAR AMINU BIRCHI",
+          "p": "NRM",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE FIRST DEGREE",
+          "bg": "Contesting for Dutsin-ma/Kurfi under NRM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "NURA GAMBO NA\u2019USHELI",
+          "p": "PDP",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NA\u2019ALHAJI PRIMARY SCHOOL GOVT. DAY SECONDARY SCHOOL",
+          "bg": "Contesting for Dutsin-ma/Kurfi under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "AMINU YAHAYA",
+          "p": "SDP",
+          "district": "Dutsin-ma/Kurfi",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Dutsin-ma/Kurfi under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "RABIU MUHAMMAD",
+          "p": "ADP",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N JAMILU YAHAYA ALIYU",
+          "p": "ADC",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE B.SC ECONOMICS",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under ADC.",
+          "scores": [
+            75,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "SULEMAN HAMZA",
+          "p": "APC",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FASKARI MODEL PRI SCHOOL GSS DUTSINMA SSCE BULK MPPA",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "MOHAMMED AHMED",
+          "p": "APM",
+          "district": "I Faskari/Kankara/ Sabuwa",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I Faskari/Kankara/ Sabuwa under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DALHATU SHEHU",
+          "p": "PDP",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NTC B. ENG (CIVIL ENGINEERING)",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            65,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "HAMISU HASSAN",
+          "p": "PRP",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "UMAR MUHAMMAD",
+          "p": "SDP",
+          "district": "Faskari/Kankara/ Sabuwa",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO NCE",
+          "bg": "Contesting for Faskari/Kankara/ Sabuwa under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "MAMUDABACA MUHAMMED",
+          "p": "ADP",
+          "district": "Funtua/Dandume",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSCL SSCE DIPLOMA HAUSA",
+          "bg": "Contesting for Funtua/Dandume under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MOHAMMED RABILU MUSA",
+          "p": "ADC",
+          "district": "Funtua/Dandume",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Funtua/Dandume under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AHMAD YAU",
+          "p": "APC",
+          "district": "Funtua/Dandume",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "DAN TANKARI PRI ARABIC TEACHER COLLAGE KATSINA AHMADU BELLO UNIVERSITY ZARIA",
+          "bg": "Contesting for Funtua/Dandume under APC.",
+          "scores": [
+            52,
+            57,
+            62,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "AMINU HARUNA ILIMI",
+          "p": "APM",
+          "district": "Funtua/Dandume",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Funtua/Dandume under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SAIDU IBRAHIM MUSA",
+          "p": "NDC",
+          "district": "Funtua/Dandume",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Funtua/Dandume under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MOHAMMAD ABUBAKAR",
+          "p": "PDP",
+          "district": "Funtua/Dandume",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ASASUL ISLAM PRIMARY SCHOOL, KANO HIS CERTIFICATE LL.B/BL AND MA ISLAMIC",
+          "bg": "Contesting for Funtua/Dandume under PDP.",
+          "scores": [
+            65,
+            64,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "SALEH AMINU",
+          "p": "PRP",
+          "district": "Funtua/Dandume",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE BSC",
+          "bg": "Contesting for Funtua/Dandume under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "N SALISU MAMMAN SHATA",
+          "p": "SDP",
+          "district": "Funtua/Dandume",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Funtua/Dandume under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SHEHU MUSTAPHA",
+          "p": "ADP",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SADA NUHU YASHE",
+          "p": "ADC",
+          "district": "I Ingawa/Kankia/ Kusada",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE CERTIFICATE",
+          "bg": "Contesting for I Ingawa/Kankia/ Kusada under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "MAHMUD MUSTAPHA",
+          "p": "APC",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SECONDRY SCHOOL CERTIFICATE MASTERS PUBLIC ADMIN",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under APC.",
+          "scores": [
+            66,
+            65,
+            62,
+            53,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "ABBA MAGAJI INGAWA",
+          "p": "APM",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC DIPLOMA",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "MUSA SALISU SALISU",
+          "p": "NRM",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "HASSAN ABUBAKAR",
+          "p": "PDP",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NATIONAL DIPLOMA",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ALIYU ISMA'IL YA'U",
+          "p": "PRP",
+          "district": "Ingawa/Kankia/ Kusada",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE ND Computer Studies",
+          "bg": "Contesting for Ingawa/Kankia/ Kusada under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MUHAMMAD ZAHARADDEEN",
+          "p": "ADP",
+          "district": "Jibia/Kaita",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Jibia/Kaita under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MUSA LAWAL",
+          "p": "ADC",
+          "district": "Jibia/Kaita",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE WAEC/NABTEB BSC,M.SC,PHD",
+          "bg": "Contesting for Jibia/Kaita under ADC.",
+          "scores": [
+            71,
+            50,
+            83,
+            51,
+            68,
+            63
+          ]
+        },
+        {
+          "n": "SOLI JIBIA SADA",
+          "p": "APC",
+          "district": "Jibia/Kaita",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT GRD II NCE, B.ED, MPA",
+          "bg": "Contesting for Jibia/Kaita under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "BABANGIDA ADAMU",
+          "p": "APM",
+          "district": "Jibia/Kaita",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Jibia/Kaita under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "N USMAN ISMAIL YANDAKI",
+          "p": "PDP",
+          "district": "Jibia/Kaita",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATE M.SC IN INTERNATIONAL RELATIONS",
+          "bg": "Contesting for Jibia/Kaita under PDP.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            66,
+            60
+          ]
+        },
+        {
+          "n": "ABDULLAHI ALIYU DANKAMA",
+          "p": "PRP",
+          "district": "Jibia/Kaita",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for Jibia/Kaita under PRP.",
+          "scores": [
+            50,
+            58,
+            52,
+            48,
+            73,
+            50
+          ]
+        },
+        {
+          "n": "MUHAMMAD SANI LAWAL",
+          "p": "SDP",
+          "district": "I Jibia/Kaita",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO DIPLOMA",
+          "bg": "Contesting for I Jibia/Kaita under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ABUBAKAR ILYASU",
+          "p": "ADP",
+          "district": "Malumfashi/Kafur",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Malumfashi/Kafur under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM BABANGIDA",
+          "p": "ADC",
+          "district": "Malumfashi/Kafur",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE G.C.E MASTER OF BUSINESS ADMIN",
+          "bg": "Contesting for Malumfashi/Kafur under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "IBRAHIM MUHAMMAD AMINU",
+          "p": "APC",
+          "district": "Malumfashi/Kafur",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FLSC SSCE NATIONAL DILPOMA MBA",
+          "bg": "Contesting for Malumfashi/Kafur under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "DADA LAWAL",
+          "p": "APM",
+          "district": "Malumfashi/Kafur",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for Malumfashi/Kafur under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SA\u2019AD NASIR AHMAD",
+          "p": "PDP",
+          "district": "Malumfashi/Kafur",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MAKERA PRIMARY SCHOOL, FUNTUA GREAT AMBASSADORS INTERNATIONAL COLLEGE",
+          "bg": "Contesting for Malumfashi/Kafur under PDP.",
+          "scores": [
+            67,
+            50,
+            71,
+            51,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "ASHIRU SALE",
+          "p": "SDP",
+          "district": "Malumfashi/Kafur",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC ADULT EDUCATION",
+          "bg": "Contesting for Malumfashi/Kafur under SDP.",
+          "scores": [
+            51,
+            57,
+            63,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "ISAH HAYATU",
+          "p": "ADP",
+          "district": "Katsina",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Katsina under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SALISU ISANSI",
+          "p": "ADC",
+          "district": "Katsina",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEAVING CERTIFICARE SSCE MASTERS",
+          "bg": "Contesting for Katsina under ADC.",
+          "scores": [
+            57,
+            56,
+            63,
+            51,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "MANGAL BARAU DAHIRU",
+          "p": "APC",
+          "district": "Katsina",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASSCE BARRISTER AT LAW",
+          "bg": "Contesting for Katsina under APC.",
+          "scores": [
+            62,
+            65,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "IRO AMINU",
+          "p": "APM",
+          "district": "Katsina",
+          "age": "69",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for Katsina under APM.",
+          "scores": [
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "SALIM BABANGIDA",
+          "p": "NRM",
+          "district": "Katsina",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Katsina under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N LAWAL MUHAMMAD MUKHTAR",
+          "p": "NDC",
+          "district": "Katsina",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL SSCE LLB/BL",
+          "bg": "Contesting for Katsina under NDC.",
+          "scores": [
+            57,
+            61,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "ABDULLAHI SABIU",
+          "p": "PRP",
+          "district": "Katsina",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE BSC",
+          "bg": "Contesting for Katsina under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "AL'AMIN YAHAYA SANI",
+          "p": "SDP",
+          "district": "Katsina",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "flsc ssce",
+          "bg": "Contesting for Katsina under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "JANAIDU MOHAMMAD",
+          "p": "ADP",
+          "district": "I Mashi/Dutsi",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I Mashi/Dutsi under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NAZIFI BELLO YUSUF",
+          "p": "ADC",
+          "district": "Mashi/Dutsi",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for Mashi/Dutsi under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "YUSUF MAJIGIRI SALISU",
+          "p": "APC",
+          "district": "Mashi/Dutsi",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION ADPA/ PGDPPA",
+          "bg": "Contesting for Mashi/Dutsi under APC.",
+          "scores": [
+            52,
+            57,
+            62,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "HARUNA GARBA",
+          "p": "APM",
+          "district": "Mashi/Dutsi",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEAC",
+          "bg": "Contesting for Mashi/Dutsi under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DAHIRU AMINU",
+          "p": "PDP",
+          "district": "Mashi/Dutsi",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SECONDARY SCHOOL CERTIFICATE IKA INSTITUTE OF COMPUTER TECHNOLOGY",
+          "bg": "Contesting for Mashi/Dutsi under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            65,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "SULE YUSUF SHABEJI",
+          "p": "SDP",
+          "district": "Mashi/Dutsi",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for Mashi/Dutsi under SDP.",
+          "scores": [
+            57,
+            59,
+            59,
+            50,
+            77,
+            48
+          ]
+        },
+        {
+          "n": "AHMAD SALISU",
+          "p": "ADP",
+          "district": "Matazu/Musawa",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Matazu/Musawa under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MAMUDA LAWAL MUSAWA",
+          "p": "ADC",
+          "district": "Matazu/Musawa",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE GCE (O) LEVEL MSC ESTATE MANAGEMENT",
+          "bg": "Contesting for Matazu/Musawa under ADC.",
+          "scores": [
+            71,
+            56,
+            63,
+            65,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "AHMAD ALIYU ABDULLAHI",
+          "p": "APC",
+          "district": "Matazu/Musawa",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Matazu/Musawa under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "N AHMED NURA TUGE",
+          "p": "APM",
+          "district": "Matazu/Musawa",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for Matazu/Musawa under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ASHIRU KABIRU MATAZU",
+          "p": "NDC",
+          "district": "Matazu/Musawa",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE GENERAL CERTIFICATE IN EDUCATION DOCTOR PF PHYLOSOPHY",
+          "bg": "Contesting for Matazu/Musawa under NDC.",
+          "scores": [
+            53,
+            53,
+            71,
+            47,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "AHMED SAMINU",
+          "p": "PDP",
+          "district": "Matazu/Musawa",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE CERTIFICATE DIPLOMA",
+          "bg": "Contesting for Matazu/Musawa under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "SALISU ALIYU",
+          "p": "ADP",
+          "district": "I Zango/Baure",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I Zango/Baure under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SADE AMINU",
+          "p": "ADC",
+          "district": "Zango/Baure",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for Zango/Baure under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "FARUK UMAR DAHA",
+          "p": "APC",
+          "district": "Zango/Baure",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BACHELOR OF SCIENCE DEGREE",
+          "bg": "Contesting for Zango/Baure under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "SANI SA'ADU",
+          "p": "APM",
+          "district": "Zango/Baure",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DEGREE",
+          "bg": "Contesting for Zango/Baure under APM.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "SALE YUSUF",
+          "p": "NRM",
+          "district": "Zango/Baure",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Zango/Baure under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADAMU MANSUR RABIU",
+          "p": "PDP",
+          "district": "Zango/Baure",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY LEAVING CERTIFICATE SSCE/NECO B.SC COMPUTER",
+          "bg": "Contesting for Zango/Baure under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "LAWAL ABU",
+          "p": "SDP",
+          "district": "Zango/Baure",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Zango/Baure under SDP.",
+          "scores": [
+            51,
+            59,
+            51,
+            50,
+            73,
+            48
+          ]
+        }
+      ]
+    },
+    "State Assembly": {
+      "constituency": "State Constituencies",
+      "candidates": [
+        {
+          "n": "MUSA MUSA",
+          "p": "ADP",
+          "district": "BAKORI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BAKORI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ALHASSAN SA'IDU",
+          "p": "ADC",
+          "district": "BAKORI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE HND",
+          "bg": "Contesting for BAKORI under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "AHMED ABDURRAHAMAN",
+          "p": "APC",
+          "district": "BAKORI",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for BAKORI under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "SHAMSU YAKUBU",
+          "p": "APM",
+          "district": "BAKORI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE HND",
+          "bg": "Contesting for BAKORI under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ADAMU IBRAHIM",
+          "p": "NNPP",
+          "district": "BAKORI",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BAKORI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ABDUWA SANI",
+          "p": "NDC",
+          "district": "BAKORI",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE",
+          "bg": "Contesting for BAKORI under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "TIJJANI SHAMSUDDEEN",
+          "p": "PDP",
+          "district": "BAKORI",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SECONDARY SCHOOL CERTIFICATE BSC CERTIFICATE",
+          "bg": "Contesting for BAKORI under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "ALIYU SAMA'ILA",
+          "p": "PRP",
+          "district": "BAKORI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BAKORI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "N DAUDA IBRAHIM",
+          "p": "YPP",
+          "district": "BAKORI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE N.D",
+          "bg": "Contesting for BAKORI under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "ABDULKARIM USMAN",
+          "p": "ADP",
+          "district": "BATAGARAWA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for BATAGARAWA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SAIDU BARAU",
+          "p": "ADC",
+          "district": "BATAGARAWA",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC NECO/SSCE MSC",
+          "bg": "Contesting for BATAGARAWA under ADC.",
+          "scores": [
+            61,
+            50,
+            63,
+            51,
+            55,
+            70
+          ]
+        },
+        {
+          "n": "BASHIR USMAN",
+          "p": "APC",
+          "district": "BATAGARAWA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for BATAGARAWA under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "GIDE MUZAMBIL",
+          "p": "APM",
+          "district": "I BATAGARAWA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for I BATAGARAWA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SANI YUSUF",
+          "p": "NNPP",
+          "district": "BATAGARAWA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BATAGARAWA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "UMAR SALE USMAN",
+          "p": "NDC",
+          "district": "BATAGARAWA",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC TRADE TEST CLASS 3 TRADE TEST CLASS 2",
+          "bg": "Contesting for BATAGARAWA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "SADA USMAN",
+          "p": "PDP",
+          "district": "BATAGARAWA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SECONDARY SCHOOL CERTIFICATE B SC",
+          "bg": "Contesting for BATAGARAWA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "MUNTARI IBRAHIM",
+          "p": "PRP",
+          "district": "BATAGARAWA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for BATAGARAWA under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "ISAH NURA",
+          "p": "ADP",
+          "district": "BATSARI",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSCL SSCE",
+          "bg": "Contesting for BATSARI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ZAHARADEEN IBRAHIM",
+          "p": "ADC",
+          "district": "BATSARI",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE NCE",
+          "bg": "Contesting for BATSARI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "TUKUR MUSTAPHA",
+          "p": "APC",
+          "district": "BATSARI",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BATSARI under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "SHAFIU SANI",
+          "p": "APM",
+          "district": "BATSARI",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for BATSARI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SHEHU ALIYU",
+          "p": "NNPP",
+          "district": "BATSARI",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BATSARI under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "MU'AZU UMAR",
+          "p": "NDC",
+          "district": "BATSARI",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BATSARI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "YUSUF ZAHRADDEEN",
+          "p": "PDP",
+          "district": "BATSARI",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE BSC",
+          "bg": "Contesting for BATSARI under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "SULAIMAN SAIFULLAHI",
+          "p": "PRP",
+          "district": "BATSARI",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE NCE",
+          "bg": "Contesting for BATSARI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "SURAJO NURA",
+          "p": "ADP",
+          "district": "BAURE",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BAURE under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NURA HARUNA",
+          "p": "ADC",
+          "district": "BAURE",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE NECO DIPLOMA",
+          "bg": "Contesting for BAURE under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UMAR SURAJO",
+          "p": "APC",
+          "district": "BAURE",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for BAURE under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "N SULEIMAN LAWAL",
+          "p": "APM",
+          "district": "BAURE",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for BAURE under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UMAR ZUBAIRU",
+          "p": "NNPP",
+          "district": "BAURE",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BAURE under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ZAHAIRU UMAR",
+          "p": "NDC",
+          "district": "BAURE",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BAURE ONE PRI SCH GRSS BAURE SCH OF HYGIENE KANO",
+          "bg": "Contesting for BAURE under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM BISHIR",
+          "p": "PDP",
+          "district": "I BAURE",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for I BAURE under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "IBRAHIM ABDULMUMINU",
+          "p": "SDP",
+          "district": "BAURE",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for BAURE under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "USMAN IBRAHIM",
+          "p": "ADP",
+          "district": "BINDAWA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for BINDAWA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ANAS BALA",
+          "p": "ADC",
+          "district": "BINDAWA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE NCE",
+          "bg": "Contesting for BINDAWA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "AHMAD SALIM",
+          "p": "APC",
+          "district": "BINDAWA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.TECH",
+          "bg": "Contesting for BINDAWA under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            67,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "UMAR ABDULMALIK",
+          "p": "APM",
+          "district": "BINDAWA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for BINDAWA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "HASSAN ABDULMALIK",
+          "p": "NNPP",
+          "district": "BINDAWA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for BINDAWA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ABUBAKAR SHAHID",
+          "p": "NDC",
+          "district": "BINDAWA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for BINDAWA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ISAH ABDULRASHID",
+          "p": "PDP",
+          "district": "BINDAWA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SSCE(NECO) B. SC CERTIFICATE",
+          "bg": "Contesting for BINDAWA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "NURA AHMED",
+          "p": "SDP",
+          "district": "BINDAWA",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC KANKIA HEALTH",
+          "bg": "Contesting for BINDAWA under SDP.",
+          "scores": [
+            59,
+            51,
+            63,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "KABIR BABANGIDA",
+          "p": "ADP",
+          "district": "CHARANCHI",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE NCE",
+          "bg": "Contesting for CHARANCHI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BUHARI SALE GIWA",
+          "p": "ADC",
+          "district": "CHARANCHI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for CHARANCHI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "SANI IBRAHIM",
+          "p": "APC",
+          "district": "CHARANCHI",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for CHARANCHI under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "MOHAMMED IBRAHIM",
+          "p": "APM",
+          "district": "CHARANCHI",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for CHARANCHI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ADNAN ALIYU",
+          "p": "NRM",
+          "district": "CHARANCHI",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for CHARANCHI under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "DAU ABUBAKAR",
+          "p": "NNPP",
+          "district": "CHARANCHI",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for CHARANCHI under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "MUHAMMAD SHUAIBU",
+          "p": "NDC",
+          "district": "CHARANCHI",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for CHARANCHI under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N GANUA TANIMU ZUBAIRU",
+          "p": "PDP",
+          "district": "CHARANCHI",
+          "age": "68",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE OF PRIMARY EDUCATION TEACHER'S GRADE II BACHELOR OF SCIENCE IN AGRICULTURE",
+          "bg": "Contesting for CHARANCHI under PDP.",
+          "scores": [
+            57,
+            58,
+            71,
+            51,
+            80,
+            46
+          ]
+        },
+        {
+          "n": "SANI NUHU",
+          "p": "PRP",
+          "district": "CHARANCHI",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for CHARANCHI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "IDRIS ALIYU",
+          "p": "ADP",
+          "district": "I DANDUME",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I DANDUME under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "HAMISU ABDU GARKULLA",
+          "p": "ADC",
+          "district": "DANDUME",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC DIPLOMA",
+          "bg": "Contesting for DANDUME under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NUHU YAHAYA MAHUTA",
+          "p": "APC",
+          "district": "DANDUME",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DANDUME under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "AMINU SULEIMAN",
+          "p": "APM",
+          "district": "DANDUME",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE N.C.E",
+          "bg": "Contesting for DANDUME under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "YUSUF MANNIR",
+          "p": "NNPP",
+          "district": "DANDUME",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DANDUME under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MUSA ALIYU",
+          "p": "NDC",
+          "district": "DANDUME",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MAHUTA MODEL SSCE COLLEGE OF ADMIN",
+          "bg": "Contesting for DANDUME under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "LAWAL SHAMSU",
+          "p": "PDP",
+          "district": "DANDUME",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY SCHOOL CERTIFICATE SECONDARY CERTIFICATE NCE, DEGREE & NYSC CERTIFICATE",
+          "bg": "Contesting for DANDUME under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "SAYYABU IDRIS",
+          "p": "SDP",
+          "district": "DANDUME",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for DANDUME under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "HAMZA HUSSAINI",
+          "p": "ADP",
+          "district": "DANJA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for DANJA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "AHMAD UMAR",
+          "p": "ADC",
+          "district": "DANJA",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for DANJA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ABUBAKAR-DABAI SHAMSUDDEEN",
+          "p": "APC",
+          "district": "DANJA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MBA",
+          "bg": "Contesting for DANJA under APC.",
+          "scores": [
+            72,
+            51,
+            70,
+            53,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "ABDULAZIZ MUSTAPHA",
+          "p": "APM",
+          "district": "DANJA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE ND",
+          "bg": "Contesting for DANJA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IBRAHIM ADAMU",
+          "p": "NNPP",
+          "district": "DANJA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DANJA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "SHEHU KABIR BUHARI",
+          "p": "NDC",
+          "district": "DANJA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for DANJA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "N YUSUF ABDUL KAHUTU",
+          "p": "PDP",
+          "district": "DANJA",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SECONDARY SCHOOL CERTIFICATE ORDINARY DIPLOMA CERTIFICATE",
+          "bg": "Contesting for DANJA under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ISAH RABIU",
+          "p": "PRP",
+          "district": "DANJA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GOVT. RURAL BOAR.SEC SCH DANJA",
+          "bg": "Contesting for DANJA under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "AUWAL IBRAHIM SABIU",
+          "p": "SDP",
+          "district": "DANJA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for DANJA under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "SANUSI TUKUR",
+          "p": "ADP",
+          "district": "DANMUSA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for DANMUSA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ADAMU RABILU",
+          "p": "ADC",
+          "district": "I DANMUSA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC CERTIFICATE UNIVERSITY CERTIFICATE",
+          "bg": "Contesting for I DANMUSA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "GARBA AMINU",
+          "p": "APC",
+          "district": "DANMUSA",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DANMUSA under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ABDULLAHI MUSA MARA",
+          "p": "APM",
+          "district": "DANMUSA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DEGREE",
+          "bg": "Contesting for DANMUSA under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "HASSAN TASIU",
+          "p": "NNPP",
+          "district": "DANMUSA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DANMUSA under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "ABDULLAHI ABUBAKAR",
+          "p": "NDC",
+          "district": "DANMUSA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for DANMUSA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SANI SADDAM",
+          "p": "PDP",
+          "district": "DANMUSA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE B. SC",
+          "bg": "Contesting for DANMUSA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "AMIRU MAHADI",
+          "p": "PRP",
+          "district": "DANMUSA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC NECO NCE",
+          "bg": "Contesting for DANMUSA under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "SADIK M. DANMUSA",
+          "p": "SDP",
+          "district": "DANMUSA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for DANMUSA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "YAU TUKUR",
+          "p": "ADP",
+          "district": "DAURA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for DAURA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM BALA",
+          "p": "ADC",
+          "district": "DAURA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE GCE (O) LEVEL NCE",
+          "bg": "Contesting for DAURA under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "SADE BASHIR",
+          "p": "APC",
+          "district": "DAURA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MB.A",
+          "bg": "Contesting for DAURA under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "UMAR ADAMU",
+          "p": "APM",
+          "district": "DAURA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for DAURA under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "JAWAD UMAR",
+          "p": "NNPP",
+          "district": "DAURA",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DAURA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MAMMAN HAMISU",
+          "p": "NDC",
+          "district": "DAURA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ISLAMIYYA PRI SCH GDSS ISA KAITA COE",
+          "bg": "Contesting for DAURA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "N GALI YAZID",
+          "p": "PDP",
+          "district": "DAURA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SECONDARY SCHOOL CERTIFICATE DIPLOMA",
+          "bg": "Contesting for DAURA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "MUHAMMAD NASIRU",
+          "p": "PRP",
+          "district": "DAURA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC Grade 2 teachers Certificate NCE",
+          "bg": "Contesting for DAURA under PRP.",
+          "scores": [
+            50,
+            56,
+            64,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "SURAJO UMAR",
+          "p": "SDP",
+          "district": "DAURA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for DAURA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SULAIMAN MUHAMMAD",
+          "p": "ADP",
+          "district": "DUTSI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for DUTSI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "HARUNA ALIYU YAMEL",
+          "p": "ADC",
+          "district": "I DUTSI",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE GCE",
+          "bg": "Contesting for I DUTSI under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "SAMAILA ABDULJALAL",
+          "p": "APC",
+          "district": "DUTSI",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for DUTSI under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "AMINU NUHU",
+          "p": "APM",
+          "district": "DUTSI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DUTSI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SADIQ UMAR",
+          "p": "NNPP",
+          "district": "DUTSI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for DUTSI under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "AMADU ABDURRAHMAN",
+          "p": "NDC",
+          "district": "DUTSI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL WAEC",
+          "bg": "Contesting for DUTSI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BAWA YUSUF",
+          "p": "PDP",
+          "district": "DUTSI",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DIPLOMA",
+          "bg": "Contesting for DUTSI under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "AHMAD ABDURRAHMAN",
+          "p": "PRP",
+          "district": "DUTSI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DUTSI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "LAWAL ABBAS",
+          "p": "ADP",
+          "district": "DUTSIN-MA",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSCL SSCE",
+          "bg": "Contesting for DUTSIN-MA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MUHSIN GARBO LAWAL",
+          "p": "ADC",
+          "district": "DUTSIN-MA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SCHOOL LEAVING CERTIFICATE WAEC MASTERS",
+          "bg": "Contesting for DUTSIN-MA under ADC.",
+          "scores": [
+            61,
+            50,
+            63,
+            51,
+            55,
+            70
+          ]
+        },
+        {
+          "n": "NUHU SULEIMAN KUKI",
+          "p": "APC",
+          "district": "DUTSIN-MA",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for DUTSIN-MA under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "DAHIRU AWWAL KAROFI",
+          "p": "APM",
+          "district": "DUTSIN-MA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for DUTSIN-MA under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MUKTAR MOHD KADO",
+          "p": "NNPP",
+          "district": "DUTSIN-MA",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DUTSIN-MA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "HARUNA ABDULKADIR",
+          "p": "NDC",
+          "district": "DUTSIN-MA",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for DUTSIN-MA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ABDULRAHAMAN YAHUZA",
+          "p": "PDP",
+          "district": "DUTSIN-MA",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for DUTSIN-MA under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "IBRAHIM NURA",
+          "p": "PRP",
+          "district": "DUTSIN-MA",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GOVT. DAY SEC. SCH",
+          "bg": "Contesting for DUTSIN-MA under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "SHUAIBU SANI",
+          "p": "SDP",
+          "district": "DUTSIN-MA",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for DUTSIN-MA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N MUKHTAR LADAN KASIM",
+          "p": "ADP",
+          "district": "FASKARI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE DIPLOMA",
+          "bg": "Contesting for FASKARI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "IBRAHIM ABBA MOH'D",
+          "p": "ADC",
+          "district": "FASKARI",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC",
+          "bg": "Contesting for FASKARI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "IDRIS BALA MAIRUWA",
+          "p": "APC",
+          "district": "FASKARI",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for FASKARI under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UMAR ABDULKARIM",
+          "p": "APM",
+          "district": "FASKARI",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for FASKARI under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SANI MAITAYA",
+          "p": "NNPP",
+          "district": "I FASKARI",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I FASKARI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "NUHU LAWAL LAWAL",
+          "p": "NDC",
+          "district": "FASKARI",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MODEL PRI SCH BILBIS SEC SCH TSAFE SHEHU SHAGARI COLL OF EDU",
+          "bg": "Contesting for FASKARI under NDC.",
+          "scores": [
+            47,
+            53,
+            59,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ADAMU KALID BILBIS",
+          "p": "PDP",
+          "district": "FASKARI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE",
+          "bg": "Contesting for FASKARI under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ABUBAKAR YAHAYA",
+          "p": "PRP",
+          "district": "FASKARI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for FASKARI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MANI JAMILU",
+          "p": "ADP",
+          "district": "FUNTUA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for FUNTUA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "TIJJANI MAGAJI",
+          "p": "ADC",
+          "district": "FUNTUA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE NECO DEGREE",
+          "bg": "Contesting for FUNTUA under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "MUHAMMAD TUKUR YUSUF",
+          "p": "APC",
+          "district": "FUNTUA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE MBA",
+          "bg": "Contesting for FUNTUA under APC.",
+          "scores": [
+            68,
+            51,
+            70,
+            53,
+            62,
+            66
+          ]
+        },
+        {
+          "n": "ALIYU SHEHU FUNTUA",
+          "p": "APM",
+          "district": "FUNTUA",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for FUNTUA under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AUWAL MUHAMMAD",
+          "p": "NNPP",
+          "district": "FUNTUA",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for FUNTUA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MUHAMMAD ALMAJIR",
+          "p": "NDC",
+          "district": "FUNTUA",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for FUNTUA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "USMAN AMINU",
+          "p": "PDP",
+          "district": "FUNTUA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for FUNTUA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "GARBA BISHIR",
+          "p": "PRP",
+          "district": "FUNTUA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC CERTIFICATE",
+          "bg": "Contesting for FUNTUA under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "ABUBAKAR LAWAL",
+          "p": "SDP",
+          "district": "FUNTUA",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for FUNTUA under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "SULAIMAN BUHARI",
+          "p": "ADP",
+          "district": "INGAWA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for INGAWA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ALIYU YUSUF",
+          "p": "ADC",
+          "district": "INGAWA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE NCE",
+          "bg": "Contesting for INGAWA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MUHAMMAD AKILU",
+          "p": "APC",
+          "district": "INGAWA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for INGAWA under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "N SANUSI LAWAL",
+          "p": "APM",
+          "district": "INGAWA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for INGAWA under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "RABIU MUHAMMAD",
+          "p": "NNPP",
+          "district": "INGAWA",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for INGAWA under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "DANJUMA UMMARU",
+          "p": "NDC",
+          "district": "INGAWA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE CEERTIFICATE",
+          "bg": "Contesting for INGAWA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "BADAMASI MUHAMMADU",
+          "p": "PDP",
+          "district": "I INGAWA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DIPLOMA",
+          "bg": "Contesting for I INGAWA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "IDRIS NAJIB",
+          "p": "PRP",
+          "district": "INGAWA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for INGAWA under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "AMINU ISAH NABANYE",
+          "p": "SDP",
+          "district": "INGAWA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for INGAWA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UMAR ABDULLAHI",
+          "p": "ADP",
+          "district": "JIBIA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for JIBIA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NURA YUNUSA",
+          "p": "ADC",
+          "district": "JIBIA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for JIBIA under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "LAWAL AMINU",
+          "p": "APC",
+          "district": "JIBIA",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JIBIA under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "SHAFIU ZUBAIRU",
+          "p": "APM",
+          "district": "JIBIA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for JIBIA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "USAINI LAWAL ABUBAKAR",
+          "p": "NRM",
+          "district": "JIBIA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSCL SSCE",
+          "bg": "Contesting for JIBIA under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "LAWAL MAI GWANJO",
+          "p": "NNPP",
+          "district": "JIBIA",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for JIBIA under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "SALISU SANI",
+          "p": "NDC",
+          "district": "JIBIA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC CERTIFICATE CERTIFICATE",
+          "bg": "Contesting for JIBIA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SANI HAMISU",
+          "p": "PDP",
+          "district": "JIBIA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE FSCL NIL",
+          "bg": "Contesting for JIBIA under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "LAWAL YUSUF",
+          "p": "PRP",
+          "district": "JIBIA",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GOV'T DAY SEC. SCH, JIBIA",
+          "bg": "Contesting for JIBIA under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "HAMISU MUSA",
+          "p": "ADP",
+          "district": "KAFUR",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE B TECH",
+          "bg": "Contesting for KAFUR under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            62,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ASHIRU SANI",
+          "p": "ADC",
+          "district": "KAFUR",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for KAFUR under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "WAKILI SHU'AIBU",
+          "p": "APC",
+          "district": "KAFUR",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE GCE",
+          "bg": "Contesting for KAFUR under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "HALLIRU HAMISU",
+          "p": "APM",
+          "district": "KAFUR",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for KAFUR under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "SA'IDU SAMA'ILA",
+          "p": "NRM",
+          "district": "KAFUR",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for KAFUR under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IBRAHIM SANI",
+          "p": "NNPP",
+          "district": "KAFUR",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for KAFUR under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "N GARBA SAMAILA",
+          "p": "NDC",
+          "district": "KAFUR",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for KAFUR under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ABUBAKAR SANUSI",
+          "p": "PDP",
+          "district": "KAFUR",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEAVING CERTIFICATE SSCE CERTIFICATE NCE CERTIFICATE",
+          "bg": "Contesting for KAFUR under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "MUSTAPHA ISAH HUGUMA",
+          "p": "SDP",
+          "district": "I KAFUR",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO DIPLOMA",
+          "bg": "Contesting for I KAFUR under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ABDULLAHI ALIYU",
+          "p": "ADP",
+          "district": "KANKIA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANKIA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "LAWAL HADIZA",
+          "p": "AAC",
+          "district": "KANKIA",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC",
+          "bg": "Contesting for KANKIA under AAC.",
+          "scores": [
+            54,
+            54,
+            52,
+            49,
+            46,
+            75
+          ]
+        },
+        {
+          "n": "MUHAMMED YUSUF",
+          "p": "ADC",
+          "district": "KANKIA",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC ND",
+          "bg": "Contesting for KANKIA under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "IBRAHIM GYAZA BISHIR",
+          "p": "APC",
+          "district": "KANKIA",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for KANKIA under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "BABANGIDA ISAH",
+          "p": "APM",
+          "district": "KANKIA",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.A",
+          "bg": "Contesting for KANKIA under APM.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "UMAR AHMAD",
+          "p": "NNPP",
+          "district": "KANKIA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KANKIA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ABDULKARIM MANNIR",
+          "p": "NDC",
+          "district": "KANKIA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BATC",
+          "bg": "Contesting for KANKIA under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ALI SALISU SUKUNTUNI",
+          "p": "PDP",
+          "district": "KANKIA",
+          "age": "63",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE G.C.E RESULT",
+          "bg": "Contesting for KANKIA under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ABUBAKAR SAMINU",
+          "p": "PRP",
+          "district": "KANKIA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for KANKIA under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "YAKUBU AHMAD AIPAYIWA",
+          "p": "SDP",
+          "district": "KANKIA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for KANKIA under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "BALARABE NASIR",
+          "p": "ADP",
+          "district": "KAITA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KAITA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SHAMSUDEEN MAGAJI",
+          "p": "ADC",
+          "district": "KAITA",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE TEACHERS GRADE 2 NCE(TECHNICAL)",
+          "bg": "Contesting for KAITA under ADC.",
+          "scores": [
+            51,
+            56,
+            63,
+            65,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "ABDU SURAJO",
+          "p": "APC",
+          "district": "KAITA",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KAITA under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "BALARABE ABUBAKAR",
+          "p": "APM",
+          "district": "KAITA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE SOCIAL WELFARE CERTIFICATE",
+          "bg": "Contesting for KAITA under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AMINU ABUBAKAR",
+          "p": "NNPP",
+          "district": "KAITA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KAITA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "N SULAIMAN SHAFI'U",
+          "p": "NDC",
+          "district": "KAITA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE TESTIMONIAL WAEC&NECO CERTIFICATE",
+          "bg": "Contesting for KAITA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "HAMZA SA'IDU RADI",
+          "p": "PDP",
+          "district": "KAITA",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEAVING CERTIFICATE SSCE CERTIFICATE DIPLOMA IN COMPUTER",
+          "bg": "Contesting for KAITA under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ABUBAKAR JIBRIL",
+          "p": "PRP",
+          "district": "I KAITA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FAMILY SUPPORT PROGRAMME AUUTIE RAMATU COLLEGE FEDERAL COLLEGE OF EDUCATION",
+          "bg": "Contesting for I KAITA under PRP.",
+          "scores": [
+            54,
+            50,
+            64,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "SAHA RABIU",
+          "p": "SDP",
+          "district": "KAITA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO HND",
+          "bg": "Contesting for KAITA under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "YAU MAAZU",
+          "p": "ADP",
+          "district": "KANKARA",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for KANKARA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MUSA SALIHU",
+          "p": "ADC",
+          "district": "KANKARA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO NCE",
+          "bg": "Contesting for KANKARA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ABDU IBRAHIM LAWAL",
+          "p": "APC",
+          "district": "KANKARA",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KANKARA under APC.",
+          "scores": [
+            52,
+            59,
+            50,
+            53,
+            77,
+            45
+          ]
+        },
+        {
+          "n": "SABIU HAMISU",
+          "p": "APM",
+          "district": "KANKARA",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for KANKARA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABDULLAHI IBRAHIM",
+          "p": "NNPP",
+          "district": "KANKARA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for KANKARA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MOHAMMAD SANUSI KANKARA",
+          "p": "NDC",
+          "district": "KANKARA",
+          "age": "60",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "KANKARA PRI SCH GSS KACHIA CPAA",
+          "bg": "Contesting for KANKARA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "IBRAHIM ABDULWASI",
+          "p": "PDP",
+          "district": "KANKARA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "KANO CAPITAL SCHOOL FEDERAL GOVERNMENT COLLEGE, KANO BAYERO UNIVERSITY, KANO",
+          "bg": "Contesting for KANKARA under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "TASI'U SANUSI",
+          "p": "PRP",
+          "district": "KANKARA",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for KANKARA under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "YUSUF ABDULKADIR",
+          "p": "ADP",
+          "district": "KATSINA",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KATSINA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "YASIR IBRAHIM",
+          "p": "ADC",
+          "district": "KATSINA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE WAEC",
+          "bg": "Contesting for KATSINA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ABUBAKAR ALIYU",
+          "p": "APC",
+          "district": "KATSINA",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for KATSINA under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ABBATI JAMILU",
+          "p": "APM",
+          "district": "KATSINA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
+          "bg": "Contesting for KATSINA under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "AMINU MAMUDA",
+          "p": "NRM",
+          "district": "KATSINA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KATSINA under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N BALA MAIMUNA",
+          "p": "NNPP",
+          "district": "KATSINA",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KATSINA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "HUSSAINI IBRAHIM MOHAMMED",
+          "p": "NDC",
+          "district": "KATSINA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC O-LEVEL BSC",
+          "bg": "Contesting for KATSINA under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "MUHAMMED AHMAD ABDULLAHI",
+          "p": "PDP",
+          "district": "KATSINA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SSCE UDOS",
+          "bg": "Contesting for KATSINA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "SHU'AIBU ABDULLAHI",
+          "p": "PRP",
+          "district": "I KATSINA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC KOFAR KAURA GOVT. DAY S.S UMARY MUSA YAR ADUA",
+          "bg": "Contesting for I KATSINA under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "RAHANATU SULEIMAN",
+          "p": "SDP",
+          "district": "KATSINA",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC BECE",
+          "bg": "Contesting for KATSINA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "MUSTAPHA SAHALU",
+          "p": "ADP",
+          "district": "KURFI",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for KURFI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ZAHARADDIN MUHAMMED",
+          "p": "ADC",
+          "district": "KURFI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE NECO NCE",
+          "bg": "Contesting for KURFI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ILIYA SHUAIBU",
+          "p": "APC",
+          "district": "KURFI",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KURFI under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ALIYU ISYAKU AHMADU",
+          "p": "APM",
+          "district": "KURFI",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE NCE",
+          "bg": "Contesting for KURFI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "SANUSI BELLO",
+          "p": "NNPP",
+          "district": "KURFI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for KURFI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "LAWAL SHAIBU",
+          "p": "NDC",
+          "district": "KURFI",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KURFI under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "DANGORO JUME",
+          "p": "PDP",
+          "district": "KURFI",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B A",
+          "bg": "Contesting for KURFI under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "YUSUF RABIU",
+          "p": "PRP",
+          "district": "KURFI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC CERTIFICATE NCE",
+          "bg": "Contesting for KURFI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "SAHALU GARBA KURFI",
+          "p": "SDP",
+          "district": "KURFI",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for KURFI under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "HASSAN AHMED",
+          "p": "ADP",
+          "district": "KUSADA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for KUSADA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ALIYU SANI",
+          "p": "ADC",
+          "district": "KUSADA",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for KUSADA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "GHALI GARBA",
+          "p": "APC",
+          "district": "KUSADA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KUSADA under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "ABDULHAFIZ ASIMU",
+          "p": "APM",
+          "district": "KUSADA",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KUSADA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N AMINU LAWAL",
+          "p": "NNPP",
+          "district": "KUSADA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for KUSADA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "YUNUS ALYASA'U",
+          "p": "NDC",
+          "district": "KUSADA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "KOFA PRI GOV SEC SCH KOFA GIDAN KWAKWA KATSINA",
+          "bg": "Contesting for KUSADA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "USMAN UMAR",
+          "p": "PDP",
+          "district": "KUSADA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE NCE",
+          "bg": "Contesting for KUSADA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "SA'ID IBRAHIM",
+          "p": "ADP",
+          "district": "I MALUMFASHI EAST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I MALUMFASHI EAST under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "USMAN ABDULMUMINI",
+          "p": "ADC",
+          "district": "MALUMFASHI EAST",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for MALUMFASHI EAST under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ADAMU MUKHTAR ABDURRAHMAN",
+          "p": "APC",
+          "district": "MALUMFASHI EAST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for MALUMFASHI EAST under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "BABANGIDA IBRAHIM DILA",
+          "p": "APM",
+          "district": "MALUMFASHI EAST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for MALUMFASHI EAST under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "MALAM ABDULAZIZ",
+          "p": "NNPP",
+          "district": "MALUMFASHI EAST",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MALUMFASHI EAST under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MAHAMMAD YARO ANAS",
+          "p": "NDC",
+          "district": "MALUMFASHI EAST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "TESTIMONIAL TUNAU PRI SCH WAEC RESULT CERTIFICATE NTI NCE RESULT CERTIFICATE",
+          "bg": "Contesting for MALUMFASHI EAST under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "IBRAHIM LAWAL ASSALAMU-ALAIKUM",
+          "p": "PDP",
+          "district": "MALUMFASHI EAST",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL TESTMONIA SECONDARY SCHOOL NCE B/DLS TESTIMONIAL",
+          "bg": "Contesting for MALUMFASHI EAST under PDP.",
+          "scores": [
+            51,
+            58,
+            51,
+            51,
+            76,
+            46
+          ]
+        },
+        {
+          "n": "SHU'AIBU BELLO",
+          "p": "PRP",
+          "district": "MALUMFASHI EAST",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SHAIKH MAIJALAINT COMM.COLL",
+          "bg": "Contesting for MALUMFASHI EAST under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "SULEIMAN BELLO KARFI",
+          "p": "SDP",
+          "district": "MALUMFASHI EAST",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for MALUMFASHI EAST under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "USMAN ABUBAKAR",
+          "p": "ADP",
+          "district": "MAI'ADUA",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MAI'ADUA under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ABDULMUMINI ZUBAIRU",
+          "p": "ADC",
+          "district": "MAI'ADUA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE/NECO",
+          "bg": "Contesting for MAI'ADUA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "N RABE MUSTAPHA MUSA",
+          "p": "APC",
+          "district": "MAI'ADUA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE M.SC",
+          "bg": "Contesting for MAI'ADUA under APC.",
+          "scores": [
+            66,
+            51,
+            62,
+            53,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "SALISU LADAN",
+          "p": "APM",
+          "district": "MAI'ADUA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for MAI'ADUA under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "LAWAL HAFSAT",
+          "p": "NNPP",
+          "district": "MAI'ADUA",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MAI'ADUA under NNPP.",
+          "scores": [
+            55,
+            52,
+            51,
+            50,
+            49,
+            69
+          ]
+        },
+        {
+          "n": "ADAMU BUHARI",
+          "p": "NDC",
+          "district": "I MAI'ADUA",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "YUSUF BELLO PRI SCH GDSS MAI ADUA DLS DAURA",
+          "bg": "Contesting for I MAI'ADUA under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "YAHUZA IBRAHIM",
+          "p": "PDP",
+          "district": "MAI'ADUA",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for MAI'ADUA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ZUBAIRU ADO",
+          "p": "PRP",
+          "district": "MAI'ADUA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MAI'ADUA under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "SAGIR LAWAL",
+          "p": "SDP",
+          "district": "MAI'ADUA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MAI'ADUA under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "LAWAL ABUBAKAR",
+          "p": "ADP",
+          "district": "MANI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MANI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NASIRU TUKUR",
+          "p": "ADC",
+          "district": "MANI",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY LEVEL CERTIFICATE SSCE NCE",
+          "bg": "Contesting for MANI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ZAYYANA SHUAIBU BUJAWA",
+          "p": "APC",
+          "district": "MANI",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for MANI under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "SANI LAWAL",
+          "p": "APM",
+          "district": "MANI",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE DIPLOMA",
+          "bg": "Contesting for MANI under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UMMARU KULANA",
+          "p": "NNPP",
+          "district": "MANI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MANI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "UMAR AMINU",
+          "p": "NDC",
+          "district": "MANI",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "DURBI NUR PRI SCH MANI SIR USMSN NAGOGGO COL OF ARABIC UMARU MUSA YAR ADUA UNI",
+          "bg": "Contesting for MANI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BALA NURA",
+          "p": "PDP",
+          "district": "MANI",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PLC NABTEB MASTER IN LIBRARY AND INFORMATION SCIENCE",
+          "bg": "Contesting for MANI under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "IBRAHIM ABDULKADIR",
+          "p": "PRP",
+          "district": "MANI",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE NCE",
+          "bg": "Contesting for MANI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MAS'UDU HARUNA",
+          "p": "SDP",
+          "district": "MANI",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB",
+          "bg": "Contesting for MANI under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N HAMISU JANAIDU",
+          "p": "ADP",
+          "district": "MASHI",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for MASHI under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "SAMIR IBRAHIM",
+          "p": "ADC",
+          "district": "MASHI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE DEGREE",
+          "bg": "Contesting for MASHI under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "SANI BELLO MUSTAPHA",
+          "p": "APC",
+          "district": "MASHI",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MASHI under APC.",
+          "scores": [
+            56,
+            51,
+            50,
+            53,
+            52,
+            66
+          ]
+        },
+        {
+          "n": "ABDULLAHI SHUAIBU",
+          "p": "APM",
+          "district": "I MASHI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for I MASHI under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "SABIU MOHD DANLAMI",
+          "p": "NNPP",
+          "district": "MASHI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MASHI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "SANI ABUBAKAR",
+          "p": "NDC",
+          "district": "MASHI",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERYIFICATE WAEC",
+          "bg": "Contesting for MASHI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SULEIMAN BELLO GARO",
+          "p": "PDP",
+          "district": "MASHI",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC",
+          "bg": "Contesting for MASHI under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ABUBAKAR SA'ADU",
+          "p": "PRP",
+          "district": "MASHI",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC GOVT DAY PILOT SEC S. K SAURI COGNATE COLLEGE OF HEALTH KT.",
+          "bg": "Contesting for MASHI under PRP.",
+          "scores": [
+            54,
+            50,
+            64,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MAS'UDU AUDU KAZALL",
+          "p": "SDP",
+          "district": "MASHI",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for MASHI under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ZAIYANA BISHIR",
+          "p": "ADP",
+          "district": "MATAZU",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for MATAZU under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "HAMISU MUHAMMAD",
+          "p": "ADC",
+          "district": "MATAZU",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE DIPLOMA",
+          "bg": "Contesting for MATAZU under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "FARUK KABIR MATAZU",
+          "p": "APC",
+          "district": "MATAZU",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for MATAZU under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ALKASSIM AMINU",
+          "p": "APM",
+          "district": "MATAZU",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for MATAZU under APM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "AMINU ISA",
+          "p": "NNPP",
+          "district": "MATAZU",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MATAZU under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "KASIMU MUHAMMAD",
+          "p": "NDC",
+          "district": "MATAZU",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MATAZU MODEL PRI SCH GIOV SEC SCH MATAZU FED UNI DUTSINMA",
+          "bg": "Contesting for MATAZU under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UMAR IDRIS HAMISU",
+          "p": "PDP",
+          "district": "MATAZU",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE GCE(WAEC)",
+          "bg": "Contesting for MATAZU under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ABDULLAHI MASA'UDU",
+          "p": "ADP",
+          "district": "MUSAWA",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for MUSAWA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SULEIMAN HARUNA",
+          "p": "ADC",
+          "district": "MUSAWA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE NECO",
+          "bg": "Contesting for MUSAWA under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N IBRAHIM ABUBAKAR BADARU",
+          "p": "APC",
+          "district": "MUSAWA",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for MUSAWA under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "BALA AWWAL",
+          "p": "APM",
+          "district": "MUSAWA",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MUSAWA under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "YUSUF LAWAL",
+          "p": "NNPP",
+          "district": "MUSAWA",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for MUSAWA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "BALA ISAH HADABA",
+          "p": "NDC",
+          "district": "MUSAWA",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "HADABA PRI GDTC JIKAMSHI COE KAFANCHAN",
+          "bg": "Contesting for MUSAWA under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "SHEHU NUHU",
+          "p": "PDP",
+          "district": "I MUSAWA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for I MUSAWA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "MUHAMMED BILAL ILYAS",
+          "p": "SDP",
+          "district": "MUSAWA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Contesting for MUSAWA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SANI KAMILU",
+          "p": "ADP",
+          "district": "RIMI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for RIMI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "HAMZA JAFAR ALKADIR",
+          "p": "ADC",
+          "district": "RIMI",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for RIMI under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "KURABAU ABDURRAHMAN SALEH",
+          "p": "APC",
+          "district": "RIMI",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE HND",
+          "bg": "Contesting for RIMI under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "BASHIR RABIU RIMI",
+          "p": "APM",
+          "district": "RIMI",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE PGD",
+          "bg": "Contesting for RIMI under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "IBRAHIM SAMAILA",
+          "p": "NNPP",
+          "district": "RIMI",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for RIMI under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "ABDULLAHI ABDULAZIZ",
+          "p": "NDC",
+          "district": "RIMI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for RIMI under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "BELLO MAHARAZU",
+          "p": "PDP",
+          "district": "RIMI",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DIPLOMA",
+          "bg": "Contesting for RIMI under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "BASHIR HAYATU",
+          "p": "PRP",
+          "district": "RIMI",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC DANBO INTERNATIONAL STAFF SCHOOL FUT MINNA & UNI. OF SALFORD, UK",
+          "bg": "Contesting for RIMI under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "LAWAL NASIRU",
+          "p": "ADP",
+          "district": "SABUWA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SABUWA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UMAR HALIMATU MACHIKA",
+          "p": "ADC",
+          "district": "SABUWA",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for SABUWA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DANJUMA IBRAHIM",
+          "p": "APC",
+          "district": "SABUWA",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SABUWA under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "N IDRIS SALIM",
+          "p": "APM",
+          "district": "SABUWA",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE UMAR MUSA YAR'ADUA UNIVERSITY, KATSINA",
+          "bg": "Contesting for SABUWA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ABBA IBRAHIM",
+          "p": "NNPP",
+          "district": "SABUWA",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SABUWA under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "BAWA MAMUDA",
+          "p": "NDC",
+          "district": "SABUWA",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SABUWA under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "KASIM ABDULAZIZ",
+          "p": "PDP",
+          "district": "I SABUWA",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC DIPLOMA IN HEALTH(MED LAB TECHNICIAN)",
+          "bg": "Contesting for I SABUWA under PDP.",
+          "scores": [
+            55,
+            50,
+            63,
+            65,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "USMAN YAHAYA",
+          "p": "PRP",
+          "district": "SABUWA",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for SABUWA under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "JAMILU IBRAHIM",
+          "p": "SDP",
+          "district": "SABUWA",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for SABUWA under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ATIKU GARBA",
+          "p": "ADP",
+          "district": "SAFANA",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SAFANA under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UMAR SURAJO",
+          "p": "ADC",
+          "district": "SAFANA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for SAFANA under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "HARUNA RUNKA ABDULJALAL",
+          "p": "APC",
+          "district": "SAFANA",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MS.C",
+          "bg": "Contesting for SAFANA under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "ALIYU BALA",
+          "p": "APM",
+          "district": "SAFANA",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for SAFANA under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "AHMAD ISA",
+          "p": "NNPP",
+          "district": "SAFANA",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SAFANA under NNPP.",
+          "scores": [
+            51,
+            58,
+            51,
+            50,
+            68,
+            54
+          ]
+        },
+        {
+          "n": "IBRAHIM USMAN",
+          "p": "NDC",
+          "district": "SAFANA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERTIFICATE CERTIFICATE CERTIFICATE BCSD GEOGRAPHY",
+          "bg": "Contesting for SAFANA under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ISAH IBRAHIM",
+          "p": "PDP",
+          "district": "SAFANA",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE",
+          "bg": "Contesting for SAFANA under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "SHAFI'I UMAR",
+          "p": "PRP",
+          "district": "SAFANA",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Certificate of Primary Education SSCE",
+          "bg": "Contesting for SAFANA under PRP.",
+          "scores": [
+            54,
+            50,
+            64,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "AUWAL SALISU",
+          "p": "SDP",
+          "district": "SAFANA",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HND",
+          "bg": "Contesting for SAFANA under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "ABUBAKAR JAMILU",
+          "p": "ADP",
+          "district": "SANDAMU",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for SANDAMU under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "SALISU DAUDA",
+          "p": "ADC",
+          "district": "SANDAMU",
+          "age": "26",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEAVING CERTIFICARE NABTEB NCE TECH",
+          "bg": "Contesting for SANDAMU under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            65,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MAGAJI RUMA SALE",
+          "p": "APC",
+          "district": "SANDAMU",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SANDAMU under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "N MUJAHID SAIDU",
+          "p": "APM",
+          "district": "SANDAMU",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Sc ED",
+          "bg": "Contesting for SANDAMU under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ISMAIL ABUBAKAR",
+          "p": "NNPP",
+          "district": "SANDAMU",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for SANDAMU under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "SANI UMAR",
+          "p": "NDC",
+          "district": "SANDAMU",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE CERTIFICATE",
+          "bg": "Contesting for SANDAMU under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UMAR TUKUR",
+          "p": "PDP",
+          "district": "I SANDAMU",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "KARKARKU NOMADIK PRI SCHOOL SSCE",
+          "bg": "Contesting for I SANDAMU under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "RABIU ABUBAKAR JIBA",
+          "p": "SDP",
+          "district": "SANDAMU",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for SANDAMU under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ALI SULAIMAN",
+          "p": "ADP",
+          "district": "ZANGO",
+          "age": "25",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSCL SSCE",
+          "bg": "Contesting for ZANGO under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ABDULKADIR AUWALU",
+          "p": "ADC",
+          "district": "ZANGO",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY LEVEL CERTIFICATE SSCE",
+          "bg": "Contesting for ZANGO under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "SHUAIBU HASSAN",
+          "p": "APC",
+          "district": "ZANGO",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ZANGO under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ABUBAKAR ALI",
+          "p": "APM",
+          "district": "ZANGO",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE",
+          "bg": "Contesting for ZANGO under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UBALE AMADU",
+          "p": "NNPP",
+          "district": "ZANGO",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE",
+          "bg": "Contesting for ZANGO under NNPP.",
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "AMINU ABUBAKAR",
+          "p": "NDC",
+          "district": "ZANGO",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "ADAMU PRI SCH ZANGO GOV SEC SCH MALUMFASHI YUSUF BALA USMAN COLL OF LGST",
+          "bg": "Contesting for ZANGO under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "MANZO IMARANA MADAKA",
+          "p": "PDP",
+          "district": "ZANGO",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE B. SC",
+          "bg": "Contesting for ZANGO under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "RABI'U MAMMAN",
+          "p": "PRP",
+          "district": "ZANGO",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SECONDARY SCHOOL CERTIFICATE",
+          "bg": "Contesting for ZANGO under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "MUHAMMAD ALIYU",
+          "p": "SDP",
+          "district": "ZANGO",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NATIONAL EXAMINATION COUNCIL",
+          "bg": "Contesting for ZANGO under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        }
+      ]
+    }
+  }
+}

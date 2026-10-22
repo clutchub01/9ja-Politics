@@ -1,0 +1,311 @@
+{
+    "office": "President",
+    "candidates": [
+        {
+            "n": "Bola Ahmed Tinubu",
+            "p": "APC",
+            "age": "74",
+            "gender": "M",
+            "rm": "Kashim Shettima",
+            "edu": "B.Sc Accounting",
+            "bg": "Incumbent President. Former Governor of Lagos State.",
+            "scores": [
+                85,
+                75,
+                70,
+                88,
+                95,
+                45
+            ]
+        },
+        {
+            "n": "Atiku Abubakar",
+            "p": "ADC",
+            "age": "79",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Former Vice President. 2023 Presidential Candidate.",
+            "scores": [
+                82,
+                70,
+                72,
+                75,
+                90,
+                42
+            ]
+        },
+        {
+            "n": "Obi Peter Gregory",
+            "p": "NDC",
+            "age": "65",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "B.A Philosophy",
+            "bg": "Former Governor of Anambra State. 2023 Presidential Candidate.",
+            "scores": [
+                80,
+                68,
+                75,
+                70,
+                82,
+                55
+            ]
+        },
+        {
+            "n": "Makinde Oluseyi Abiodun",
+            "p": "APM",
+            "age": "58",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "B.Sc Electrical Engineering",
+            "bg": "Incumbent Governor of Oyo State.",
+            "scores": [
+                75,
+                65,
+                70,
+                82,
+                78,
+                65
+            ]
+        },
+        {
+            "n": "Donald Duke",
+            "p": "PRP",
+            "age": "65",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "LL.B Law",
+            "bg": "Former Governor of Cross River State.",
+            "scores": [
+                70,
+                68,
+                65,
+                75,
+                80,
+                55
+            ]
+        },
+        {
+            "n": "Onor Sandy Ojang",
+            "p": "PDP",
+            "age": "58",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Ph.D",
+            "bg": "Former Senator, Cross River Central.",
+            "scores": [
+                65,
+                60,
+                75,
+                65,
+                70,
+                60
+            ]
+        },
+        {
+            "n": "Adewole Adebayo",
+            "p": "SDP",
+            "age": "54",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "LL.B Law",
+            "bg": "Lawyer and Media Proprietor.",
+            "scores": [
+                68,
+                72,
+                65,
+                60,
+                55,
+                68
+            ]
+        },
+        {
+            "n": "Sowore Omoyele Stephen",
+            "p": "AAC",
+            "age": "55",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Media Publisher and Activist.",
+            "scores": [
+                60,
+                75,
+                68,
+                55,
+                50,
+                75
+            ]
+        },
+        {
+            "n": "Nwanyanwu Daniel Daberechukwu",
+            "p": "ZLP",
+            "age": "66",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Veteran Labour Union Leader.",
+            "scores": [
+                62,
+                60,
+                65,
+                58,
+                65,
+                50
+            ]
+        },
+        {
+            "n": "Ada Elizabeth Fredrick Okwori",
+            "p": "NDP",
+            "age": "Not confirmed",
+            "gender": "F",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Adekunle Rufai Omoaje",
+            "p": "AA",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Adenuga Sunday Oluwafemi",
+            "p": "BP",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Aliyu Bin Abbas",
+            "p": "ADP",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Chibuzo Okereke",
+            "p": "LP",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Esther Nkem Okereke",
+            "p": "NRM",
+            "age": "Not confirmed",
+            "gender": "F",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Kabiru Yusuf",
+            "p": "APP",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Moses Olusoji Adebisi",
+            "p": "DLA",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        },
+        {
+            "n": "Peter Ada Agada",
+            "p": "YPP",
+            "age": "Not confirmed",
+            "gender": "M",
+            "rm": "Not confirmed",
+            "edu": "Not confirmed",
+            "bg": "Party Nominee.",
+            "scores": [
+                55,
+                55,
+                55,
+                55,
+                45,
+                60
+            ]
+        }
+    ]
+}

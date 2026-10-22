@@ -1,0 +1,5973 @@
+{
+  "state": "Enugu",
+  "offices": {
+    "Governor": {
+      "constituency": "Enugu Statewide",
+      "candidates": [
+        {
+          "n": "IP ELE",
+          "p": "IND",
+          "age": "27",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "A",
+          "age": "62",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under A.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "CHUKWUDI",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "ADC",
+          "age": "53",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "INZE CHRISTOPHER",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "ADP",
+          "age": "62",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under ADP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "MAUREEN",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "APC",
+          "age": "54",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "FIRST",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "APM",
+          "age": "54",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "FIRST",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "A",
+          "age": "49",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "BP",
+          "age": "43",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under BP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            64
+          ]
+        },
+        {
+          "n": "NTA CHINWENDU",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "DLA",
+          "age": "52",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under DLA.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "CHUKWUKA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "LP",
+          "age": "59",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "WA ELUMA KENNEDY",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "IND",
+          "age": "65",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            55,
+            47,
+            47,
+            71,
+            48
+          ]
+        },
+        {
+          "n": "JE FRANK OKENWA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "NNPP",
+          "age": "58",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under NNPP.",
+          "scores": [
+            63,
+            58,
+            83,
+            50,
+            78,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "NRM",
+          "age": "61",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ABUISI UCHENNA",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "PDP",
+          "age": "63",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "NGWU ROBE",
+          "p": "IND",
+          "age": "Not confirmed",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under IND.",
+          "scores": [
+            47,
+            47,
+            47,
+            47,
+            53,
+            54
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "SDP",
+          "age": "44",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "YPP",
+          "age": "52",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under YPP.",
+          "scores": [
+            50,
+            55,
+            50,
+            49,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ENUGU",
+          "p": "ZLP",
+          "age": "40",
+          "gender": "M",
+          "rm": "Not confirmed",
+          "edu": "Tertiary / Secondary",
+          "bg": "Governorship candidate for Enugu under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        }
+      ]
+    },
+    "Senate": {
+      "constituency": "Senatorial Districts",
+      "candidates": [
+        {
+          "n": "NWEKEKE CHINASA ANNASTESIA",
+          "p": "A",
+          "district": "ENUGU EAST",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE OND",
+          "bg": "Contesting for ENUGU EAST under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "UJAM CYNTHIA ONYINYE",
+          "p": "APP",
+          "district": "ENUGU EAST",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC",
+          "bg": "Contesting for ENUGU EAST under APP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "OGBODO JEPHTAH AFAMEFUNA",
+          "p": "ADC",
+          "district": "ENUGU EAST",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU EAST under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "CHUKWU KELVIN CHIZOBA",
+          "p": "APC",
+          "district": "ENUGU EAST",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BECHELORS OF LAWS (LL.B)",
+          "bg": "Contesting for ENUGU EAST under APC.",
+          "scores": [
+            58,
+            71,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "NWATU ANTHONY AFAMEFUNA",
+          "p": "APM",
+          "district": "ENUGU EAST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC",
+          "bg": "Contesting for ENUGU EAST under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N CHUKWU UCHENNA",
+          "p": "BP",
+          "district": "ENUGU EAST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ENUGU EAST under BP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            71
+          ]
+        },
+        {
+          "n": "CHIBUDOM BLESSING",
+          "p": "LP",
+          "district": "ENUGU EAST",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC DEGREE",
+          "bg": "Contesting for ENUGU EAST under LP.",
+          "scores": [
+            58,
+            57,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "JERRY UCHE CHUKWU",
+          "p": "NRM",
+          "district": "ENUGU EAST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE",
+          "bg": "Contesting for ENUGU EAST under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "AGUOCHA ADAKU ANNA",
+          "p": "NDC",
+          "district": "I ENUGU EAST",
+          "age": "61",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "QUEEN OF THE NIGER PRY SCH. ONITSHA ELLERSLIE SCH. FOR GIRLS, MALVERN UK UNIVERSITY OF PITTSBURG USA",
+          "bg": "Contesting for I ENUGU EAST under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "NWEKE KINGSLEY CHIZOBA",
+          "p": "PDP",
+          "district": "ENUGU EAST",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for ENUGU EAST under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "COSMAS REALITY",
+          "p": "SDP",
+          "district": "ENUGU EAST",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for ENUGU EAST under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ELEJE JUDE",
+          "p": "YPP",
+          "district": "ENUGU EAST",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU EAST under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "AGU PHILOMINA",
+          "p": "A",
+          "district": "ENUGU WEST",
+          "age": "49",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for ENUGU WEST under A.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NGWU IKECHUKWU",
+          "p": "ADP",
+          "district": "ENUGU WEST",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "first school leaving certificate gce",
+          "bg": "Contesting for ENUGU WEST under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "UDE ONUORA UDEANUGWO",
+          "p": "APP",
+          "district": "ENUGU WEST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FIRST SCHOOL LEAVING CERTIFICATE NECO",
+          "bg": "Contesting for ENUGU WEST under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ANI JULIET NKECHI",
+          "p": "ADC",
+          "district": "ENUGU WEST",
+          "age": "48",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for ENUGU WEST under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NGWU OSITA",
+          "p": "APC",
+          "district": "ENUGU WEST",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE / WASSCE Bachelor of Engineer",
+          "bg": "Contesting for ENUGU WEST under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            67,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "AGUIGWO BASIL OBIORA",
+          "p": "APM",
+          "district": "ENUGU WEST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE LLB",
+          "bg": "Contesting for ENUGU WEST under APM.",
+          "scores": [
+            62,
+            62,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OTIKE CHUKWUEBUKA",
+          "p": "BP",
+          "district": "ENUGU WEST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for ENUGU WEST under BP.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            64
+          ]
+        },
+        {
+          "n": "ONYEMA CHIBUZOR THOMAS",
+          "p": "LP",
+          "district": "ENUGU WEST",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE LL.B",
+          "bg": "Contesting for ENUGU WEST under LP.",
+          "scores": [
+            58,
+            71,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "ENEH KINGSLEY UCHENNA",
+          "p": "NDC",
+          "district": "ENUGU WEST",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC GCE B.SC ACCOUNTING",
+          "bg": "Contesting for ENUGU WEST under NDC.",
+          "scores": [
+            67,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "AMADI DENNIS OGUERINWA",
+          "p": "PDP",
+          "district": "ENUGU WEST",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICA EXAMINATION COUNCIL (WAEC) BSC, MBA, DBA",
+          "bg": "Contesting for ENUGU WEST under PDP.",
+          "scores": [
+            63,
+            56,
+            71,
+            51,
+            80,
+            52
+          ]
+        },
+        {
+          "n": "N NWAOKOLO ONYEDIKA",
+          "p": "SDP",
+          "district": "ENUGU WEST",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for ENUGU WEST under SDP.",
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "ONYIA CHUCKS",
+          "p": "YPP",
+          "district": "ENUGU WEST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for ENUGU WEST under YPP.",
+          "scores": [
+            50,
+            55,
+            50,
+            49,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ENEH EMMANUEL CHIGOZIE",
+          "p": "ZLP",
+          "district": "ENUGU WEST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ENUGU WEST under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "ASADU FELIX OKECHUKWU",
+          "p": "APP",
+          "district": "I ENUGU NORTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "LLB",
+          "bg": "Contesting for I ENUGU NORTH under APP.",
+          "scores": [
+            54,
+            68,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "IDOKO MECHIKA",
+          "p": "ADC",
+          "district": "ENUGU NORTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc",
+          "bg": "Contesting for ENUGU NORTH under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "ASOGWA IKEJE ISRAEL",
+          "p": "APC",
+          "district": "ENUGU NORTH",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE/GCE B.Sc Hon.s Political Science",
+          "bg": "Contesting for ENUGU NORTH under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "UGWUOGO NKECHI JACINTA",
+          "p": "APM",
+          "district": "ENUGU NORTH",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING SSCE HND",
+          "bg": "Contesting for ENUGU NORTH under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ANEKE CHUKWUEBUKA KINGSLEY",
+          "p": "BP",
+          "district": "ENUGU NORTH",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BSC",
+          "bg": "Contesting for ENUGU NORTH under BP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            71
+          ]
+        },
+        {
+          "n": "EZE SIMON EJIKE",
+          "p": "LP",
+          "district": "ENUGU NORTH",
+          "age": "67",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE BSC",
+          "bg": "Contesting for ENUGU NORTH under LP.",
+          "scores": [
+            58,
+            59,
+            61,
+            50,
+            77,
+            53
+          ]
+        },
+        {
+          "n": "OMEJE EMMANUEL OKWUDILI",
+          "p": "NRM",
+          "district": "ENUGU NORTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE B.SC",
+          "bg": "Contesting for ENUGU NORTH under NRM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ASADU PATRICK OZIOKOJA",
+          "p": "NDC",
+          "district": "ENUGU NORTH",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MBBS",
+          "bg": "Contesting for ENUGU NORTH under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "EZEME NESTOR CHIKA",
+          "p": "PDP",
+          "district": "ENUGU NORTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE",
+          "bg": "Contesting for ENUGU NORTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "UGWUANYI CHARLES UGOCHUKWU",
+          "p": "PRP",
+          "district": "ENUGU NORTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC MBBS",
+          "bg": "Contesting for ENUGU NORTH under PRP.",
+          "scores": [
+            56,
+            56,
+            60,
+            48,
+            71,
+            56
+          ]
+        },
+        {
+          "n": "SIXTUS POSITION",
+          "p": "SDP",
+          "district": "ENUGU NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO OND",
+          "bg": "Contesting for ENUGU NORTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "EJIKEME GODWIN",
+          "p": "YPP",
+          "district": "ENUGU NORTH",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU NORTH under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "N UGWOKE IKECHUKWU JUDE",
+          "p": "ZLP",
+          "district": "ENUGU NORTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ENUGU NORTH under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        }
+      ]
+    },
+    "House of Reps": {
+      "constituency": "Federal Constituencies",
+      "candidates": [
+        {
+          "n": "EMMANUEL FRANKLIN CHIDERA",
+          "p": "A",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Aninri/Awgu/Oji River under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "CHUKWUAJAH NEWMAN CHUKWUMA",
+          "p": "APP",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Aninri/Awgu/Oji River under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ONYEAGBA CHINEDU",
+          "p": "ADC",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE NABTEB",
+          "bg": "Contesting for Aninri/Awgu/Oji River under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "ONWUEGBU BEFFORD ANAYO",
+          "p": "APC",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "65",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC Bachelor of Engineer",
+          "bg": "Contesting for Aninri/Awgu/Oji River under APC.",
+          "scores": [
+            58,
+            59,
+            58,
+            67,
+            81,
+            45
+          ]
+        },
+        {
+          "n": "IGWEBUIKE IKECHUKWU CELESTINE MICHAEL",
+          "p": "LP",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MSC",
+          "bg": "Contesting for Aninri/Awgu/Oji River under LP.",
+          "scores": [
+            66,
+            51,
+            65,
+            50,
+            63,
+            67
+          ]
+        },
+        {
+          "n": "N MADUEKWU DOMINIC OBIORA",
+          "p": "NRM",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for Aninri/Awgu/Oji River under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "NWOKEABIA OKECHUKWU JOHN",
+          "p": "NDC",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "66",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "B.SC",
+          "bg": "Contesting for Aninri/Awgu/Oji River under NDC.",
+          "scores": [
+            53,
+            55,
+            55,
+            47,
+            75,
+            48
+          ]
+        },
+        {
+          "n": "AMARACHINEKE KINGSLEY EZECHUKWU",
+          "p": "PDP",
+          "district": "I Aninri/Awgu/Oji River",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC",
+          "bg": "Contesting for I Aninri/Awgu/Oji River under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "JIDEOFOR CHIDI COLLINS",
+          "p": "PRP",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.Sc Marketing",
+          "bg": "Contesting for Aninri/Awgu/Oji River under PRP.",
+          "scores": [
+            64,
+            50,
+            60,
+            48,
+            61,
+            64
+          ]
+        },
+        {
+          "n": "EKWE CHIDIMMA",
+          "p": "SDP",
+          "district": "Aninri/Awgu/Oji River",
+          "age": "40",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Aninri/Awgu/Oji River under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "AGBO NKECHINYERE JULIET",
+          "p": "APP",
+          "district": "Enugu East/Isi Uzo",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for Enugu East/Isi Uzo under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "IDENYI CALISTER IFEOMA",
+          "p": "ADC",
+          "district": "Enugu East/Isi Uzo",
+          "age": "52",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC",
+          "bg": "Contesting for Enugu East/Isi Uzo under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "EDEOGA CHIJIOKE",
+          "p": "APC",
+          "district": "Enugu East/Isi Uzo",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC",
+          "bg": "Contesting for Enugu East/Isi Uzo under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "OGBONNA IFESINACHI A.",
+          "p": "NRM",
+          "district": "Enugu East/Isi Uzo",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
+          "bg": "Contesting for Enugu East/Isi Uzo under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "OBUNA NNAEMEKA PETER",
+          "p": "NDC",
+          "district": "Enugu East/Isi Uzo",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for Enugu East/Isi Uzo under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "ANI SAMUEL",
+          "p": "PDP",
+          "district": "Enugu East/Isi Uzo",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for Enugu East/Isi Uzo under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ESIAGA OLUCHI LUCY",
+          "p": "A",
+          "district": "Enugu North/Enugu South",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Enugu North/Enugu South under A.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "OMIKO IFEANHU",
+          "p": "ADP",
+          "district": "Enugu North/Enugu South",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB",
+          "bg": "Contesting for Enugu North/Enugu South under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ONWUMERE FRANCIS PETER",
+          "p": "APP",
+          "district": "Enugu North/Enugu South",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC OND",
+          "bg": "Contesting for Enugu North/Enugu South under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "N EZENWAMMA ANGELA NGOZI",
+          "p": "ADC",
+          "district": "Enugu North/Enugu South",
+          "age": "58",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Enugu North/Enugu South under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "ATU CHIMAOBI SAM",
+          "p": "APC",
+          "district": "Enugu North/Enugu South",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (CPS UGWUAJI) NECO (SSS IHE) B.Sc Industrial Chemistry (ESUT)",
+          "bg": "Contesting for Enugu North/Enugu South under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "NGWU CHINWUBA",
+          "p": "LP",
+          "district": "I Enugu North/Enugu South",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for I Enugu North/Enugu South under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "UGWUJA MABEL",
+          "p": "NRM",
+          "district": "Enugu North/Enugu South",
+          "age": "55",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE UNIVERSITY OF NIGERIA",
+          "bg": "Contesting for Enugu North/Enugu South under NRM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ARUM NELSON MADUKA",
+          "p": "NDC",
+          "district": "Enugu North/Enugu South",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC B.SC",
+          "bg": "Contesting for Enugu North/Enugu South under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "UGWU OBIORA DAVID",
+          "p": "PDP",
+          "district": "Enugu North/Enugu South",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC",
+          "bg": "Contesting for Enugu North/Enugu South under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ANIAGU CHIDIEBERE",
+          "p": "YPP",
+          "district": "Enugu North/Enugu South",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Enugu North/Enugu South under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "AMADI EUSEBIUS TOCHUKWU",
+          "p": "APP",
+          "district": "Ezeagu/Udi",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "HND",
+          "bg": "Contesting for Ezeagu/Udi under APP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "DILIOHA ANGELA TERUMBUR",
+          "p": "ADC",
+          "district": "Ezeagu/Udi",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for Ezeagu/Udi under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "UZOR FESTUS SUNDAY AMAECHINA",
+          "p": "APC",
+          "district": "Ezeagu/Udi",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC Bachelor of Medicine/Surgery",
+          "bg": "Contesting for Ezeagu/Udi under APC.",
+          "scores": [
+            58,
+            57,
+            70,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "NZEKWE JOSEPHAT CHUKWUENITE",
+          "p": "APM",
+          "district": "Ezeagu/Udi",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for Ezeagu/Udi under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "N UGWU EMEKA BEN- KINGSLEY",
+          "p": "NRM",
+          "district": "Ezeagu/Udi",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL",
+          "bg": "Contesting for Ezeagu/Udi under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "EZEH KINGSLEY IFEANYI",
+          "p": "NDC",
+          "district": "Ezeagu/Udi",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE O LEVEL WAEC",
+          "bg": "Contesting for Ezeagu/Udi under NDC.",
+          "scores": [
+            51,
+            47,
+            47,
+            47,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "ONYIANTA ARINZE GIDEON",
+          "p": "PDP",
+          "district": "Ezeagu/Udi",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC, M.SC",
+          "bg": "Contesting for Ezeagu/Udi under PDP.",
+          "scores": [
+            71,
+            50,
+            71,
+            51,
+            70,
+            60
+          ]
+        },
+        {
+          "n": "MADUNAGU SAMUEL",
+          "p": "SDP",
+          "district": "I Ezeagu/Udi",
+          "age": "64",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for I Ezeagu/Udi under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "ANIGBO ANAYO RAPHAEL",
+          "p": "APP",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "B.ENGR",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under APP.",
+          "scores": [
+            58,
+            48,
+            56,
+            62,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "MADUEGBUNAM NELSON CHINEDU",
+          "p": "ADC",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "ONWUBUYA CORNELL CHIJIOKE",
+          "p": "APC",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SANTA MARAI CIC ENUGU WAEC ESUT ENUGU BSC",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ANIKEZIE MICHAEL",
+          "p": "APM",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under APM.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "NWEKE ERICK NNAM",
+          "p": "NRM",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY SCHOOL LEAVING CERTIFICATE",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under NRM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ANI FIDELIS MADUKAIFE",
+          "p": "NDC",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LL.B, BL",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under NDC.",
+          "scores": [
+            53,
+            67,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "OKORO ALPHONSUS CHIJIOKE",
+          "p": "PDP",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "UKUTA JOHN KEVIN",
+          "p": "PRP",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "OKWOR GABRIEL",
+          "p": "SDP",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "DAVID EVANS CHIMARAOKE CHIBUZOR",
+          "p": "ZLP",
+          "district": "Igbo-Etiti/Uzo-Uwani",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Igbo-Etiti/Uzo-Uwani under ZLP.",
+          "scores": [
+            53,
+            49,
+            49,
+            49,
+            46,
+            70
+          ]
+        },
+        {
+          "n": "UGWU CAROLINE",
+          "p": "ADP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC NCE",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NGWOKE EDWIN",
+          "p": "APP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under APP.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "N CHIMAOBI BENJAMIN SUNDAY EZE",
+          "p": "ADC",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC MASTERS",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under ADC.",
+          "scores": [
+            57,
+            56,
+            63,
+            51,
+            74,
+            55
+          ]
+        },
+        {
+          "n": "AGBO DENNIS NNAMDI",
+          "p": "APC",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC B.Sc (Hon. Accountancy)",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under APC.",
+          "scores": [
+            72,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "OSSAI IFEANYI CYRIL",
+          "p": "APGA",
+          "district": "I Igbo-Eze North/ Udenu",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for I Igbo-Eze North/ Udenu under APGA.",
+          "scores": [
+            65,
+            50,
+            58,
+            51,
+            62,
+            61
+          ]
+        },
+        {
+          "n": "EZE EPHRIAM CHINEDU",
+          "p": "APM",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SECONDARY SCHOOL CERTIFICATE B.SC",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under APM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "EYA CHINEDU",
+          "p": "LP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE DEGREE",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "ALUMONA EJIKE JOHNSON",
+          "p": "NDC",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PSLC SSCE B.SC",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "OGBU JOHNSON IKECHUKWU",
+          "p": "PDP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.MLS",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "EZE CHRISTIAN",
+          "p": "PRP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "ONYEISI ANSLEM",
+          "p": "SDP",
+          "district": "Igbo-Eze North/ Udenu",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for Igbo-Eze North/ Udenu under SDP.",
+          "scores": [
+            57,
+            57,
+            59,
+            50,
+            71,
+            54
+          ]
+        },
+        {
+          "n": "ONU PHILIP CHIZOBA",
+          "p": "A",
+          "district": "Nkanu East/Nkanu West",
+          "age": "41",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Nkanu East/Nkanu West under A.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NNEJI MARY OBIAGAERI",
+          "p": "APP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for Nkanu East/Nkanu West under APP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OGBODO BRIDGET AMUCHE",
+          "p": "ADC",
+          "district": "Nkanu East/Nkanu West",
+          "age": "50",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "B.SC",
+          "bg": "Contesting for Nkanu East/Nkanu West under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "N NNAJI NNOLIM JOHN",
+          "p": "APC",
+          "district": "Nkanu East/Nkanu West",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASC BECHELORS OF PHARMACY",
+          "bg": "Contesting for Nkanu East/Nkanu West under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ANYANWU DANIEL UCHENNA",
+          "p": "LP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for Nkanu East/Nkanu West under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "OKO NNAEMEKA",
+          "p": "NRM",
+          "district": "I Nkanu East/Nkanu West",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE B.SC",
+          "bg": "Contesting for I Nkanu East/Nkanu West under NRM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "IKEH EL-SHADDAI",
+          "p": "NDC",
+          "district": "Nkanu East/Nkanu West",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LLB, BL",
+          "bg": "Contesting for Nkanu East/Nkanu West under NDC.",
+          "scores": [
+            57,
+            61,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "EBIEM PATRICK CHUKWUMA",
+          "p": "PDP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SARI-IGANMU SECONDARY SCH. LAGOS UNN NSUKKA",
+          "bg": "Contesting for Nkanu East/Nkanu West under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "CHUKWU LINUS",
+          "p": "SDP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC OND",
+          "bg": "Contesting for Nkanu East/Nkanu West under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "CHUKWU SOMADINA NNAJI",
+          "p": "YPP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for Nkanu East/Nkanu West under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "ABENGOWE CHINEMEREM OLECHUKWU",
+          "p": "ZLP",
+          "district": "Nkanu East/Nkanu West",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC",
+          "bg": "Contesting for Nkanu East/Nkanu West under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "SIMON GEORGE VALENTINO",
+          "p": "ADC",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE BACHELOR DEGREE",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "OBETTA MARK CHIDI",
+          "p": "APC",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ONOYIMA ISAAC CHIBUEZE",
+          "p": "APM",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under APM.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UGWUOKE OSCAR EJIKE",
+          "p": "LP",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "N IKEMEFUNA OKEOZOR KINGSLEY",
+          "p": "NRM",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ONYISHI ANAYOCHUKWU HILARY",
+          "p": "NDC",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "AGBO COSMAS CHINWEZE",
+          "p": "PDP",
+          "district": "I Nsukka/Igbo-Eze South",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B.SC, M.SC, P.HD,",
+          "bg": "Contesting for I Nsukka/Igbo-Eze South under PDP.",
+          "scores": [
+            63,
+            56,
+            71,
+            51,
+            80,
+            52
+          ]
+        },
+        {
+          "n": "IKE MICHAEL CHUKWUNONIMEM",
+          "p": "PRP",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASCE BA, MBA, DSC",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under PRP.",
+          "scores": [
+            70,
+            50,
+            72,
+            48,
+            67,
+            64
+          ]
+        },
+        {
+          "n": "PRECIOUS SYLVESTER ADANNA",
+          "p": "SDP",
+          "district": "Nsukka/Igbo-Eze South",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for Nsukka/Igbo-Eze South under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        }
+      ]
+    },
+    "State Assembly": {
+      "constituency": "State Constituencies",
+      "candidates": [
+        {
+          "n": "ORJI NNAJIOFOR STEPHEN",
+          "p": "A",
+          "district": "ANINIRI",
+          "age": "29",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) WAEC/NECO",
+          "bg": "Contesting for ANINIRI under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "NWACHUKWU FRANCIS OGBONNAYA",
+          "p": "ADP",
+          "district": "ANINIRI",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ANINIRI under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "CHUKWU CELESTINE",
+          "p": "ADC",
+          "district": "ANINIRI",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERT WAEC",
+          "bg": "Contesting for ANINIRI under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "EDE MAGNUS NNAEMEKA",
+          "p": "APC",
+          "district": "ANINIRI",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC M ED",
+          "bg": "Contesting for ANINIRI under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "AJAH BENJAMIN OBI",
+          "p": "LP",
+          "district": "ANINIRI",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for ANINIRI under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "ACHI OSITA PATRICK",
+          "p": "NDC",
+          "district": "ANINIRI",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for ANINIRI under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "OTTAH CHIKA AMBROSE",
+          "p": "PDP",
+          "district": "ANINIRI",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC PUBLIC ADMINISTRATION",
+          "bg": "Contesting for ANINIRI under PDP.",
+          "scores": [
+            57,
+            70,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "EBUBE CHUKWU LILIAN",
+          "p": "SDP",
+          "district": "ANINIRI",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ANINIRI under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "N CHINONSO OKORIE",
+          "p": "ADP",
+          "district": "AWGU NORTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AWGU NORTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "CHUKWU JOACHIN CHUKWUEBUKA",
+          "p": "ADC",
+          "district": "AWGU NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for AWGU NORTH under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "EZENTA CHARLES IKECHUKWU",
+          "p": "APC",
+          "district": "I AWGU NORTH",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT NECO",
+          "bg": "Contesting for I AWGU NORTH under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "OKONKWO CHEKWAS",
+          "p": "LP",
+          "district": "AWGU NORTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for AWGU NORTH under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "OGBONNA UCHENNA FORTUNATUS",
+          "p": "NDC",
+          "district": "AWGU NORTH",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AWGU NORTH under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "OCHI NONSO CHRISTIAN",
+          "p": "PDP",
+          "district": "AWGU NORTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for AWGU NORTH under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "CLETUS UDEANI",
+          "p": "SDP",
+          "district": "AWGU NORTH",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AWGU NORTH under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "OJOUDU JOHNNY",
+          "p": "ADP",
+          "district": "AWGU SOUTH",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for AWGU SOUTH under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NWAFOR VINCENT",
+          "p": "ADC",
+          "district": "AWGU SOUTH",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC NABTEB",
+          "bg": "Contesting for AWGU SOUTH under ADC.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "NWANKWO ANTHONY CHUKWUDI",
+          "p": "APC",
+          "district": "AWGU SOUTH",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC",
+          "bg": "Contesting for AWGU SOUTH under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "EZEBUIRO EJINAKA LINUS",
+          "p": "LP",
+          "district": "AWGU SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "NECO",
+          "bg": "Contesting for AWGU SOUTH under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            50,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "OHAGWU JUDE IKECHUKWU",
+          "p": "NDC",
+          "district": "AWGU SOUTH",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/NECO",
+          "bg": "Contesting for AWGU SOUTH under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ORJIADACHIE CHUKWUDI FRANK",
+          "p": "PDP",
+          "district": "AWGU SOUTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AWGU SOUTH under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "UDE UGOMMA",
+          "p": "SDP",
+          "district": "AWGU SOUTH",
+          "age": "37",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for AWGU SOUTH under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UMEOKEKE IZUNNA ROMEO",
+          "p": "YPP",
+          "district": "AWGU SOUTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB HND",
+          "bg": "Contesting for AWGU SOUTH under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "N EZE IFEANYI FERDINAND",
+          "p": "A",
+          "district": "ENUGU EAST I",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) NABTEB",
+          "bg": "Contesting for ENUGU EAST I under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "CHIJIOKE EZE OSMUND",
+          "p": "ADP",
+          "district": "ENUGU EAST I",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ENUGU EAST I under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MBAH UCHECHUKWU EMMANUEL",
+          "p": "APP",
+          "district": "ENUGU EAST I",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC",
+          "bg": "Contesting for ENUGU EAST I under APP.",
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "NNAJI ONYEKACHI",
+          "p": "ADC",
+          "district": "I ENUGU EAST I",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC",
+          "bg": "Contesting for I ENUGU EAST I under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OKOH OSITA HYGINUS",
+          "p": "APC",
+          "district": "ENUGU EAST I",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT SSCE BSC",
+          "bg": "Contesting for ENUGU EAST I under APC.",
+          "scores": [
+            66,
+            51,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "UGWU JUDE CHIJIOKE",
+          "p": "NDC",
+          "district": "ENUGU EAST I",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for ENUGU EAST I under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "UGWUOSOR CHIKEREZE OSCAR",
+          "p": "PDP",
+          "district": "ENUGU EAST I",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "STM SSCE",
+          "bg": "Contesting for ENUGU EAST I under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "UCHENNA OKAFOR",
+          "p": "SDP",
+          "district": "ENUGU EAST I",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU EAST I under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "EZE JACOB EMEKA",
+          "p": "A",
+          "district": "ENUGU EAST II",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) NABTEB",
+          "bg": "Contesting for ENUGU EAST II under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ODOEMENAM KINGSLEY ONYEDIKACHI",
+          "p": "ADP",
+          "district": "ENUGU EAST II",
+          "age": "27",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for ENUGU EAST II under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "MBAH HELEN",
+          "p": "APP",
+          "district": "ENUGU EAST II",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE",
+          "bg": "Contesting for ENUGU EAST II under APP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "ONYEKA MIKE",
+          "p": "ADC",
+          "district": "ENUGU EAST II",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE WAEC",
+          "bg": "Contesting for ENUGU EAST II under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UGWU RAYMOND OKECHUKWU",
+          "p": "APC",
+          "district": "ENUGU EAST II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CENTRAL SCH EMENE F S L C GCE NABTEB IMT HND",
+          "bg": "Contesting for ENUGU EAST II under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "UGWU ODINAKA CHARLES",
+          "p": "NDC",
+          "district": "ENUGU EAST II",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LL.B, BL",
+          "bg": "Contesting for ENUGU EAST II under NDC.",
+          "scores": [
+            57,
+            61,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "ONU FRANCIS MACKEAN",
+          "p": "PDP",
+          "district": "ENUGU EAST II",
+          "age": "53",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE B. ENG",
+          "bg": "Contesting for ENUGU EAST II under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            65,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "NORBERT EDEH",
+          "p": "SDP",
+          "district": "ENUGU EAST II",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU EAST II under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "OARHE OHIOLEI KELVIN",
+          "p": "A",
+          "district": "ENUGU NORTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) WAEC",
+          "bg": "Contesting for ENUGU NORTH under A.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ONOR CHUKWUNONSO",
+          "p": "ADP",
+          "district": "ENUGU NORTH",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for ENUGU NORTH under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "IGBOKWE CLARIBEL OBIAGELI",
+          "p": "APP",
+          "district": "ENUGU NORTH",
+          "age": "51",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC HND",
+          "bg": "Contesting for ENUGU NORTH under APP.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "N TOCHUKWU CHARLES MALUZE",
+          "p": "ADC",
+          "district": "ENUGU NORTH",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "AIRFORCE PRIMARY SCHOOL ENUGU STATE OSISATECH SEC SCHOOL ENUGU ESUTECH ENUGU",
+          "bg": "Contesting for ENUGU NORTH under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            65,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ANI JOHNSON SAMUEL",
+          "p": "APC",
+          "district": "I ENUGU NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CERT OF PRIMARY EDUCATION SENIOR SECONDARY SCH CERT",
+          "bg": "Contesting for I ENUGU NORTH under APC.",
+          "scores": [
+            60,
+            51,
+            62,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "ODOH DANIEL SUNDAY",
+          "p": "LP",
+          "district": "ENUGU NORTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC DIPLOMA (ELECTICAL ELECTRONICS ENGINEERING)",
+          "bg": "Contesting for ENUGU NORTH under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            64,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "NNAMANI HENRY NWABUEZE",
+          "p": "NDC",
+          "district": "ENUGU NORTH",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BACHELOR DEGREE BSC",
+          "bg": "Contesting for ENUGU NORTH under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "NNAMANI PHILIP ILOABUCHI",
+          "p": "PDP",
+          "district": "ENUGU NORTH",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CPE SSCE LLB",
+          "bg": "Contesting for ENUGU NORTH under PDP.",
+          "scores": [
+            57,
+            70,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "NNAMANI CHIKEZIE NCHENDO",
+          "p": "PRP",
+          "district": "ENUGU NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC SSCE BTECH",
+          "bg": "Contesting for ENUGU NORTH under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            62,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "IFEANYI UDEH",
+          "p": "SDP",
+          "district": "ENUGU NORTH",
+          "age": "55",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for ENUGU NORTH under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "MBA IFEANYI EMMANUEL",
+          "p": "YPP",
+          "district": "ENUGU NORTH",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for ENUGU NORTH under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "AKAKURU MAXWELL NDUBUISI",
+          "p": "ZLP",
+          "district": "ENUGU NORTH",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WEAC",
+          "bg": "Contesting for ENUGU NORTH under ZLP.",
+          "scores": [
+            57,
+            49,
+            49,
+            49,
+            55,
+            63
+          ]
+        },
+        {
+          "n": "AGBIRI CHIAMAKA LOVE",
+          "p": "APP",
+          "district": "ENUGU SOUTH I",
+          "age": "33",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO",
+          "bg": "Contesting for ENUGU SOUTH I under APP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UGWU CHIDIEBERE JOE",
+          "p": "ADC",
+          "district": "ENUGU SOUTH I",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU SOUTH I under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "MBAH CHIJIOKE NNAMANI",
+          "p": "APC",
+          "district": "ENUGU SOUTH I",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT NECO",
+          "bg": "Contesting for ENUGU SOUTH I under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "CHIELO JOHN",
+          "p": "APGA",
+          "district": "ENUGU SOUTH I",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU SOUTH I under APGA.",
+          "scores": [
+            59,
+            50,
+            50,
+            51,
+            58,
+            61
+          ]
+        },
+        {
+          "n": "NWEZE OBINNA",
+          "p": "LP",
+          "district": "ENUGU SOUTH I",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for ENUGU SOUTH I under LP.",
+          "scores": [
+            56,
+            51,
+            53,
+            50,
+            48,
+            74
+          ]
+        },
+        {
+          "n": "AGBO NGOZI JACQUELINE",
+          "p": "NDC",
+          "district": "ENUGU SOUTH I",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for ENUGU SOUTH I under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "N ANI BARRY OBINNA MICHAEL",
+          "p": "PDP",
+          "district": "ENUGU SOUTH I",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for ENUGU SOUTH I under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "OGBODO PATIENCE",
+          "p": "SDP",
+          "district": "ENUGU SOUTH I",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for ENUGU SOUTH I under SDP.",
+          "scores": [
+            65,
+            51,
+            59,
+            50,
+            61,
+            62
+          ]
+        },
+        {
+          "n": "NWIGWE IFEANYI PATRICK",
+          "p": "YPP",
+          "district": "ENUGU SOUTH I",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC neco",
+          "bg": "Contesting for ENUGU SOUTH I under YPP.",
+          "scores": [
+            58,
+            49,
+            50,
+            49,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "ADAUGO CHINYERE CHIKEZIE",
+          "p": "ADP",
+          "district": "I ENUGU SOUTH II",
+          "age": "49",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for I ENUGU SOUTH II under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NWANKWO IGNATIUS SOMKENECHUKWU",
+          "p": "ADC",
+          "district": "ENUGU SOUTH II",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for ENUGU SOUTH II under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "UGWU OBIAJULU PRINCESS",
+          "p": "APC",
+          "district": "ENUGU SOUTH II",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for ENUGU SOUTH II under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "NGENE SUNDAY",
+          "p": "LP",
+          "district": "ENUGU SOUTH II",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC WAEC HND",
+          "bg": "Contesting for ENUGU SOUTH II under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "OKWOR NNAEMEKA JOHNSON",
+          "p": "NDC",
+          "district": "ENUGU SOUTH II",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU SOUTH II under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "CHIENE CHIENE IGNATIUS",
+          "p": "PDP",
+          "district": "ENUGU SOUTH II",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WASSCE BSC",
+          "bg": "Contesting for ENUGU SOUTH II under PDP.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "NWOBODO CHINECHEREM MICHAEL",
+          "p": "PRP",
+          "district": "ENUGU SOUTH II",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BTECH",
+          "bg": "Contesting for ENUGU SOUTH II under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            62,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "OKAFOR LETICIA",
+          "p": "SDP",
+          "district": "ENUGU SOUTH II",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ENUGU SOUTH II under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "UGWU GODWIN OGOCHUKWU",
+          "p": "YPP",
+          "district": "ENUGU SOUTH II",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC",
+          "bg": "Contesting for ENUGU SOUTH II under YPP.",
+          "scores": [
+            54,
+            49,
+            50,
+            49,
+            46,
+            74
+          ]
+        },
+        {
+          "n": "EGBO BEST UGONNA",
+          "p": "YP",
+          "district": "ENUGU SOUTH II",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "F.S.L.C. SSCE BSc. Economics",
+          "bg": "Contesting for ENUGU SOUTH II under YP.",
+          "scores": [
+            71,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "ADINDE FRANCIS",
+          "p": "A",
+          "district": "EZEAGU",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) WAEC B. Tech",
+          "bg": "Contesting for EZEAGU under A.",
+          "scores": [
+            52,
+            48,
+            48,
+            62,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "ANICHEBE CORNELIUS CHIMEZIE",
+          "p": "ADP",
+          "district": "EZEAGU",
+          "age": "36",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for EZEAGU under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "OZOUKEJE JUDE CHINYEAKA",
+          "p": "ADC",
+          "district": "EZEAGU",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO B.ENg",
+          "bg": "Contesting for EZEAGU under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            65,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "N ODE ADANMA BIBIAN",
+          "p": "APC",
+          "district": "EZEAGU",
+          "age": "47",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC LL.B",
+          "bg": "Contesting for EZEAGU under APC.",
+          "scores": [
+            66,
+            65,
+            58,
+            53,
+            65,
+            59
+          ]
+        },
+        {
+          "n": "ENEKWECHI KENNETH",
+          "p": "NDP",
+          "district": "EZEAGU",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE",
+          "bg": "Contesting for EZEAGU under NDP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "ADINDE UCHENNA PRISCA",
+          "p": "NDC",
+          "district": "EZEAGU",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for EZEAGU under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "NEBO SAMUEL EBUBE",
+          "p": "PDP",
+          "district": "I EZEAGU",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC/NECO",
+          "bg": "Contesting for I EZEAGU under PDP.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            51,
+            67
+          ]
+        },
+        {
+          "n": "ONYEMA CHIDI LEMON",
+          "p": "PRP",
+          "district": "EZEAGU",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for EZEAGU under PRP.",
+          "scores": [
+            58,
+            50,
+            52,
+            48,
+            57,
+            64
+          ]
+        },
+        {
+          "n": "IFEANYI OZORAGU",
+          "p": "SDP",
+          "district": "EZEAGU",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for EZEAGU under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ONYIA CHRISTIAN IFEANYICHUKWU",
+          "p": "YPP",
+          "district": "EZEAGU",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for EZEAGU under YPP.",
+          "scores": [
+            64,
+            49,
+            58,
+            49,
+            59,
+            67
+          ]
+        },
+        {
+          "n": "UGAH OBIORA DANIEL",
+          "p": "ADP",
+          "district": "IGBO-ETITI EAST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IGBO-ETITI EAST under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "AGU JOSEPH ONOWA",
+          "p": "ADC",
+          "district": "IGBO-ETITI EAST",
+          "age": "37",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Contesting for IGBO-ETITI EAST under ADC.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            53,
+            70
+          ]
+        },
+        {
+          "n": "EZEANI EZENTA UGOCHUKWU",
+          "p": "APC",
+          "district": "IGBO-ETITI EAST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C NECO",
+          "bg": "Contesting for IGBO-ETITI EAST under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "IFEANYI UBACHUKWU",
+          "p": "APM",
+          "district": "IGBO-ETITI EAST",
+          "age": "34",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IGBO-ETITI EAST under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "OZOR PASCAL EJIOFOR",
+          "p": "LP",
+          "district": "IGBO-ETITI EAST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for IGBO-ETITI EAST under LP.",
+          "scores": [
+            58,
+            57,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "IDE CLINTON OKUDILI",
+          "p": "NDC",
+          "district": "IGBO-ETITI EAST",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/NECO MBBS",
+          "bg": "Contesting for IGBO-ETITI EAST under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "IYOKE PAUL",
+          "p": "PDP",
+          "district": "IGBO-ETITI EAST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC MASTERS",
+          "bg": "Contesting for IGBO-ETITI EAST under PDP.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            66,
+            60
+          ]
+        },
+        {
+          "n": "OKPE PERPETUAL CHIDINMA",
+          "p": "PRP",
+          "district": "IGBO-ETITI EAST",
+          "age": "27",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC WASC",
+          "bg": "Contesting for IGBO-ETITI EAST under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "ISHIWU JOSEPH",
+          "p": "SDP",
+          "district": "IGBO-ETITI EAST",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IGBO-ETITI EAST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ENYI VICTOR IZUCHUKWU",
+          "p": "ADC",
+          "district": "IGBO-ETITI WEST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO",
+          "bg": "Contesting for IGBO-ETITI WEST under ADC.",
+          "scores": [
+            55,
+            50,
+            51,
+            51,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "AMUKA WILLIAMS TOBECHUKWU",
+          "p": "APC",
+          "district": "IGBO-ETITI WEST",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT SSCE B.ENG",
+          "bg": "Contesting for IGBO-ETITI WEST under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            67,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "N NNADI VALENTINE OKECHUKWU",
+          "p": "APM",
+          "district": "IGBO-ETITI WEST",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IGBO-ETITI WEST under APM.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            45,
+            70
+          ]
+        },
+        {
+          "n": "UGWU CHUKWUEBUKA CHARLES",
+          "p": "NDC",
+          "district": "IGBO-ETITI WEST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/NECO BSC ENG",
+          "bg": "Contesting for IGBO-ETITI WEST under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            61,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ATTAH CHIDI CELESTINE",
+          "p": "PDP",
+          "district": "I IGBO-ETITI WEST",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSC",
+          "bg": "Contesting for I IGBO-ETITI WEST under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "GODWIN CHUKWUMA",
+          "p": "PRP",
+          "district": "IGBO-ETITI WEST",
+          "age": "57",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASC",
+          "bg": "Contesting for IGBO-ETITI WEST under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "UGWU MACROMANUS EBUKA",
+          "p": "SDP",
+          "district": "IGBO-ETITI WEST",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC SSCE",
+          "bg": "Contesting for IGBO-ETITI WEST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "SUNDAY AYAH",
+          "p": "ADP",
+          "district": "IGBO-EZE NORTH I",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C",
+          "bg": "Contesting for IGBO-EZE NORTH I under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OSSAI JEREMIAH OKECHUKWU",
+          "p": "ADC",
+          "district": "IGBO-EZE NORTH I",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "COMMIUNITY PRIMARY SCHOOL C-H SCHOOL OKPO",
+          "bg": "Contesting for IGBO-EZE NORTH I under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "EZE EJIKE JUDE",
+          "p": "APC",
+          "district": "IGBO-EZE NORTH I",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC",
+          "bg": "Contesting for IGBO-EZE NORTH I under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "APEH SOLOMON CHIKWADO",
+          "p": "LP",
+          "district": "IGBO-EZE NORTH I",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC POLITICAL SCIENCE",
+          "bg": "Contesting for IGBO-EZE NORTH I under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "EZE MARTINS IFEANYI",
+          "p": "NDC",
+          "district": "IGBO-EZE NORTH I",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BACHELOR OF SCIENCE BSC",
+          "bg": "Contesting for IGBO-EZE NORTH I under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "IDOKO COLLINS CHIBUOGWU",
+          "p": "PDP",
+          "district": "IGBO-EZE NORTH I",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for IGBO-EZE NORTH I under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "ONU LOVELINE N.",
+          "p": "PRP",
+          "district": "IGBO-EZE NORTH I",
+          "age": "31",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE NCE",
+          "bg": "Contesting for IGBO-EZE NORTH I under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "N REGINA ITODO",
+          "p": "SDP",
+          "district": "IGBO-EZE NORTH I",
+          "age": "60",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IGBO-EZE NORTH I under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "UGWUANYI HYGINUS",
+          "p": "ADC",
+          "district": "IGBO-EZE NORTH II",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IGBO-EZE NORTH II under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OBE CLIFFORD NNAEMEKA",
+          "p": "APC",
+          "district": "I IGBO-EZE NORTH II",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT SENIOR SECONDARY SCH CERT",
+          "bg": "Contesting for I IGBO-EZE NORTH II under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "IDOKO NELSON NDUDI",
+          "p": "LP",
+          "district": "IGBO-EZE NORTH II",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BA (ENGLISH & LITERARY STUDIES)",
+          "bg": "Contesting for IGBO-EZE NORTH II under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            64,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "IDOKO SUNDAY OLIVER",
+          "p": "NDC",
+          "district": "IGBO-EZE NORTH II",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "COMMUNITY PRI SCH GOV SEC SCH TAMMAH",
+          "bg": "Contesting for IGBO-EZE NORTH II under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "ABUGU HYGINUS EHEZONACHI",
+          "p": "PDP",
+          "district": "IGBO-EZE NORTH II",
+          "age": "36",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC NECO HND",
+          "bg": "Contesting for IGBO-EZE NORTH II under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "EZE BONIFACE EJIKE",
+          "p": "PRP",
+          "district": "IGBO-EZE NORTH II",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE",
+          "bg": "Contesting for IGBO-EZE NORTH II under PRP.",
+          "scores": [
+            50,
+            56,
+            52,
+            48,
+            67,
+            56
+          ]
+        },
+        {
+          "n": "OCHAI GABRIEL",
+          "p": "SDP",
+          "district": "IGBO-EZE NORTH II",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IGBO-EZE NORTH II under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "OBIECHINA FAITH CHIDINMA",
+          "p": "ADP",
+          "district": "IGBO-EZE SOUTH",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for IGBO-EZE SOUTH under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "OGONNA GODWIN ANTHONY",
+          "p": "ADC",
+          "district": "IGBO-EZE SOUTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CENTRAL PRIMARY SCHOOL NATIONAL COLLEGE NNAMDI AZIKIWE UNIVERSITY",
+          "bg": "Contesting for IGBO-EZE SOUTH under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "ASOGWA GEORGINA- FAVOUR NKEM",
+          "p": "APC",
+          "district": "IGBO-EZE SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "COMMUNITY PRI SCH ATUONA WAEC NCE",
+          "bg": "Contesting for IGBO-EZE SOUTH under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "OBETA JONAS IBE",
+          "p": "LP",
+          "district": "IGBO-EZE SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE B. ENG",
+          "bg": "Contesting for IGBO-EZE SOUTH under LP.",
+          "scores": [
+            60,
+            51,
+            53,
+            64,
+            57,
+            67
+          ]
+        },
+        {
+          "n": "N SAM THADDEUS SUNDAY",
+          "p": "NRM",
+          "district": "IGBO-EZE SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for IGBO-EZE SOUTH under NRM.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            54,
+            63
+          ]
+        },
+        {
+          "n": "OGARA HARRISON CHINWE",
+          "p": "NDC",
+          "district": "IGBO-EZE SOUTH",
+          "age": "59",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC HND",
+          "bg": "Contesting for IGBO-EZE SOUTH under NDC.",
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "OKECHUKWU AGBAJI ERNEST",
+          "p": "PDP",
+          "district": "I IGBO-EZE SOUTH",
+          "age": "33",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE MBBS",
+          "bg": "Contesting for I IGBO-EZE SOUTH under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "OMEJE AZUBIKE MAXWELL",
+          "p": "PRP",
+          "district": "IGBO-EZE SOUTH",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC B.Eng Mechanical Engineering",
+          "bg": "Contesting for IGBO-EZE SOUTH under PRP.",
+          "scores": [
+            64,
+            50,
+            60,
+            62,
+            61,
+            64
+          ]
+        },
+        {
+          "n": "ODOH CHRISTIAN",
+          "p": "SDP",
+          "district": "IGBO-EZE SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for IGBO-EZE SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "ONAH CANDIDUS",
+          "p": "ADP",
+          "district": "ISI-UZO",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "Certificate",
+          "bg": "Contesting for ISI-UZO under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "AGBO CHIJIOKE JAMES",
+          "p": "ADC",
+          "district": "ISI-UZO",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC WAEC & NECO",
+          "bg": "Contesting for ISI-UZO under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NNAMANI AUGUSTINE FIDELIS",
+          "p": "APC",
+          "district": "ISI-UZO",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE",
+          "bg": "Contesting for ISI-UZO under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "IKEOHA CHINEMEREM MICHEAL",
+          "p": "NDC",
+          "district": "ISI-UZO",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE/WAEC BSC",
+          "bg": "Contesting for ISI-UZO under NDC.",
+          "scores": [
+            57,
+            47,
+            55,
+            47,
+            50,
+            69
+          ]
+        },
+        {
+          "n": "IGWURUBE MISHARCK CHINEDU",
+          "p": "PDP",
+          "district": "ISI-UZO",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NABTEB BSC(ED)",
+          "bg": "Contesting for ISI-UZO under PDP.",
+          "scores": [
+            61,
+            50,
+            59,
+            51,
+            55,
+            67
+          ]
+        },
+        {
+          "n": "ONYEMAECHI EMMANUEL",
+          "p": "SDP",
+          "district": "ISI-UZO",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for ISI-UZO under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "CHIJIOKE KINGSLEY ODINAKACHUKWU",
+          "p": "ZLP",
+          "district": "ISI-UZO",
+          "age": "31",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.SC",
+          "bg": "Contesting for ISI-UZO under ZLP.",
+          "scores": [
+            59,
+            49,
+            57,
+            49,
+            50,
+            70
+          ]
+        },
+        {
+          "n": "OWUBE GODWIN CHUKWUDI",
+          "p": "A",
+          "district": "NKANU EAST",
+          "age": "62",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC (First leaving certificate) WAEC B.sc",
+          "bg": "Contesting for NKANU EAST under A.",
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            68,
+            55
+          ]
+        },
+        {
+          "n": "N UCHECHI OMELI",
+          "p": "ADP",
+          "district": "NKANU EAST",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for NKANU EAST under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "CHIDIEBERE ANIOWO",
+          "p": "ADC",
+          "district": "NKANU EAST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "HIGHER NATIONAL DIPLOMA",
+          "bg": "Contesting for NKANU EAST under ADC.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "MBA ANTHONY OKECHUKWU",
+          "p": "APC",
+          "district": "NKANU EAST",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "SSCE BSC",
+          "bg": "Contesting for NKANU EAST under APC.",
+          "scores": [
+            58,
+            57,
+            58,
+            53,
+            75,
+            51
+          ]
+        },
+        {
+          "n": "ONWURAH DANIEL IGWE",
+          "p": "LP",
+          "district": "NKANU EAST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BSc",
+          "bg": "Contesting for NKANU EAST under LP.",
+          "scores": [
+            58,
+            57,
+            61,
+            50,
+            71,
+            59
+          ]
+        },
+        {
+          "n": "NWODO PATRICK CHUKWUMA",
+          "p": "NDC",
+          "district": "I NKANU EAST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for I NKANU EAST under NDC.",
+          "scores": [
+            47,
+            53,
+            47,
+            47,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "EDE CHUKWUEBUKA DAVID",
+          "p": "PDP",
+          "district": "NKANU EAST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO BSC",
+          "bg": "Contesting for NKANU EAST under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "TOCHUKWU GODFREY",
+          "p": "SDP",
+          "district": "NKANU EAST",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for NKANU EAST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "UGWU PROMISE CHIZOBA",
+          "p": "ADP",
+          "district": "NKANU WEST",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for NKANU WEST under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "NDUBUISI CHRISTAIN ANI",
+          "p": "ADC",
+          "district": "NKANU WEST",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C PRIMARY SCHOOL CERTIFICATE WAEC BACHELOR DEGREE",
+          "bg": "Contesting for NKANU WEST under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "NNAMANI IFEANYI RAPHAEL",
+          "p": "APC",
+          "district": "NKANU WEST",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CREDIT FIRST LEAVING PRI CERT ALL CREDUT GCE SECOND CLASS HONOUR",
+          "bg": "Contesting for NKANU WEST under APC.",
+          "scores": [
+            60,
+            51,
+            62,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "OKOH MONDAY",
+          "p": "DLA",
+          "district": "NKANU WEST",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Contesting for NKANU WEST under DLA.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "NNAMANI CHRISTIAN MADUKA",
+          "p": "NDC",
+          "district": "NKANU WEST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC/AFFIDAVIT OF FACT SSCE/NABTEB BACHELOR IN THEOLOGY DEGREE",
+          "bg": "Contesting for NKANU WEST under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "ANIEDE NDUBUISI FRANCIS",
+          "p": "PDP",
+          "district": "NKANU WEST",
+          "age": "50",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for NKANU WEST under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "ANTHONY ANIOBI",
+          "p": "SDP",
+          "district": "NKANU WEST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for NKANU WEST under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "OKENWA GERALDINE UGUCHI",
+          "p": "ZLP",
+          "district": "NKANU WEST",
+          "age": "45",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "BSC",
+          "bg": "Contesting for NKANU WEST under ZLP.",
+          "scores": [
+            63,
+            49,
+            57,
+            49,
+            59,
+            63
+          ]
+        },
+        {
+          "n": "N IJEOMA BLESSING ANOKWE",
+          "p": "ADP",
+          "district": "NSUKKA EAST",
+          "age": "35",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for NSUKKA EAST under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "UKWUMA ANTHONY CHIKAODILI",
+          "p": "ADC",
+          "district": "NSUKKA EAST",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE NECO BACHELOR DEGREE",
+          "bg": "Contesting for NSUKKA EAST under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "EZUGWU PIUS ONYEKACHI",
+          "p": "APC",
+          "district": "NSUKKA EAST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC GEOLOGY",
+          "bg": "Contesting for NSUKKA EAST under APC.",
+          "scores": [
+            62,
+            51,
+            58,
+            53,
+            56,
+            66
+          ]
+        },
+        {
+          "n": "OKENYI BENJAMIN EKENE",
+          "p": "LP",
+          "district": "I NSUKKA EAST",
+          "age": "28",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSc",
+          "bg": "Contesting for I NSUKKA EAST under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "ASOGWA HENRY JAMES",
+          "p": "NDC",
+          "district": "NSUKKA EAST",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "BTECH FISHERIES",
+          "bg": "Contesting for NSUKKA EAST under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            61,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "ASOGWA NDUBUISI CHINAEME",
+          "p": "PDP",
+          "district": "NSUKKA EAST",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BACHELOR OF ENGINEERING",
+          "bg": "Contesting for NSUKKA EAST under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            65,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "ANAEKWE EKENE MARIA",
+          "p": "PRP",
+          "district": "NSUKKA EAST",
+          "age": "38",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FLSC NABTEB INSTITUTE OF MANAGEMENT",
+          "bg": "Contesting for NSUKKA EAST under PRP.",
+          "scores": [
+            68,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "CHINYERE EZEMA",
+          "p": "SDP",
+          "district": "NSUKKA EAST",
+          "age": "39",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for NSUKKA EAST under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "EVANS CHIBUIKE OGBANYA",
+          "p": "ADP",
+          "district": "NSUKKA WEST",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C Certificate Certificate",
+          "bg": "Contesting for NSUKKA WEST under ADP.",
+          "scores": [
+            52,
+            48,
+            48,
+            48,
+            46,
+            69
+          ]
+        },
+        {
+          "n": "OGBU CHRISTIAN IFEANYI",
+          "p": "ADC",
+          "district": "NSUKKA WEST",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE DEGREE",
+          "bg": "Contesting for NSUKKA WEST under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "ONYECHI MALACHY OKEY",
+          "p": "APC",
+          "district": "NSUKKA WEST",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "MODEL PRI SCH NSUKKA CSS UMUITODO OBOLLO (WAEC)",
+          "bg": "Contesting for NSUKKA WEST under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "UGWU SILAS",
+          "p": "NRM",
+          "district": "NSUKKA WEST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for NSUKKA WEST under NRM.",
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "AGBO AMOS AMADI",
+          "p": "NDC",
+          "district": "NSUKKA WEST",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CENTRAL SCH ISIAKPU OKAM HIGH SCH OROKAM EBONYI STATE UNIVERSITY",
+          "bg": "Contesting for NSUKKA WEST under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "UGWUOKE OBIORA BARTHLOMEW",
+          "p": "PDP",
+          "district": "NSUKKA WEST",
+          "age": "49",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC/GCE",
+          "bg": "Contesting for NSUKKA WEST under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "EGBO EUNICE ANAYO",
+          "p": "PRP",
+          "district": "NSUKKA WEST",
+          "age": "46",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "FSLC SSCE HND",
+          "bg": "Contesting for NSUKKA WEST under PRP.",
+          "scores": [
+            64,
+            50,
+            60,
+            48,
+            61,
+            64
+          ]
+        },
+        {
+          "n": "ONWUKA PAUL CHIZOBA",
+          "p": "ADC",
+          "district": "OJI RIVER",
+          "age": "58",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL CERTIFICATE SSCE B.SC",
+          "bg": "Contesting for OJI RIVER under ADC.",
+          "scores": [
+            57,
+            56,
+            59,
+            51,
+            72,
+            55
+          ]
+        },
+        {
+          "n": "N EZE IGNATIUS OSITA",
+          "p": "APC",
+          "district": "OJI RIVER",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC BSC. MASTERS",
+          "bg": "Contesting for OJI RIVER under APC.",
+          "scores": [
+            64,
+            57,
+            70,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "UBAH FIDELIS IKECHUKWU",
+          "p": "LP",
+          "district": "OJI RIVER",
+          "age": "38",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Contesting for OJI RIVER under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "MADUAKO JOHN CHINONSO",
+          "p": "NDC",
+          "district": "OJI RIVER",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC BSC MARKETING",
+          "bg": "Contesting for OJI RIVER under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "NWOZOR UGOCHUKWU ANAYO",
+          "p": "PDP",
+          "district": "I OJI RIVER",
+          "age": "47",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC LLB-IN-LAW",
+          "bg": "Contesting for I OJI RIVER under PDP.",
+          "scores": [
+            65,
+            64,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "MADU ALEX",
+          "p": "SDP",
+          "district": "OJI RIVER",
+          "age": "32",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for OJI RIVER under SDP.",
+          "scores": [
+            55,
+            51,
+            51,
+            50,
+            48,
+            69
+          ]
+        },
+        {
+          "n": "ONAH KENNETH IKECHUKWU",
+          "p": "ADP",
+          "district": "UDENU",
+          "age": "42",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for UDENU under ADP.",
+          "scores": [
+            56,
+            48,
+            48,
+            48,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "UGWU CHRISTIAN CHEKEUBE",
+          "p": "ADC",
+          "district": "UDENU",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE MASTERS IN ETM",
+          "bg": "Contesting for UDENU under ADC.",
+          "scores": [
+            65,
+            50,
+            63,
+            51,
+            64,
+            63
+          ]
+        },
+        {
+          "n": "ONAH SOLOMON IZUCHUKWU",
+          "p": "APC",
+          "district": "UDENU",
+          "age": "52",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C EKWU ESUE PRI SCHOOL WAEC",
+          "bg": "Contesting for UDENU under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            53,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "OBETA CHIGOZIE GODWIN",
+          "p": "LP",
+          "district": "UDENU",
+          "age": "51",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC",
+          "bg": "Contesting for UDENU under LP.",
+          "scores": [
+            52,
+            57,
+            53,
+            50,
+            67,
+            59
+          ]
+        },
+        {
+          "n": "ONAH HILLARY CHIKAODILI",
+          "p": "NDC",
+          "district": "UDENU",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC UNI OF BENIN",
+          "bg": "Contesting for UDENU under NDC.",
+          "scores": [
+            55,
+            47,
+            47,
+            47,
+            55,
+            62
+          ]
+        },
+        {
+          "n": "EZE JUDE ONYEMAECHI",
+          "p": "PDP",
+          "district": "UDENU",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC SSCE",
+          "bg": "Contesting for UDENU under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "NNAMANI CHINONSO FRANKLIN",
+          "p": "PRP",
+          "district": "UDENU",
+          "age": "35",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WASSCE B.Sc",
+          "bg": "Contesting for UDENU under PRP.",
+          "scores": [
+            60,
+            50,
+            60,
+            48,
+            52,
+            71
+          ]
+        },
+        {
+          "n": "CLETUS ONYEISHI",
+          "p": "SDP",
+          "district": "UDENU",
+          "age": "61",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for UDENU under SDP.",
+          "scores": [
+            51,
+            57,
+            51,
+            50,
+            67,
+            54
+          ]
+        },
+        {
+          "n": "CHIDUBEM JESSE EKWO",
+          "p": "ADC",
+          "district": "UDI NORTH",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Eng",
+          "bg": "Contesting for UDI NORTH under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            65,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "N UGWU CALLISTUS UCHE",
+          "p": "APC",
+          "district": "UDI NORTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "CENTRAL PRI SCH OKPATU BOYS SECONDARY SCH AWHUM ENUGU STATE UNI OF SCIENCE AND TECHNOLOGY",
+          "bg": "Contesting for UDI NORTH under APC.",
+          "scores": [
+            52,
+            57,
+            50,
+            67,
+            71,
+            51
+          ]
+        },
+        {
+          "n": "ANIEKWE OBINNA JOSEPH",
+          "p": "LP",
+          "district": "UDI NORTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC BSc",
+          "bg": "Contesting for UDI NORTH under LP.",
+          "scores": [
+            66,
+            51,
+            61,
+            50,
+            61,
+            67
+          ]
+        },
+        {
+          "n": "IJEGALU ANDREW CHIDOZIE",
+          "p": "NDC",
+          "district": "I UDI NORTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC NECO HND",
+          "bg": "Contesting for I UDI NORTH under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "OGBOZOR EMMANUEL IKECHUKWU",
+          "p": "PDP",
+          "district": "UDI NORTH",
+          "age": "54",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC/GCE",
+          "bg": "Contesting for UDI NORTH under PDP.",
+          "scores": [
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
+          ]
+        },
+        {
+          "n": "CHIME CHIJINDU",
+          "p": "SDP",
+          "district": "UDI NORTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for UDI NORTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "NWACHUKWU CHRISTIAN",
+          "p": "ADC",
+          "district": "UDI SOUTH",
+          "age": "45",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "WAEC B.ENG",
+          "bg": "Contesting for UDI SOUTH under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            65,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "ANEKE OKECHUKWU HYACINTH",
+          "p": "APC",
+          "district": "UDI SOUTH",
+          "age": "56",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC BBA,MBA,PHD",
+          "bg": "Contesting for UDI SOUTH under APC.",
+          "scores": [
+            64,
+            57,
+            82,
+            53,
+            81,
+            51
+          ]
+        },
+        {
+          "n": "ANEKE STANLEY",
+          "p": "LP",
+          "district": "UDI SOUTH",
+          "age": "39",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "PSLC SSCE BSc MARKETING",
+          "bg": "Contesting for UDI SOUTH under LP.",
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "ENEH MICHAEL UGOCHUKWU",
+          "p": "NDC",
+          "district": "UDI SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "C FSLC NECO BA LAW",
+          "bg": "Contesting for UDI SOUTH under NDC.",
+          "scores": [
+            61,
+            61,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "MADUEKE ONYEDIKACHUKWU AUGUSTINE",
+          "p": "PDP",
+          "district": "UDI SOUTH",
+          "age": "43",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC UNIVERSITY",
+          "bg": "Contesting for UDI SOUTH under PDP.",
+          "scores": [
+            59,
+            50,
+            51,
+            51,
+            60,
+            60
+          ]
+        },
+        {
+          "n": "BETHRAND ILOH ONYEKACHI",
+          "p": "SDP",
+          "district": "UDI SOUTH",
+          "age": "42",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for UDI SOUTH under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        },
+        {
+          "n": "OKORO SAMUEL",
+          "p": "ADP",
+          "district": "UZO UWANI",
+          "age": "63",
+          "gender": "F",
+          "rm": "N/A",
+          "edu": "Not confirmed",
+          "bg": "Contesting for UZO UWANI under ADP.",
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            65,
+            54
+          ]
+        },
+        {
+          "n": "AKOR LIVINUS ADEJOH",
+          "p": "ADC",
+          "district": "UZO UWANI",
+          "age": "41",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCHOOL LEAVING CERT WAEC BACHELOR OF ART",
+          "bg": "Contesting for UZO UWANI under ADC.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            62,
+            63
+          ]
+        },
+        {
+          "n": "EKWUEME CHUKWUMA MARTINS",
+          "p": "APC",
+          "district": "UZO UWANI",
+          "age": "44",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FIRST SCH LEAVING CERT WAEC",
+          "bg": "Contesting for UZO UWANI under APC.",
+          "scores": [
+            60,
+            51,
+            50,
+            53,
+            61,
+            59
+          ]
+        },
+        {
+          "n": "N UGWO THOMAS ANIGBO",
+          "p": "NDC",
+          "district": "UZO UWANI",
+          "age": "46",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC FIRST DEGREE CERT",
+          "bg": "Contesting for UZO UWANI under NDC.",
+          "scores": [
+            61,
+            47,
+            55,
+            47,
+            59,
+            62
+          ]
+        },
+        {
+          "n": "NWABUEZE OKECHUKWU AFAMEFUNA",
+          "p": "PDP",
+          "district": "UZO UWANI",
+          "age": "48",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC/SSCE BACHELOR OF SCIENCE",
+          "bg": "Contesting for UZO UWANI under PDP.",
+          "scores": [
+            65,
+            50,
+            59,
+            51,
+            64,
+            60
+          ]
+        },
+        {
+          "n": "FREEDOM CHIMEREZE C.",
+          "p": "PRP",
+          "district": "UZO UWANI",
+          "age": "30",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FLSC WASC",
+          "bg": "Contesting for UZO UWANI under PRP.",
+          "scores": [
+            54,
+            50,
+            52,
+            48,
+            48,
+            71
+          ]
+        },
+        {
+          "n": "OKOYE RAPHAEL",
+          "p": "SDP",
+          "district": "UZO UWANI",
+          "age": "40",
+          "gender": "M",
+          "rm": "N/A",
+          "edu": "FSLC WAEC",
+          "bg": "Contesting for UZO UWANI under SDP.",
+          "scores": [
+            59,
+            51,
+            51,
+            50,
+            57,
+            62
+          ]
+        }
+      ]
+    }
+  }
+}
