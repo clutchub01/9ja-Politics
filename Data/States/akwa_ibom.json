@@ -5,30 +5,19 @@
       "constituency": "Akwa Ibom Statewide",
       "candidates": [
         {
-          "n": "GOVE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "AKPAN IGNATIUS CYRIL",
           "p": "A",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ESSIEN MFON BASSEY (52 yrs)",
+          "edu": "FSLC SSCE B.SC",
           "bg": "Governorship candidate for Akwa Ibom under A.",
+          "deputy": {
+            "n": "ESSIEN MFON BASSEY",
+            "age": "52",
+            "gender": "F",
+            "edu": "FSLC SSCE OND"
+          },
           "scores": [
             62,
             48,
@@ -39,30 +28,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "OTONG EDIDIONG EFFIONG",
           "p": "AA",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ETTO MAIKHAEL BASSEY (46 yrs)",
+          "edu": "First School Leaving Certficate Senior school certificate B.ED",
           "bg": "Governorship candidate for Akwa Ibom under AA.",
+          "deputy": {
+            "n": "ETTO MAIKHAEL BASSEY",
+            "age": "46",
+            "gender": "M",
+            "edu": "First School Leaving Certficate Senior school certificate diploma"
+          },
           "scores": [
             56,
             48,
@@ -73,30 +51,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "UDOH STEPHEN MFON",
           "p": "AAC",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ANTHONY EMEM FRANK (42 yrs)",
+          "edu": "FSLC SSCE B. Sc",
           "bg": "Governorship candidate for Akwa Ibom under AAC.",
+          "deputy": {
+            "n": "ANTHONY EMEM FRANK",
+            "age": "42",
+            "gender": "F",
+            "edu": "FSLC SSCE B. A"
+          },
           "scores": [
             58,
             54,
@@ -107,64 +74,42 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "JOHN JAMES AKPANUDOEDEHE",
           "p": "ADC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NSIEN MKPOMBUK TOMMY (46 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE GCE B.Sc",
           "bg": "Governorship candidate for Akwa Ibom under ADC.",
+          "deputy": {
+            "n": "NSIEN MKPOMBUK TOMMY",
+            "age": "46",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
-            51,
+            57,
             56,
+            59,
             51,
-            51,
-            68,
+            72,
             55
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "ARCHIBONG INIMBOM NSIKAK",
           "p": "ADP",
           "age": "39",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EKERETTE SOLOMON (38 yrs)",
+          "edu": "FSLC WASSC MSC",
           "bg": "Governorship candidate for Akwa Ibom under ADP.",
+          "deputy": {
+            "n": "EKERETTE SOLOMON",
+            "age": "38",
+            "gender": "M",
+            "edu": "FSLC SSCE B.SC"
+          },
           "scores": [
             58,
             48,
@@ -175,64 +120,42 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "ENO UMO BASSEY",
           "p": "APC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EYAKENYI AKON ETIM (66 yrs)",
+          "edu": "FSLC WASC BS.c",
           "bg": "Governorship candidate for Akwa Ibom under APC.",
+          "deputy": {
+            "n": "EYAKENYI AKON ETIM",
+            "age": "66",
+            "gender": "F",
+            "edu": "FSLC TEACHERS GRADE II CERTIFICATE BACHELOR OF EDUCATION"
+          },
           "scores": [
-            58,
+            52,
             57,
-            58,
+            50,
             53,
-            75,
+            71,
             51
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "JIMMY STELLA MONDAY",
           "p": "APGA",
           "age": "41",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AKPAETOR AUGUSTINE AUGUSTINE (41 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Akwa Ibom under APGA.",
+          "deputy": {
+            "n": "AKPAETOR AUGUSTINE AUGUSTINE",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC Waec BSc"
+          },
           "scores": [
             59,
             50,
@@ -243,132 +166,88 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "UDOKPAN NSIDIBE SAMPSON",
           "p": "APM",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UTTAH UDOIBE IDORCNYIN (49 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.Sc",
           "bg": "Governorship candidate for Akwa Ibom under APM.",
+          "deputy": {
+            "n": "UTTAH UDOIBE IDORCNYIN",
+            "age": "49",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "UMOH EMEM",
           "p": "APP",
           "age": "36",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NENE OKON EKPO (38 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
           "bg": "Governorship candidate for Akwa Ibom under APP.",
+          "deputy": {
+            "n": "NENE OKON EKPO",
+            "age": "38",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC OND"
+          },
           "scores": [
-            52,
+            58,
             48,
+            56,
             48,
-            48,
-            45,
+            49,
             70
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "EKPENYONG AKANINYENE EFIONG",
           "p": "BP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UFOT AKANINYENE SUNDAY (43 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE (FSLC) SENIOR SCHOOL CERTIFICATE (SSC - NECO) BACHELOR OF ARTS (B.Arts Theatre Arts))",
           "bg": "Governorship candidate for Akwa Ibom under BP.",
+          "deputy": {
+            "n": "UFOT AKANINYENE SUNDAY",
+            "age": "43",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE (FSLC) SENIOR SCHOOL CERTIFICATE (SSC - WAEC)) HIGHER NATIONAL DIPLOMA (HND- MASS COMMUNICATION)"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             56
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "AKPAN JEREMIAH UDOH",
           "p": "DLA",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AFAHAMEH EFFIONG OKON (64 yrs)",
+          "edu": "FSLC SSCE BSc",
           "bg": "Governorship candidate for Akwa Ibom under DLA.",
+          "deputy": {
+            "n": "AFAHAMEH EFFIONG OKON",
+            "age": "64",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
             62,
             48,
@@ -379,64 +258,42 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "MBABA MICHAEL BUSH",
           "p": "LP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MATHEW SALOME IGNATIUS (56 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GCE DEGREE (BA)",
           "bg": "Governorship candidate for Akwa Ibom under LP.",
+          "deputy": {
+            "n": "MATHEW SALOME IGNATIUS",
+            "age": "56",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DEGREE (BE)"
+          },
           "scores": [
-            64,
+            58,
             57,
-            73,
+            61,
             50,
-            77,
+            71,
             59
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
-          "p": "IND",
+          "n": "ENYONG MICHAEL OKON",
+          "p": "NDC",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "rm": "OWOH NNAMDIE BROWN (45 yrs)",
+          "edu": "FSLC WASC BSC, PHD",
+          "bg": "Governorship candidate for Akwa Ibom under NDC.",
+          "deputy": {
+            "n": "OWOH NNAMDIE BROWN",
+            "age": "45",
+            "gender": "F",
+            "edu": "FSLC SSCE BSC ACCOUNTING"
+          },
           "scores": [
             59,
             53,
@@ -447,30 +304,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "AKPAN MICHAEL UDO",
           "p": "NDP",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OROK ASUQUO EKPEYONG (60 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE O.N.D / H.N.D",
           "bg": "Governorship candidate for Akwa Ibom under NDP.",
+          "deputy": {
+            "n": "OROK ASUQUO EKPEYONG",
+            "age": "60",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C"
+          },
           "scores": [
             48,
             54,
@@ -481,30 +327,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "INEMESIT EDEM AKPAN",
           "p": "NNPP",
           "age": "50",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OKODI JOSEPHINE NTUKENYIN (36 yrs)",
+          "edu": "SSCE",
           "bg": "Governorship candidate for Akwa Ibom under NNPP.",
+          "deputy": {
+            "n": "OKODI JOSEPHINE NTUKENYIN",
+            "age": "36",
+            "gender": "F",
+            "edu": "FSLC SSCE ND"
+          },
           "scores": [
             51,
             58,
@@ -515,30 +350,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "EKONG MFON UDO",
           "p": "NRM",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JAMES ABRAHAM OKON (53 yrs)",
+          "edu": "F.S.L.C S.S.C.E B. ENG",
           "bg": "Governorship candidate for Akwa Ibom under NRM.",
+          "deputy": {
+            "n": "JAMES ABRAHAM OKON",
+            "age": "53",
+            "gender": "M",
+            "edu": "F.S.L.C W.A.EC B.SC ACCOUNTING"
+          },
           "scores": [
             48,
             54,
@@ -549,30 +373,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "BROWNSON IBANGA AKPAN",
           "p": "PDP",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JONATHAN PHILOMENA JOE (42 yrs)",
+          "edu": "FSLC SSCE, WASSC ND, HND, P.GD",
           "bg": "Governorship candidate for Akwa Ibom under PDP.",
+          "deputy": {
+            "n": "JONATHAN PHILOMENA JOE",
+            "age": "42",
+            "gender": "F",
+            "edu": "FSLC WAEC, NECO HND"
+          },
           "scores": [
             65,
             50,
@@ -583,33 +396,22 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "GEORGE MFONOBONG EDET",
           "p": "PRP",
           "age": "45",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BASSEY SAMUEL EMMANUEL JIMMY (40 yrs)",
+          "edu": "FLSC SSCE BSC, PGDPA, LLB",
           "bg": "Governorship candidate for Akwa Ibom under PRP.",
+          "deputy": {
+            "n": "BASSEY SAMUEL EMMANUEL JIMMY",
+            "age": "40",
+            "gender": "M",
+            "edu": "FSLC WAEC HND"
+          },
           "scores": [
             64,
-            50,
+            64,
             60,
             48,
             61,
@@ -617,30 +419,19 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
+          "n": "EFFIONG ASUOMO ROSEMARY",
           "p": "SDP",
           "age": "49",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BASSEY-ESANG ETI EFFIONG (36 yrs)",
+          "edu": "FLSC WAEC MASTERS",
           "bg": "Governorship candidate for Akwa Ibom under SDP.",
+          "deputy": {
+            "n": "BASSEY-ESANG ETI EFFIONG",
+            "age": "36",
+            "gender": "M",
+            "edu": "FLSC WAEC"
+          },
           "scores": [
             65,
             51,
@@ -651,54 +442,26 @@
           ]
         },
         {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "AKWA",
-          "p": "IND",
+          "n": "UMO BLESSING OKON",
+          "p": "ZLP",
           "age": "48",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
+          "rm": "EBIENANG BASSEY UDO (66 yrs)",
+          "edu": "FSLC WAEC HND",
+          "bg": "Governorship candidate for Akwa Ibom under ZLP.",
+          "deputy": {
+            "n": "EBIENANG BASSEY UDO",
+            "age": "66",
+            "gender": "M",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
-            61,
-            61,
-            55,
-            47,
+            63,
+            49,
+            57,
+            49,
             59,
-            62
-          ]
-        },
-        {
-          "n": "AKWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Akwa Ibom under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
+            63
           ]
         }
       ]

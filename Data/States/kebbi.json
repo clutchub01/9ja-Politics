@@ -5,64 +5,42 @@
       "constituency": "Kebbi Statewide",
       "candidates": [
         {
-          "n": "SHIP",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "MUHAMMED SANI ABDULLAHI",
           "p": "A",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABDULLAHI MUHAMMED (51 yrs)",
+          "edu": "FSLC SSCE NCE",
           "bg": "Governorship candidate for Kebbi under A.",
+          "deputy": {
+            "n": "ABDULLAHI MUHAMMED",
+            "age": "51",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
             48,
             54,
-            60,
+            48,
             48,
             64,
             55
           ]
         },
         {
-          "n": "ULLAHI MUHAMMED",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "GARBA ILLO KABIRU",
           "p": "AA",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SAHABI NILL (56 yrs)",
+          "edu": "Frist School Leaving Certificate SSC HND",
           "bg": "Governorship candidate for Kebbi under AA.",
+          "deputy": {
+            "n": "SAHABI NILL",
+            "age": "56",
+            "gender": "M",
+            "edu": "Frist School Leaving Certificate SSC ND"
+          },
           "scores": [
             62,
             48,
@@ -73,13 +51,19 @@
           ]
         },
         {
-          "n": "KEBBI",
+          "n": "NATAALA NURA",
           "p": "AAC",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "HUSSAINI BALA MUHAMMAD (50 yrs)",
+          "edu": "FLSC SSCE",
           "bg": "Governorship candidate for Kebbi under AAC.",
+          "deputy": {
+            "n": "HUSSAINI BALA MUHAMMAD",
+            "age": "50",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
           "scores": [
             58,
             54,
@@ -90,33 +74,22 @@
           ]
         },
         {
-          "n": "MUHAMMAD",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "MALAMI ABUBAKAR",
           "p": "ADC",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ZAGI MUSA MOHAMMED (60 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE GRADE II LL.B, BL",
           "bg": "Governorship candidate for Kebbi under ADC.",
+          "deputy": {
+            "n": "ZAGI MUSA MOHAMMED",
+            "age": "60",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE WASCE, GCE BSc/ Msc/PHD"
+          },
           "scores": [
             57,
-            56,
+            70,
             59,
             51,
             72,
@@ -124,64 +97,42 @@
           ]
         },
         {
-          "n": "Msc/",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            53,
-            47,
-            71,
-            47,
-            59,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "YAHAYA AYUBA",
           "p": "ADP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JIBRIN BALA (49 yrs)",
+          "edu": "Primary Certificate Secondary Certificate national diploma certificate",
           "bg": "Governorship candidate for Kebbi under ADP.",
+          "deputy": {
+            "n": "JIBRIN BALA",
+            "age": "49",
+            "gender": "M",
+            "edu": "Wali model primary school yauri Science centre b/k Higher national diploma"
+          },
           "scores": [
-            54,
-            54,
-            56,
             48,
-            69,
+            54,
+            48,
+            48,
+            65,
             54
           ]
         },
         {
-          "n": "Wali model primary s",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "IDRIS NASIR",
           "p": "APC",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED IBRAHIM (69 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GRADE II CERTIFICATE NATIONAL DIPLOMA",
           "bg": "Governorship candidate for Kebbi under APC.",
+          "deputy": {
+            "n": "MOHAMMED IBRAHIM",
+            "age": "69",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SECONDARY SCHOOL CERTIFICATE"
+          },
           "scores": [
             52,
             57,
@@ -192,64 +143,42 @@
           ]
         },
         {
-          "n": "FIRST S",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "ABUBAKAR SURU ABDULLAHI",
           "p": "APGA",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KABIRU HARUNA MUHAMMAD (41 yrs)",
+          "edu": "FSLC SSCE College of Health Jega",
           "bg": "Governorship candidate for Kebbi under APGA.",
+          "deputy": {
+            "n": "KABIRU HARUNA MUHAMMAD",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC SSCE NATIONAL DIPLOMAL"
+          },
           "scores": [
-            65,
+            59,
             50,
-            70,
-            51,
             62,
+            51,
+            58,
             61
           ]
         },
         {
-          "n": "KABIRU HA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "USMAN KAOJE ALIYU",
           "p": "APM",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED FATIMA (47 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE ABU ZARIA",
           "bg": "Governorship candidate for Kebbi under APM.",
+          "deputy": {
+            "n": "MOHAMMED FATIMA",
+            "age": "47",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE 0"
+          },
           "scores": [
             48,
             54,
@@ -260,30 +189,19 @@
           ]
         },
         {
-          "n": "FIRS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "ABDULLAHI NASIRU MAIYAKI ILLO",
           "p": "APP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "HASSAN JOY HABIBA (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
           "bg": "Governorship candidate for Kebbi under APP.",
+          "deputy": {
+            "n": "HASSAN JOY HABIBA",
+            "age": "35",
+            "gender": "F",
+            "edu": "SSCE"
+          },
           "scores": [
             54,
             54,
@@ -294,30 +212,19 @@
           ]
         },
         {
-          "n": "HASSAN JOY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "UMAR ISAH",
           "p": "BP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUSA SALAI (64 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Kebbi under BP.",
+          "deputy": {
+            "n": "MUSA SALAI",
+            "age": "64",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             48,
             54,
@@ -328,13 +235,19 @@
           ]
         },
         {
-          "n": "KEBBI",
+          "n": "USMAN ALIYU",
           "p": "LP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED SABITU SAUKIA (49 yrs)",
+          "edu": "FSLC SSCE HND",
           "bg": "Governorship candidate for Kebbi under LP.",
+          "deputy": {
+            "n": "MOHAMMED SABITU SAUKIA",
+            "age": "49",
+            "gender": "M",
+            "edu": "FSLC WAEC BSC GEOGRAPHY"
+          },
           "scores": [
             58,
             57,
@@ -345,64 +258,42 @@
           ]
         },
         {
-          "n": "SAUKI",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "AHMADU ZUMARU",
           "p": "NDP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUHAMMAD ZAYYANU ABDULLAHI (39 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE B.SC",
           "bg": "Governorship candidate for Kebbi under NDP.",
+          "deputy": {
+            "n": "MUHAMMAD ZAYYANU ABDULLAHI",
+            "age": "39",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE B.SC"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "FIRST SCHOOL LE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kebbi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KEBBI",
+          "n": "UMAR FARUK",
           "p": "SDP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MAHDI ABUBAKAR (49 yrs)",
+          "edu": "FSLC WAEC BLD",
           "bg": "Governorship candidate for Kebbi under SDP.",
+          "deputy": {
+            "n": "MAHDI ABUBAKAR",
+            "age": "49",
+            "gender": "M",
+            "edu": "FSLC WAEC BSC"
+          },
           "scores": [
             51,
             71,
@@ -413,19 +304,25 @@
           ]
         },
         {
-          "n": "KEBBI",
+          "n": "BASIRU MUSA",
           "p": "ZLP",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "HASSAN YAHAYA GEZAH (42 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Kebbi under ZLP.",
+          "deputy": {
+            "n": "HASSAN YAHAYA GEZAH",
+            "age": "42",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
-            55,
-            55,
-            57,
             49,
-            69,
+            55,
+            49,
+            49,
+            65,
             55
           ]
         }

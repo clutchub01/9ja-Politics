@@ -5,149 +5,111 @@
       "constituency": "Lagos Statewide",
       "candidates": [
         {
-          "n": "SHIP E",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "SOWORE OTITOLOJU ROBERT",
           "p": "A",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "CHINYERE AKABUEZE (52 yrs)",
+          "edu": "primary SSCE BSC",
           "bg": "Governorship candidate for Lagos under A.",
+          "deputy": {
+            "n": "CHINYERE AKABUEZE",
+            "age": "52",
+            "gender": "M",
+            "edu": "primary SSCE BSC"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "YERE AKABUEZE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "SALAWU KAMARUDEEN",
           "p": "AA",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GANIU ISMAIL SAMUEL (44 yrs)",
+          "edu": "Frist School Leaving Certificate SSC Technical certificate",
           "bg": "Governorship candidate for Lagos under AA.",
+          "deputy": {
+            "n": "GANIU ISMAIL SAMUEL",
+            "age": "44",
+            "gender": "M",
+            "edu": "Frist School Leaving Certificate Neco B.S.c"
+          },
           "scores": [
             56,
+            48,
+            48,
             62,
-            48,
-            48,
             54,
             63
           ]
         },
         {
-          "n": "Frist Schoo",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "SOL-NUYI OLUWADAMOLA ADESOCA",
           "p": "AAC",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SAMSON EMEM EFUNTOLA (46 yrs)",
+          "edu": "B tech",
           "bg": "Governorship candidate for Lagos under AAC.",
+          "deputy": {
+            "n": "SAMSON EMEM EFUNTOLA",
+            "age": "46",
+            "gender": "F",
+            "edu": "FSLC SSLC NBA"
+          },
           "scores": [
             50,
             60,
             52,
-            49,
+            63,
             65,
             60
           ]
         },
         {
-          "n": "LAGOS",
+          "n": "GBADEBO RHODES VIVOUR",
           "p": "ADC",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GBADAMOSI BABATUNDE OLALERE (58 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE SSCE BSc/Msc",
           "bg": "Governorship candidate for Lagos under ADC.",
+          "deputy": {
+            "n": "GBADAMOSI BABATUNDE OLALERE",
+            "age": "58",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE WAEC"
+          },
           "scores": [
-            65,
+            71,
             50,
-            59,
+            71,
             51,
-            62,
+            68,
             63
           ]
         },
         {
-          "n": "MOSI BABATUNDE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "BOLAJI NASIR ADEWALE",
           "p": "ADP",
           "age": "73",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OJO OLAOJO SAMUEL (52 yrs)",
+          "edu": "FSCL SSCE LLB HONS",
           "bg": "Governorship candidate for Lagos under ADP.",
+          "deputy": {
+            "n": "OJO OLAOJO SAMUEL",
+            "age": "52",
+            "gender": "M",
+            "edu": "FSCL SSCE HND"
+          },
           "scores": [
             54,
             70,
@@ -158,47 +120,42 @@
           ]
         },
         {
-          "n": "LAGOS",
+          "n": "HAMZAT KADRI OBAFEMI",
           "p": "APC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JAMES DAMILOLA SONAYON (42 yrs)",
+          "edu": "WEST AFRICAN CERTIFICATE EXAMINATION BS.c",
           "bg": "Governorship candidate for Lagos under APC.",
+          "deputy": {
+            "n": "JAMES DAMILOLA SONAYON",
+            "age": "42",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BS.c"
+          },
           "scores": [
-            58,
+            52,
             57,
-            58,
+            50,
             53,
-            75,
+            71,
             51
           ]
         },
         {
-          "n": "SONAYON",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "ADEOYE ADELAJA AZEEZ",
           "p": "APM",
           "age": "45",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADENUGA OLUWAKEMI RAHMAT (41 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE UNIVERSITY OF LAGOS, LEAD CITY",
           "bg": "Governorship candidate for Lagos under APM.",
+          "deputy": {
+            "n": "ADENUGA OLUWAKEMI RAHMAT",
+            "age": "41",
+            "gender": "F",
+            "edu": "FSLC SSCE BSC EDU"
+          },
           "scores": [
             56,
             48,
@@ -209,30 +166,19 @@
           ]
         },
         {
-          "n": "RAHMAT",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            53,
-            47,
-            67,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "ADEYEMI ABIOLA",
           "p": "APP",
           "age": "49",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OLAOYE SOLOMON ADEKUNLE (42 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
           "bg": "Governorship candidate for Lagos under APP.",
+          "deputy": {
+            "n": "OLAOYE SOLOMON ADEKUNLE",
+            "age": "42",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BED EDUCATION"
+          },
           "scores": [
             62,
             48,
@@ -243,30 +189,19 @@
           ]
         },
         {
-          "n": "ADEKUNLE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "ODUNAIKE OLUWAPEMILERIN OLUROTIMI",
           "p": "LP",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADELE LATEEF ADEKUNLE AYINLA (43 yrs)",
+          "edu": "WAEC/SSCE BSC & MBA",
           "bg": "Governorship candidate for Lagos under LP.",
+          "deputy": {
+            "n": "ADELE LATEEF ADEKUNLE AYINLA",
+            "age": "43",
+            "gender": "M",
+            "edu": "FSLC WAEC/SSEC"
+          },
           "scores": [
             72,
             51,
@@ -277,13 +212,19 @@
           ]
         },
         {
-          "n": "LAGOS",
-          "p": "IND",
+          "n": "DOHERTY OLUFUNSO ADESHINA",
+          "p": "NDC",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
+          "rm": "ANMASHAUN MORIAM TOLANI (59 yrs)",
+          "edu": "FSLC GCE BSC, MBA",
+          "bg": "Governorship candidate for Lagos under NDC.",
+          "deputy": {
+            "n": "ANMASHAUN MORIAM TOLANI",
+            "age": "59",
+            "gender": "F",
+            "edu": "CORONA SCHOOL VI LAGOS UNIVERSITY OF BECKINHAM UK"
+          },
           "scores": [
             59,
             53,
@@ -294,98 +235,19 @@
           ]
         },
         {
-          "n": "NMASHAUN MORIAM",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "OBADIA AKINOLA",
           "p": "NDP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SONITAN GRACE MOTUNRAYO (56 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE H.N.D",
           "bg": "Governorship candidate for Lagos under NDP.",
-          "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
-          ]
-        },
-        {
-          "n": "MOTUNRAYO FIRST SCHOOL LEAVING C",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
-          "p": "NNPP",
-          "age": "62",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under NNPP.",
-          "scores": [
-            51,
-            58,
-            51,
-            50,
-            68,
-            54
-          ]
-        },
-        {
-          "n": "NOPWA DAUDA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
-          "p": "NRM",
-          "age": "53",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under NRM.",
+          "deputy": {
+            "n": "SONITAN GRACE MOTUNRAYO",
+            "age": "56",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C"
+          },
           "scores": [
             48,
             54,
@@ -396,64 +258,88 @@
           ]
         },
         {
-          "n": "NUGA ABIMBOLA",
-          "p": "IND",
-          "age": "Not confirmed",
+          "n": "ONIFADE ADEMOYEGUN TAIWO",
+          "p": "NNPP",
+          "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
+          "rm": "WONOPWA DAUDA MAGAGI (48 yrs)",
+          "edu": "SSCE(GRADE II) BSC",
+          "bg": "Governorship candidate for Lagos under NNPP.",
+          "deputy": {
+            "n": "WONOPWA DAUDA MAGAGI",
+            "age": "48",
+            "gender": "F",
+            "edu": "FLCS SSCE SCHOOL OF AVIATION"
+          },
           "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
+            57,
+            58,
+            59,
+            50,
+            72,
             54
           ]
         },
         {
-          "n": "LAGOS",
+          "n": "ONIGBOKUN ADEMOLA JOSEPH",
+          "p": "NRM",
+          "age": "53",
+          "gender": "M",
+          "rm": "ONANUGA ABIMBOLA (44 yrs)",
+          "edu": "FSLC WAEC OND",
+          "bg": "Governorship candidate for Lagos under NRM.",
+          "deputy": {
+            "n": "ONANUGA ABIMBOLA",
+            "age": "44",
+            "gender": "F",
+            "edu": "FSLC WAEC BSC/MASTERS"
+          },
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "DOHERTY ADEDEJI OLUGBEMIGA",
           "p": "PDP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BELLO KHADIJAT ABIKE (46 yrs)",
+          "edu": "MARYHILL COVENANT SCHOOL, IBADAN-PSLC GMS GRAMMAR SCHOOL, LAGOS-GCE CENTRAL STATE UNIVERSITY, USA-B.ENG",
           "bg": "Governorship candidate for Lagos under PDP.",
+          "deputy": {
+            "n": "BELLO KHADIJAT ABIKE",
+            "age": "46",
+            "gender": "F",
+            "edu": "FSLC(COMMAND CHILDREN SCHOOL, IKEJA) SSCE(TOPMOST INTERNATIONAL COMPREHENSIVE) B. SC. (UNIVERSITY OF ILORIN)"
+          },
           "scores": [
-            51,
+            57,
             56,
-            51,
-            51,
-            70,
+            59,
+            65,
+            74,
             52
           ]
         },
         {
-          "n": "O KHADIJAT ABIKE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "OLANIYI OLUFEMI",
           "p": "SDP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KAYODE EVELYN ADERIYIKE (43 yrs)",
+          "edu": "FSLC SSCE ND",
           "bg": "Governorship candidate for Lagos under SDP.",
+          "deputy": {
+            "n": "KAYODE EVELYN ADERIYIKE",
+            "age": "43",
+            "gender": "F",
+            "edu": "FSLC SSCE B.SC"
+          },
           "scores": [
             51,
             57,
@@ -464,64 +350,42 @@
           ]
         },
         {
-          "n": "ADERIYIKE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
-          "p": "IND",
+          "n": "TAIWO TEMITOPE ELIJAH",
+          "p": "YPP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
+          "rm": "ANIBINIRAN IYABODE OMOLABAKE (45 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Governorship candidate for Lagos under YPP.",
+          "deputy": {
+            "n": "ANIBINIRAN IYABODE OMOLABAKE",
+            "age": "45",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND"
+          },
           "scores": [
+            58,
+            49,
+            50,
+            49,
             55,
-            47,
-            47,
-            47,
-            55,
-            62
+            67
           ]
         },
         {
-          "n": "OMOLABAKE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Lagos under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "LAGOS",
+          "n": "PETER HELEN OJOTULE",
           "p": "ZLP",
           "age": "36",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADENIPEBI ADELANI ORIYOMI (40 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Lagos under ZLP.",
+          "deputy": {
+            "n": "ADENIPEBI ADELANI ORIYOMI",
+            "age": "40",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             53,
             49,

@@ -117,6 +117,114 @@ def compute_age_weighted_radar(age, qualifications, party, office):
     ]
     return [max(35, min(95, s)) for s in raw_scores]
 
+
+# ---------------------------------------------------------------------------
+# GOVERNORSHIP PDF PARSER (grid-line based)
+# Each INEC row holds a governor AND a deputy stacked in one table row. We use the
+# table's own vertical rules for the columns, the full-width horizontal rules for rows,
+# and the short per-column rules to split governor from deputy.
+# ---------------------------------------------------------------------------
+GOV_COLS = ["sn", "state", "position", "name", "party", "pwd", "age", "gender", "qual", "remarks"]
+
+def _gov_clean_page(page):
+    """Drop the giant green INEC watermark letters that get glued onto real words."""
+    return page.filter(lambda o: o.get("object_type") != "char" or o.get("size", 10) < 20)
+
+def _gov_column_edges(page):
+    hdr = [w for w in page.extract_words() if w["text"] == "SN"]
+    if not hdr:
+        return None
+    top = hdr[0]["top"]
+    xs = sorted({round(l["x0"]) for l in page.lines
+                 if abs(l["x0"] - l["x1"]) < 1 and l["top"] <= top + 2 and l["bottom"] >= top + 8})
+    merged = []
+    for x in xs:
+        if not merged or x - merged[-1] > 3:
+            merged.append(x)
+    return merged if len(merged) == len(GOV_COLS) + 1 else None
+
+def _gov_row_bounds(page, left):
+    ys = sorted({round(l["top"]) for l in page.lines
+                 if abs(l["top"] - l["bottom"]) < 1 and l["x0"] <= left + 2
+                 and left + 15 <= l["x1"] <= left + 40})
+    merged = []
+    for y in ys:
+        if not merged or y - merged[-1] > 3:
+            merged.append(y)
+    return merged
+
+def _gov_text(words):
+    words = sorted(words, key=lambda w: (round(w["top"]), w["x0"]))
+    return clean_str(" ".join(w["text"] for w in words))
+
+def parse_governorship_pdf(path):
+    """Returns [{'sn', 'party', 'gov': {name, qual, age, gender}, 'dep': {...}, 'warnings': [...]}]"""
+    out = []
+    with pdfplumber.open(path) as pdf:
+        for page in pdf.pages:
+            pg = _gov_clean_page(page)
+            edges = _gov_column_edges(pg)
+            if not edges:
+                continue
+            bounds = _gov_row_bounds(pg, edges[0])
+            words_all = pg.extract_words()
+            hlines = [l for l in pg.lines if abs(l["top"] - l["bottom"]) < 1]
+
+            for top, bottom in zip(bounds, bounds[1:]):
+                if bottom - top < 15:
+                    continue
+                cols, splits = {}, {}
+                for i, cname in enumerate(GOV_COLS):
+                    x0, x1 = edges[i], edges[i + 1]
+                    cols[cname] = [w for w in words_all
+                                   if x0 <= (w["x0"] + w["x1"]) / 2 < x1 and top + 1 < w["top"] < bottom - 1]
+                    splits[cname] = sorted(
+                        round(l["top"]) for l in hlines
+                        if l["x0"] >= x0 - 8 and l["x1"] <= x1 + 8 and l["x1"] - l["x0"] > 15
+                        and top + 3 < l["top"] < bottom - 3)
+
+                sn_txt = _gov_text(cols["sn"])
+                if not sn_txt.isdigit():
+                    continue  # header / non-data row
+
+                warnings = []
+                rec = {"sn": int(sn_txt), "party": _gov_text(cols["party"])}
+                gov, dep = {}, {}
+
+                for field in ("name", "qual"):
+                    if splits[field]:
+                        y = splits[field][0]
+                        g = [w for w in cols[field] if w["top"] < y]
+                        d = [w for w in cols[field] if w["top"] >= y]
+                    else:
+                        g, d = cols[field], []
+                        if cols[field]:
+                            warnings.append(f"no {field} divider")
+                    gov[field], dep[field] = _gov_text(g), _gov_text(d)
+
+                ages = [w["text"] for w in sorted(cols["age"], key=lambda w: w["top"]) if w["text"].isdigit()]
+                gens = [w["text"] for w in sorted(cols["gender"], key=lambda w: w["top"]) if w["text"] in ("M", "F")]
+                if len(ages) != 2:
+                    warnings.append(f"ages={ages}")
+                if len(gens) != 2:
+                    warnings.append(f"genders={gens}")
+                gov["age"] = int(ages[0]) if len(ages) > 0 else None
+                dep["age"] = int(ages[1]) if len(ages) > 1 else None
+                gov["gender"] = gens[0] if len(gens) > 0 else None
+                dep["gender"] = gens[1] if len(gens) > 1 else None
+
+                if not gov["name"]:
+                    warnings.append("missing governor name")
+                if not dep["name"]:
+                    warnings.append("missing deputy name")
+                if not rec["party"]:
+                    warnings.append("missing party")
+
+                rec.update({"gov": gov, "dep": dep, "warnings": warnings})
+                out.append(rec)
+    return out
+
+
 def run_pipeline(output_dir="./data/states"):
     os.makedirs(output_dir, exist_ok=True)
     all_states = {}
@@ -228,137 +336,67 @@ def run_pipeline(output_dir="./data/states"):
     # 2. PARSE GOVERNORSHIP PDFs (FILE-LEVEL PROGRESS BAR)
     if gov_pdfs:
         print("\n[+] Ingesting Governorship Candidate Files...")
+        gov_pdfs = sorted(gov_pdfs)
         total_gov_files = len(gov_pdfs)
         gov_total_cands = 0
+        gov_issues = []
 
         for f_idx, gov_pdf in enumerate(gov_pdfs, start=1):
-            pdf_state = normalize_state_name(gov_pdf)
-            active_state = pdf_state or "Abia"
-            state_obj = all_states.get(active_state)
-            
-            render_progress_bar(f_idx, total_gov_files, prefix="  Governorship  ", suffix=f"{active_state:<12} (Total: {gov_total_cands})")
-            
+            active_state = normalize_state_name(os.path.basename(gov_pdf).replace("_", " "))
+            state_obj = all_states.get(active_state) if active_state else None
+
+            render_progress_bar(f_idx, total_gov_files, prefix="  Governorship  ", suffix=f"{(active_state or '?'):<12} (Total: {gov_total_cands})")
+
             if not state_obj:
+                gov_issues.append(f"{os.path.basename(gov_pdf)}: could not determine state from filename - skipped")
                 continue
 
-            with pdfplumber.open(gov_pdf) as pdf:
-                pending_gov = None
-                
-                for page in pdf.pages:
-                    # Strategy 1: Table extraction
-                    tables = page.extract_tables({
-                        "vertical_strategy": "text",
-                        "horizontal_strategy": "text"
-                    })
-                    
-                    rows_found = False
-                    if tables:
-                        for table in tables:
-                            for row in table:
-                                if not row or len(row) < 4:
-                                    continue
-                                row_str = " ".join([clean_str(c) for c in row if c]).upper()
-                                if "NAME OF CANDIDATE" in row_str or "POSITION" in row_str:
-                                    continue
+            rows = parse_governorship_pdf(gov_pdf)
 
-                                pos_match = re.search(r'(DEPUTY[\s\-]GOVERNOR|GOVERNOR)', row_str, re.IGNORECASE)
-                                if not pos_match:
-                                    continue
-                                
-                                rows_found = True
-                                pos_text = pos_match.group(1).upper()
-                                
-                                party = "IND"
-                                for p in PARTY_BASELINES.keys():
-                                    if re.search(r'\b' + p + r'\b', row_str):
-                                        party = p
-                                        break
-                                
-                                age = parse_age(row_str)
-                                gender_match = re.search(r'\b([MF])\b', row_str)
-                                gender = gender_match.group(1) if gender_match else "M"
+            # Sanity checks: contiguous serial numbers, no per-row warnings
+            sns = [r["sn"] for r in rows]
+            if sns != list(range(1, len(sns) + 1)):
+                gov_issues.append(f"{active_state}: serial numbers not contiguous: {sns}")
+            if not rows:
+                gov_issues.append(f"{active_state}: no candidates parsed")
 
-                                cleaned_cells = [clean_str(c) for c in row if c and len(clean_str(c)) > 3]
-                                name = ""
-                                for c in cleaned_cells:
-                                    c_up = c.upper()
-                                    if not any(k in c_up for k in ["GOVERNOR", "INDEPENDENT", "COMMISSION", "STATE", "CERTIFICATE", "WAEC", "SSCE"]):
-                                        name = c
-                                        break
-                                
-                                if not name or len(name) < 3:
-                                    continue
+            for r in rows:
+                for w in r["warnings"]:
+                    gov_issues.append(f"{active_state} SN {r['sn']}: {w}")
 
-                                qual = row_str
+                g, d, party = r["gov"], r["dep"], r["party"] or "IND"
+                if not g["name"]:
+                    continue
 
-                                if "DEPUTY" in pos_text:
-                                    if pending_gov is not None:
-                                        pending_gov["rm"] = f"{name} ({age} yrs)" if age else name
-                                        pending_gov = None
-                                else:
-                                    scores = compute_age_weighted_radar(age, qual, party, "Governor")
-                                    pending_gov = {
-                                        "n": name,
-                                        "p": party,
-                                        "age": str(age) if age else "Not confirmed",
-                                        "gender": gender,
-                                        "rm": "Not confirmed",
-                                        "edu": "Tertiary / Secondary",
-                                        "bg": f"Governorship candidate for {active_state} under {party}.",
-                                        "scores": scores
-                                    }
-                                    state_obj["offices"]["Governor"]["candidates"].append(pending_gov)
-                                    gov_total_cands += 1
+                dep_label = d["name"] or "Not confirmed"
+                if d["name"] and d["age"]:
+                    dep_label = f"{d['name']} ({d['age']} yrs)"
 
-                    # Strategy 2: Text stream fallback
-                    if not rows_found:
-                        text = page.extract_text() or ""
-                        lines = [clean_str(l) for l in text.split("\n") if clean_str(l)]
-                        
-                        for line in lines:
-                            line_up = line.upper()
-                            if "NAME OF CANDIDATE" in line_up or "PLOT 436" in line_up or "SECRETARY" in line_up:
-                                continue
-                            
-                            pos_match = re.search(r'(DEPUTY[\s\-]GOVERNOR|GOVERNOR)', line_up)
-                            if not pos_match:
-                                continue
-
-                            pos_text = pos_match.group(1)
-                            
-                            party = "IND"
-                            for p in PARTY_BASELINES.keys():
-                                if re.search(r'\b' + p + r'\b', line_up):
-                                    party = p
-                                    break
-
-                            age = parse_age(line_up)
-                            gender_match = re.search(r'\b([MF])\b', line_up)
-                            gender = gender_match.group(1) if gender_match else "M"
-
-                            name_match = re.search(r'(?:GOVERNORSHIP|GOVERNOR)\s+([A-Z\s]{4,35})\s+(?:' + '|'.join(PARTY_BASELINES.keys()) + r')\b', line_up)
-                            name = name_match.group(1).strip() if name_match else "Candidate Name"
-
-                            if "DEPUTY" in pos_text:
-                                if pending_gov is not None:
-                                    pending_gov["rm"] = f"{name} ({age} yrs)" if age else name
-                                    pending_gov = None
-                            else:
-                                scores = compute_age_weighted_radar(age, line_up, party, "Governor")
-                                pending_gov = {
-                                    "n": name,
-                                    "p": party,
-                                    "age": str(age) if age else "Not confirmed",
-                                    "gender": gender,
-                                    "rm": "Not confirmed",
-                                    "edu": "Tertiary / Secondary",
-                                    "bg": f"Governorship candidate for {active_state} under {party}.",
-                                    "scores": scores
-                                }
-                                state_obj["offices"]["Governor"]["candidates"].append(pending_gov)
-                                gov_total_cands += 1
+                scores = compute_age_weighted_radar(g["age"], g["qual"], party, "Governor")
+                state_obj["offices"]["Governor"]["candidates"].append({
+                    "n": g["name"],
+                    "p": party,
+                    "age": str(g["age"]) if g["age"] else "Not confirmed",
+                    "gender": g["gender"] or "M",
+                    "rm": dep_label,
+                    "edu": g["qual"] or "Not confirmed",
+                    "bg": f"Governorship candidate for {active_state} under {party}.",
+                    "deputy": {
+                        "n": d["name"] or "Not confirmed",
+                        "age": str(d["age"]) if d["age"] else "Not confirmed",
+                        "gender": d["gender"] or "Not confirmed",
+                        "edu": d["qual"] or "Not confirmed",
+                    },
+                    "scores": scores
+                })
+                gov_total_cands += 1
 
         render_progress_bar(total_gov_files, total_gov_files, prefix="  Governorship  ", suffix=f"Done! ({gov_total_cands} total candidates)")
+        if gov_issues:
+            print("\n[!] Governorship parse warnings (check these against the PDFs):")
+            for msg in gov_issues:
+                print("    -", msg)
+
 
     # 3. EXPORT JSON FILES WITH PROGRESS BAR
     print("\n[+] Writing Partitioned State JSON Files...")

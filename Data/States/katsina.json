@@ -5,30 +5,19 @@
       "constituency": "Katsina Statewide",
       "candidates": [
         {
-          "n": "GOVERNO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
+          "n": "KADO MASHI BABANGIDA",
           "p": "AAC",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BALA JIBRIN AUDU (56 yrs)",
+          "edu": "FLSC SSCE",
           "bg": "Governorship candidate for Katsina under AAC.",
+          "deputy": {
+            "n": "BALA JIBRIN AUDU",
+            "age": "56",
+            "gender": "M",
+            "edu": "FLSC SSCE DIPLOMA"
+          },
           "scores": [
             50,
             60,
@@ -39,30 +28,19 @@
           ]
         },
         {
-          "n": "A JIBRIN AUDU",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under A.",
-          "scores": [
-            54,
-            48,
-            56,
-            48,
-            56,
-            55
-          ]
-        },
-        {
-          "n": "KATSINA",
+          "n": "AHMAD BABBA KAITA",
           "p": "ADC",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AMINU YAR'ADUA AHMED (69 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE GCE B.Sc",
           "bg": "Governorship candidate for Katsina under ADC.",
+          "deputy": {
+            "n": "AMINU YAR'ADUA AHMED",
+            "age": "69",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE WAEC BSc(Arc)/ MSc(Arc)"
+          },
           "scores": [
             57,
             56,
@@ -73,81 +51,65 @@
           ]
         },
         {
-          "n": "INU YAR'ADUA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            53,
-            47,
-            59,
-            47,
-            59,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
+          "n": "AHMED MURTALA",
           "p": "ADP",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SAMA'ILA BELLO (36 yrs)",
+          "edu": "FSCL SSCE B. TECH",
           "bg": "Governorship candidate for Katsina under ADP.",
+          "deputy": {
+            "n": "SAMA'ILA BELLO",
+            "age": "36",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
             48,
             54,
-            60,
+            48,
             62,
             65,
             54
           ]
         },
         {
-          "n": "KATSINA",
+          "n": "UMARU DIKKO RADDA",
           "p": "APC",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "LAWAL FARUK (61 yrs)",
+          "edu": "PRIMARY SCH. CERTIFICATE TEACHERS GRADE II CERTIFICATE Ph.D CERTIFICATE",
           "bg": "Governorship candidate for Katsina under APC.",
+          "deputy": {
+            "n": "LAWAL FARUK",
+            "age": "61",
+            "gender": "M",
+            "edu": "KANKARA PRIMARY SCHOOL TEACHERS COLLEGE DUTSIN-MA MPA [PUBLIC ADM]"
+          },
           "scores": [
-            52,
+            58,
             57,
-            62,
+            74,
             53,
-            71,
+            77,
             51
           ]
         },
         {
-          "n": "AWAL FARUK",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
+          "n": "ABDULLAHI NURA",
           "p": "APM",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SALIHU SADE (67 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Governorship candidate for Katsina under APM.",
+          "deputy": {
+            "n": "SALIHU SADE",
+            "age": "67",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NATIONAL DIPLOMA"
+          },
           "scores": [
             48,
             54,
@@ -158,98 +120,65 @@
           ]
         },
         {
-          "n": "NATIONAL DIPLOMA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
-          "p": "IND",
+          "n": "ILU-BARDE ALIYU",
+          "p": "NDC",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
+          "rm": "SULEIMAN ABDULLAHI (47 yrs)",
+          "edu": "FSLC SSCE",
+          "bg": "Governorship candidate for Katsina under NDC.",
+          "deputy": {
+            "n": "SULEIMAN ABDULLAHI",
+            "age": "47",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
-            61,
-            47,
             55,
             47,
-            59,
+            47,
+            47,
+            55,
             62
           ]
         },
         {
-          "n": "ABDULLAHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
-          "p": "A",
+          "n": "AHMAD TIJANI",
+          "p": "NDP",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under A.",
+          "rm": "SALISU BABANGID IBRAHIM (45 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE B.SC",
+          "bg": "Governorship candidate for Katsina under NDP.",
+          "deputy": {
+            "n": "SALISU BABANGID IBRAHIM",
+            "age": "45",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE POLYTECHNIC"
+          },
           "scores": [
+            62,
+            48,
             56,
             48,
-            48,
-            48,
-            54,
+            58,
             63
           ]
         },
         {
-          "n": "IBRAHIM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
+          "n": "SADE SALISU",
           "p": "NRM",
           "age": "60",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SA'IDU ABDULHAMID (49 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE HIGHER NATIONAL DIPLOMA",
           "bg": "Governorship candidate for Katsina under NRM.",
+          "deputy": {
+            "n": "SA'IDU ABDULHAMID",
+            "age": "49",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE"
+          },
           "scores": [
             48,
             54,
@@ -260,81 +189,65 @@
           ]
         },
         {
-          "n": "KATSINA",
+          "n": "GARBA YAKUBU LADO",
           "p": "PDP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MAMMAN RUMAH YAKUBU (64 yrs)",
+          "edu": "DAUMARKE PRIMARY SCHOOL CERT GCE, NJ SS CERT, SSS CERT DIPLOMA",
           "bg": "Governorship candidate for Katsina under PDP.",
+          "deputy": {
+            "n": "MAMMAN RUMAH YAKUBU",
+            "age": "64",
+            "gender": "M",
+            "edu": "FSLC GRADE II NCE ,B.SC (ED)"
+          },
           "scores": [
-            57,
-            56,
-            59,
             51,
-            74,
+            56,
+            51,
+            51,
+            70,
             52
           ]
         },
         {
-          "n": "MMAN RUMAH",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KATSINA",
-          "p": "IND",
+          "n": "KABIR HASSAN YAR'ADUA",
+          "p": "PRP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
+          "rm": "MUHAMMAD MUSA KANKARA (67 yrs)",
+          "edu": "FLSC FEDERAL GOVERNMENT COLLEGE SOKOTO FEDERAL UNIVERSITY OF TECHNOLOGY MINNA",
+          "bg": "Governorship candidate for Katsina under PRP.",
+          "deputy": {
+            "n": "MUHAMMAD MUSA KANKARA",
+            "age": "67",
+            "gender": "M",
+            "edu": "FLSC WAEC BA (HONS) ABU"
+          },
           "scores": [
-            55,
-            47,
-            47,
-            47,
-            55,
-            62
-          ]
-        },
-        {
-          "n": "HAMMAD MUSA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
+            58,
+            50,
+            52,
+            62,
             57,
-            54
+            64
           ]
         },
         {
-          "n": "DANSARAI MNI",
+          "n": "DANSARAI MNI MAGAJIO ALIYU",
           "p": "SDP",
           "age": "67",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SANI ABDULLAHI MUSTAPHA (35 yrs)",
+          "edu": "DANSARAI PRI. SCHOOL G.S.S DUTSINMA A.B.U ZARIA",
           "bg": "Governorship candidate for Katsina under SDP.",
+          "deputy": {
+            "n": "SANI ABDULLAHI MUSTAPHA",
+            "age": "35",
+            "gender": "M",
+            "edu": "FLSC SSCE BSC"
+          },
           "scores": [
             51,
             59,
@@ -342,23 +255,6 @@
             50,
             73,
             48
-          ]
-        },
-        {
-          "n": "Candidate Name",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Katsina under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
           ]
         }
       ]

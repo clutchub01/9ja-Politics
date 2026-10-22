@@ -5,13 +5,19 @@
       "constituency": "Nasarawa Statewide",
       "candidates": [
         {
-          "n": "NASARAWA",
+          "n": "NUHU ANGBAZO",
           "p": "ADC",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "HASSAN YAKUBU ANYA (57 yrs)",
+          "edu": "FSLC WAEC BACHELOR OF ARTS (BA)",
           "bg": "Governorship candidate for Nasarawa under ADC.",
+          "deputy": {
+            "n": "HASSAN YAKUBU ANYA",
+            "age": "57",
+            "gender": "M",
+            "edu": "FSLC WAEC BA LLB"
+          },
           "scores": [
             57,
             56,
@@ -22,30 +28,19 @@
           ]
         },
         {
-          "n": "ANYA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "NASARAWA",
+          "n": "CHRISTOPHER MAMMAN",
           "p": "ADP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABUBAKAR MUKAILA (39 yrs)",
+          "edu": "FSLC WAEC B.SC SOCIOLOGY",
           "bg": "Governorship candidate for Nasarawa under ADP.",
+          "deputy": {
+            "n": "ABUBAKAR MUKAILA",
+            "age": "39",
+            "gender": "M",
+            "edu": "FSLC NECO"
+          },
           "scores": [
             54,
             54,
@@ -56,64 +51,42 @@
           ]
         },
         {
-          "n": "UBAKAR MUKAILA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "NASARAWA",
+          "n": "ALIYU AHMED WADADA",
           "p": "APC",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MICHAEL EMMANUEL OMBUGADU (59 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND",
           "bg": "Governorship candidate for Nasarawa under APC.",
+          "deputy": {
+            "n": "MICHAEL EMMANUEL OMBUGADU",
+            "age": "59",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION BSc"
+          },
           "scores": [
-            52,
+            58,
             57,
-            62,
+            58,
             53,
-            71,
+            75,
             51
           ]
         },
         {
-          "n": "HAEL EMMANUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "NASARAWA",
+          "n": "IBRAHIM KASIMU ABOH",
           "p": "APGA",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OSU EDE (36 yrs)",
+          "edu": "FSLC WAEC",
           "bg": "Governorship candidate for Nasarawa under APGA.",
+          "deputy": {
+            "n": "OSU EDE",
+            "age": "36",
+            "gender": "M",
+            "edu": "FSLC NECO"
+          },
           "scores": [
             51,
             56,
@@ -124,64 +97,42 @@
           ]
         },
         {
-          "n": "OSU EDE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "NASARAWA",
+          "n": "ONAWO MOHAMMED OGOSHI",
           "p": "APM",
           "age": "74",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "DANGANA FAITH (48 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Governorship candidate for Nasarawa under APM.",
+          "deputy": {
+            "n": "DANGANA FAITH",
+            "age": "48",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE"
+          },
           "scores": [
             48,
             56,
-            60,
+            48,
             48,
             70,
             49
           ]
         },
         {
-          "n": "ANGANA FAITH",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "A DOMA",
-          "p": "A",
+          "n": "DAHIRU MUSA DOMA",
+          "p": "APP",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under A.",
+          "rm": "ARIMIKU DONATUS LEWA (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GSS ALEFDRIA",
+          "bg": "Governorship candidate for Nasarawa under APP.",
+          "deputy": {
+            "n": "ARIMIKU DONATUS LEWA",
+            "age": "35",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE NABTEB"
+          },
           "scores": [
             48,
             54,
@@ -192,32 +143,21 @@
           ]
         },
         {
-          "n": "FIRST SCHOOL L",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "ATHAN",
+          "n": "GAZA JONATHAN GBEFWI",
           "p": "LP",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BLANZOU ADAMU BAKO (62 yrs)",
+          "edu": "FSLC S.S.C.E B.TECH ESTATE MANAGEMENT",
           "bg": "Governorship candidate for Nasarawa under LP.",
+          "deputy": {
+            "n": "BLANZOU ADAMU BAKO",
+            "age": "62",
+            "gender": "M",
+            "edu": "FSLC SSCE MBA (BUSINESS ADMINAISTRATION)"
+          },
           "scores": [
-            52,
+            66,
             57,
             53,
             64,
@@ -226,30 +166,19 @@
           ]
         },
         {
-          "n": "ADAMU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            61,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "AMMAD",
+          "n": "KHALID MUHAMMAD",
           "p": "NRM",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JACOB JAMES OLADIPO (44 yrs)",
+          "edu": "FSLC SSCE OND",
           "bg": "Governorship candidate for Nasarawa under NRM.",
+          "deputy": {
+            "n": "JACOB JAMES OLADIPO",
+            "age": "44",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             48,
             54,
@@ -260,47 +189,42 @@
           ]
         },
         {
-          "n": "DAVID",
+          "n": "EMMANUEL DAVID OMBUGADU",
           "p": "PDP",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN YAHAYA OHINOYI (53 yrs)",
+          "edu": "CERTIFICATE OF PRIMARY EDUCATION SENIOR SCHOOL CERTIFICATE BACHELOR OF SCIENCE",
           "bg": "Governorship candidate for Nasarawa under PDP.",
+          "deputy": {
+            "n": "USMAN YAHAYA OHINOYI",
+            "age": "53",
+            "gender": "M",
+            "edu": "FSLC WAEC B.SC"
+          },
           "scores": [
-            59,
+            65,
             50,
-            63,
+            71,
             51,
-            60,
+            64,
             60
           ]
         },
         {
-          "n": "HAYA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "OMAME",
+          "n": "ABDULLAHI OMAME ABISABO",
           "p": "PRP",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "YAHUDA FRANCIS SULE (40 yrs)",
+          "edu": "FLSC SSCE LLB",
           "bg": "Governorship candidate for Nasarawa under PRP.",
+          "deputy": {
+            "n": "YAHUDA FRANCIS SULE",
+            "age": "40",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
           "scores": [
             60,
             64,
@@ -311,64 +235,42 @@
           ]
         },
         {
-          "n": "ANCIS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "None",
+          "n": "MOHAMMED ABUBAKAR ADAMU",
           "p": "SDP",
           "age": "65",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADA'A LAWRENCE DARI (61 yrs)",
+          "edu": "FLSC SSCE B.SC",
           "bg": "Governorship candidate for Nasarawa under SDP.",
+          "deputy": {
+            "n": "ADA'A LAWRENCE DARI",
+            "age": "61",
+            "gender": "M",
+            "edu": "FSLC G.C.E B.ENG CIVIL"
+          },
           "scores": [
             57,
             59,
-            71,
+            59,
             50,
             77,
             48
           ]
         },
         {
-          "n": "RENCE",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Nasarawa under A.",
-          "scores": [
-            48,
-            62,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "None",
+          "n": "KIGBU TANKO JOHN",
           "p": "YPP",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JAMES UMBUGADU (43 yrs)",
+          "edu": "First Leaving Certificate Senior Secondary School Certificate",
           "bg": "Governorship candidate for Nasarawa under YPP.",
+          "deputy": {
+            "n": "JAMES UMBUGADU",
+            "age": "43",
+            "gender": "M",
+            "edu": "First School Leaving Certificate Senior Secondary School Certificate"
+          },
           "scores": [
             50,
             55,
@@ -379,13 +281,19 @@
           ]
         },
         {
-          "n": "None",
+          "n": "GIZA ABUBAKAR ABDU",
           "p": "ZLP",
           "age": "69",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EKWADAGA KAGBU NUHU (65 yrs)",
+          "edu": "FSLC WAEC BSC",
           "bg": "Governorship candidate for Nasarawa under ZLP.",
+          "deputy": {
+            "n": "EKWADAGA KAGBU NUHU",
+            "age": "65",
+            "gender": "M",
+            "edu": "FSLC WAEC ND"
+          },
           "scores": [
             55,
             57,

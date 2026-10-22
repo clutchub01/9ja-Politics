@@ -5,30 +5,42 @@
       "constituency": "Ebonyi Statewide",
       "candidates": [
         {
-          "n": "EBONYI",
+          "n": "UKPAI MBA UDEH",
           "p": "ADC",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ONWE DANIEL EDE (50 yrs)",
+          "edu": "FSLC SSCE BACHELOR OF ENGINEERING",
           "bg": "Governorship candidate for Ebonyi under ADC.",
+          "deputy": {
+            "n": "ONWE DANIEL EDE",
+            "age": "50",
+            "gender": "M",
+            "edu": "FSLC SSCE B.Sc"
+          },
           "scores": [
-            71,
+            65,
             50,
-            71,
-            51,
-            68,
+            59,
+            65,
+            62,
             63
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "OKORIE OGOCHUKWU",
           "p": "ADP",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IGWE JOEL (37 yrs)",
+          "edu": "FSCL SSCE",
           "bg": "Governorship candidate for Ebonyi under ADP.",
+          "deputy": {
+            "n": "IGWE JOEL",
+            "age": "37",
+            "gender": "M",
+            "edu": "FSCL"
+          },
           "scores": [
             52,
             48,
@@ -39,47 +51,42 @@
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "NWIFURU OGBONNA FRANCIS",
           "p": "APC",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OBILA PATRICIA ONYEMAECHI (56 yrs)",
+          "edu": "FSLC SSCE/NECO/SENIOR SCHOOL CERTIFICATE BS.c, MSC",
           "bg": "Governorship candidate for Ebonyi under APC.",
+          "deputy": {
+            "n": "OBILA PATRICIA ONYEMAECHI",
+            "age": "56",
+            "gender": "F",
+            "edu": "FSLC WASC/GCE DEGREE (B.ED) G&C"
+          },
           "scores": [
-            52,
+            58,
             57,
-            50,
+            62,
             53,
-            71,
+            77,
             51
           ]
         },
         {
-          "n": "OBILA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Ebonyi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "EBONYI",
+          "n": "NWODOM LUCY CHINWE",
           "p": "APGA",
           "age": "44",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ALUU OGBONNAYA TERRY (41 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Ebonyi under APGA.",
+          "deputy": {
+            "n": "ALUU OGBONNAYA TERRY",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC SSCE NATIONAL DIPLOMAL"
+          },
           "scores": [
             59,
             50,
@@ -90,98 +97,88 @@
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "NWANKWO MARTHA EBERE",
           "p": "APP",
           "age": "54",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NAZA CHRISTIAN IRUKA (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC",
           "bg": "Governorship candidate for Ebonyi under APP.",
+          "deputy": {
+            "n": "NAZA CHRISTIAN IRUKA",
+            "age": "35",
+            "gender": "M",
+            "edu": "WAEC BSC"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "UBASINACHI DESTINY CHIMEREMEZE",
           "p": "DLA",
           "age": "41",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OFOKE ONYEKACHI KINGSLEY (35 yrs)",
+          "edu": "Not confirmed",
           "bg": "Governorship candidate for Ebonyi under DLA.",
+          "deputy": {
+            "n": "OFOKE ONYEKACHI KINGSLEY",
+            "age": "35",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
-            62,
-            48,
             56,
             48,
-            58,
+            48,
+            48,
+            54,
             63
           ]
         },
         {
-          "n": "KE ONYEKACHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Ebonyi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "EBONYI",
+          "n": "EZE OKO SPLENDOUR",
           "p": "LP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWEDE JOSHUA IGWEBUIKE (41 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC",
           "bg": "Governorship candidate for Ebonyi under LP.",
+          "deputy": {
+            "n": "NWEDE JOSHUA IGWEBUIKE",
+            "age": "41",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC BSC"
+          },
           "scores": [
-            60,
+            66,
             51,
-            53,
+            61,
             50,
-            57,
+            61,
             67
           ]
         },
         {
-          "n": "FIRST SCH",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Ebonyi under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "EBONYI",
-          "p": "IND",
+          "n": "IGWE NWAGU PAULINUS",
+          "p": "NDC",
           "age": "67",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Ebonyi under IND.",
+          "rm": "UKA CHRIS NDUBUISI (39 yrs)",
+          "edu": "FSLC SSCE LLB",
+          "bg": "Governorship candidate for Ebonyi under NDC.",
+          "deputy": {
+            "n": "UKA CHRIS NDUBUISI",
+            "age": "39",
+            "gender": "M",
+            "edu": "FSLC WASC"
+          },
           "scores": [
             53,
             69,
@@ -192,13 +189,19 @@
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "OJEOGU IFEANYI STEPHEN",
           "p": "NNPP",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NNORUKA OLUCHI FAITH (36 yrs)",
+          "edu": "Not confirmed",
           "bg": "Governorship candidate for Ebonyi under NNPP.",
+          "deputy": {
+            "n": "NNORUKA OLUCHI FAITH",
+            "age": "36",
+            "gender": "F",
+            "edu": "FIRST LEAVING SCHOOL CERTIFICATE SSCE"
+          },
           "scores": [
             59,
             52,
@@ -209,30 +212,42 @@
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "CHUKWUMA ODII IFEANYI",
           "p": "PDP",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MGBEBU PATRICK NWORU (62 yrs)",
+          "edu": "FSLC WASSC B.SC. (HONS)",
           "bg": "Governorship candidate for Ebonyi under PDP.",
+          "deputy": {
+            "n": "MGBEBU PATRICK NWORU",
+            "age": "62",
+            "gender": "M",
+            "edu": "FSLC SSCE B SC"
+          },
           "scores": [
-            51,
+            57,
             56,
+            59,
             51,
-            51,
-            70,
+            74,
             52
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "AGBO KINGSLEY OBINNA",
           "p": "SDP",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UDOGU SUSAN (36 yrs)",
+          "edu": "FSLC SSCE BSC",
           "bg": "Governorship candidate for Ebonyi under SDP.",
+          "deputy": {
+            "n": "UDOGU SUSAN",
+            "age": "36",
+            "gender": "F",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             65,
             51,
@@ -243,13 +258,19 @@
           ]
         },
         {
-          "n": "EBONYI",
+          "n": "NWINYINYA JULIET",
           "p": "ZLP",
           "age": "50",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWALI NKIRUKA (44 yrs)",
+          "edu": "Not confirmed",
           "bg": "Governorship candidate for Ebonyi under ZLP.",
+          "deputy": {
+            "n": "NWALI NKIRUKA",
+            "age": "44",
+            "gender": "F",
+            "edu": "FSLC"
+          },
           "scores": [
             49,
             55,

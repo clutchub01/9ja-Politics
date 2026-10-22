@@ -5,13 +5,19 @@
       "constituency": "Gombe Statewide",
       "candidates": [
         {
-          "n": "GOMBE",
+          "n": "MADAKI AUWAL HARUNA",
           "p": "A",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN MUHAMMAD ADAMU (70 yrs)",
+          "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) NCE",
           "bg": "Governorship candidate for Gombe under A.",
+          "deputy": {
+            "n": "USMAN MUHAMMAD ADAMU",
+            "age": "70",
+            "gender": "M",
+            "edu": "FSLC (First leaving certificate) SSCE"
+          },
           "scores": [
             56,
             48,
@@ -22,30 +28,19 @@
           ]
         },
         {
-          "n": "AN MUHAMMAD",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "BENSON BOBO BAGWIBA",
           "p": "AAC",
           "age": "38",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UMAR YAHAYA (35 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Gombe under AAC.",
+          "deputy": {
+            "n": "UMAR YAHAYA",
+            "age": "35",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             54,
             54,
@@ -56,30 +51,19 @@
           ]
         },
         {
-          "n": "MAR YAHAYA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "BALA BELLO",
           "p": "ADC",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ALIYU NGOLMO POYILMA (63 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE GRADE II ND,HND,PGD",
           "bg": "Governorship candidate for Gombe under ADC.",
+          "deputy": {
+            "n": "ALIYU NGOLMO POYILMA",
+            "age": "63",
+            "gender": "M",
+            "edu": "FSLC WAEC/GCE B.Sc Accounting"
+          },
           "scores": [
             57,
             56,
@@ -90,64 +74,42 @@
           ]
         },
         {
-          "n": "N POYILMA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "ADEH NUHU MILAH",
           "p": "ADP",
           "age": "72",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED ABDULLAHI (44 yrs)",
+          "edu": "Certificate Certificate Degree",
           "bg": "Governorship candidate for Gombe under ADP.",
+          "deputy": {
+            "n": "MOHAMMED ABDULLAHI",
+            "age": "44",
+            "gender": "M",
+            "edu": "Certificate Certificate Degree"
+          },
           "scores": [
-            48,
+            54,
+            56,
             56,
             48,
-            48,
-            71,
+            75,
             48
           ]
         },
         {
-          "n": "ABDULLAHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "GWAMNA JAMIL ISYAKU",
           "p": "APC",
           "age": "60",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BALAH ADAMS (63 yrs)",
+          "edu": "CERTICATE OF PRIMARY EDUCATION GENERAL CERTIFICATE OF EDUCATION BS.c",
           "bg": "Governorship candidate for Gombe under APC.",
+          "deputy": {
+            "n": "BALAH ADAMS",
+            "age": "63",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE HND"
+          },
           "scores": [
             52,
             57,
@@ -158,98 +120,42 @@
           ]
         },
         {
-          "n": "ALAH ADAMS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "LEMELA LENOS SILAS",
           "p": "APM",
           "age": "67",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "LAWAN WADAJI UMAR (50 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Sc MANAGEMENT",
           "bg": "Governorship candidate for Gombe under APM.",
+          "deputy": {
+            "n": "LAWAN WADAJI UMAR",
+            "age": "50",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE FEDERAL POLYTECHNIC GBOKO"
+          },
           "scores": [
-            48,
+            68,
+            56,
             56,
             48,
-            48,
-            70,
+            74,
             49
           ]
         },
         {
-          "n": "WAN WADAJI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "YAHAYA BAPPAJI",
           "p": "APP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADAMU HASSAN IBRAHIM (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC NATIONAL DIPLOMA",
           "bg": "Governorship candidate for Gombe under APP.",
-          "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
-          ]
-        },
-        {
-          "n": "IBRAHIM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
-          "p": "DLA",
-          "age": "51",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under DLA.",
+          "deputy": {
+            "n": "ADAMU HASSAN IBRAHIM",
+            "age": "35",
+            "gender": "M",
+            "edu": "NABTEB"
+          },
           "scores": [
             48,
             54,
@@ -260,13 +166,42 @@
           ]
         },
         {
-          "n": "GOMBE",
+          "n": "SANI MUHAMMAD",
+          "p": "DLA",
+          "age": "51",
+          "gender": "M",
+          "rm": "SAMUEL JOY (43 yrs)",
+          "edu": "Not confirmed",
+          "bg": "Governorship candidate for Gombe under DLA.",
+          "deputy": {
+            "n": "SAMUEL JOY",
+            "age": "43",
+            "gender": "F",
+            "edu": "Not confirmed"
+          },
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "MUAZU ZUBAIRU HALILU",
           "p": "LP",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "DEFLE BURGA (61 yrs)",
+          "edu": "FSLC WAEC BSC (BOTANY)",
           "bg": "Governorship candidate for Gombe under LP.",
+          "deputy": {
+            "n": "DEFLE BURGA",
+            "age": "61",
+            "gender": "M",
+            "edu": "FSLC SSCE ADVANCED DIPLOMA (MASS COMMUNICATION)"
+          },
           "scores": [
             58,
             59,
@@ -277,64 +212,42 @@
           ]
         },
         {
-          "n": "EFLE BURGA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
-          "p": "A",
+          "n": "ARDO BABAYO KUMO",
+          "p": "NDC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under A.",
+          "rm": "UMARU SUNDAY (43 yrs)",
+          "edu": "FSLC WAEC BSC",
+          "bg": "Governorship candidate for Gombe under NDC.",
+          "deputy": {
+            "n": "UMARU SUNDAY",
+            "age": "43",
+            "gender": "M",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
-            54,
-            54,
-            56,
-            48,
-            68,
-            55
-          ]
-        },
-        {
-          "n": "ARU SUNDAY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
             53,
+            53,
+            55,
+            47,
+            69,
             54
           ]
         },
         {
-          "n": "GOMBE",
-          "p": "A",
+          "n": "ALIYU ADAMU DANMACCA",
+          "p": "NDP",
           "age": "38",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under A.",
+          "rm": "SULAIMAN MARIYATU ALIYU (66 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE B.S.C / NCE",
+          "bg": "Governorship candidate for Gombe under NDP.",
+          "deputy": {
+            "n": "SULAIMAN MARIYATU ALIYU",
+            "age": "66",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE DIPLOMA"
+          },
           "scores": [
             52,
             48,
@@ -345,30 +258,19 @@
           ]
         },
         {
-          "n": "AIMAN MARIYATU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "ABDULLAHI MAIKANO UMAR",
           "p": "NNPP",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "VICTOR ILIYA JATAU (67 yrs)",
+          "edu": "FIRST LEAVING SCHOOL CERTIFICATE SSCE NCE",
           "bg": "Governorship candidate for Gombe under NNPP.",
+          "deputy": {
+            "n": "VICTOR ILIYA JATAU",
+            "age": "67",
+            "gender": "M",
+            "edu": "FSLC SSCE ND"
+          },
           "scores": [
             59,
             52,
@@ -379,64 +281,42 @@
           ]
         },
         {
-          "n": "TOR ILIYA JATAU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "YAHYA BASHIR",
           "p": "NRM",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SULAIMAN KUMO MOHAMMED (56 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE",
           "bg": "Governorship candidate for Gombe under NRM.",
+          "deputy": {
+            "n": "SULAIMAN KUMO MOHAMMED",
+            "age": "56",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL NATIONAL DIPLOMA"
+          },
           "scores": [
-            62,
-            48,
             56,
             48,
-            58,
+            48,
+            48,
+            54,
             63
           ]
         },
         {
-          "n": "MOHAMMED",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "IBRAHIM ABUBAKAR JALO",
           "p": "PRP",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ANTHONY AUGUSTINE MAIDAKA (41 yrs)",
+          "edu": "FLSC SSCE DEGREE CERTIFICATE",
           "bg": "Governorship candidate for Gombe under PRP.",
+          "deputy": {
+            "n": "ANTHONY AUGUSTINE MAIDAKA",
+            "age": "41",
+            "gender": "M",
+            "edu": "FLSC SSCE DEGREE CERTIFICATE"
+          },
           "scores": [
             60,
             50,
@@ -447,30 +327,19 @@
           ]
         },
         {
-          "n": "ANTHONY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
+          "n": "MA'AJI ADAMU MUHAMMED",
           "p": "SDP",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MAGAJI IBRAHIM (64 yrs)",
+          "edu": "FLSC SSCE BSC",
           "bg": "Governorship candidate for Gombe under SDP.",
+          "deputy": {
+            "n": "MAGAJI IBRAHIM",
+            "age": "64",
+            "gender": "M",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             57,
             57,
@@ -481,54 +350,26 @@
           ]
         },
         {
-          "n": "AGAJI IBRAHIM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "GOMBE",
-          "p": "IND",
+          "n": "GANA ALIYU MUHAMMAD",
+          "p": "ZLP",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
+          "rm": "GARBA ABDULLAHI (41 yrs)",
+          "edu": "FSLC GCE BED",
+          "bg": "Governorship candidate for Gombe under ZLP.",
+          "deputy": {
+            "n": "GARBA ABDULLAHI",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
-            47,
-            53,
-            47,
-            47,
-            65,
-            54
-          ]
-        },
-        {
-          "n": "RBA ABDULLAHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Gombe under IND.",
-          "scores": [
-            53,
-            47,
+            49,
             55,
-            47,
-            57,
-            54
+            49,
+            49,
+            65,
+            55
           ]
         }
       ]

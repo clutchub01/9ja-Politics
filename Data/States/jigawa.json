@@ -5,13 +5,19 @@
       "constituency": "Jigawa Statewide",
       "candidates": [
         {
-          "n": "JIGAWA",
+          "n": "USMAN ISMAIL",
           "p": "AA",
           "age": "50",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "TIJJANI MUSTAPHA (35 yrs)",
+          "edu": "First School Leaving Certficate WAEC",
           "bg": "Governorship candidate for Jigawa under AA.",
+          "deputy": {
+            "n": "TIJJANI MUSTAPHA",
+            "age": "35",
+            "gender": "M",
+            "edu": "First School Leaving Certficate WAEC"
+          },
           "scores": [
             48,
             54,
@@ -22,200 +28,157 @@
           ]
         },
         {
-          "n": "JIGAWA",
+          "n": "SABO MOHAMMED NAKUDU",
           "p": "ADC",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUSA YA'U BALARABE (57 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC B.Sc",
           "bg": "Governorship candidate for Jigawa under ADC.",
+          "deputy": {
+            "n": "MUSA YA'U BALARABE",
+            "age": "57",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE SSCE Ph.D"
+          },
           "scores": [
-            51,
+            57,
             58,
-            63,
+            59,
             51,
-            74,
+            78,
             49
           ]
         },
         {
-          "n": "MUSA YA'U",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
-          "p": "IND",
+          "n": "SULAIMAN IBRAHIM",
+          "p": "ADP",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
+          "rm": "AHMAD ALI (56 yrs)",
+          "edu": "FSCL SSCE MASTER POLITICAL SCIENCE",
+          "bg": "Governorship candidate for Jigawa under ADP.",
+          "deputy": {
+            "n": "AHMAD ALI",
+            "age": "56",
+            "gender": "M",
+            "edu": "FSCL SSCE NCE"
+          },
           "scores": [
-            47,
-            53,
-            47,
-            47,
+            48,
+            54,
+            48,
+            48,
             65,
             54
           ]
         },
         {
-          "n": "JIGAWA",
+          "n": "NAMADI UMAR A.",
           "p": "APC",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN AMINU (62 yrs)",
+          "edu": "FIRST SCH LEAVING CERT TEACHERS GRADE II CERT BSc Accounting",
           "bg": "Governorship candidate for Jigawa under APC.",
+          "deputy": {
+            "n": "USMAN AMINU",
+            "age": "62",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERT SECONDARY SCH CERT HND ELECTRIC ENGR"
+          },
           "scores": [
-            52,
+            72,
             57,
-            62,
+            70,
             53,
-            71,
+            75,
             51
           ]
         },
         {
-          "n": "PRIMARY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "YERO AHMED",
           "p": "APGA",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ISIYAKU MUSA (41 yrs)",
+          "edu": "dakanawa Primary School lautai Boys High School Gumel School of management Kano",
           "bg": "Governorship candidate for Jigawa under APGA.",
+          "deputy": {
+            "n": "ISIYAKU MUSA",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC JSS"
+          },
           "scores": [
-            51,
+            65,
             58,
-            62,
+            50,
             51,
             74,
             47
           ]
         },
         {
-          "n": "FSLC JSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "UMAR AHMAD",
           "p": "APM",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "LAWAN USMAN (67 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE CNA(ANAN)/MASTERS MIBF/MAFM",
           "bg": "Governorship candidate for Jigawa under APM.",
+          "deputy": {
+            "n": "LAWAN USMAN",
+            "age": "67",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE"
+          },
           "scores": [
-            52,
+            58,
             48,
+            60,
             48,
-            48,
-            45,
+            51,
             70
           ]
         },
         {
-          "n": "FIRST",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "MUSA MUBARAK",
           "p": "APP",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SULEMAN ABUBAKAR (36 yrs)",
+          "edu": "WAEC",
           "bg": "Governorship candidate for Jigawa under APP.",
+          "deputy": {
+            "n": "SULEMAN ABUBAKAR",
+            "age": "36",
+            "gender": "M",
+            "edu": "MOE SCIENCE @ TECH"
+          },
           "scores": [
-            62,
-            48,
             56,
             48,
-            58,
+            48,
+            48,
+            54,
             63
           ]
         },
         {
-          "n": "ABUBAKAR",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "ABDUL'AZIZ AMINU",
           "p": "LP",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUHAMMAD LIMAN ALIYU (65 yrs)",
+          "edu": "S.S.C.E",
           "bg": "Governorship candidate for Jigawa under LP.",
+          "deputy": {
+            "n": "MUHAMMAD LIMAN ALIYU",
+            "age": "65",
+            "gender": "M",
+            "edu": "FSLC S.S.C.E"
+          },
           "scores": [
             52,
             57,
@@ -226,30 +189,19 @@
           ]
         },
         {
-          "n": "ALIYU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
-          "p": "IND",
+          "n": "DUTSE AMINU SANI",
+          "p": "NDC",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
+          "rm": "BABANGIDA HARUNA (60 yrs)",
+          "edu": "FSLC SSCE NOUN",
+          "bg": "Governorship candidate for Jigawa under NDC.",
+          "deputy": {
+            "n": "BABANGIDA HARUNA",
+            "age": "60",
+            "gender": "M",
+            "edu": "FSLC GCE M. ED"
+          },
           "scores": [
             47,
             53,
@@ -260,13 +212,19 @@
           ]
         },
         {
-          "n": "JIGAWA",
-          "p": "A",
+          "n": "AMINU HASSAN IBRAHIM",
+          "p": "NRM",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under A.",
+          "rm": "BALA ABBAS (67 yrs)",
+          "edu": "F.S.L.C W.A.EC B.sc",
+          "bg": "Governorship candidate for Jigawa under NRM.",
+          "deputy": {
+            "n": "BALA ABBAS",
+            "age": "67",
+            "gender": "M",
+            "edu": "FSCL SSCE"
+          },
           "scores": [
             54,
             54,
@@ -277,30 +235,19 @@
           ]
         },
         {
-          "n": "ALA ABBAS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "SULE MUSTAPHA LAMIDO",
           "p": "PDP",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "TAHIR MUHAMMAD INUWA (66 yrs)",
+          "edu": "SAMADI INTERNATIONAL SCHOOL FEDERAL GOVERNMENT COLLEGE, KWALI",
           "bg": "Governorship candidate for Jigawa under PDP.",
+          "deputy": {
+            "n": "TAHIR MUHAMMAD INUWA",
+            "age": "66",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE SSCE UNIVERSITY DEGREE"
+          },
           "scores": [
             59,
             50,
@@ -311,87 +258,48 @@
           ]
         },
         {
-          "n": "IR MUHAMMAD",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "AHMED ADAMU KAUGAMA",
           "p": "PRP",
           "age": "76",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "YASIN IBRAHIM MUHAMMAD (61 yrs)",
+          "edu": "FLSC SSCE PGS",
           "bg": "Governorship candidate for Jigawa under PRP.",
+          "deputy": {
+            "n": "YASIN IBRAHIM MUHAMMAD",
+            "age": "61",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
           "scores": [
             50,
             58,
-            64,
+            52,
             48,
             73,
             50
           ]
         },
         {
-          "n": "ASIN IBRAHIM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "JIGAWA",
+          "n": "MUSA NAMADORI GARBA",
           "p": "SDP",
           "age": "60",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AKILU YUSUF (61 yrs)",
+          "edu": "FSLC SSCE BSC",
           "bg": "Governorship candidate for Jigawa under SDP.",
+          "deputy": {
+            "n": "AKILU YUSUF",
+            "age": "61",
+            "gender": "M",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             57,
             57,
             59,
             50,
             71,
-            54
-          ]
-        },
-        {
-          "n": "AKILU YUSUF",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Jigawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
             54
           ]
         }

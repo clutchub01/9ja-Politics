@@ -5,13 +5,19 @@
       "constituency": "Kwara Statewide",
       "candidates": [
         {
-          "n": "KWARA",
+          "n": "KOLO EZEKIEL",
           "p": "AA",
           "age": "45",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OLANIPEKUN ISMAIL OLABODE (39 yrs)",
+          "edu": "FSLC WAEC BSC",
           "bg": "Governorship candidate for Kwara under AA.",
+          "deputy": {
+            "n": "OLANIPEKUN ISMAIL OLABODE",
+            "age": "39",
+            "gender": "M",
+            "edu": "FSLC WAEC HND"
+          },
           "scores": [
             62,
             48,
@@ -22,166 +28,134 @@
           ]
         },
         {
-          "n": "OLABODE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "ZAKARI MOHAMMED",
           "p": "ADC",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OLAWUYI JULIUS OLAYIDE (66 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC BSc/Msc",
           "bg": "Governorship candidate for Kwara under ADC.",
+          "deputy": {
+            "n": "OLAWUYI JULIUS OLAYIDE",
+            "age": "66",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE WAEC BACHELOR OF ARTS (BA)"
+          },
           "scores": [
-            51,
-            56,
             63,
+            56,
+            71,
             51,
-            68,
+            78,
             55
           ]
         },
         {
-          "n": "OLAYIDE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
-          "p": "A",
+          "n": "ADESHINA AJISAFE",
+          "p": "ADP",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under A.",
+          "rm": "SULIEMAN JIBRIL (37 yrs)",
+          "edu": "FSLC SSCE",
+          "bg": "Governorship candidate for Kwara under ADP.",
+          "deputy": {
+            "n": "SULIEMAN JIBRIL",
+            "age": "37",
+            "gender": "M",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
             56,
             48,
             48,
             48,
-            54,
-            63
+            55,
+            62
           ]
         },
         {
-          "n": "KWARA",
+          "n": "YAKUBU DANLADI SALIHU",
           "p": "APC",
           "age": "41",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OGUNNIYI DAVID OLUWASEUN (47 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.ENG",
           "bg": "Governorship candidate for Kwara under APC.",
+          "deputy": {
+            "n": "OGUNNIYI DAVID OLUWASEUN",
+            "age": "47",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HND"
+          },
           "scores": [
-            60,
+            66,
             51,
-            50,
-            53,
-            61,
+            58,
+            67,
+            65,
             59
           ]
         },
         {
-          "n": "OLUWASEUN",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "SULE AJAYI",
           "p": "APGA",
           "age": "71",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AFOLABI MOSES FOLORUNSHO (71 yrs)",
+          "edu": "FSLC SSCE HIGHER NATIONAL DIPLOMA (HND)",
           "bg": "Governorship candidate for Kwara under APGA.",
+          "deputy": {
+            "n": "AFOLABI MOSES FOLORUNSHO",
+            "age": "71",
+            "gender": "M",
+            "edu": "FSLC SSCE HND"
+          },
           "scores": [
-            51,
+            57,
             58,
-            50,
+            58,
             51,
-            74,
+            78,
             47
           ]
         },
         {
-          "n": "FOLORUNSHO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "JAIYEOLA MOTUNRAYO",
           "p": "APM",
           "age": "46",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OLUWOLE TOLU (37 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.Sc GUIDANCE AND COUNSELLING",
           "bg": "Governorship candidate for Kwara under APM.",
+          "deputy": {
+            "n": "OLUWOLE TOLU",
+            "age": "37",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
+            62,
+            48,
             56,
             48,
-            48,
-            48,
-            54,
+            58,
             63
           ]
         },
         {
-          "n": "KWARA",
+          "n": "OMOTOSHO BAMIDELE OLAITAN",
           "p": "APP",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AREMU TOYIN WAHAB (40 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.A. (ED)",
           "bg": "Governorship candidate for Kwara under APP.",
+          "deputy": {
+            "n": "AREMU TOYIN WAHAB",
+            "age": "40",
+            "gender": "M",
+            "edu": "SSCE NATIONAL DIPLOMA"
+          },
           "scores": [
             54,
             54,
@@ -192,98 +166,65 @@
           ]
         },
         {
-          "n": "MU TOYIN WAHAB",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
-          "p": "IND",
+          "n": "ABDULMUMIN YINKA AJIA",
+          "p": "NDC",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
+          "rm": "AJAYI ISRAEL AWOLOWO (72 yrs)",
+          "edu": "IDEAL NUR/PRY SCHOOL GOVT COLLEGE BAUCHI INDIANA INSTITUTE OF TECHNOLOGY USA",
+          "bg": "Governorship candidate for Kwara under NDC.",
+          "deputy": {
+            "n": "AJAYI ISRAEL AWOLOWO",
+            "age": "72",
+            "gender": "M",
+            "edu": "FSLC WASC BA, MA, PGDE"
+          },
           "scores": [
-            47,
             53,
-            47,
-            47,
-            65,
+            53,
+            55,
+            61,
+            69,
             54
           ]
         },
         {
-          "n": "C WASC B",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "DEACON SHOLA VICTOR ABIOYE",
           "p": "NDP",
           "age": "69",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ISSA SALIHU (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE UNIVERSITY OF IBADAN",
           "bg": "Governorship candidate for Kwara under NDP.",
+          "deputy": {
+            "n": "ISSA SALIHU",
+            "age": "57",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE PROFESSIONAL DIPLOMA"
+          },
           "scores": [
-            48,
+            54,
+            56,
             56,
             48,
-            48,
-            70,
+            74,
             49
           ]
         },
         {
-          "n": "SSA SALIHU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "OMOKANYE DAVID ADETOYESE",
           "p": "NNPP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ZUBAIR ZURURAT ROMOKE (58 yrs)",
+          "edu": "SSCE",
           "bg": "Governorship candidate for Kwara under NNPP.",
+          "deputy": {
+            "n": "ZUBAIR ZURURAT ROMOKE",
+            "age": "58",
+            "gender": "F",
+            "edu": "FSLC WAEC MBA MASTERS IN BUSINESS ADMIN"
+          },
           "scores": [
             51,
             58,
@@ -294,30 +235,19 @@
           ]
         },
         {
-          "n": "BAIR ZURURAT",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "KAWU SULAIMAN BOLAKALE",
           "p": "PDP",
           "age": "57",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "FAWENU CORNELIUS OLAOSEBIKAN SUNDAY (53 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN SCHOOL CERTIFICATE HIGHER NATIONAL DIPLOMA",
           "bg": "Governorship candidate for Kwara under PDP.",
+          "deputy": {
+            "n": "FAWENU CORNELIUS OLAOSEBIKAN SUNDAY",
+            "age": "53",
+            "gender": "M",
+            "edu": "FSLC SSCE B. SC (HON) BIOCHEMISTRY"
+          },
           "scores": [
             51,
             56,
@@ -328,36 +258,25 @@
           ]
         },
         {
-          "n": "ENU CORNELIUS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kwara under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KWARA",
+          "n": "APAOKAGI RIDWAN SALAHUDEEN",
           "p": "SDP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KOLAWOLE FUNSHO THAWPHIC (51 yrs)",
+          "edu": "FLSC SSCE MBBS",
           "bg": "Governorship candidate for Kwara under SDP.",
+          "deputy": {
+            "n": "KOLAWOLE FUNSHO THAWPHIC",
+            "age": "51",
+            "gender": "M",
+            "edu": "SSCE LL.B"
+          },
           "scores": [
-            51,
             57,
-            51,
+            57,
+            59,
             50,
-            67,
+            71,
             54
           ]
         }

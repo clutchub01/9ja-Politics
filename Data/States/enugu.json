@@ -5,30 +5,19 @@
       "constituency": "Enugu Statewide",
       "candidates": [
         {
-          "n": "IP ELE",
-          "p": "IND",
-          "age": "27",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            51,
-            47,
-            47,
-            47,
-            46,
-            69
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "ALOR EDWIN IKECHUKWU",
           "p": "A",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OWUBE GODWIN CHUKWUDI (62 yrs)",
+          "edu": "FSLC (First leaving certificate) WAEC B.Sc",
           "bg": "Governorship candidate for Enugu under A.",
+          "deputy": {
+            "n": "OWUBE GODWIN CHUKWUDI",
+            "age": "62",
+            "gender": "M",
+            "edu": "FSLC (First leaving certificate) SSCE (secondary school leaving certificate) B.Sc"
+          },
           "scores": [
             54,
             54,
@@ -39,30 +28,19 @@
           ]
         },
         {
-          "n": "CHUKWUDI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "OCHO OBODOEZE CHUKWUMA",
           "p": "ADC",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EZE ARINZE CHRISTOPHER (53 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC B.Sc",
           "bg": "Governorship candidate for Enugu under ADC.",
+          "deputy": {
+            "n": "EZE ARINZE CHRISTOPHER",
+            "age": "53",
+            "gender": "M",
+            "edu": "FSLC"
+          },
           "scores": [
             57,
             56,
@@ -73,30 +51,19 @@
           ]
         },
         {
-          "n": "INZE CHRISTOPHER",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "AYOGU SAM AYOGU",
           "p": "ADP",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OKECHUKWU CHETACHI MAUREEN (40 yrs)",
+          "edu": "SSCE Bsc",
           "bg": "Governorship candidate for Enugu under ADP.",
+          "deputy": {
+            "n": "OKECHUKWU CHETACHI MAUREEN",
+            "age": "40",
+            "gender": "F",
+            "edu": "SSCE BSc"
+          },
           "scores": [
             54,
             54,
@@ -107,30 +74,19 @@
           ]
         },
         {
-          "n": "MAUREEN",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "MBAH PETER NDUBUISI",
           "p": "APC",
           "age": "54",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OSSAI IFEANYI MARTINS (53 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MBA",
           "bg": "Governorship candidate for Enugu under APC.",
+          "deputy": {
+            "n": "OSSAI IFEANYI MARTINS",
+            "age": "53",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE LLB (Hons)"
+          },
           "scores": [
             64,
             57,
@@ -141,64 +97,42 @@
           ]
         },
         {
-          "n": "FIRST",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "IKEH KEN",
           "p": "APM",
           "age": "54",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "CHRISTIAN CHIMEZIE OMEH (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC LLB HONS",
           "bg": "Governorship candidate for Enugu under APM.",
+          "deputy": {
+            "n": "CHRISTIAN CHIMEZIE OMEH",
+            "age": "35",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC"
+          },
           "scores": [
-            48,
             54,
+            68,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "FIRST",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
-          "p": "A",
+          "n": "ANI AFAMEFUNA SAMUEL",
+          "p": "APP",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under A.",
+          "rm": "IDOKOH NELSON NDUDI (35 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
+          "bg": "Governorship candidate for Enugu under APP.",
+          "deputy": {
+            "n": "IDOKOH NELSON NDUDI",
+            "age": "35",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE B.A"
+          },
           "scores": [
             56,
             48,
@@ -209,13 +143,19 @@
           ]
         },
         {
-          "n": "ENUGU",
+          "n": "NNAMANI OBIOMA NNAEMEKA",
           "p": "BP",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IKENTA CHINWENDU PERPETUAL (35 yrs)",
+          "edu": "First School Leaving Testimonial Senior School Certificate Exam (SSCE)",
           "bg": "Governorship candidate for Enugu under BP.",
+          "deputy": {
+            "n": "IKENTA CHINWENDU PERPETUAL",
+            "age": "35",
+            "gender": "F",
+            "edu": "Senior School Certificate Exam (SSCE)"
+          },
           "scores": [
             56,
             48,
@@ -226,30 +166,19 @@
           ]
         },
         {
-          "n": "NTA CHINWENDU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "UGWU NNAMDI",
           "p": "DLA",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OMAGA GERALD CHUKWUKA (50 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Enugu under DLA.",
+          "deputy": {
+            "n": "OMAGA GERALD CHUKWUKA",
+            "age": "50",
+            "gender": "M",
+            "edu": "FSLC SSCE BSc"
+          },
           "scores": [
             48,
             54,
@@ -260,64 +189,42 @@
           ]
         },
         {
-          "n": "CHUKWUKA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "UGWU OKWUDILICHUKWU CHUKWUDERA",
           "p": "LP",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ASOGWA ELUMA KENNEDY (47 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
           "bg": "Governorship candidate for Enugu under LP.",
+          "deputy": {
+            "n": "ASOGWA ELUMA KENNEDY",
+            "age": "47",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC LLB. B L. MA"
+          },
           "scores": [
-            52,
+            58,
             57,
-            53,
+            61,
             50,
-            67,
+            71,
             59
           ]
         },
         {
-          "n": "WA ELUMA KENNEDY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
-          "p": "IND",
+          "n": "OHAA CHINYEAKA CHRISTIAN",
+          "p": "NDC",
           "age": "65",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
+          "rm": "OMEJE FRANK OKENWA (65 yrs)",
+          "edu": "WAEC",
+          "bg": "Governorship candidate for Enugu under NDC.",
+          "deputy": {
+            "n": "OMEJE FRANK OKENWA",
+            "age": "65",
+            "gender": "M",
+            "edu": "WAEC"
+          },
           "scores": [
             47,
             55,
@@ -328,30 +235,19 @@
           ]
         },
         {
-          "n": "JE FRANK OKENWA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "J. NNAJI",
           "p": "NNPP",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OBETA DAVID UCHENNA (37 yrs)",
+          "edu": "FSLC SSCE BACHELOR, MA, PHD",
           "bg": "Governorship candidate for Enugu under NNPP.",
+          "deputy": {
+            "n": "OBETA DAVID UCHENNA",
+            "age": "37",
+            "gender": "M",
+            "edu": "FSLC SSEC NCE"
+          },
           "scores": [
             63,
             58,
@@ -362,47 +258,42 @@
           ]
         },
         {
-          "n": "ENUGU",
+          "n": "OKONKWO CHRISTOPHER NDUBUISI",
           "p": "NRM",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWABUISI UCHENNA (41 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN SENIOR SCHOOL CERTIFICATE B.ENG",
           "bg": "Governorship candidate for Enugu under NRM.",
+          "deputy": {
+            "n": "NWABUISI UCHENNA",
+            "age": "41",
+            "gender": "M",
+            "edu": "FIRST LEAVING CERTIFICATE"
+          },
           "scores": [
-            48,
             54,
-            48,
-            48,
-            64,
+            54,
+            56,
+            62,
+            68,
             55
           ]
         },
         {
-          "n": "ABUISI UCHENNA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "NNAJI UCHECHUKWU GEOFFREY",
           "p": "PDP",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NGWU ROBERT OGBONNA (56 yrs)",
+          "edu": "WAEC",
           "bg": "Governorship candidate for Enugu under PDP.",
+          "deputy": {
+            "n": "NGWU ROBERT OGBONNA",
+            "age": "56",
+            "gender": "M",
+            "edu": "WAEC"
+          },
           "scores": [
             51,
             56,
@@ -413,70 +304,71 @@
           ]
         },
         {
-          "n": "NGWU ROBE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Enugu under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ENUGU",
+          "n": "ILOKA FRIDAY",
           "p": "SDP",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OGBODO PATIENCE (45 yrs)",
+          "edu": "FSLC SSCE HND",
           "bg": "Governorship candidate for Enugu under SDP.",
+          "deputy": {
+            "n": "OGBODO PATIENCE",
+            "age": "45",
+            "gender": "F",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
+            65,
+            51,
             59,
-            51,
-            51,
             50,
-            57,
+            61,
             62
           ]
         },
         {
-          "n": "ENUGU",
+          "n": "UDEANI ANTHONY IFEANYI",
           "p": "YPP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWACHUKWU GLORIA (40 yrs)",
+          "edu": "FSLC WAEC BSC",
           "bg": "Governorship candidate for Enugu under YPP.",
+          "deputy": {
+            "n": "NWACHUKWU GLORIA",
+            "age": "40",
+            "gender": "F",
+            "edu": "FSLC WAEC TRCN"
+          },
           "scores": [
-            50,
+            56,
             55,
-            50,
+            58,
             49,
-            65,
+            69,
             59
           ]
         },
         {
-          "n": "ENUGU",
+          "n": "UGWOKE ELVIS CHINAZAM",
           "p": "ZLP",
           "age": "40",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UCHECHI LUCY (44 yrs)",
+          "edu": "FSLC SSCE BA",
           "bg": "Governorship candidate for Enugu under ZLP.",
+          "deputy": {
+            "n": "UCHECHI LUCY",
+            "age": "44",
+            "gender": "F",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
+            63,
+            49,
             57,
             49,
-            49,
-            49,
-            55,
+            59,
             63
           ]
         }

@@ -5,13 +5,19 @@
       "constituency": "Cross River Statewide",
       "candidates": [
         {
-          "n": "CROSS",
+          "n": "ALI PATRICK",
           "p": "AA",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ASHIPU JOSEPH AGABA (66 yrs)",
+          "edu": "First School Leaving Certficate Senior school certificate B.ED",
           "bg": "Governorship candidate for Cross River under AA.",
+          "deputy": {
+            "n": "ASHIPU JOSEPH AGABA",
+            "age": "66",
+            "gender": "M",
+            "edu": "First School Leaving Certficate WAEC DIP.in personnel management"
+          },
           "scores": [
             48,
             54,
@@ -22,30 +28,19 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "JOELYNE ITA HOGAN-BASSEY",
           "p": "ADP",
           "age": "39",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OBETEN ETTA ONEN (39 yrs)",
+          "edu": "NIL NIL NIL",
           "bg": "Governorship candidate for Cross River under ADP.",
+          "deputy": {
+            "n": "OBETEN ETTA ONEN",
+            "age": "39",
+            "gender": "M",
+            "edu": "NIL NIL NIL"
+          },
           "scores": [
             52,
             48,
@@ -56,30 +51,19 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "OTU BASSEY EDET",
           "p": "APC",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ODEY PETER AGBE (52 yrs)",
+          "edu": "FSLC WAEC/SSCE B.SC",
           "bg": "Governorship candidate for Cross River under APC.",
+          "deputy": {
+            "n": "ODEY PETER AGBE",
+            "age": "52",
+            "gender": "M",
+            "edu": "FSLC WAEC/SSCE BSc"
+          },
           "scores": [
             58,
             59,
@@ -90,30 +74,19 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "ESEGE NTAMI NKANU",
           "p": "APM",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UMEREN PRINCE EMMANUEL (53 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC ND",
           "bg": "Governorship candidate for Cross River under APM.",
+          "deputy": {
+            "n": "UMEREN PRINCE EMMANUEL",
+            "age": "53",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.A"
+          },
           "scores": [
             56,
             48,
@@ -124,64 +97,42 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "NYA BASIL BASSEY",
           "p": "APP",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OSHAKA MATHIAS EGBA (36 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.ENG",
           "bg": "Governorship candidate for Cross River under APP.",
+          "deputy": {
+            "n": "OSHAKA MATHIAS EGBA",
+            "age": "36",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC"
+          },
           "scores": [
             58,
             48,
             56,
-            48,
+            62,
             49,
             70
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "OBU OGAR OSIM",
           "p": "LP",
           "age": "49",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UNOH IKOH (38 yrs)",
+          "edu": "FSLC S.S.C.E Diploma/BSc",
           "bg": "Governorship candidate for Cross River under LP.",
+          "deputy": {
+            "n": "UNOH IKOH",
+            "age": "38",
+            "gender": "M",
+            "edu": "FSLC S.S.C.E BSc"
+          },
           "scores": [
             66,
             51,
@@ -192,30 +143,19 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "CHIGBE CHIOMA VIVIAN",
           "p": "NRM",
           "age": "46",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ETIM OFFIONG EFFIONG (36 yrs)",
+          "edu": "F.S.L.C S.S.C.E B.sc",
           "bg": "Governorship candidate for Cross River under NRM.",
+          "deputy": {
+            "n": "ETIM OFFIONG EFFIONG",
+            "age": "36",
+            "gender": "M",
+            "edu": "W.A.EC B.sc"
+          },
           "scores": [
             62,
             48,
@@ -226,54 +166,26 @@
           ]
         },
         {
-          "n": "CROSS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "CROSS",
+          "n": "ARCHIBONG ARTHUR JAVIS",
           "p": "PDP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EBA ALPHONSUS OGAR (51 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION (GCE) BACHELOR OF ARTS",
           "bg": "Governorship candidate for Cross River under PDP.",
+          "deputy": {
+            "n": "EBA ALPHONSUS OGAR",
+            "age": "51",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY SCHOOL CERTIFICATE LLB, BL"
+          },
           "scores": [
-            51,
+            57,
             56,
+            71,
             51,
-            51,
-            70,
+            74,
             52
-          ]
-        },
-        {
-          "n": "CROSS",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Cross River under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
           ]
         }
       ]

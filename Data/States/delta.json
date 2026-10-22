@@ -5,455 +5,19 @@
       "constituency": "Delta Statewide",
       "candidates": [
         {
-          "n": "DELTA",
+          "n": "OBI IJEOMAH FREDERICK",
           "p": "A",
           "age": "54",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IKEZUME OBAKORE TESTIMONY (47 yrs)",
+          "edu": "FSLC (First leaving certificate) SSCE B.A.",
           "bg": "Governorship candidate for Delta under A.",
-          "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
-          ]
-        },
-        {
-          "n": "TESTIM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "AA",
-          "age": "66",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under AA.",
-          "scores": [
-            48,
-            56,
-            48,
-            48,
-            70,
-            49
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "AAC",
-          "age": "43",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under AAC.",
-          "scores": [
-            58,
-            54,
-            52,
-            49,
-            55,
-            68
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "ADC",
-          "age": "68",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under ADC.",
-          "scores": [
-            57,
-            58,
-            63,
-            51,
-            80,
-            49
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "ADP",
-          "age": "56",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under ADP.",
-          "scores": [
-            54,
-            54,
-            56,
-            48,
-            69,
-            54
-          ]
-        },
-        {
-          "n": "OKORO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "APC",
-          "age": "63",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under APC.",
-          "scores": [
-            58,
-            57,
-            62,
-            53,
-            77,
-            51
-          ]
-        },
-        {
-          "n": "ONYEME MONDAY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "APM",
-          "age": "40",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under APM.",
-          "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
-          ]
-        },
-        {
-          "n": "FIRST SCHOOL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "APP",
-          "age": "61",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under APP.",
-          "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "BP",
-          "age": "55",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under BP.",
-          "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            56
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "DLA",
-          "age": "38",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under DLA.",
-          "scores": [
-            58,
-            48,
-            56,
-            48,
-            49,
-            70
-          ]
-        },
-        {
-          "n": "OKAFOR TONY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "LP",
-          "age": "39",
-          "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under LP.",
-          "scores": [
-            56,
-            51,
-            53,
-            50,
-            48,
-            74
-          ]
-        },
-        {
-          "n": "FSLC NECO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "IND",
-          "age": "62",
-          "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
-          ]
-        },
-        {
-          "n": "AH UNI OF IBADAN",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "NNPP",
-          "age": "44",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under NNPP.",
-          "scores": [
-            59,
-            52,
-            51,
-            50,
-            58,
-            62
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "PDP",
-          "age": "61",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under PDP.",
-          "scores": [
-            51,
-            56,
-            51,
-            51,
-            70,
-            52
-          ]
-        },
-        {
-          "n": "AGBABI ONYEK",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under A.",
-          "scores": [
-            54,
-            48,
-            56,
-            48,
-            56,
-            55
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "PRP",
-          "age": "42",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under PRP.",
-          "scores": [
-            70,
-            50,
-            84,
-            48,
-            67,
-            64
-          ]
-        },
-        {
-          "n": "AKPE GODWIN",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "SDP",
-          "age": "35",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under SDP.",
-          "scores": [
-            61,
-            51,
-            59,
-            50,
-            52,
-            69
-          ]
-        },
-        {
-          "n": "PERMOBO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "DELTA",
-          "p": "A",
-          "age": "52",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under A.",
+          "deputy": {
+            "n": "IKEZUME OBAKORE TESTIMONY",
+            "age": "47",
+            "gender": "M",
+            "edu": "FSLC (First leaving certificate) SSCE PELSU"
+          },
           "scores": [
             54,
             54,
@@ -464,30 +28,387 @@
           ]
         },
         {
-          "n": "FSLC SSC",
-          "p": "IND",
-          "age": "Not confirmed",
+          "n": "ITOKWE SIMON EKAGHOGHO",
+          "p": "AA",
+          "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Delta under IND.",
+          "rm": "ASUEBI JOHNSON (56 yrs)",
+          "edu": "FSLC WAEC",
+          "bg": "Governorship candidate for Delta under AA.",
+          "deputy": {
+            "n": "ASUEBI JOHNSON",
+            "age": "56",
+            "gender": "M",
+            "edu": "First School Leaving Certficate WAEC"
+          },
           "scores": [
-            53,
-            61,
+            48,
+            56,
+            48,
+            48,
+            70,
+            49
+          ]
+        },
+        {
+          "n": "ESHOR OMOZOJIE ISAAC",
+          "p": "AAC",
+          "age": "43",
+          "gender": "M",
+          "rm": "OROMONI CLEMENT LUCKY (63 yrs)",
+          "edu": "FLSC SSCE",
+          "bg": "Governorship candidate for Delta under AAC.",
+          "deputy": {
+            "n": "OROMONI CLEMENT LUCKY",
+            "age": "63",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
+          "scores": [
+            58,
+            54,
+            52,
+            49,
             55,
-            47,
+            68
+          ]
+        },
+        {
+          "n": "OGBORU OVEDJE GREAT",
+          "p": "ADC",
+          "age": "68",
+          "gender": "M",
+          "rm": "EJIDOH CHINWE REGINA (66 yrs)",
+          "edu": "FSLC WAEC MSc",
+          "bg": "Governorship candidate for Delta under ADC.",
+          "deputy": {
+            "n": "EJIDOH CHINWE REGINA",
+            "age": "66",
+            "gender": "M",
+            "edu": "FSLC WAEC B.ED Hons"
+          },
+          "scores": [
             57,
+            58,
+            63,
+            51,
+            80,
+            49
+          ]
+        },
+        {
+          "n": "EGBOH MICHAEL UWAEJENUME",
+          "p": "ADP",
+          "age": "56",
+          "gender": "M",
+          "rm": "OKORO ELIAS OGHENEOCHUKO (59 yrs)",
+          "edu": "FSCL WAEC MBBS",
+          "bg": "Governorship candidate for Delta under ADP.",
+          "deputy": {
+            "n": "OKORO ELIAS OGHENEOCHUKO",
+            "age": "59",
+            "gender": "M",
+            "edu": "FSCL WAEC B Sc. Edu"
+          },
+          "scores": [
+            54,
+            54,
+            56,
+            48,
+            69,
             54
           ]
         },
         {
-          "n": "DELTA",
+          "n": "OBOREVWORI SHERIFF FRANCIS OROHWEDOR",
+          "p": "APC",
+          "age": "63",
+          "gender": "M",
+          "rm": "ONYEME MONDAY (61 yrs)",
+          "edu": "MSC POLITICAL SCIENCE",
+          "bg": "Governorship candidate for Delta under APC.",
+          "deputy": {
+            "n": "ONYEME MONDAY",
+            "age": "61",
+            "gender": "M",
+            "edu": "WAEC GCE O/L BS.c ACCOUNTING"
+          },
+          "scores": [
+            58,
+            57,
+            62,
+            53,
+            77,
+            51
+          ]
+        },
+        {
+          "n": "NDIDI ANDREW CHUKWUDI",
+          "p": "APM",
+          "age": "40",
+          "gender": "M",
+          "rm": "SHENUWA BLESSING (39 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO B.Sc",
+          "bg": "Governorship candidate for Delta under APM.",
+          "deputy": {
+            "n": "SHENUWA BLESSING",
+            "age": "39",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO HIGHER NATIONAL DIPLOMA"
+          },
+          "scores": [
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
+          ]
+        },
+        {
+          "n": "OKOLO EMEKA ONYEAMASIFE",
+          "p": "APP",
+          "age": "61",
+          "gender": "M",
+          "rm": "SAWACHA ENIYEKEDIYERIN (46 yrs)",
+          "edu": "FSLC ND I.M.T",
+          "bg": "Governorship candidate for Delta under APP.",
+          "deputy": {
+            "n": "SAWACHA ENIYEKEDIYERIN",
+            "age": "46",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE neco"
+          },
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            55
+          ]
+        },
+        {
+          "n": "UMUDJANE SYLVESTER",
+          "p": "BP",
+          "age": "55",
+          "gender": "M",
+          "rm": "OYIBO JEREMIAH (40 yrs)",
+          "edu": "FLSC SSCE",
+          "bg": "Governorship candidate for Delta under BP.",
+          "deputy": {
+            "n": "OYIBO JEREMIAH",
+            "age": "40",
+            "gender": "M",
+            "edu": "FLSC SSCE Bible college"
+          },
+          "scores": [
+            48,
+            54,
+            48,
+            48,
+            64,
+            56
+          ]
+        },
+        {
+          "n": "OMO-IDONOR GAVIN FREEBORN",
+          "p": "DLA",
+          "age": "38",
+          "gender": "M",
+          "rm": "OKAFOR TONY (38 yrs)",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Governorship candidate for Delta under DLA.",
+          "deputy": {
+            "n": "OKAFOR TONY",
+            "age": "38",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
+          "scores": [
+            58,
+            48,
+            56,
+            48,
+            49,
+            70
+          ]
+        },
+        {
+          "n": "JAMES ESTHER",
+          "p": "LP",
+          "age": "39",
+          "gender": "F",
+          "rm": "ODAFE AHWOREGBA ALEX (49 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC HND",
+          "bg": "Governorship candidate for Delta under LP.",
+          "deputy": {
+            "n": "ODAFE AHWOREGBA ALEX",
+            "age": "49",
+            "gender": "M",
+            "edu": "FSLC NECO"
+          },
+          "scores": [
+            62,
+            51,
+            61,
+            50,
+            52,
+            74
+          ]
+        },
+        {
+          "n": "IYOVWAYE CHRIS",
+          "p": "NDC",
+          "age": "62",
+          "gender": "F",
+          "rm": "OSSAI GODWIN OSUMILI (70 yrs)",
+          "edu": "FSLC WASC BSC",
+          "bg": "Governorship candidate for Delta under NDC.",
+          "deputy": {
+            "n": "OSSAI GODWIN OSUMILI",
+            "age": "70",
+            "gender": "M",
+            "edu": "PRIMARY SCHOOL CERYIFICATE ST KIZITOS GRAMAH UNI OF IBADAN"
+          },
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "HENRY FRANCIS OFUBU",
+          "p": "NNPP",
+          "age": "44",
+          "gender": "M",
+          "rm": "AMAKPO ELOHOR MAUREEN (43 yrs)",
+          "edu": "FSLC SSCE",
+          "bg": "Governorship candidate for Delta under NNPP.",
+          "deputy": {
+            "n": "AMAKPO ELOHOR MAUREEN",
+            "age": "43",
+            "gender": "F",
+            "edu": "FIRST LEAVING SCHOOL CERTIFICATE NECO"
+          },
+          "scores": [
+            59,
+            52,
+            51,
+            50,
+            58,
+            62
+          ]
+        },
+        {
+          "n": "MRAKPOR PETER ADOGBEJIRE",
+          "p": "PDP",
+          "age": "61",
+          "gender": "M",
+          "rm": "AGBABI ONYEKA FIDELIS (61 yrs)",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC-GCE O' LEVELS LLB, B.L",
+          "bg": "Governorship candidate for Delta under PDP.",
+          "deputy": {
+            "n": "AGBABI ONYEKA FIDELIS",
+            "age": "61",
+            "gender": "M",
+            "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WAEC- GCE O' LEVEL B. ENGR (CIVIL)"
+          },
+          "scores": [
+            57,
+            70,
+            59,
+            51,
+            74,
+            52
+          ]
+        },
+        {
+          "n": "ODIGBO IKECHUKWU ALOYSIUS",
+          "p": "PRP",
+          "age": "42",
+          "gender": "M",
+          "rm": "AKPE GODWIN AVWOGUA (49 yrs)",
+          "edu": "FLSC NECO BSC 2005, MSC 2012, PHD",
+          "bg": "Governorship candidate for Delta under PRP.",
+          "deputy": {
+            "n": "AKPE GODWIN AVWOGUA",
+            "age": "49",
+            "gender": "M",
+            "edu": "FLSC GCE BSC"
+          },
+          "scores": [
+            70,
+            50,
+            84,
+            48,
+            67,
+            64
+          ]
+        },
+        {
+          "n": "OBUSEH FELIX OGECHUKWU",
+          "p": "SDP",
+          "age": "35",
+          "gender": "M",
+          "rm": "TEBEKAEMI DAVID PERMOBOWEI (37 yrs)",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Governorship candidate for Delta under SDP.",
+          "deputy": {
+            "n": "TEBEKAEMI DAVID PERMOBOWEI",
+            "age": "37",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
+          "scores": [
+            61,
+            51,
+            59,
+            50,
+            52,
+            69
+          ]
+        },
+        {
+          "n": "DENILA JOSHUA AKPOROWHO",
+          "p": "YP",
+          "age": "52",
+          "gender": "M",
+          "rm": "OLOMU NGOZI BLESSING (35 yrs)",
+          "edu": "F.S.L.C. SSCE BSc. STAT WITH COMPUTER SCIENCE",
+          "bg": "Governorship candidate for Delta under YP.",
+          "deputy": {
+            "n": "OLOMU NGOZI BLESSING",
+            "age": "35",
+            "gender": "F",
+            "edu": "FSLC SSCE LL.B and B.L"
+          },
+          "scores": [
+            53,
+            53,
+            55,
+            47,
+            69,
+            54
+          ]
+        },
+        {
+          "n": "NKWOALA EMEKA MATHIAS",
           "p": "ZLP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABELE HEARTREST NONSO (38 yrs)",
+          "edu": "FSLC SSCE ND",
           "bg": "Governorship candidate for Delta under ZLP.",
+          "deputy": {
+            "n": "ABELE HEARTREST NONSO",
+            "age": "38",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             49,
             55,

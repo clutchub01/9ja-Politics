@@ -5,13 +5,19 @@
       "constituency": "Kano Statewide",
       "candidates": [
         {
-          "n": "KANO",
+          "n": "GASHASH MUKHTAR",
           "p": "A",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED SAFIYANU (54 yrs)",
+          "edu": "primary SSCE",
           "bg": "Governorship candidate for Kano under A.",
+          "deputy": {
+            "n": "MOHAMMED SAFIYANU",
+            "age": "54",
+            "gender": "M",
+            "edu": "FSLC SSCE (secondary school leaving certificate) ND"
+          },
           "scores": [
             48,
             54,
@@ -22,30 +28,19 @@
           ]
         },
         {
-          "n": "SAFIYANU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "HARUNA ABDULLAHI",
           "p": "AA",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ISMAIL ABDULMAJIN NUHU (38 yrs)",
+          "edu": "Frist School Leaving Certificate SSC",
           "bg": "Governorship candidate for Kano under AA.",
+          "deputy": {
+            "n": "ISMAIL ABDULMAJIN NUHU",
+            "age": "38",
+            "gender": "M",
+            "edu": "Frist School Leaving Certificate SSC Kano State Poly"
+          },
           "scores": [
             48,
             54,
@@ -56,81 +51,65 @@
           ]
         },
         {
-          "n": "NUHU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "SHARIF ABBA",
           "p": "AAC",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IDRIS UZAIRU (46 yrs)",
+          "edu": "FLSC SSCE",
           "bg": "Governorship candidate for Kano under AAC.",
+          "deputy": {
+            "n": "IDRIS UZAIRU",
+            "age": "46",
+            "gender": "M",
+            "edu": "FLSC SSCE 2008"
+          },
           "scores": [
-            56,
+            50,
             60,
-            60,
+            52,
             49,
-            69,
+            65,
             60
           ]
         },
         {
-          "n": "KANO",
+          "n": "IBRAHIM ALI AMIN",
           "p": "ADC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SHEHU ABDULKADIR BARI (35 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE GCE BSc/MBA",
           "bg": "Governorship candidate for Kano under ADC.",
+          "deputy": {
+            "n": "SHEHU ABDULKADIR BARI",
+            "age": "35",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE SSCE BSc/ Msc"
+          },
           "scores": [
-            51,
+            63,
             56,
+            71,
             51,
-            51,
-            68,
+            78,
             55
           ]
         },
         {
-          "n": "BARI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            59,
-            47,
-            67,
-            47,
-            63,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "MUHAMMAD ABDULLAHI",
           "p": "ADP",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MAINIKA RABIU (62 yrs)",
+          "edu": "F L S C S.S.C.E Degree",
           "bg": "Governorship candidate for Kano under ADP.",
+          "deputy": {
+            "n": "MAINIKA RABIU",
+            "age": "62",
+            "gender": "M",
+            "edu": "FLSC SSCE MBA"
+          },
           "scores": [
             62,
             48,
@@ -141,47 +120,42 @@
           ]
         },
         {
-          "n": "AINIKA RABIU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "YUSUF ABBA KABIR",
           "p": "APC",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GARO MURTALA SULE (48 yrs)",
+          "edu": "PRIMARY SCHOOL CERTIFICATE GCE / O - LEVEL MASTERS DEGREE - BUSINESS MANAGEMENT",
           "bg": "Governorship candidate for Kano under APC.",
+          "deputy": {
+            "n": "GARO MURTALA SULE",
+            "age": "48",
+            "gender": "M",
+            "edu": "PRIMARY CERTIFICATE SECONDARY CERTIFICATE HIGHER NATIONAL DIPLOMA"
+          },
           "scores": [
-            58,
+            78,
             57,
-            58,
+            70,
             53,
-            75,
+            81,
             51
           ]
         },
         {
-          "n": "KANO",
+          "n": "TIJJANI SUKAIRAJU TIJJANI",
           "p": "APGA",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AUWALU ISMAIL YAHAYA (53 yrs)",
+          "edu": "JAKARA PRIMARY SCHOOL TECHNICAL COLLEGE KANO SCHOOL OF TECHNOLOGY",
           "bg": "Governorship candidate for Kano under APGA.",
+          "deputy": {
+            "n": "AUWALU ISMAIL YAHAYA",
+            "age": "53",
+            "gender": "M",
+            "edu": "FSLC SSCE DIPLOMA"
+          },
           "scores": [
             59,
             50,
@@ -192,30 +166,19 @@
           ]
         },
         {
-          "n": "UWALU ISMAIL",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "MUHAMMAD BASHIR GALADANCHI",
           "p": "APM",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UMAR ABDULLAHI (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
           "bg": "Governorship candidate for Kano under APM.",
+          "deputy": {
+            "n": "UMAR ABDULLAHI",
+            "age": "57",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             62,
             48,
@@ -226,30 +189,19 @@
           ]
         },
         {
-          "n": "AR ABDULLAHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "TUKUR ALIYU MALAM",
           "p": "APP",
           "age": "54",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUHAMMAD IBRAHIM (46 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
           "bg": "Governorship candidate for Kano under APP.",
+          "deputy": {
+            "n": "MUHAMMAD IBRAHIM",
+            "age": "46",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE NATIONAL DIPLOMA"
+          },
           "scores": [
             48,
             54,
@@ -260,98 +212,65 @@
           ]
         },
         {
-          "n": "ATIONAL DIP",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KANO",
-          "p": "A",
+          "n": "AHMAD FURERA",
+          "p": "BP",
           "age": "45",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under A.",
+          "rm": "MUHAMMAD USMAN (40 yrs)",
+          "edu": "First School Leaving Certificate HIGHER ISLAMIC STUDIES",
+          "bg": "Governorship candidate for Kano under BP.",
+          "deputy": {
+            "n": "MUHAMMAD USMAN",
+            "age": "40",
+            "gender": "M",
+            "edu": "First School Leaving Certificate West African Senior School Certificate"
+          },
           "scores": [
             56,
             48,
             48,
             48,
             54,
-            63
+            64
           ]
         },
         {
-          "n": "First Scho",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "BARI MUSTAPHA BELLO",
           "p": "DLA",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUSA ABUBAKAR ISYAKU (56 yrs)",
+          "edu": "Gandun Nassarawa Primary School Rufa College Kano Bayero University Kano",
           "bg": "Governorship candidate for Kano under DLA.",
+          "deputy": {
+            "n": "MUSA ABUBAKAR ISYAKU",
+            "age": "56",
+            "gender": "M",
+            "edu": "FSLC SSCE BSc"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "USA ABUBAKAR",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "SANTURAKI HAMISU",
           "p": "LP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IBRAHIM ABBAS (60 yrs)",
+          "edu": "FSLC WAEC DIPLOMA LAW",
           "bg": "Governorship candidate for Kano under LP.",
+          "deputy": {
+            "n": "IBRAHIM ABBAS",
+            "age": "60",
+            "gender": "M",
+            "edu": "FSLC S.S.C.E"
+          },
           "scores": [
             52,
             71,
@@ -362,13 +281,19 @@
           ]
         },
         {
-          "n": "KANO",
+          "n": "ABDULLAHI MUSTAPHA",
           "p": "NDP",
           "age": "41",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SAMIRA BALA USMAN (40 yrs)",
+          "edu": "FSLC SSCE B.S.C",
           "bg": "Governorship candidate for Kano under NDP.",
+          "deputy": {
+            "n": "SAMIRA BALA USMAN",
+            "age": "40",
+            "gender": "F",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             56,
             48,
@@ -379,64 +304,42 @@
           ]
         },
         {
-          "n": "SAMIRA BALA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "ABACHA MUHAMMED SANI",
           "p": "PDP",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KIBIYA YUSUF ADO (68 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Kano under PDP.",
+          "deputy": {
+            "n": "KIBIYA YUSUF ADO",
+            "age": "68",
+            "gender": "M",
+            "edu": "PSLC WASC B. SC AGRONOMY"
+          },
           "scores": [
-            57,
-            56,
-            71,
             51,
-            74,
+            56,
+            51,
+            51,
+            70,
             52
           ]
         },
         {
-          "n": "BIYA YUSUF ADO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "KOGUNA NASIRU HASSAN",
           "p": "PRP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KABIR ABDULHAMID ABDULHAMID (45 yrs)",
+          "edu": "FLSC",
           "bg": "Governorship candidate for Kano under PRP.",
+          "deputy": {
+            "n": "KABIR ABDULHAMID ABDULHAMID",
+            "age": "45",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
           "scores": [
             50,
             56,
@@ -447,30 +350,19 @@
           ]
         },
         {
-          "n": "IR ABDULHAMID",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "HUSSAINI BELLO ADO",
           "p": "SDP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GARBA LURWAN GAYA (45 yrs)",
+          "edu": "JARKASA SPECIAL PRIMARY SCH AMINU KANO COMM",
           "bg": "Governorship candidate for Kano under SDP.",
+          "deputy": {
+            "n": "GARBA LURWAN GAYA",
+            "age": "45",
+            "gender": "M",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             51,
             57,
@@ -481,30 +373,19 @@
           ]
         },
         {
-          "n": "ARBA LURWAN",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kano under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KANO",
+          "n": "NUHU ISA",
           "p": "ZLP",
           "age": "60",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "RABI\"U IBRAHIM (54 yrs)",
+          "edu": "FSLC WAEC",
           "bg": "Governorship candidate for Kano under ZLP.",
+          "deputy": {
+            "n": "RABI\"U IBRAHIM",
+            "age": "54",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             49,
             55,

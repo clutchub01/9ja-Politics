@@ -5,13 +5,19 @@
       "constituency": "Borno Statewide",
       "candidates": [
         {
-          "n": "BORNO",
+          "n": "GONI BULAMA",
           "p": "AA",
           "age": "37",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IBRAHIM GARBA (36 yrs)",
+          "edu": "BSC",
           "bg": "Governorship candidate for Borno under AA.",
+          "deputy": {
+            "n": "IBRAHIM GARBA",
+            "age": "36",
+            "gender": "M",
+            "edu": "First School Leaving Certficate Senior school certificate"
+          },
           "scores": [
             58,
             48,
@@ -22,47 +28,42 @@
           ]
         },
         {
-          "n": "BORNO",
+          "n": "BABAGANA BUHARI",
           "p": "ADC",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BIU ABDULMALIK BULAMA (63 yrs)",
+          "edu": "FSLC NABTEB",
           "bg": "Governorship candidate for Borno under ADC.",
+          "deputy": {
+            "n": "BIU ABDULMALIK BULAMA",
+            "age": "63",
+            "gender": "M",
+            "edu": "FSLC WAEC ND"
+          },
           "scores": [
-            57,
-            56,
-            59,
             51,
-            72,
+            56,
+            51,
+            51,
+            68,
             55
           ]
         },
         {
-          "n": "BULA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "MONGUNO RUFAI ALHAJI",
           "p": "ADP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABDULLAHI FATIMA UMAR (41 yrs)",
+          "edu": "FSCL",
           "bg": "Governorship candidate for Borno under ADP.",
+          "deputy": {
+            "n": "ABDULLAHI FATIMA UMAR",
+            "age": "41",
+            "gender": "F",
+            "edu": "FSCL SSCE"
+          },
           "scores": [
             48,
             54,
@@ -73,64 +74,42 @@
           ]
         },
         {
-          "n": "ABDULLAHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "GUBIO ALHAJI MUSTAPHA",
           "p": "APC",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ISA ALI ABDULLAHI (54 yrs)",
+          "edu": "PRIMARY SCH LEAVING CERTIFICATE SENIOR SCHOOL CERTIFICATE EXAMINATION B.ENG",
           "bg": "Governorship candidate for Borno under APC.",
+          "deputy": {
+            "n": "ISA ALI ABDULLAHI",
+            "age": "54",
+            "gender": "M",
+            "edu": "PRIMARY SCH. LEAVING CERTIFICATE SSCE BS.c"
+          },
           "scores": [
-            52,
+            58,
             57,
-            50,
-            53,
-            71,
+            58,
+            67,
+            75,
             51
           ]
         },
         {
-          "n": "ISA ALI ABD",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "AHMAD TIJJANI ISAH",
           "p": "APM",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "BALA USMAN (47 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE DIPLOMA",
           "bg": "Governorship candidate for Borno under APM.",
+          "deputy": {
+            "n": "BALA USMAN",
+            "age": "47",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE HIGHER NATIONAL DIPLOMA"
+          },
           "scores": [
             56,
             48,
@@ -141,47 +120,42 @@
           ]
         },
         {
-          "n": "FIRST SCHO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
-          "p": "A",
+          "n": "GARGA BUKAR",
+          "p": "APP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under A.",
+          "rm": "MUSA KARUB JIDDA (51 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE BSC",
+          "bg": "Governorship candidate for Borno under APP.",
+          "deputy": {
+            "n": "MUSA KARUB JIDDA",
+            "age": "51",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
+            62,
+            48,
             56,
             48,
-            48,
-            48,
-            54,
+            58,
             63
           ]
         },
         {
-          "n": "BORNO",
+          "n": "KONTO UMAR",
           "p": "LP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MAMMAN HABU (64 yrs)",
+          "edu": "FSLC SSCE BSC (GEOLOGY)",
           "bg": "Governorship candidate for Borno under LP.",
+          "deputy": {
+            "n": "MAMMAN HABU",
+            "age": "64",
+            "gender": "M",
+            "edu": "FSLC SSCE BA"
+          },
           "scores": [
             58,
             57,
@@ -192,13 +166,19 @@
           ]
         },
         {
-          "n": "BORNO",
-          "p": "IND",
+          "n": "IBRAHIM SANUSI KASHIM",
+          "p": "NDC",
           "age": "50",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
+          "rm": "ALI BALA ABUBAKAR (59 yrs)",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Governorship candidate for Borno under NDC.",
+          "deputy": {
+            "n": "ALI BALA ABUBAKAR",
+            "age": "59",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
             53,
             53,
@@ -209,30 +189,19 @@
           ]
         },
         {
-          "n": "I BALA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "MUHAMMAD BUKAR",
           "p": "NNPP",
           "age": "58",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AHMODU SHERIFF (43 yrs)",
+          "edu": "FLSC SSCE POLYTECHNIC MAIDUGURI",
           "bg": "Governorship candidate for Borno under NNPP.",
+          "deputy": {
+            "n": "AHMODU SHERIFF",
+            "age": "43",
+            "gender": "M",
+            "edu": "FLSC SSCE COLLEGE"
+          },
           "scores": [
             51,
             58,
@@ -243,81 +212,65 @@
           ]
         },
         {
-          "n": "BORNO",
+          "n": "MUSTAPHA UMAR MUSTAPHA",
           "p": "NRM",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MOHAMMED ISAH BIU (40 yrs)",
+          "edu": "F.S.L.C NECO B. ENG",
           "bg": "Governorship candidate for Borno under NRM.",
+          "deputy": {
+            "n": "MOHAMMED ISAH BIU",
+            "age": "40",
+            "gender": "M",
+            "edu": "F.S.L.C W.A.EC"
+          },
           "scores": [
             52,
             48,
             48,
-            48,
+            62,
             45,
             70
           ]
         },
         {
-          "n": "HAMM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
-          "p": "IND",
+          "n": "ABBA-GANA IBRAHIM BABA",
+          "p": "PDP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
+          "rm": "MUSTAPHA ALIYU MAINA IBRAHIM (76 yrs)",
+          "edu": "FSLC SSCE B. SC CHEMISTRY",
+          "bg": "Governorship candidate for Borno under PDP.",
+          "deputy": {
+            "n": "MUSTAPHA ALIYU MAINA IBRAHIM",
+            "age": "76",
+            "gender": "M",
+            "edu": "FSLC SSCE POST GRADUATE PROGRAM"
+          },
           "scores": [
-            53,
-            53,
-            55,
-            47,
-            69,
-            54
+            51,
+            56,
+            51,
+            51,
+            70,
+            52
           ]
         },
         {
-          "n": "USTAP",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "ABBA ALHAJI MODU",
           "p": "SDP",
           "age": "48",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN ABUBAKAR MAIKOBI (43 yrs)",
+          "edu": "FSLC SSCE HND",
           "bg": "Governorship candidate for Borno under SDP.",
+          "deputy": {
+            "n": "USMAN ABUBAKAR MAIKOBI",
+            "age": "43",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             65,
             51,
@@ -328,30 +281,19 @@
           ]
         },
         {
-          "n": "MAIKOBI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BORNO",
+          "n": "ABDULHAKEEM MUHAMMAD",
           "p": "ZLP",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SULUM ADAM MODU (60 yrs)",
+          "edu": "FSLC",
           "bg": "Governorship candidate for Borno under ZLP.",
+          "deputy": {
+            "n": "SULUM ADAM MODU",
+            "age": "60",
+            "gender": "M",
+            "edu": "FSLC"
+          },
           "scores": [
             53,
             49,
@@ -359,23 +301,6 @@
             49,
             46,
             70
-          ]
-        },
-        {
-          "n": "LUM ADAM MODU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Borno under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
           ]
         }
       ]

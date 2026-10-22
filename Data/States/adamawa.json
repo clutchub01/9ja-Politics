@@ -5,13 +5,19 @@
       "constituency": "Adamawa Statewide",
       "candidates": [
         {
-          "n": "ADAMAWA",
+          "n": "CHOLLI YAHAYA",
           "p": "A",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "YUNUSA PETER (45 yrs)",
+          "edu": "primary SSCE",
           "bg": "Governorship candidate for Adamawa under A.",
+          "deputy": {
+            "n": "YUNUSA PETER",
+            "age": "45",
+            "gender": "M",
+            "edu": "primary SSCE"
+          },
           "scores": [
             56,
             48,
@@ -22,132 +28,111 @@
           ]
         },
         {
-          "n": "ADAMAWA",
+          "n": "DAWA PHILIP B",
           "p": "AA",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABDULKADIR MOHAMMED (56 yrs)",
+          "edu": "First School Leaving Certficate Senior school certificate Certificate in Education",
           "bg": "Governorship candidate for Adamawa under AA.",
+          "deputy": {
+            "n": "ABDULKADIR MOHAMMED",
+            "age": "56",
+            "gender": "M",
+            "edu": "First School Leaving Certficate Senior school certificate ASST LIBARARY OFFICER"
+          },
           "scores": [
             56,
             48,
-            48,
+            60,
             48,
             54,
             63
           ]
         },
         {
-          "n": "MOHAMMED",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
-          "p": "IND",
+          "n": "HUSSAINI SULAIMAN TAHIR",
+          "p": "AAC",
           "age": "71",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
+          "rm": "CALVIN YUSUF PELENE (35 yrs)",
+          "edu": "FLSC SSCE B.Eng",
+          "bg": "Governorship candidate for Adamawa under AAC.",
+          "deputy": {
+            "n": "CALVIN YUSUF PELENE",
+            "age": "35",
+            "gender": "M",
+            "edu": "FLSC SSCE MBA"
+          },
           "scores": [
-            53,
-            55,
-            55,
-            61,
+            56,
+            62,
+            60,
+            63,
             75,
-            48
-          ]
-        },
-        {
-          "n": "CALVIN YUSUF",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
             54
           ]
         },
         {
-          "n": "ADAMAWA",
+          "n": "MODIBBO HAMMANTUKUR RIBADU",
           "p": "ADC",
           "age": "59",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AGUWA KEVIN ILIYA (58 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC BSc/Msc",
           "bg": "Governorship candidate for Adamawa under ADC.",
+          "deputy": {
+            "n": "AGUWA KEVIN ILIYA",
+            "age": "58",
+            "gender": "M",
+            "edu": "PRIMARY LEAVING CERTIFICATE WAEC B.Sc"
+          },
           "scores": [
-            51,
+            63,
             56,
+            71,
             51,
-            51,
-            68,
+            78,
             55
           ]
         },
         {
-          "n": "ADAMAWA",
+          "n": "UMARU BABANGIDA BAJABURE",
           "p": "ADP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ZAKARIYA SUZANA (42 yrs)",
+          "edu": "FSLC",
           "bg": "Governorship candidate for Adamawa under ADP.",
+          "deputy": {
+            "n": "ZAKARIYA SUZANA",
+            "age": "42",
+            "gender": "F",
+            "edu": "FSLC"
+          },
           "scores": [
-            62,
-            48,
             56,
             48,
-            59,
+            48,
+            48,
+            55,
             62
           ]
         },
         {
-          "n": "AKARIYA SUZANA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "AMINU AHMED GALADIMA",
           "p": "APC",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN ADAMU DALI KAMALE (56 yrs)",
+          "edu": "CERTICATE OF PRIMARY EDUCATION WAEC BS.c",
           "bg": "Governorship candidate for Adamawa under APC.",
+          "deputy": {
+            "n": "USMAN ADAMU DALI KAMALE",
+            "age": "56",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WASC MS.c"
+          },
           "scores": [
             52,
             57,
@@ -158,30 +143,19 @@
           ]
         },
         {
-          "n": "SMAN ADAMU DALI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "BASHIR SULEIMAN ALHAJI",
           "p": "APGA",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "LENEKE ELLIOT JESMIEL (59 yrs)",
+          "edu": "FSLC NECO BSc",
           "bg": "Governorship candidate for Adamawa under APGA.",
+          "deputy": {
+            "n": "LENEKE ELLIOT JESMIEL",
+            "age": "59",
+            "gender": "M",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
             65,
             50,
@@ -192,30 +166,19 @@
           ]
         },
         {
-          "n": "LENEKE ELLIOT",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "ABDULRAHMAN BASHIR HASKE",
           "p": "APM",
           "age": "36",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ONATOLA MORAKINYO SAFRIEL (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC",
           "bg": "Governorship candidate for Adamawa under APM.",
+          "deputy": {
+            "n": "ONATOLA MORAKINYO SAFRIEL",
+            "age": "57",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE MASTERS IN ENGINEERING"
+          },
           "scores": [
             52,
             48,
@@ -226,30 +189,19 @@
           ]
         },
         {
-          "n": "ATOLA MORAKINYO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "ALIYU SULEIMAN",
           "p": "APP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EMMANUEL IBRAHIM (50 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC DIPLOMA",
           "bg": "Governorship candidate for Adamawa under APP.",
+          "deputy": {
+            "n": "EMMANUEL IBRAHIM",
+            "age": "50",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE gss COLLEGE OF BUSINESS AND MGT STUDIES"
+          },
           "scores": [
             48,
             54,
@@ -260,30 +212,19 @@
           ]
         },
         {
-          "n": "FIRST SCHO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "TAME VADLYA TIZHE",
           "p": "DLA",
           "age": "50",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ALI AMINA MUHAMMAD (46 yrs)",
+          "edu": "FSLC SSCE BSc",
           "bg": "Governorship candidate for Adamawa under DLA.",
+          "deputy": {
+            "n": "ALI AMINA MUHAMMAD",
+            "age": "46",
+            "gender": "F",
+            "edu": "FSLC SSCE BSc"
+          },
           "scores": [
             54,
             54,
@@ -294,64 +235,65 @@
           ]
         },
         {
-          "n": "ADAMAWA",
+          "n": "ISHAKU ELISHA CLIFF",
           "p": "LP",
           "age": "46",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "JAURO FARUK SANUSI (56 yrs)",
+          "edu": "FSLC NECO BSC; MSC",
           "bg": "Governorship candidate for Adamawa under LP.",
+          "deputy": {
+            "n": "JAURO FARUK SANUSI",
+            "age": "56",
+            "gender": "M",
+            "edu": "FSLC NABTEB/WAEC DIPLOMA"
+          },
           "scores": [
-            66,
+            72,
             51,
-            61,
+            73,
             50,
-            61,
+            67,
             67
           ]
         },
         {
-          "n": "ADAMAWA",
-          "p": "IND",
+          "n": "DAHIRU AISHATU AHMED",
+          "p": "NDC",
           "age": "55",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
+          "rm": "DOMINIC EMMANUEL MAPEO (55 yrs)",
+          "edu": "FSLC WASC ND AND HND",
+          "bg": "Governorship candidate for Adamawa under NDC.",
+          "deputy": {
+            "n": "DOMINIC EMMANUEL MAPEO",
+            "age": "55",
+            "gender": "M",
+            "edu": "PSLC SSCE"
+          },
           "scores": [
-            47,
             53,
+            53,
+            55,
             47,
-            47,
-            65,
+            69,
             54
           ]
         },
         {
-          "n": "DOMINIC EMMANUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "BUNDI AHMADU PIUS",
           "p": "NNPP",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UMAR ABUBAKAR (47 yrs)",
+          "edu": "Not confirmed",
           "bg": "Governorship candidate for Adamawa under NNPP.",
+          "deputy": {
+            "n": "UMAR ABUBAKAR",
+            "age": "47",
+            "gender": "M",
+            "edu": "FSLC SSCE BSC"
+          },
           "scores": [
             55,
             52,
@@ -362,149 +304,111 @@
           ]
         },
         {
-          "n": "ADAMAWA",
+          "n": "SAMUEL FAITH MONDAY",
           "p": "NRM",
           "age": "41",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN HASSAN (47 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE NECO B. TECH",
           "bg": "Governorship candidate for Adamawa under NRM.",
+          "deputy": {
+            "n": "USMAN HASSAN",
+            "age": "47",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL GRADE 2"
+          },
           "scores": [
             56,
             48,
             48,
-            48,
+            62,
             54,
             63
           ]
         },
         {
-          "n": "FIRST SCHO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "VUNOBOLKI MAURICE MICHAEL",
           "p": "PDP",
           "age": "54",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "WAMBAI ABUBAKAR MAHMUD (63 yrs)",
+          "edu": "PSLC SSCE/GCE B.SC, MBA, M.SC, PHD, FCA",
           "bg": "Governorship candidate for Adamawa under PDP.",
+          "deputy": {
+            "n": "WAMBAI ABUBAKAR MAHMUD",
+            "age": "63",
+            "gender": "M",
+            "edu": "PSLC GRADE II CERTIFICATE NCE, BA ED"
+          },
           "scores": [
             63,
             56,
-            71,
+            83,
             51,
             80,
             52
           ]
         },
         {
-          "n": "WAMBAI ABUBAKAR",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            59,
-            47,
-            67,
-            47,
-            63,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "NATHANIEL CHRISTOPHER OSIM",
           "p": "SDP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "RUFAI AHMAD (41 yrs)",
+          "edu": "JIMETA CENTRAL PRIMARY SCHOOL GOVERMENT TEACHER'S COLLEGE, YOLA",
           "bg": "Governorship candidate for Adamawa under SDP.",
+          "deputy": {
+            "n": "RUFAI AHMAD",
+            "age": "41",
+            "gender": "F",
+            "edu": "FSLC SSCE BSC, MSC, PHD"
+          },
           "scores": [
             51,
             57,
-            51,
+            63,
             50,
             67,
             54
           ]
         },
         {
-          "n": "RUFAI AHMAD",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "THEMAN WAFARNINYI",
           "p": "YPP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABBA AHMED SUDI (66 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE W.A.E.C BACHALOR OF PHARMACY",
           "bg": "Governorship candidate for Adamawa under YPP.",
+          "deputy": {
+            "n": "ABBA AHMED SUDI",
+            "age": "66",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.Sc"
+          },
           "scores": [
-            50,
+            56,
             55,
-            50,
+            58,
             49,
-            65,
+            69,
             59
           ]
         },
         {
-          "n": "FIRST SCHOO",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Adamawa under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ADAMAWA",
+          "n": "ALAHIRAH MAIMAKO",
           "p": "ZLP",
           "age": "68",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADAMU ABDULLAHI (44 yrs)",
+          "edu": "AD",
           "bg": "Governorship candidate for Adamawa under ZLP.",
+          "deputy": {
+            "n": "ADAMU ABDULLAHI",
+            "age": "44",
+            "gender": "M",
+            "edu": "NCE"
+          },
           "scores": [
             49,
             57,

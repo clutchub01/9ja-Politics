@@ -5,115 +5,88 @@
       "constituency": "Benue Statewide",
       "candidates": [
         {
-          "n": "BENUE",
+          "n": "HEMBE IORWASE HERMAN",
           "p": "ADC",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABBA JOHN ABBA (47 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC BACHELOR OF LAWS",
           "bg": "Governorship candidate for Benue under ADC.",
+          "deputy": {
+            "n": "ABBA JOHN ABBA",
+            "age": "47",
+            "gender": "M",
+            "edu": "FSLC SSCE LL.B, BL"
+          },
           "scores": [
+            57,
+            70,
+            59,
             51,
-            56,
-            51,
-            51,
-            68,
+            72,
             55
           ]
         },
         {
-          "n": "BA JOHN ABBA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
+          "n": "NYIBIAM KWAGHSHIR",
           "p": "ADP",
           "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABU ADANU (33 yrs)",
+          "edu": "FSLC WAEC B.SC",
           "bg": "Governorship candidate for Benue under ADP.",
+          "deputy": {
+            "n": "ABU ADANU",
+            "age": "33",
+            "gender": "M",
+            "edu": "FSLC WAEC Degree"
+          },
           "scores": [
+            62,
+            48,
             56,
             48,
-            48,
-            48,
-            55,
+            59,
             62
           ]
         },
         {
-          "n": "ABU ADANU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
-          "p": "A",
+          "n": "ALIA HYACINTH IORMEM",
+          "p": "APC",
           "age": "60",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under A.",
+          "rm": "ODE SAMUEL (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE GENERAL CERTIFICATE OF EDUCATION DOCTOR OF HEALTHCARE ETHICS",
+          "bg": "Governorship candidate for Benue under APC.",
+          "deputy": {
+            "n": "ODE SAMUEL",
+            "age": "57",
+            "gender": "M",
+            "edu": "NKST GBOKO GENERAL CERTIFICATE OF EDUCATION BACHELOR OF LAWS., LLB/BL"
+          },
           "scores": [
-            48,
-            54,
-            48,
-            48,
-            64,
-            55
-          ]
-        },
-        {
-          "n": "ODE SAMUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
+            58,
+            57,
+            74,
             53,
-            54
+            77,
+            51
           ]
         },
         {
-          "n": "BENUE",
+          "n": "ADAGBA D. IORHEN",
           "p": "APM",
           "age": "37",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ALADE OJONUGWA MARTHA (36 yrs)",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
           "bg": "Governorship candidate for Benue under APM.",
+          "deputy": {
+            "n": "ALADE OJONUGWA MARTHA",
+            "age": "36",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING SSCE B.A"
+          },
           "scores": [
             58,
             48,
@@ -124,64 +97,19 @@
           ]
         },
         {
-          "n": "MARTHA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
+          "n": "UJAH MERCY ENGOLE",
           "p": "APP",
           "age": "43",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GWANGER SAMUEL KAVNEN (39 yrs)",
+          "edu": "NECO BSC",
           "bg": "Governorship candidate for Benue under APP.",
-          "scores": [
-            56,
-            48,
-            48,
-            48,
-            54,
-            63
-          ]
-        },
-        {
-          "n": "ANGER SAMUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
-          "p": "DLA",
-          "age": "44",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under DLA.",
+          "deputy": {
+            "n": "GWANGER SAMUEL KAVNEN",
+            "age": "39",
+            "gender": "M",
+            "edu": "NECO BSC"
+          },
           "scores": [
             62,
             48,
@@ -192,30 +120,42 @@
           ]
         },
         {
-          "n": "EJI OCHOECHI",
-          "p": "IND",
-          "age": "Not confirmed",
+          "n": "OCHENEHI DOMINIC",
+          "p": "DLA",
+          "age": "44",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
+          "rm": "OMEJI OCHOECHI (35 yrs)",
+          "edu": "FSLC SSCE BSc",
+          "bg": "Governorship candidate for Benue under DLA.",
+          "deputy": {
+            "n": "OMEJI OCHOECHI",
+            "age": "35",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
+            62,
+            48,
+            56,
+            48,
+            58,
+            63
           ]
         },
         {
-          "n": "BENUE",
+          "n": "BYUAN MATHIAS TERWASE",
           "p": "LP",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OBETTA JULIANA (53 yrs)",
+          "edu": "FSLC WAEC",
           "bg": "Governorship candidate for Benue under LP.",
+          "deputy": {
+            "n": "OBETTA JULIANA",
+            "age": "53",
+            "gender": "F",
+            "edu": "FSLC WAEC / NECO"
+          },
           "scores": [
             52,
             57,
@@ -226,47 +166,42 @@
           ]
         },
         {
-          "n": "BETTA JULIANA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
-          "p": "IND",
+          "n": "SHIJA TERHEMBA",
+          "p": "NDC",
           "age": "65",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
+          "rm": "EDOH RAYMOND (44 yrs)",
+          "edu": "FSLC SSCE BSC",
+          "bg": "Governorship candidate for Benue under NDC.",
+          "deputy": {
+            "n": "EDOH RAYMOND",
+            "age": "44",
+            "gender": "M",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
-            59,
+            53,
             55,
-            67,
+            55,
             47,
-            81,
+            75,
             48
           ]
         },
         {
-          "n": "BENUE",
+          "n": "WOMBO TERESE PAUL",
           "p": "NRM",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OGBU PIUS OGBU (50 yrs)",
+          "edu": "FSLC SSCE BSC",
           "bg": "Governorship candidate for Benue under NRM.",
+          "deputy": {
+            "n": "OGBU PIUS OGBU",
+            "age": "50",
+            "gender": "M",
+            "edu": "FSLC SSCE CHEW"
+          },
           "scores": [
             58,
             48,
@@ -277,98 +212,65 @@
           ]
         },
         {
-          "n": "BU PIUS OGBU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
+          "n": "AONDOAKAA MICHAEL KAASE",
           "p": "PDP",
           "age": "64",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "OGBENJUWA OYIJE (39 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WASC LL.B",
           "bg": "Governorship candidate for Benue under PDP.",
+          "deputy": {
+            "n": "OGBENJUWA OYIJE",
+            "age": "39",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE1999 WASSC, SSC B.SC"
+          },
           "scores": [
-            51,
-            56,
-            51,
-            51,
+            57,
             70,
+            59,
+            51,
+            74,
             52
           ]
         },
         {
-          "n": "BENJUWA OYIJE",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
+          "n": "CHENGE ROSELINE ADA",
           "p": "PRP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "IBU EMMANUEL GWAZA (66 yrs)",
+          "edu": "FLSC SSCE BSC",
           "bg": "Governorship candidate for Benue under PRP.",
+          "deputy": {
+            "n": "IBU EMMANUEL GWAZA",
+            "age": "66",
+            "gender": "M",
+            "edu": "FLSC"
+          },
           "scores": [
-            50,
             56,
-            52,
+            56,
+            60,
             48,
-            67,
+            71,
             56
           ]
         },
         {
-          "n": "U EMMANUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "BENUE",
+          "n": "OGBE SIMON OCHEME",
           "p": "ZLP",
           "age": "35",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "GBOKO ROBERT (41 yrs)",
+          "edu": "SSCE NCE",
           "bg": "Governorship candidate for Benue under ZLP.",
+          "deputy": {
+            "n": "GBOKO ROBERT",
+            "age": "41",
+            "gender": "M",
+            "edu": "FSLC NECO BA"
+          },
           "scores": [
             53,
             49,
@@ -376,23 +278,6 @@
             49,
             46,
             70
-          ]
-        },
-        {
-          "n": "OKO ROBERT",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Benue under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
           ]
         }
       ]

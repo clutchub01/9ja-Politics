@@ -5,13 +5,19 @@
       "constituency": "Abia Statewide",
       "candidates": [
         {
-          "n": "ABIA",
+          "n": "UMEZURIKE DORIS UZUMMA",
           "p": "AAC",
           "age": "39",
           "gender": "F",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "CHIONYE NNABUGWU CHUKWUDI (42 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Abia under AAC.",
+          "deputy": {
+            "n": "CHIONYE NNABUGWU CHUKWUDI",
+            "age": "42",
+            "gender": "M",
+            "edu": "FLSC SSCE"
+          },
           "scores": [
             54,
             54,
@@ -22,30 +28,19 @@
           ]
         },
         {
-          "n": "HIONYE NNABUGWU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "KALU KALU AGU",
           "p": "ADC",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ALOZIE OGADINMA DARLINGTON (35 yrs)",
+          "edu": "FSLC SSCE LL.B, BL",
           "bg": "Governorship candidate for Abia under ADC.",
+          "deputy": {
+            "n": "ALOZIE OGADINMA DARLINGTON",
+            "age": "35",
+            "gender": "M",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
             57,
             70,
@@ -56,64 +51,42 @@
           ]
         },
         {
-          "n": "DARLINGTON",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
-          "p": "IND",
+          "n": "IKECHUKWU GEORGE NWACHUKWU",
+          "p": "ADP",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
+          "rm": "OBASI ROSSY EMMANUEL (45 yrs)",
+          "edu": "Not confirmed",
+          "bg": "Governorship candidate for Abia under ADP.",
+          "deputy": {
+            "n": "OBASI ROSSY EMMANUEL",
+            "age": "45",
+            "gender": "F",
+            "edu": "Not confirmed"
+          },
           "scores": [
-            55,
-            47,
-            47,
-            47,
+            56,
+            48,
+            48,
+            48,
             55,
             62
           ]
         },
         {
-          "n": "SI ROSSY EMMANUEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "OPAH ERIC CHINEMEUCHEYA",
           "p": "APC",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EGBE GODSWILL AGU (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE",
           "bg": "Governorship candidate for Abia under APC.",
+          "deputy": {
+            "n": "EGBE GODSWILL AGU",
+            "age": "57",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE SSCE"
+          },
           "scores": [
             52,
             57,
@@ -124,30 +97,19 @@
           ]
         },
         {
-          "n": "GBE GODSWILL AGU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "IJIOMA UCHECHUKWU CHARLES",
           "p": "APGA",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EHIEMERE AUGUSTINE CHINONYE (66 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Abia under APGA.",
+          "deputy": {
+            "n": "EHIEMERE AUGUSTINE CHINONYE",
+            "age": "66",
+            "gender": "M",
+            "edu": "FSLC WAEC NCE"
+          },
           "scores": [
             51,
             56,
@@ -158,98 +120,65 @@
           ]
         },
         {
-          "n": "EHIEM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "UMUNNAH VICTOR JIREH",
           "p": "APM",
           "age": "51",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWOSU EMMANUELLA NNENNA (54 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEAC B.Sc",
           "bg": "Governorship candidate for Abia under APM.",
+          "deputy": {
+            "n": "NWOSU EMMANUELLA NNENNA",
+            "age": "54",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WEAC B.Sc"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "NNENNA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "IJIOMA NWOKORO IJIOMA",
           "p": "APP",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWOLOKI LUCKY EZE (59 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WASSCE NDA,NDAC,BSC,M.S.C",
           "bg": "Governorship candidate for Abia under APP.",
+          "deputy": {
+            "n": "NWOLOKI LUCKY EZE",
+            "age": "59",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WASSCE"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "FIRST",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "OTTI ALEX CHIOMA",
           "p": "LP",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "EMETU IKECHUKWU LEKWACHI (42 yrs)",
+          "edu": "FSLC WAEC BSC (1st Class Honours); MBA",
           "bg": "Governorship candidate for Abia under LP.",
+          "deputy": {
+            "n": "EMETU IKECHUKWU LEKWACHI",
+            "age": "42",
+            "gender": "M",
+            "edu": "FSLC NECO B. ENGR. (BACHELOR OF ENGINEERING) DEGREE"
+          },
           "scores": [
             64,
             57,
@@ -260,30 +189,19 @@
           ]
         },
         {
-          "n": "EKWACHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            61,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
-          "p": "IND",
+          "n": "OGAH IROETUGO NDUBUISI",
+          "p": "NDC",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
+          "rm": "ALARIBE BRIGHT MEDOZIE (41 yrs)",
+          "edu": "FSLC SSCE ND",
+          "bg": "Governorship candidate for Abia under NDC.",
+          "deputy": {
+            "n": "ALARIBE BRIGHT MEDOZIE",
+            "age": "41",
+            "gender": "M",
+            "edu": "Not confirmed"
+          },
           "scores": [
             47,
             53,
@@ -294,13 +212,19 @@
           ]
         },
         {
-          "n": "ABIA",
+          "n": "LEO ONYEKWERE",
           "p": "NDP",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "UCHENNA OLEH (48 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE",
           "bg": "Governorship candidate for Abia under NDP.",
+          "deputy": {
+            "n": "UCHENNA OLEH",
+            "age": "48",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING CERTIICATE SENIOR SCHOOL CERTIFICATE"
+          },
           "scores": [
             48,
             54,
@@ -311,30 +235,19 @@
           ]
         },
         {
-          "n": "FIRST",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "ANTHONY KELECHI APUGO",
           "p": "NNPP",
           "age": "56",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NWOKOJI CHRIS NWAOBILOR (42 yrs)",
+          "edu": "FLSC",
           "bg": "Governorship candidate for Abia under NNPP.",
+          "deputy": {
+            "n": "NWOKOJI CHRIS NWAOBILOR",
+            "age": "42",
+            "gender": "M",
+            "edu": "FSLC SSCE, GCE"
+          },
           "scores": [
             51,
             58,
@@ -345,81 +258,88 @@
           ]
         },
         {
-          "n": "NWAOBILOR",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "ABIA",
+          "n": "JERRY JERRY",
           "p": "NRM",
           "age": "61",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "NATHANIEL NGOZI OYEDIA (38 yrs)",
+          "edu": "FSLC SSCE BSC",
           "bg": "Governorship candidate for Abia under NRM.",
+          "deputy": {
+            "n": "NATHANIEL NGOZI OYEDIA",
+            "age": "38",
+            "gender": "F",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
-            48,
             54,
+            54,
+            56,
             48,
-            48,
-            64,
+            68,
             55
           ]
         },
         {
-          "n": "ABIA",
+          "n": "ANOSIKE KELECHI",
           "p": "PDP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AMAH ABRAHAM NNANNA (58 yrs)",
+          "edu": "FSLC SSCE LL.B (HONS), LLM, PhD, B.L.",
           "bg": "Governorship candidate for Abia under PDP.",
+          "deputy": {
+            "n": "AMAH ABRAHAM NNANNA",
+            "age": "58",
+            "gender": "M",
+            "edu": "FSLC W.A.S.C. CERTIFICATE"
+          },
           "scores": [
-            57,
+            63,
             70,
-            59,
+            83,
             51,
-            74,
+            80,
             52
           ]
         },
         {
-          "n": "ABIA",
+          "n": "OBASI UBA EKEAGBARA",
           "p": "SDP",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ATUZIE LOVEDAY (35 yrs)",
+          "edu": "FSLC WAEC TECH CERT & SSCE",
           "bg": "Governorship candidate for Abia under SDP.",
+          "deputy": {
+            "n": "ATUZIE LOVEDAY",
+            "age": "35",
+            "gender": "M",
+            "edu": "FSLC WAEC"
+          },
           "scores": [
+            51,
             57,
-            57,
-            59,
-            50,
-            71,
+            51,
+            64,
+            67,
             54
           ]
         },
         {
-          "n": "ABIA",
+          "n": "ONUKWUE PRINCE CHIBUNNA",
           "p": "ZLP",
           "age": "50",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABALOGU DORIS ODOCHI (42 yrs)",
+          "edu": "FSLC WAEC ND",
           "bg": "Governorship candidate for Abia under ZLP.",
+          "deputy": {
+            "n": "ABALOGU DORIS ODOCHI",
+            "age": "42",
+            "gender": "F",
+            "edu": "SSCE BSC"
+          },
           "scores": [
             49,
             55,
@@ -427,23 +347,6 @@
             49,
             65,
             55
-          ]
-        },
-        {
-          "n": "ABALOGU DORIS ODOCHI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Abia under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
           ]
         }
       ]

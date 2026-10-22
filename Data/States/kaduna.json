@@ -5,30 +5,19 @@
       "constituency": "Kaduna Statewide",
       "candidates": [
         {
-          "n": "LECT",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "ADAMU ALHAJI AHAMED",
           "p": "AA",
           "age": "65",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "YAKUBU EMMAUNEL YAV (147 yrs)",
+          "edu": "First School Leaving Certficate Senior school certificate B.ED",
           "bg": "Governorship candidate for Kaduna under AA.",
+          "deputy": {
+            "n": "YAKUBU EMMAUNEL YAV",
+            "age": "147",
+            "gender": "M",
+            "edu": "diploma"
+          },
           "scores": [
             48,
             56,
@@ -39,132 +28,88 @@
           ]
         },
         {
-          "n": "BU EMMAUNEL",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "ISA MOHAMMED ASHIRU",
           "p": "ADC",
           "age": "63",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "KANTIOK IRMIYA ISHAKU (63 yrs)",
+          "edu": "PRIMARY LEAVING CERTIFICATE WAEC MASTERS IN PUBLIC POLICY",
           "bg": "Governorship candidate for Kaduna under ADC.",
+          "deputy": {
+            "n": "KANTIOK IRMIYA ISHAKU",
+            "age": "63",
+            "gender": "M",
+            "edu": "FSLC GCE LL.B, BL, LL.M, MIASS, LED"
+          },
           "scores": [
             57,
-            56,
-            75,
+            70,
+            63,
             51,
             74,
             55
           ]
         },
         {
-          "n": "TIOK IRMIYA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            53,
-            61,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
-          "p": "A",
+          "n": "SOLOMON JOHN YAYOCK",
+          "p": "ADP",
           "age": "38",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under A.",
+          "rm": "MOHAMMED RAHINATU (57 yrs)",
+          "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC B.A",
+          "bg": "Governorship candidate for Kaduna under ADP.",
+          "deputy": {
+            "n": "MOHAMMED RAHINATU",
+            "age": "57",
+            "gender": "F",
+            "edu": "FIRST SCHOOL LEAVING CERTIFICATE WAEC"
+          },
           "scores": [
             58,
             48,
             56,
             48,
-            49,
-            70
+            50,
+            69
           ]
         },
         {
-          "n": "N MED RAHINATU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            59,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "SANI UBA",
           "p": "APC",
           "age": "55",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADAMS JERRY (55 yrs)",
+          "edu": "CERTIFICATE OF PRIMARY EDUCATION WAEC ND, HND, PGDBA & MSc",
           "bg": "Governorship candidate for Kaduna under APC.",
+          "deputy": {
+            "n": "ADAMS JERRY",
+            "age": "55",
+            "gender": "M",
+            "edu": "CERTIFICATE OF PRIMARY EDUCATION WAEC BSC, PGDM, MBA & PGDA"
+          },
           "scores": [
-            58,
+            64,
             57,
-            70,
+            82,
             53,
-            75,
+            81,
             51
           ]
         },
         {
-          "n": "PRIMARY",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            53,
-            47,
-            67,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "TUKUR RABIU",
           "p": "APGA",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SILAS TANKO MUSA (46 yrs)",
+          "edu": "FSLC SSCE",
           "bg": "Governorship candidate for Kaduna under APGA.",
+          "deputy": {
+            "n": "SILAS TANKO MUSA",
+            "age": "46",
+            "gender": "M",
+            "edu": "FSLC SSCE NCE"
+          },
           "scores": [
             55,
             50,
@@ -175,47 +120,42 @@
           ]
         },
         {
-          "n": "KADUNA",
+          "n": "HARUNA YUNUSA SAEED",
           "p": "APM",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "AHMAD RUFAI SHEHU (43 yrs)",
+          "edu": "FIRST SCHOOL LEAVING SSCE B.SC",
           "bg": "Governorship candidate for Kaduna under APM.",
+          "deputy": {
+            "n": "AHMAD RUFAI SHEHU",
+            "age": "43",
+            "gender": "M",
+            "edu": "FIRST SCHOOL LEAVING SSCE"
+          },
           "scores": [
-            48,
+            54,
+            56,
             56,
             48,
-            48,
-            70,
+            74,
             49
           ]
         },
         {
-          "n": "AD RUFAI SHEHU",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "CHADO ADAMU IDRISU",
           "p": "DLA",
           "age": "43",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "MUSTAPHA SHUAIBU (44 yrs)",
+          "edu": "FSLC SSCE Higher Education",
           "bg": "Governorship candidate for Kaduna under DLA.",
+          "deputy": {
+            "n": "MUSTAPHA SHUAIBU",
+            "age": "44",
+            "gender": "M",
+            "edu": "FSLC SSCE FCE"
+          },
           "scores": [
             56,
             48,
@@ -226,13 +166,19 @@
           ]
         },
         {
-          "n": "KADUNA",
+          "n": "RILWANU MUHAMMAD LAWAL",
           "p": "LP",
           "age": "52",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ESUGA FAITH ZAINAB (56 yrs)",
+          "edu": "FSLC WAEC Diploma/BSc",
           "bg": "Governorship candidate for Kaduna under LP.",
+          "deputy": {
+            "n": "ESUGA FAITH ZAINAB",
+            "age": "56",
+            "gender": "F",
+            "edu": "FSLC SSCE"
+          },
           "scores": [
             58,
             57,
@@ -243,81 +189,65 @@
           ]
         },
         {
-          "n": "A FAITH ZAINAB",
-          "p": "A",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under A.",
-          "scores": [
-            48,
-            48,
-            48,
-            48,
-            52,
-            55
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "ALI GODDAY",
           "p": "NDP",
           "age": "39",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SANI UBA USMAN (46 yrs)",
+          "edu": "LGEA PRIMARY SCHOOL TUNGA NOK GOVERNMENT SECONDARY SCHOOL NOK POLYTECHNIC DIPLOMA",
           "bg": "Governorship candidate for Kaduna under NDP.",
+          "deputy": {
+            "n": "SANI UBA USMAN",
+            "age": "46",
+            "gender": "M",
+            "edu": "PRIMARY SCHOOL CERTIFICATE NECO CERTIFICATE NATIONAL DIPLOMA"
+          },
           "scores": [
             52,
             48,
             48,
-            48,
+            62,
             45,
             70
           ]
         },
         {
-          "n": "KADUNA",
+          "n": "ABUBAKAR ABDULLAHI",
           "p": "NNPP",
           "age": "47",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABDULLAHI SALIMA LIKKO (48 yrs)",
+          "edu": "FLSC SSCE DIPLOMA",
           "bg": "Governorship candidate for Kaduna under NNPP.",
+          "deputy": {
+            "n": "ABDULLAHI SALIMA LIKKO",
+            "age": "48",
+            "gender": "F",
+            "edu": "FLSC SSCE HND"
+          },
           "scores": [
-            65,
-            52,
             59,
+            52,
+            51,
             50,
-            62,
+            58,
             62
           ]
         },
         {
-          "n": "ULLAHI SALIMA",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "KALLAH YAHAYA MUSA",
           "p": "NRM",
           "age": "41",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SAMUEL ZIPPORA BIJEH (41 yrs)",
+          "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE WEST AFRICAN EXAMINATION COUNCIL",
           "bg": "Governorship candidate for Kaduna under NRM.",
+          "deputy": {
+            "n": "SAMUEL ZIPPORA BIJEH",
+            "age": "41",
+            "gender": "F",
+            "edu": "PRIMARY SCHOOL LEAVING CERTIFICATE SENIOR SECONDARY CERTIFICATE"
+          },
           "scores": [
             56,
             48,
@@ -328,47 +258,42 @@
           ]
         },
         {
-          "n": "BIJEH",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "BAWA SHEHU USMAN",
           "p": "PDP",
           "age": "53",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ADAMU AMOS GANDU (60 yrs)",
+          "edu": "FSLC WAEC",
           "bg": "Governorship candidate for Kaduna under PDP.",
+          "deputy": {
+            "n": "ADAMU AMOS GANDU",
+            "age": "60",
+            "gender": "M",
+            "edu": "FSLC WAEC B. SC QUANTITY SURVEYOR"
+          },
           "scores": [
-            57,
-            56,
-            59,
             51,
-            74,
+            56,
+            51,
+            51,
+            70,
             52
           ]
         },
         {
-          "n": "KADUNA",
+          "n": "ABDULFATTAH MUHAMMAD AMINU",
           "p": "PRP",
           "age": "66",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "ABUBAKAR SANI TIJJANI (63 yrs)",
+          "edu": "FLSC SSCE IJMB",
           "bg": "Governorship candidate for Kaduna under PRP.",
+          "deputy": {
+            "n": "ABUBAKAR SANI TIJJANI",
+            "age": "63",
+            "gender": "M",
+            "edu": "FLSC SSCE MASTER"
+          },
           "scores": [
             50,
             58,
@@ -379,81 +304,65 @@
           ]
         },
         {
-          "n": "ABUBAKAR SANI",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            53,
-            47,
-            55,
-            47,
-            57,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "IDRIS ADAMU ABUBAKAR",
           "p": "SDP",
           "age": "62",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "SHAMAKI DORCAS ARTHUS (44 yrs)",
+          "edu": "FSLC GCE PGD (FM) PGD (EDUC)",
           "bg": "Governorship candidate for Kaduna under SDP.",
+          "deputy": {
+            "n": "SHAMAKI DORCAS ARTHUS",
+            "age": "44",
+            "gender": "F",
+            "edu": "FSLC SSCE NYSC"
+          },
           "scores": [
             51,
             57,
-            51,
+            63,
             50,
             67,
             54
           ]
         },
         {
-          "n": "HAMAKI DORCAS",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
-          ]
-        },
-        {
-          "n": "KADUNA",
+          "n": "MOHAMMED JAMILA",
           "p": "YPP",
           "age": "44",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "gender": "F",
+          "rm": "RAMSON NWOHA (51 yrs)",
+          "edu": "FLSC SSCE",
           "bg": "Governorship candidate for Kaduna under YPP.",
+          "deputy": {
+            "n": "RAMSON NWOHA",
+            "age": "51",
+            "gender": "M",
+            "edu": "FLSC SSCE BSC"
+          },
           "scores": [
             58,
             49,
-            62,
+            50,
             49,
             55,
             67
           ]
         },
         {
-          "n": "KADUNA",
+          "n": "MAKAMA YAHAYA",
           "p": "ZLP",
           "age": "40",
           "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
+          "rm": "USMAN ABDULRAHAHAM (42 yrs)",
+          "edu": "FSLC SSCE ND, HND, PGD",
           "bg": "Governorship candidate for Kaduna under ZLP.",
+          "deputy": {
+            "n": "USMAN ABDULRAHAHAM",
+            "age": "42",
+            "gender": "M",
+            "edu": "FSLC SSCE ND"
+          },
           "scores": [
             63,
             49,
@@ -461,23 +370,6 @@
             49,
             59,
             63
-          ]
-        },
-        {
-          "n": "ABDULRAHAHAM",
-          "p": "IND",
-          "age": "Not confirmed",
-          "gender": "M",
-          "rm": "Not confirmed",
-          "edu": "Tertiary / Secondary",
-          "bg": "Governorship candidate for Kaduna under IND.",
-          "scores": [
-            47,
-            47,
-            47,
-            47,
-            53,
-            54
           ]
         }
       ]
