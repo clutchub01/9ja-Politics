@@ -7,6 +7,7 @@
         {
           "n": "GONI BULAMA",
           "p": "AA",
+          "district": "Borno Statewide",
           "age": "37",
           "gender": "M",
           "rm": "IBRAHIM GARBA (36 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "BABAGANA BUHARI",
           "p": "ADC",
+          "district": "Borno Statewide",
           "age": "58",
           "gender": "M",
           "rm": "BIU ABDULMALIK BULAMA (63 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "MONGUNO RUFAI ALHAJI",
           "p": "ADP",
+          "district": "Borno Statewide",
           "age": "56",
           "gender": "M",
           "rm": "ABDULLAHI FATIMA UMAR (41 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "GUBIO ALHAJI MUSTAPHA",
           "p": "APC",
+          "district": "Borno Statewide",
           "age": "52",
           "gender": "M",
           "rm": "ISA ALI ABDULLAHI (54 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "AHMAD TIJJANI ISAH",
           "p": "APM",
+          "district": "Borno Statewide",
           "age": "46",
           "gender": "M",
           "rm": "BALA USMAN (47 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "GARGA BUKAR",
           "p": "APP",
+          "district": "Borno Statewide",
           "age": "46",
           "gender": "M",
           "rm": "MUSA KARUB JIDDA (51 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "KONTO UMAR",
           "p": "LP",
+          "district": "Borno Statewide",
           "age": "56",
           "gender": "M",
           "rm": "MAMMAN HABU (64 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "IBRAHIM SANUSI KASHIM",
           "p": "NDC",
+          "district": "Borno Statewide",
           "age": "50",
           "gender": "M",
           "rm": "ALI BALA ABUBAKAR (59 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "MUHAMMAD BUKAR",
           "p": "NNPP",
+          "district": "Borno Statewide",
           "age": "58",
           "gender": "M",
           "rm": "AHMODU SHERIFF (43 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "MUSTAPHA UMAR MUSTAPHA",
           "p": "NRM",
+          "district": "Borno Statewide",
           "age": "39",
           "gender": "M",
           "rm": "MOHAMMED ISAH BIU (40 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "ABBA-GANA IBRAHIM BABA",
           "p": "PDP",
+          "district": "Borno Statewide",
           "age": "53",
           "gender": "M",
           "rm": "MUSTAPHA ALIYU MAINA IBRAHIM (76 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "ABBA ALHAJI MODU",
           "p": "SDP",
+          "district": "Borno Statewide",
           "age": "48",
           "gender": "M",
           "rm": "USMAN ABUBAKAR MAIKOBI (43 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ABDULHAKEEM MUHAMMAD",
           "p": "ZLP",
+          "district": "Borno Statewide",
           "age": "39",
           "gender": "M",
           "rm": "SULUM ADAM MODU (60 yrs)",

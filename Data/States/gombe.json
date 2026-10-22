@@ -7,6 +7,7 @@
         {
           "n": "MADAKI AUWAL HARUNA",
           "p": "A",
+          "district": "Gombe Statewide",
           "age": "46",
           "gender": "M",
           "rm": "USMAN MUHAMMAD ADAMU (70 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "BENSON BOBO BAGWIBA",
           "p": "AAC",
+          "district": "Gombe Statewide",
           "age": "38",
           "gender": "M",
           "rm": "UMAR YAHAYA (35 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "BALA BELLO",
           "p": "ADC",
+          "district": "Gombe Statewide",
           "age": "58",
           "gender": "M",
           "rm": "ALIYU NGOLMO POYILMA (63 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "ADEH NUHU MILAH",
           "p": "ADP",
+          "district": "Gombe Statewide",
           "age": "72",
           "gender": "M",
           "rm": "MOHAMMED ABDULLAHI (44 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "GWAMNA JAMIL ISYAKU",
           "p": "APC",
+          "district": "Gombe Statewide",
           "age": "60",
           "gender": "M",
           "rm": "BALAH ADAMS (63 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "LEMELA LENOS SILAS",
           "p": "APM",
+          "district": "Gombe Statewide",
           "age": "67",
           "gender": "M",
           "rm": "LAWAN WADAJI UMAR (50 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "YAHAYA BAPPAJI",
           "p": "APP",
+          "district": "Gombe Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ADAMU HASSAN IBRAHIM (35 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "SANI MUHAMMAD",
           "p": "DLA",
+          "district": "Gombe Statewide",
           "age": "51",
           "gender": "M",
           "rm": "SAMUEL JOY (43 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "MUAZU ZUBAIRU HALILU",
           "p": "LP",
+          "district": "Gombe Statewide",
           "age": "66",
           "gender": "M",
           "rm": "DEFLE BURGA (61 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "ARDO BABAYO KUMO",
           "p": "NDC",
+          "district": "Gombe Statewide",
           "age": "62",
           "gender": "M",
           "rm": "UMARU SUNDAY (43 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "ALIYU ADAMU DANMACCA",
           "p": "NDP",
+          "district": "Gombe Statewide",
           "age": "38",
           "gender": "M",
           "rm": "SULAIMAN MARIYATU ALIYU (66 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "ABDULLAHI MAIKANO UMAR",
           "p": "NNPP",
+          "district": "Gombe Statewide",
           "age": "48",
           "gender": "M",
           "rm": "VICTOR ILIYA JATAU (67 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "YAHYA BASHIR",
           "p": "NRM",
+          "district": "Gombe Statewide",
           "age": "46",
           "gender": "M",
           "rm": "SULAIMAN KUMO MOHAMMED (56 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "IBRAHIM ABUBAKAR JALO",
           "p": "PRP",
+          "district": "Gombe Statewide",
           "age": "35",
           "gender": "M",
           "rm": "ANTHONY AUGUSTINE MAIDAKA (41 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "MA'AJI ADAMU MUHAMMED",
           "p": "SDP",
+          "district": "Gombe Statewide",
           "age": "58",
           "gender": "M",
           "rm": "MAGAJI IBRAHIM (64 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "GANA ALIYU MUHAMMAD",
           "p": "ZLP",
+          "district": "Gombe Statewide",
           "age": "57",
           "gender": "M",
           "rm": "GARBA ABDULLAHI (41 yrs)",

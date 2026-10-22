@@ -7,6 +7,7 @@
         {
           "n": "OBI IJEOMAH FREDERICK",
           "p": "A",
+          "district": "Delta Statewide",
           "age": "54",
           "gender": "M",
           "rm": "IKEZUME OBAKORE TESTIMONY (47 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "ITOKWE SIMON EKAGHOGHO",
           "p": "AA",
+          "district": "Delta Statewide",
           "age": "66",
           "gender": "M",
           "rm": "ASUEBI JOHNSON (56 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "ESHOR OMOZOJIE ISAAC",
           "p": "AAC",
+          "district": "Delta Statewide",
           "age": "43",
           "gender": "M",
           "rm": "OROMONI CLEMENT LUCKY (63 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "OGBORU OVEDJE GREAT",
           "p": "ADC",
+          "district": "Delta Statewide",
           "age": "68",
           "gender": "M",
           "rm": "EJIDOH CHINWE REGINA (66 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "EGBOH MICHAEL UWAEJENUME",
           "p": "ADP",
+          "district": "Delta Statewide",
           "age": "56",
           "gender": "M",
           "rm": "OKORO ELIAS OGHENEOCHUKO (59 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "OBOREVWORI SHERIFF FRANCIS OROHWEDOR",
           "p": "APC",
+          "district": "Delta Statewide",
           "age": "63",
           "gender": "M",
           "rm": "ONYEME MONDAY (61 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "NDIDI ANDREW CHUKWUDI",
           "p": "APM",
+          "district": "Delta Statewide",
           "age": "40",
           "gender": "M",
           "rm": "SHENUWA BLESSING (39 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "OKOLO EMEKA ONYEAMASIFE",
           "p": "APP",
+          "district": "Delta Statewide",
           "age": "61",
           "gender": "M",
           "rm": "SAWACHA ENIYEKEDIYERIN (46 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "UMUDJANE SYLVESTER",
           "p": "BP",
+          "district": "Delta Statewide",
           "age": "55",
           "gender": "M",
           "rm": "OYIBO JEREMIAH (40 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "OMO-IDONOR GAVIN FREEBORN",
           "p": "DLA",
+          "district": "Delta Statewide",
           "age": "38",
           "gender": "M",
           "rm": "OKAFOR TONY (38 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "JAMES ESTHER",
           "p": "LP",
+          "district": "Delta Statewide",
           "age": "39",
           "gender": "F",
           "rm": "ODAFE AHWOREGBA ALEX (49 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "IYOVWAYE CHRIS",
           "p": "NDC",
+          "district": "Delta Statewide",
           "age": "62",
           "gender": "F",
           "rm": "OSSAI GODWIN OSUMILI (70 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "HENRY FRANCIS OFUBU",
           "p": "NNPP",
+          "district": "Delta Statewide",
           "age": "44",
           "gender": "M",
           "rm": "AMAKPO ELOHOR MAUREEN (43 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "MRAKPOR PETER ADOGBEJIRE",
           "p": "PDP",
+          "district": "Delta Statewide",
           "age": "61",
           "gender": "M",
           "rm": "AGBABI ONYEKA FIDELIS (61 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "ODIGBO IKECHUKWU ALOYSIUS",
           "p": "PRP",
+          "district": "Delta Statewide",
           "age": "42",
           "gender": "M",
           "rm": "AKPE GODWIN AVWOGUA (49 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "OBUSEH FELIX OGECHUKWU",
           "p": "SDP",
+          "district": "Delta Statewide",
           "age": "35",
           "gender": "M",
           "rm": "TEBEKAEMI DAVID PERMOBOWEI (37 yrs)",
@@ -375,6 +391,7 @@
         {
           "n": "DENILA JOSHUA AKPOROWHO",
           "p": "YP",
+          "district": "Delta Statewide",
           "age": "52",
           "gender": "M",
           "rm": "OLOMU NGOZI BLESSING (35 yrs)",
@@ -398,6 +415,7 @@
         {
           "n": "NKWOALA EMEKA MATHIAS",
           "p": "ZLP",
+          "district": "Delta Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ABELE HEARTREST NONSO (38 yrs)",

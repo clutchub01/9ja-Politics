@@ -7,6 +7,7 @@
         {
           "n": "CHOLLI YAHAYA",
           "p": "A",
+          "district": "Adamawa Statewide",
           "age": "43",
           "gender": "M",
           "rm": "YUNUSA PETER (45 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "DAWA PHILIP B",
           "p": "AA",
+          "district": "Adamawa Statewide",
           "age": "44",
           "gender": "M",
           "rm": "ABDULKADIR MOHAMMED (56 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "HUSSAINI SULAIMAN TAHIR",
           "p": "AAC",
+          "district": "Adamawa Statewide",
           "age": "71",
           "gender": "M",
           "rm": "CALVIN YUSUF PELENE (35 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "MODIBBO HAMMANTUKUR RIBADU",
           "p": "ADC",
+          "district": "Adamawa Statewide",
           "age": "59",
           "gender": "M",
           "rm": "AGUWA KEVIN ILIYA (58 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "UMARU BABANGIDA BAJABURE",
           "p": "ADP",
+          "district": "Adamawa Statewide",
           "age": "46",
           "gender": "M",
           "rm": "ZAKARIYA SUZANA (42 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "AMINU AHMED GALADIMA",
           "p": "APC",
+          "district": "Adamawa Statewide",
           "age": "62",
           "gender": "M",
           "rm": "USMAN ADAMU DALI KAMALE (56 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "BASHIR SULEIMAN ALHAJI",
           "p": "APGA",
+          "district": "Adamawa Statewide",
           "age": "47",
           "gender": "M",
           "rm": "LENEKE ELLIOT JESMIEL (59 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "ABDULRAHMAN BASHIR HASKE",
           "p": "APM",
+          "district": "Adamawa Statewide",
           "age": "36",
           "gender": "M",
           "rm": "ONATOLA MORAKINYO SAFRIEL (57 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "ALIYU SULEIMAN",
           "p": "APP",
+          "district": "Adamawa Statewide",
           "age": "53",
           "gender": "M",
           "rm": "EMMANUEL IBRAHIM (50 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "TAME VADLYA TIZHE",
           "p": "DLA",
+          "district": "Adamawa Statewide",
           "age": "50",
           "gender": "M",
           "rm": "ALI AMINA MUHAMMAD (46 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "ISHAKU ELISHA CLIFF",
           "p": "LP",
+          "district": "Adamawa Statewide",
           "age": "46",
           "gender": "M",
           "rm": "JAURO FARUK SANUSI (56 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "DAHIRU AISHATU AHMED",
           "p": "NDC",
+          "district": "Adamawa Statewide",
           "age": "55",
           "gender": "F",
           "rm": "DOMINIC EMMANUEL MAPEO (55 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "BUNDI AHMADU PIUS",
           "p": "NNPP",
+          "district": "Adamawa Statewide",
           "age": "39",
           "gender": "M",
           "rm": "UMAR ABUBAKAR (47 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "SAMUEL FAITH MONDAY",
           "p": "NRM",
+          "district": "Adamawa Statewide",
           "age": "41",
           "gender": "F",
           "rm": "USMAN HASSAN (47 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "VUNOBOLKI MAURICE MICHAEL",
           "p": "PDP",
+          "district": "Adamawa Statewide",
           "age": "54",
           "gender": "M",
           "rm": "WAMBAI ABUBAKAR MAHMUD (63 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "NATHANIEL CHRISTOPHER OSIM",
           "p": "SDP",
+          "district": "Adamawa Statewide",
           "age": "64",
           "gender": "M",
           "rm": "RUFAI AHMAD (41 yrs)",
@@ -375,6 +391,7 @@
         {
           "n": "THEMAN WAFARNINYI",
           "p": "YPP",
+          "district": "Adamawa Statewide",
           "age": "55",
           "gender": "M",
           "rm": "ABBA AHMED SUDI (66 yrs)",
@@ -398,6 +415,7 @@
         {
           "n": "ALAHIRAH MAIMAKO",
           "p": "ZLP",
+          "district": "Adamawa Statewide",
           "age": "68",
           "gender": "M",
           "rm": "ADAMU ABDULLAHI (44 yrs)",

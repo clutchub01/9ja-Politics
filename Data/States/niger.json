@@ -7,6 +7,7 @@
         {
           "n": "AUDU MOHAMMED",
           "p": "AAC",
+          "district": "Niger Statewide",
           "age": "50",
           "gender": "M",
           "rm": "EL-ABDULLAHI HASSANA (49 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "MOHAMMED KPAUTAGI",
           "p": "ADC",
+          "district": "Niger Statewide",
           "age": "62",
           "gender": "M",
           "rm": "MUSA MAMMAN (53 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "ALHAJI IDRIS USMAN",
           "p": "ADP",
+          "district": "Niger Statewide",
           "age": "63",
           "gender": "M",
           "rm": "USMAN KASIM BOSSO (44 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "MOHAMMED UMARU BAGO",
           "p": "APC",
+          "district": "Niger Statewide",
           "age": "52",
           "gender": "M",
           "rm": "GARBA YAKUBU (52 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "MOHAMMED ADAMU",
           "p": "APGA",
+          "district": "Niger Statewide",
           "age": "44",
           "gender": "M",
           "rm": "ADAMU USMAN B. (50 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "ABDULMALIK SAIDU AKPAYI",
           "p": "APM",
+          "district": "Niger Statewide",
           "age": "42",
           "gender": "M",
           "rm": "HADIZA I. DANJUMA (44 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "BELLO ISAH MOHAMMED",
           "p": "APP",
+          "district": "Niger Statewide",
           "age": "59",
           "gender": "M",
           "rm": "BELLO SAADATU (37 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "MOHAMMED USMAN",
           "p": "LP",
+          "district": "Niger Statewide",
           "age": "51",
           "gender": "M",
           "rm": "FRANCIS ALIYU (53 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "MUHAMMAD YAHAYA ADAM",
           "p": "NDC",
+          "district": "Niger Statewide",
           "age": "35",
           "gender": "M",
           "rm": "MAMMAN EMMANUELKAURA DIKO (43 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "SANI ALFA",
           "p": "NDP",
+          "district": "Niger Statewide",
           "age": "54",
           "gender": "M",
           "rm": "ABDULLAHI MUSA (63 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "MUHAMMAD MAMMAN NAMI",
           "p": "PDP",
+          "district": "Niger Statewide",
           "age": "58",
           "gender": "M",
           "rm": "DAHIR DAN'AZUMI ABDUL (62 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "ADAMU IBRAHIM",
           "p": "PRP",
+          "district": "Niger Statewide",
           "age": "41",
           "gender": "M",
           "rm": "SAIDU YUSUF (35 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "MOHAMMED NDARANI MOHAMMED",
           "p": "SDP",
+          "district": "Niger Statewide",
           "age": "48",
           "gender": "M",
           "rm": "JAPHET PADA SAMSON (45 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "UMAR LARAT ALIYU",
           "p": "YPP",
+          "district": "Niger Statewide",
           "age": "66",
           "gender": "M",
           "rm": "UMAR SAIDU SHAGABE (35 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "KOLO MUHAMMAD AMINU",
           "p": "ZLP",
+          "district": "Niger Statewide",
           "age": "50",
           "gender": "M",
           "rm": "SALIHU AMINU (54 yrs)",

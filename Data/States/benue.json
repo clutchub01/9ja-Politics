@@ -7,6 +7,7 @@
         {
           "n": "HEMBE IORWASE HERMAN",
           "p": "ADC",
+          "district": "Benue Statewide",
           "age": "51",
           "gender": "M",
           "rm": "ABBA JOHN ABBA (47 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "NYIBIAM KWAGHSHIR",
           "p": "ADP",
+          "district": "Benue Statewide",
           "age": "44",
           "gender": "M",
           "rm": "ABU ADANU (33 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "ALIA HYACINTH IORMEM",
           "p": "APC",
+          "district": "Benue Statewide",
           "age": "60",
           "gender": "M",
           "rm": "ODE SAMUEL (57 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "ADAGBA D. IORHEN",
           "p": "APM",
+          "district": "Benue Statewide",
           "age": "37",
           "gender": "M",
           "rm": "ALADE OJONUGWA MARTHA (36 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "UJAH MERCY ENGOLE",
           "p": "APP",
+          "district": "Benue Statewide",
           "age": "43",
           "gender": "F",
           "rm": "GWANGER SAMUEL KAVNEN (39 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "OCHENEHI DOMINIC",
           "p": "DLA",
+          "district": "Benue Statewide",
           "age": "44",
           "gender": "M",
           "rm": "OMEJI OCHOECHI (35 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "BYUAN MATHIAS TERWASE",
           "p": "LP",
+          "district": "Benue Statewide",
           "age": "51",
           "gender": "M",
           "rm": "OBETTA JULIANA (53 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "SHIJA TERHEMBA",
           "p": "NDC",
+          "district": "Benue Statewide",
           "age": "65",
           "gender": "M",
           "rm": "EDOH RAYMOND (44 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "WOMBO TERESE PAUL",
           "p": "NRM",
+          "district": "Benue Statewide",
           "age": "35",
           "gender": "M",
           "rm": "OGBU PIUS OGBU (50 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "AONDOAKAA MICHAEL KAASE",
           "p": "PDP",
+          "district": "Benue Statewide",
           "age": "64",
           "gender": "M",
           "rm": "OGBENJUWA OYIJE (39 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "CHENGE ROSELINE ADA",
           "p": "PRP",
+          "district": "Benue Statewide",
           "age": "55",
           "gender": "M",
           "rm": "IBU EMMANUEL GWAZA (66 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "OGBE SIMON OCHEME",
           "p": "ZLP",
+          "district": "Benue Statewide",
           "age": "35",
           "gender": "M",
           "rm": "GBOKO ROBERT (41 yrs)",

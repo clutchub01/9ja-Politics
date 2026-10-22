@@ -7,6 +7,7 @@
         {
           "n": "ADAMU ALHAJI AHAMED",
           "p": "AA",
+          "district": "Kaduna Statewide",
           "age": "65",
           "gender": "M",
           "rm": "YAKUBU EMMAUNEL YAV (147 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "ISA MOHAMMED ASHIRU",
           "p": "ADC",
+          "district": "Kaduna Statewide",
           "age": "63",
           "gender": "M",
           "rm": "KANTIOK IRMIYA ISHAKU (63 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "SOLOMON JOHN YAYOCK",
           "p": "ADP",
+          "district": "Kaduna Statewide",
           "age": "38",
           "gender": "M",
           "rm": "MOHAMMED RAHINATU (57 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "SANI UBA",
           "p": "APC",
+          "district": "Kaduna Statewide",
           "age": "55",
           "gender": "M",
           "rm": "ADAMS JERRY (55 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "TUKUR RABIU",
           "p": "APGA",
+          "district": "Kaduna Statewide",
           "age": "39",
           "gender": "M",
           "rm": "SILAS TANKO MUSA (46 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "HARUNA YUNUSA SAEED",
           "p": "APM",
+          "district": "Kaduna Statewide",
           "age": "66",
           "gender": "M",
           "rm": "AHMAD RUFAI SHEHU (43 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "CHADO ADAMU IDRISU",
           "p": "DLA",
+          "district": "Kaduna Statewide",
           "age": "43",
           "gender": "M",
           "rm": "MUSTAPHA SHUAIBU (44 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "RILWANU MUHAMMAD LAWAL",
           "p": "LP",
+          "district": "Kaduna Statewide",
           "age": "52",
           "gender": "M",
           "rm": "ESUGA FAITH ZAINAB (56 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "ALI GODDAY",
           "p": "NDP",
+          "district": "Kaduna Statewide",
           "age": "39",
           "gender": "M",
           "rm": "SANI UBA USMAN (46 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "ABUBAKAR ABDULLAHI",
           "p": "NNPP",
+          "district": "Kaduna Statewide",
           "age": "47",
           "gender": "M",
           "rm": "ABDULLAHI SALIMA LIKKO (48 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "KALLAH YAHAYA MUSA",
           "p": "NRM",
+          "district": "Kaduna Statewide",
           "age": "41",
           "gender": "M",
           "rm": "SAMUEL ZIPPORA BIJEH (41 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "BAWA SHEHU USMAN",
           "p": "PDP",
+          "district": "Kaduna Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ADAMU AMOS GANDU (60 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ABDULFATTAH MUHAMMAD AMINU",
           "p": "PRP",
+          "district": "Kaduna Statewide",
           "age": "66",
           "gender": "M",
           "rm": "ABUBAKAR SANI TIJJANI (63 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "IDRIS ADAMU ABUBAKAR",
           "p": "SDP",
+          "district": "Kaduna Statewide",
           "age": "62",
           "gender": "M",
           "rm": "SHAMAKI DORCAS ARTHUS (44 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "MOHAMMED JAMILA",
           "p": "YPP",
+          "district": "Kaduna Statewide",
           "age": "44",
           "gender": "F",
           "rm": "RAMSON NWOHA (51 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "MAKAMA YAHAYA",
           "p": "ZLP",
+          "district": "Kaduna Statewide",
           "age": "40",
           "gender": "M",
           "rm": "USMAN ABDULRAHAHAM (42 yrs)",

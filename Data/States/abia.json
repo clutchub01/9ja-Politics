@@ -7,6 +7,7 @@
         {
           "n": "UMEZURIKE DORIS UZUMMA",
           "p": "AAC",
+          "district": "Abia Statewide",
           "age": "39",
           "gender": "F",
           "rm": "CHIONYE NNABUGWU CHUKWUDI (42 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "KALU KALU AGU",
           "p": "ADC",
+          "district": "Abia Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ALOZIE OGADINMA DARLINGTON (35 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "IKECHUKWU GEORGE NWACHUKWU",
           "p": "ADP",
+          "district": "Abia Statewide",
           "age": "43",
           "gender": "M",
           "rm": "OBASI ROSSY EMMANUEL (45 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "OPAH ERIC CHINEMEUCHEYA",
           "p": "APC",
+          "district": "Abia Statewide",
           "age": "55",
           "gender": "M",
           "rm": "EGBE GODSWILL AGU (57 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "IJIOMA UCHECHUKWU CHARLES",
           "p": "APGA",
+          "district": "Abia Statewide",
           "age": "52",
           "gender": "M",
           "rm": "EHIEMERE AUGUSTINE CHINONYE (66 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "UMUNNAH VICTOR JIREH",
           "p": "APM",
+          "district": "Abia Statewide",
           "age": "51",
           "gender": "M",
           "rm": "NWOSU EMMANUELLA NNENNA (54 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "IJIOMA NWOKORO IJIOMA",
           "p": "APP",
+          "district": "Abia Statewide",
           "age": "63",
           "gender": "M",
           "rm": "NWOLOKI LUCKY EZE (59 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "OTTI ALEX CHIOMA",
           "p": "LP",
+          "district": "Abia Statewide",
           "age": "61",
           "gender": "M",
           "rm": "EMETU IKECHUKWU LEKWACHI (42 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "OGAH IROETUGO NDUBUISI",
           "p": "NDC",
+          "district": "Abia Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ALARIBE BRIGHT MEDOZIE (41 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "LEO ONYEKWERE",
           "p": "NDP",
+          "district": "Abia Statewide",
           "age": "61",
           "gender": "M",
           "rm": "UCHENNA OLEH (48 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "ANTHONY KELECHI APUGO",
           "p": "NNPP",
+          "district": "Abia Statewide",
           "age": "56",
           "gender": "M",
           "rm": "NWOKOJI CHRIS NWAOBILOR (42 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "JERRY JERRY",
           "p": "NRM",
+          "district": "Abia Statewide",
           "age": "61",
           "gender": "M",
           "rm": "NATHANIEL NGOZI OYEDIA (38 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ANOSIKE KELECHI",
           "p": "PDP",
+          "district": "Abia Statewide",
           "age": "52",
           "gender": "M",
           "rm": "AMAH ABRAHAM NNANNA (58 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "OBASI UBA EKEAGBARA",
           "p": "SDP",
+          "district": "Abia Statewide",
           "age": "55",
           "gender": "M",
           "rm": "ATUZIE LOVEDAY (35 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "ONUKWUE PRINCE CHIBUNNA",
           "p": "ZLP",
+          "district": "Abia Statewide",
           "age": "50",
           "gender": "M",
           "rm": "ABALOGU DORIS ODOCHI (42 yrs)",

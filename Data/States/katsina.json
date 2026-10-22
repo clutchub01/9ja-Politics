@@ -7,6 +7,7 @@
         {
           "n": "KADO MASHI BABANGIDA",
           "p": "AAC",
+          "district": "Katsina Statewide",
           "age": "56",
           "gender": "M",
           "rm": "BALA JIBRIN AUDU (56 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "AHMAD BABBA KAITA",
           "p": "ADC",
+          "district": "Katsina Statewide",
           "age": "58",
           "gender": "M",
           "rm": "AMINU YAR'ADUA AHMED (69 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "AHMED MURTALA",
           "p": "ADP",
+          "district": "Katsina Statewide",
           "age": "51",
           "gender": "M",
           "rm": "SAMA'ILA BELLO (36 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "UMARU DIKKO RADDA",
           "p": "APC",
+          "district": "Katsina Statewide",
           "age": "57",
           "gender": "M",
           "rm": "LAWAL FARUK (61 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "ABDULLAHI NURA",
           "p": "APM",
+          "district": "Katsina Statewide",
           "age": "62",
           "gender": "M",
           "rm": "SALIHU SADE (67 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "ILU-BARDE ALIYU",
           "p": "NDC",
+          "district": "Katsina Statewide",
           "age": "44",
           "gender": "M",
           "rm": "SULEIMAN ABDULLAHI (47 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "AHMAD TIJANI",
           "p": "NDP",
+          "district": "Katsina Statewide",
           "age": "43",
           "gender": "M",
           "rm": "SALISU BABANGID IBRAHIM (45 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "SADE SALISU",
           "p": "NRM",
+          "district": "Katsina Statewide",
           "age": "60",
           "gender": "M",
           "rm": "SA'IDU ABDULHAMID (49 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "GARBA YAKUBU LADO",
           "p": "PDP",
+          "district": "Katsina Statewide",
           "age": "64",
           "gender": "M",
           "rm": "MAMMAN RUMAH YAKUBU (64 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "KABIR HASSAN YAR'ADUA",
           "p": "PRP",
+          "district": "Katsina Statewide",
           "age": "46",
           "gender": "M",
           "rm": "MUHAMMAD MUSA KANKARA (67 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "DANSARAI MNI MAGAJIO ALIYU",
           "p": "SDP",
+          "district": "Katsina Statewide",
           "age": "67",
           "gender": "M",
           "rm": "SANI ABDULLAHI MUSTAPHA (35 yrs)",

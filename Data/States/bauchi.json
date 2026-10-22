@@ -7,6 +7,7 @@
         {
           "n": "ADAMU ABDULLAHI",
           "p": "AAC",
+          "district": "Bauchi Statewide",
           "age": "61",
           "gender": "M",
           "rm": "IMAM SHEHU (57 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "HALLIRU DAUDA JIKA",
           "p": "ADC",
+          "district": "Bauchi Statewide",
           "age": "50",
           "gender": "M",
           "rm": "SAMA'ILA MOHAMMED KABIR (43 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "SHEHU JINDA YUNUSA",
           "p": "ADP",
+          "district": "Bauchi Statewide",
           "age": "41",
           "gender": "M",
           "rm": "MUHAMMAD BADIA LAWAN (35 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "ABUBAKAR MOHAMMED ABDULLAHI",
           "p": "APC",
+          "district": "Bauchi Statewide",
           "age": "69",
           "gender": "M",
           "rm": "MUSTAPHA FAROUK (61 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "NAZIRU USMAN",
           "p": "APGA",
+          "district": "Bauchi Statewide",
           "age": "42",
           "gender": "M",
           "rm": "AMINU MOHAMMED KABIRU (37 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "ADAMU YAKUBU",
           "p": "APM",
+          "district": "Bauchi Statewide",
           "age": "46",
           "gender": "M",
           "rm": "BABAMAJI MAHMOOD (49 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "ABDULHAMID KABIRU SHUWA",
           "p": "APP",
+          "district": "Bauchi Statewide",
           "age": "54",
           "gender": "M",
           "rm": "YUNUSA MAMUDA (50 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "ALIYU IDRIS MUHAMMAD",
           "p": "LP",
+          "district": "Bauchi Statewide",
           "age": "36",
           "gender": "M",
           "rm": "SAMAKO YILKAT (35 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "KASHIM IBRAHIM MUHAMMAD",
           "p": "NDC",
+          "district": "Bauchi Statewide",
           "age": "65",
           "gender": "M",
           "rm": "TATA ALHAJI (53 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "HARUNA MUHAMMAD NINGI",
           "p": "NDP",
+          "district": "Bauchi Statewide",
           "age": "53",
           "gender": "M",
           "rm": "SHEHU USMAN ABDU (70 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "ZAHARADDIN MUHAMMAD MUHAMMAD",
           "p": "NRM",
+          "district": "Bauchi Statewide",
           "age": "37",
           "gender": "M",
           "rm": "UMAR KABIRU (40 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "ADAMU USMAN AHMED",
           "p": "PDP",
+          "district": "Bauchi Statewide",
           "age": "48",
           "gender": "M",
           "rm": "ALIN BABABA ABDULKADIR (54 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "UMAR SHEHU BUBA",
           "p": "PRP",
+          "district": "Bauchi Statewide",
           "age": "50",
           "gender": "M",
           "rm": "ALIYU TIJJANI MOHAMMED (55 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "ALIYU UMAR A.G",
           "p": "YPP",
+          "district": "Bauchi Statewide",
           "age": "37",
           "gender": "M",
           "rm": "BELLO BUHARI (38 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "BABAGEIDAM LAMI",
           "p": "ZLP",
+          "district": "Bauchi Statewide",
           "age": "56",
           "gender": "F",
           "rm": "ALIYU SHAFIU GARBA (35 yrs)",

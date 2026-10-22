@@ -376,6 +376,7 @@ def run_pipeline(output_dir="./data/states"):
                 state_obj["offices"]["Governor"]["candidates"].append({
                     "n": g["name"],
                     "p": party,
+                    "district": state_obj["offices"]["Governor"]["constituency"],
                     "age": str(g["age"]) if g["age"] else "Not confirmed",
                     "gender": g["gender"] or "M",
                     "rm": dep_label,

@@ -7,6 +7,7 @@
         {
           "n": "MUHAMMED SANI ABDULLAHI",
           "p": "A",
+          "district": "Kebbi Statewide",
           "age": "57",
           "gender": "M",
           "rm": "ABDULLAHI MUHAMMED (51 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "GARBA ILLO KABIRU",
           "p": "AA",
+          "district": "Kebbi Statewide",
           "age": "43",
           "gender": "M",
           "rm": "SAHABI NILL (56 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "NATAALA NURA",
           "p": "AAC",
+          "district": "Kebbi Statewide",
           "age": "49",
           "gender": "M",
           "rm": "HUSSAINI BALA MUHAMMAD (50 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "MALAMI ABUBAKAR",
           "p": "ADC",
+          "district": "Kebbi Statewide",
           "age": "59",
           "gender": "M",
           "rm": "ZAGI MUSA MOHAMMED (60 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "YAHAYA AYUBA",
           "p": "ADP",
+          "district": "Kebbi Statewide",
           "age": "56",
           "gender": "M",
           "rm": "JIBRIN BALA (49 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "IDRIS NASIR",
           "p": "APC",
+          "district": "Kebbi Statewide",
           "age": "61",
           "gender": "M",
           "rm": "MOHAMMED IBRAHIM (69 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "ABUBAKAR SURU ABDULLAHI",
           "p": "APGA",
+          "district": "Kebbi Statewide",
           "age": "43",
           "gender": "M",
           "rm": "KABIRU HARUNA MUHAMMAD (41 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "USMAN KAOJE ALIYU",
           "p": "APM",
+          "district": "Kebbi Statewide",
           "age": "51",
           "gender": "M",
           "rm": "MOHAMMED FATIMA (47 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "ABDULLAHI NASIRU MAIYAKI ILLO",
           "p": "APP",
+          "district": "Kebbi Statewide",
           "age": "55",
           "gender": "M",
           "rm": "HASSAN JOY HABIBA (35 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "UMAR ISAH",
           "p": "BP",
+          "district": "Kebbi Statewide",
           "age": "64",
           "gender": "M",
           "rm": "MUSA SALAI (64 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "USMAN ALIYU",
           "p": "LP",
+          "district": "Kebbi Statewide",
           "age": "55",
           "gender": "M",
           "rm": "MOHAMMED SABITU SAUKIA (49 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "AHMADU ZUMARU",
           "p": "NDP",
+          "district": "Kebbi Statewide",
           "age": "53",
           "gender": "M",
           "rm": "MUHAMMAD ZAYYANU ABDULLAHI (39 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "UMAR FARUK",
           "p": "SDP",
+          "district": "Kebbi Statewide",
           "age": "56",
           "gender": "M",
           "rm": "MAHDI ABUBAKAR (49 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "BASIRU MUSA",
           "p": "ZLP",
+          "district": "Kebbi Statewide",
           "age": "57",
           "gender": "M",
           "rm": "HASSAN YAHAYA GEZAH (42 yrs)",

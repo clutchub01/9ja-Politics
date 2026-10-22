@@ -7,6 +7,7 @@
         {
           "n": "USMAN ISMAIL",
           "p": "AA",
+          "district": "Jigawa Statewide",
           "age": "50",
           "gender": "M",
           "rm": "TIJJANI MUSTAPHA (35 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "SABO MOHAMMED NAKUDU",
           "p": "ADC",
+          "district": "Jigawa Statewide",
           "age": "66",
           "gender": "M",
           "rm": "MUSA YA'U BALARABE (57 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "SULAIMAN IBRAHIM",
           "p": "ADP",
+          "district": "Jigawa Statewide",
           "age": "63",
           "gender": "M",
           "rm": "AHMAD ALI (56 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "NAMADI UMAR A.",
           "p": "APC",
+          "district": "Jigawa Statewide",
           "age": "63",
           "gender": "M",
           "rm": "USMAN AMINU (62 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "YERO AHMED",
           "p": "APGA",
+          "district": "Jigawa Statewide",
           "age": "66",
           "gender": "M",
           "rm": "ISIYAKU MUSA (41 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "UMAR AHMAD",
           "p": "APM",
+          "district": "Jigawa Statewide",
           "age": "35",
           "gender": "M",
           "rm": "LAWAN USMAN (67 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "MUSA MUBARAK",
           "p": "APP",
+          "district": "Jigawa Statewide",
           "age": "44",
           "gender": "M",
           "rm": "SULEMAN ABUBAKAR (36 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "ABDUL'AZIZ AMINU",
           "p": "LP",
+          "district": "Jigawa Statewide",
           "age": "51",
           "gender": "M",
           "rm": "MUHAMMAD LIMAN ALIYU (65 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "DUTSE AMINU SANI",
           "p": "NDC",
+          "district": "Jigawa Statewide",
           "age": "58",
           "gender": "M",
           "rm": "BABANGIDA HARUNA (60 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "AMINU HASSAN IBRAHIM",
           "p": "NRM",
+          "district": "Jigawa Statewide",
           "age": "58",
           "gender": "M",
           "rm": "BALA ABBAS (67 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "SULE MUSTAPHA LAMIDO",
           "p": "PDP",
+          "district": "Jigawa Statewide",
           "age": "43",
           "gender": "M",
           "rm": "TAHIR MUHAMMAD INUWA (66 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "AHMED ADAMU KAUGAMA",
           "p": "PRP",
+          "district": "Jigawa Statewide",
           "age": "76",
           "gender": "M",
           "rm": "YASIN IBRAHIM MUHAMMAD (61 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "MUSA NAMADORI GARBA",
           "p": "SDP",
+          "district": "Jigawa Statewide",
           "age": "60",
           "gender": "M",
           "rm": "AKILU YUSUF (61 yrs)",

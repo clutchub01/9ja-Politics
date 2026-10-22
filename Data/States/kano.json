@@ -7,6 +7,7 @@
         {
           "n": "GASHASH MUKHTAR",
           "p": "A",
+          "district": "Kano Statewide",
           "age": "56",
           "gender": "M",
           "rm": "MOHAMMED SAFIYANU (54 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "HARUNA ABDULLAHI",
           "p": "AA",
+          "district": "Kano Statewide",
           "age": "52",
           "gender": "M",
           "rm": "ISMAIL ABDULMAJIN NUHU (38 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "SHARIF ABBA",
           "p": "AAC",
+          "district": "Kano Statewide",
           "age": "52",
           "gender": "M",
           "rm": "IDRIS UZAIRU (46 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "IBRAHIM ALI AMIN",
           "p": "ADC",
+          "district": "Kano Statewide",
           "age": "62",
           "gender": "M",
           "rm": "SHEHU ABDULKADIR BARI (35 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "MUHAMMAD ABDULLAHI",
           "p": "ADP",
+          "district": "Kano Statewide",
           "age": "48",
           "gender": "M",
           "rm": "MAINIKA RABIU (62 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "YUSUF ABBA KABIR",
           "p": "APC",
+          "district": "Kano Statewide",
           "age": "63",
           "gender": "M",
           "rm": "GARO MURTALA SULE (48 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "TIJJANI SUKAIRAJU TIJJANI",
           "p": "APGA",
+          "district": "Kano Statewide",
           "age": "47",
           "gender": "M",
           "rm": "AUWALU ISMAIL YAHAYA (53 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "MUHAMMAD BASHIR GALADANCHI",
           "p": "APM",
+          "district": "Kano Statewide",
           "age": "47",
           "gender": "M",
           "rm": "UMAR ABDULLAHI (57 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "TUKUR ALIYU MALAM",
           "p": "APP",
+          "district": "Kano Statewide",
           "age": "54",
           "gender": "M",
           "rm": "MUHAMMAD IBRAHIM (46 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "AHMAD FURERA",
           "p": "BP",
+          "district": "Kano Statewide",
           "age": "45",
           "gender": "F",
           "rm": "MUHAMMAD USMAN (40 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "BARI MUSTAPHA BELLO",
           "p": "DLA",
+          "district": "Kano Statewide",
           "age": "56",
           "gender": "M",
           "rm": "MUSA ABUBAKAR ISYAKU (56 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "SANTURAKI HAMISU",
           "p": "LP",
+          "district": "Kano Statewide",
           "age": "52",
           "gender": "M",
           "rm": "IBRAHIM ABBAS (60 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ABDULLAHI MUSTAPHA",
           "p": "NDP",
+          "district": "Kano Statewide",
           "age": "41",
           "gender": "M",
           "rm": "SAMIRA BALA USMAN (40 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "ABACHA MUHAMMED SANI",
           "p": "PDP",
+          "district": "Kano Statewide",
           "age": "59",
           "gender": "M",
           "rm": "KIBIYA YUSUF ADO (68 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "KOGUNA NASIRU HASSAN",
           "p": "PRP",
+          "district": "Kano Statewide",
           "age": "56",
           "gender": "M",
           "rm": "KABIR ABDULHAMID ABDULHAMID (45 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "HUSSAINI BELLO ADO",
           "p": "SDP",
+          "district": "Kano Statewide",
           "age": "52",
           "gender": "M",
           "rm": "GARBA LURWAN GAYA (45 yrs)",
@@ -375,6 +391,7 @@
         {
           "n": "NUHU ISA",
           "p": "ZLP",
+          "district": "Kano Statewide",
           "age": "60",
           "gender": "M",
           "rm": "RABI\"U IBRAHIM (54 yrs)",

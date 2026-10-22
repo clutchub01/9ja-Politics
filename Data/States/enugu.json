@@ -7,6 +7,7 @@
         {
           "n": "ALOR EDWIN IKECHUKWU",
           "p": "A",
+          "district": "Enugu Statewide",
           "age": "62",
           "gender": "M",
           "rm": "OWUBE GODWIN CHUKWUDI (62 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "OCHO OBODOEZE CHUKWUMA",
           "p": "ADC",
+          "district": "Enugu Statewide",
           "age": "53",
           "gender": "M",
           "rm": "EZE ARINZE CHRISTOPHER (53 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "AYOGU SAM AYOGU",
           "p": "ADP",
+          "district": "Enugu Statewide",
           "age": "62",
           "gender": "M",
           "rm": "OKECHUKWU CHETACHI MAUREEN (40 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "MBAH PETER NDUBUISI",
           "p": "APC",
+          "district": "Enugu Statewide",
           "age": "54",
           "gender": "M",
           "rm": "OSSAI IFEANYI MARTINS (53 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "IKEH KEN",
           "p": "APM",
+          "district": "Enugu Statewide",
           "age": "54",
           "gender": "M",
           "rm": "CHRISTIAN CHIMEZIE OMEH (35 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "ANI AFAMEFUNA SAMUEL",
           "p": "APP",
+          "district": "Enugu Statewide",
           "age": "49",
           "gender": "M",
           "rm": "IDOKOH NELSON NDUDI (35 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "NNAMANI OBIOMA NNAEMEKA",
           "p": "BP",
+          "district": "Enugu Statewide",
           "age": "43",
           "gender": "M",
           "rm": "IKENTA CHINWENDU PERPETUAL (35 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "UGWU NNAMDI",
           "p": "DLA",
+          "district": "Enugu Statewide",
           "age": "52",
           "gender": "M",
           "rm": "OMAGA GERALD CHUKWUKA (50 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "UGWU OKWUDILICHUKWU CHUKWUDERA",
           "p": "LP",
+          "district": "Enugu Statewide",
           "age": "59",
           "gender": "M",
           "rm": "ASOGWA ELUMA KENNEDY (47 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "OHAA CHINYEAKA CHRISTIAN",
           "p": "NDC",
+          "district": "Enugu Statewide",
           "age": "65",
           "gender": "M",
           "rm": "OMEJE FRANK OKENWA (65 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "J. NNAJI",
           "p": "NNPP",
+          "district": "Enugu Statewide",
           "age": "58",
           "gender": "M",
           "rm": "OBETA DAVID UCHENNA (37 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "OKONKWO CHRISTOPHER NDUBUISI",
           "p": "NRM",
+          "district": "Enugu Statewide",
           "age": "61",
           "gender": "M",
           "rm": "NWABUISI UCHENNA (41 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "NNAJI UCHECHUKWU GEOFFREY",
           "p": "PDP",
+          "district": "Enugu Statewide",
           "age": "63",
           "gender": "M",
           "rm": "NGWU ROBERT OGBONNA (56 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "ILOKA FRIDAY",
           "p": "SDP",
+          "district": "Enugu Statewide",
           "age": "44",
           "gender": "M",
           "rm": "OGBODO PATIENCE (45 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "UDEANI ANTHONY IFEANYI",
           "p": "YPP",
+          "district": "Enugu Statewide",
           "age": "52",
           "gender": "M",
           "rm": "NWACHUKWU GLORIA (40 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "UGWOKE ELVIS CHINAZAM",
           "p": "ZLP",
+          "district": "Enugu Statewide",
           "age": "40",
           "gender": "M",
           "rm": "UCHECHI LUCY (44 yrs)",

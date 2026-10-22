@@ -7,6 +7,7 @@
         {
           "n": "KOLO EZEKIEL",
           "p": "AA",
+          "district": "Kwara Statewide",
           "age": "45",
           "gender": "M",
           "rm": "OLANIPEKUN ISMAIL OLABODE (39 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "ZAKARI MOHAMMED",
           "p": "ADC",
+          "district": "Kwara Statewide",
           "age": "56",
           "gender": "M",
           "rm": "OLAWUYI JULIUS OLAYIDE (66 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "ADESHINA AJISAFE",
           "p": "ADP",
+          "district": "Kwara Statewide",
           "age": "49",
           "gender": "M",
           "rm": "SULIEMAN JIBRIL (37 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "YAKUBU DANLADI SALIHU",
           "p": "APC",
+          "district": "Kwara Statewide",
           "age": "41",
           "gender": "M",
           "rm": "OGUNNIYI DAVID OLUWASEUN (47 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "SULE AJAYI",
           "p": "APGA",
+          "district": "Kwara Statewide",
           "age": "71",
           "gender": "M",
           "rm": "AFOLABI MOSES FOLORUNSHO (71 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "JAIYEOLA MOTUNRAYO",
           "p": "APM",
+          "district": "Kwara Statewide",
           "age": "46",
           "gender": "F",
           "rm": "OLUWOLE TOLU (37 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "OMOTOSHO BAMIDELE OLAITAN",
           "p": "APP",
+          "district": "Kwara Statewide",
           "age": "57",
           "gender": "M",
           "rm": "AREMU TOYIN WAHAB (40 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "ABDULMUMIN YINKA AJIA",
           "p": "NDC",
+          "district": "Kwara Statewide",
           "age": "51",
           "gender": "M",
           "rm": "AJAYI ISRAEL AWOLOWO (72 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "DEACON SHOLA VICTOR ABIOYE",
           "p": "NDP",
+          "district": "Kwara Statewide",
           "age": "69",
           "gender": "M",
           "rm": "ISSA SALIHU (57 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "OMOKANYE DAVID ADETOYESE",
           "p": "NNPP",
+          "district": "Kwara Statewide",
           "age": "52",
           "gender": "M",
           "rm": "ZUBAIR ZURURAT ROMOKE (58 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "KAWU SULAIMAN BOLAKALE",
           "p": "PDP",
+          "district": "Kwara Statewide",
           "age": "57",
           "gender": "M",
           "rm": "FAWENU CORNELIUS OLAOSEBIKAN SUNDAY (53 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "APAOKAGI RIDWAN SALAHUDEEN",
           "p": "SDP",
+          "district": "Kwara Statewide",
           "age": "53",
           "gender": "M",
           "rm": "KOLAWOLE FUNSHO THAWPHIC (51 yrs)",

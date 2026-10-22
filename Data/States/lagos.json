@@ -7,6 +7,7 @@
         {
           "n": "SOWORE OTITOLOJU ROBERT",
           "p": "A",
+          "district": "Lagos Statewide",
           "age": "58",
           "gender": "M",
           "rm": "CHINYERE AKABUEZE (52 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "SALAWU KAMARUDEEN",
           "p": "AA",
+          "district": "Lagos Statewide",
           "age": "47",
           "gender": "M",
           "rm": "GANIU ISMAIL SAMUEL (44 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "SOL-NUYI OLUWADAMOLA ADESOCA",
           "p": "AAC",
+          "district": "Lagos Statewide",
           "age": "55",
           "gender": "M",
           "rm": "SAMSON EMEM EFUNTOLA (46 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "GBADEBO RHODES VIVOUR",
           "p": "ADC",
+          "district": "Lagos Statewide",
           "age": "43",
           "gender": "M",
           "rm": "GBADAMOSI BABATUNDE OLALERE (58 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "BOLAJI NASIR ADEWALE",
           "p": "ADP",
+          "district": "Lagos Statewide",
           "age": "73",
           "gender": "M",
           "rm": "OJO OLAOJO SAMUEL (52 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "HAMZAT KADRI OBAFEMI",
           "p": "APC",
+          "district": "Lagos Statewide",
           "age": "62",
           "gender": "M",
           "rm": "JAMES DAMILOLA SONAYON (42 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "ADEOYE ADELAJA AZEEZ",
           "p": "APM",
+          "district": "Lagos Statewide",
           "age": "45",
           "gender": "M",
           "rm": "ADENUGA OLUWAKEMI RAHMAT (41 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "ADEYEMI ABIOLA",
           "p": "APP",
+          "district": "Lagos Statewide",
           "age": "49",
           "gender": "F",
           "rm": "OLAOYE SOLOMON ADEKUNLE (42 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "ODUNAIKE OLUWAPEMILERIN OLUROTIMI",
           "p": "LP",
+          "district": "Lagos Statewide",
           "age": "49",
           "gender": "M",
           "rm": "ADELE LATEEF ADEKUNLE AYINLA (43 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "DOHERTY OLUFUNSO ADESHINA",
           "p": "NDC",
+          "district": "Lagos Statewide",
           "age": "58",
           "gender": "M",
           "rm": "ANMASHAUN MORIAM TOLANI (59 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "OBADIA AKINOLA",
           "p": "NDP",
+          "district": "Lagos Statewide",
           "age": "56",
           "gender": "M",
           "rm": "SONITAN GRACE MOTUNRAYO (56 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "ONIFADE ADEMOYEGUN TAIWO",
           "p": "NNPP",
+          "district": "Lagos Statewide",
           "age": "62",
           "gender": "M",
           "rm": "WONOPWA DAUDA MAGAGI (48 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ONIGBOKUN ADEMOLA JOSEPH",
           "p": "NRM",
+          "district": "Lagos Statewide",
           "age": "53",
           "gender": "M",
           "rm": "ONANUGA ABIMBOLA (44 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "DOHERTY ADEDEJI OLUGBEMIGA",
           "p": "PDP",
+          "district": "Lagos Statewide",
           "age": "64",
           "gender": "M",
           "rm": "BELLO KHADIJAT ABIKE (46 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "OLANIYI OLUFEMI",
           "p": "SDP",
+          "district": "Lagos Statewide",
           "age": "52",
           "gender": "M",
           "rm": "KAYODE EVELYN ADERIYIKE (43 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "TAIWO TEMITOPE ELIJAH",
           "p": "YPP",
+          "district": "Lagos Statewide",
           "age": "46",
           "gender": "M",
           "rm": "ANIBINIRAN IYABODE OMOLABAKE (45 yrs)",
@@ -375,6 +391,7 @@
         {
           "n": "PETER HELEN OJOTULE",
           "p": "ZLP",
+          "district": "Lagos Statewide",
           "age": "36",
           "gender": "F",
           "rm": "ADENIPEBI ADELANI ORIYOMI (40 yrs)",

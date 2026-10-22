@@ -7,6 +7,7 @@
         {
           "n": "NUHU ANGBAZO",
           "p": "ADC",
+          "district": "Nasarawa Statewide",
           "age": "59",
           "gender": "M",
           "rm": "HASSAN YAKUBU ANYA (57 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "CHRISTOPHER MAMMAN",
           "p": "ADP",
+          "district": "Nasarawa Statewide",
           "age": "64",
           "gender": "M",
           "rm": "ABUBAKAR MUKAILA (39 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "ALIYU AHMED WADADA",
           "p": "APC",
+          "district": "Nasarawa Statewide",
           "age": "61",
           "gender": "M",
           "rm": "MICHAEL EMMANUEL OMBUGADU (59 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "IBRAHIM KASIMU ABOH",
           "p": "APGA",
+          "district": "Nasarawa Statewide",
           "age": "61",
           "gender": "M",
           "rm": "OSU EDE (36 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "ONAWO MOHAMMED OGOSHI",
           "p": "APM",
+          "district": "Nasarawa Statewide",
           "age": "74",
           "gender": "M",
           "rm": "DANGANA FAITH (48 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "DAHIRU MUSA DOMA",
           "p": "APP",
+          "district": "Nasarawa Statewide",
           "age": "59",
           "gender": "M",
           "rm": "ARIMIKU DONATUS LEWA (35 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "GAZA JONATHAN GBEFWI",
           "p": "LP",
+          "district": "Nasarawa Statewide",
           "age": "51",
           "gender": "M",
           "rm": "BLANZOU ADAMU BAKO (62 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "KHALID MUHAMMAD",
           "p": "NRM",
+          "district": "Nasarawa Statewide",
           "age": "55",
           "gender": "M",
           "rm": "JACOB JAMES OLADIPO (44 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "EMMANUEL DAVID OMBUGADU",
           "p": "PDP",
+          "district": "Nasarawa Statewide",
           "age": "48",
           "gender": "M",
           "rm": "USMAN YAHAYA OHINOYI (53 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "ABDULLAHI OMAME ABISABO",
           "p": "PRP",
+          "district": "Nasarawa Statewide",
           "age": "35",
           "gender": "M",
           "rm": "YAHUDA FRANCIS SULE (40 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "MOHAMMED ABUBAKAR ADAMU",
           "p": "SDP",
+          "district": "Nasarawa Statewide",
           "age": "65",
           "gender": "M",
           "rm": "ADA'A LAWRENCE DARI (61 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "KIGBU TANKO JOHN",
           "p": "YPP",
+          "district": "Nasarawa Statewide",
           "age": "61",
           "gender": "M",
           "rm": "JAMES UMBUGADU (43 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "GIZA ABUBAKAR ABDU",
           "p": "ZLP",
+          "district": "Nasarawa Statewide",
           "age": "69",
           "gender": "M",
           "rm": "EKWADAGA KAGBU NUHU (65 yrs)",

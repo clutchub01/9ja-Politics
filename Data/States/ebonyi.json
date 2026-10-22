@@ -7,6 +7,7 @@
         {
           "n": "UKPAI MBA UDEH",
           "p": "ADC",
+          "district": "Ebonyi Statewide",
           "age": "44",
           "gender": "M",
           "rm": "ONWE DANIEL EDE (50 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "OKORIE OGOCHUKWU",
           "p": "ADP",
+          "district": "Ebonyi Statewide",
           "age": "39",
           "gender": "M",
           "rm": "IGWE JOEL (37 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "NWIFURU OGBONNA FRANCIS",
           "p": "APC",
+          "district": "Ebonyi Statewide",
           "age": "51",
           "gender": "M",
           "rm": "OBILA PATRICIA ONYEMAECHI (56 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "NWODOM LUCY CHINWE",
           "p": "APGA",
+          "district": "Ebonyi Statewide",
           "age": "44",
           "gender": "F",
           "rm": "ALUU OGBONNAYA TERRY (41 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "NWANKWO MARTHA EBERE",
           "p": "APP",
+          "district": "Ebonyi Statewide",
           "age": "54",
           "gender": "F",
           "rm": "NAZA CHRISTIAN IRUKA (35 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "UBASINACHI DESTINY CHIMEREMEZE",
           "p": "DLA",
+          "district": "Ebonyi Statewide",
           "age": "41",
           "gender": "M",
           "rm": "OFOKE ONYEKACHI KINGSLEY (35 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "EZE OKO SPLENDOUR",
           "p": "LP",
+          "district": "Ebonyi Statewide",
           "age": "46",
           "gender": "M",
           "rm": "NWEDE JOSHUA IGWEBUIKE (41 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "IGWE NWAGU PAULINUS",
           "p": "NDC",
+          "district": "Ebonyi Statewide",
           "age": "67",
           "gender": "M",
           "rm": "UKA CHRIS NDUBUISI (39 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "OJEOGU IFEANYI STEPHEN",
           "p": "NNPP",
+          "district": "Ebonyi Statewide",
           "age": "47",
           "gender": "M",
           "rm": "NNORUKA OLUCHI FAITH (36 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "CHUKWUMA ODII IFEANYI",
           "p": "PDP",
+          "district": "Ebonyi Statewide",
           "age": "51",
           "gender": "M",
           "rm": "MGBEBU PATRICK NWORU (62 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "AGBO KINGSLEY OBINNA",
           "p": "SDP",
+          "district": "Ebonyi Statewide",
           "age": "49",
           "gender": "M",
           "rm": "UDOGU SUSAN (36 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "NWINYINYA JULIET",
           "p": "ZLP",
+          "district": "Ebonyi Statewide",
           "age": "50",
           "gender": "F",
           "rm": "NWALI NKIRUKA (44 yrs)",

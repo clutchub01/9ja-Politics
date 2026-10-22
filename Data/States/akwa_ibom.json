@@ -7,6 +7,7 @@
         {
           "n": "AKPAN IGNATIUS CYRIL",
           "p": "A",
+          "district": "Akwa Ibom Statewide",
           "age": "43",
           "gender": "M",
           "rm": "ESSIEN MFON BASSEY (52 yrs)",
@@ -30,6 +31,7 @@
         {
           "n": "OTONG EDIDIONG EFFIONG",
           "p": "AA",
+          "district": "Akwa Ibom Statewide",
           "age": "46",
           "gender": "M",
           "rm": "ETTO MAIKHAEL BASSEY (46 yrs)",
@@ -53,6 +55,7 @@
         {
           "n": "UDOH STEPHEN MFON",
           "p": "AAC",
+          "district": "Akwa Ibom Statewide",
           "age": "46",
           "gender": "M",
           "rm": "ANTHONY EMEM FRANK (42 yrs)",
@@ -76,6 +79,7 @@
         {
           "n": "JOHN JAMES AKPANUDOEDEHE",
           "p": "ADC",
+          "district": "Akwa Ibom Statewide",
           "age": "62",
           "gender": "M",
           "rm": "NSIEN MKPOMBUK TOMMY (46 yrs)",
@@ -99,6 +103,7 @@
         {
           "n": "ARCHIBONG INIMBOM NSIKAK",
           "p": "ADP",
+          "district": "Akwa Ibom Statewide",
           "age": "39",
           "gender": "F",
           "rm": "EKERETTE SOLOMON (38 yrs)",
@@ -122,6 +127,7 @@
         {
           "n": "ENO UMO BASSEY",
           "p": "APC",
+          "district": "Akwa Ibom Statewide",
           "age": "62",
           "gender": "M",
           "rm": "EYAKENYI AKON ETIM (66 yrs)",
@@ -145,6 +151,7 @@
         {
           "n": "JIMMY STELLA MONDAY",
           "p": "APGA",
+          "district": "Akwa Ibom Statewide",
           "age": "41",
           "gender": "F",
           "rm": "AKPAETOR AUGUSTINE AUGUSTINE (41 yrs)",
@@ -168,6 +175,7 @@
         {
           "n": "UDOKPAN NSIDIBE SAMPSON",
           "p": "APM",
+          "district": "Akwa Ibom Statewide",
           "age": "61",
           "gender": "M",
           "rm": "UTTAH UDOIBE IDORCNYIN (49 yrs)",
@@ -191,6 +199,7 @@
         {
           "n": "UMOH EMEM",
           "p": "APP",
+          "district": "Akwa Ibom Statewide",
           "age": "36",
           "gender": "F",
           "rm": "NENE OKON EKPO (38 yrs)",
@@ -214,6 +223,7 @@
         {
           "n": "EKPENYONG AKANINYENE EFIONG",
           "p": "BP",
+          "district": "Akwa Ibom Statewide",
           "age": "52",
           "gender": "M",
           "rm": "UFOT AKANINYENE SUNDAY (43 yrs)",
@@ -237,6 +247,7 @@
         {
           "n": "AKPAN JEREMIAH UDOH",
           "p": "DLA",
+          "district": "Akwa Ibom Statewide",
           "age": "48",
           "gender": "M",
           "rm": "AFAHAMEH EFFIONG OKON (64 yrs)",
@@ -260,6 +271,7 @@
         {
           "n": "MBABA MICHAEL BUSH",
           "p": "LP",
+          "district": "Akwa Ibom Statewide",
           "age": "55",
           "gender": "M",
           "rm": "MATHEW SALOME IGNATIUS (56 yrs)",
@@ -283,6 +295,7 @@
         {
           "n": "ENYONG MICHAEL OKON",
           "p": "NDC",
+          "district": "Akwa Ibom Statewide",
           "age": "57",
           "gender": "M",
           "rm": "OWOH NNAMDIE BROWN (45 yrs)",
@@ -306,6 +319,7 @@
         {
           "n": "AKPAN MICHAEL UDO",
           "p": "NDP",
+          "district": "Akwa Ibom Statewide",
           "age": "58",
           "gender": "M",
           "rm": "OROK ASUQUO EKPEYONG (60 yrs)",
@@ -329,6 +343,7 @@
         {
           "n": "INEMESIT EDEM AKPAN",
           "p": "NNPP",
+          "district": "Akwa Ibom Statewide",
           "age": "50",
           "gender": "M",
           "rm": "OKODI JOSEPHINE NTUKENYIN (36 yrs)",
@@ -352,6 +367,7 @@
         {
           "n": "EKONG MFON UDO",
           "p": "NRM",
+          "district": "Akwa Ibom Statewide",
           "age": "52",
           "gender": "M",
           "rm": "JAMES ABRAHAM OKON (53 yrs)",
@@ -375,6 +391,7 @@
         {
           "n": "BROWNSON IBANGA AKPAN",
           "p": "PDP",
+          "district": "Akwa Ibom Statewide",
           "age": "48",
           "gender": "M",
           "rm": "JONATHAN PHILOMENA JOE (42 yrs)",
@@ -398,6 +415,7 @@
         {
           "n": "GEORGE MFONOBONG EDET",
           "p": "PRP",
+          "district": "Akwa Ibom Statewide",
           "age": "45",
           "gender": "M",
           "rm": "BASSEY SAMUEL EMMANUEL JIMMY (40 yrs)",
@@ -421,6 +439,7 @@
         {
           "n": "EFFIONG ASUOMO ROSEMARY",
           "p": "SDP",
+          "district": "Akwa Ibom Statewide",
           "age": "49",
           "gender": "F",
           "rm": "BASSEY-ESANG ETI EFFIONG (36 yrs)",
@@ -444,6 +463,7 @@
         {
           "n": "UMO BLESSING OKON",
           "p": "ZLP",
+          "district": "Akwa Ibom Statewide",
           "age": "48",
           "gender": "F",
           "rm": "EBIENANG BASSEY UDO (66 yrs)",
